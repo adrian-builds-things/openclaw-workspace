@@ -15,5 +15,4 @@ Aktuelles Agenten-Setup (C-Suite)
 
 ## Legacy
 
-Die alte Agentenstruktur (Käptn Fokus / Forge / Echo / …) wurde verschoben nach:
-`agents/legacy/captain-focus-stack/`
+Die alte Agentenstruktur (Käptn Fokus / Forge / Echo / …) wurde vollständig entfernt.

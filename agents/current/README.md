@@ -6,5 +6,5 @@ IDs:
 - main, max, luna, rico, hunter, sherlock, zen, pixel, neo, ghost
 
 Hinweis:
-- Legacy-Definitionen wurden nach `agents/legacy/captain-focus-stack/` verschoben.
+- Legacy-Definitionen wurden entfernt.
 - Neue agent-spezifische Runtime-Notizen bitte unter `agents/current/` anlegen.
