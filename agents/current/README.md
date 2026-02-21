@@ -1,10 +1,26 @@
-# Current Agents
+# Current Agents (Runtime Backup)
 
-Diese Struktur repräsentiert das aktive Team-Routing gemäß `AGENTS.md`.
+Dieser Ordner enthält einen **echten Snapshot** der aktuell laufenden Agent-Workspaces,
+nicht nur Platzhalter.
 
-IDs:
-- main, max, luna, rico, hunter, sherlock, zen, pixel, neo, ghost
+Quelle je Agent:
+- `main` -> `/home/adrian/.openclaw/workspace`
+- `max|luna|rico|hunter|sherlock|zen|pixel|neo|ghost` -> `/home/adrian/.openclaw/workspace-<agent-id>`
 
-Hinweis:
-- Legacy-Definitionen wurden entfernt.
-- Neue agent-spezifische Runtime-Notizen bitte unter `agents/current/` anlegen.
+Enthalten pro Agent (falls vorhanden):
+- `AGENTS.md`
+- `SOUL.md`
+- `IDENTITY.md`
+- `USER.md`
+- `TOOLS.md`
+- `HEARTBEAT.md`
+- `MEMORY.md`
+- `.openclaw/workspace-state.json`
+
+Zusätzlicher globaler Runtime-Snapshot:
+- `config/runtime-snapshot/openclaw.redacted.json`
+- `config/runtime-snapshot/cron-jobs.json`
+- `config/runtime-snapshot/subagent-runs.json`
+- `config/runtime-snapshot/devices-paired.json`
+
+Hinweis: Secrets/Tokens wurden in `openclaw.redacted.json` automatisch geschwärzt.

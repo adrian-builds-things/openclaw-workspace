@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "jobs": [
+    {
+      "id": "afefc60e-a9e8-42a4-9231-542f3807b31d",
+      "agentId": "main",
+      "name": "Reminder: ChatGPT-Abo prüfen/kündigen (adrian@mindtrajour.com)",
+      "enabled": true,
+      "deleteAfterRun": true,
+      "createdAtMs": 1771275144891,
+      "updatedAtMs": 1771275144891,
+      "schedule": {
+        "kind": "at",
+        "at": "2026-05-01T07:00:00.000Z"
+      },
+      "sessionTarget": "main",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "systemEvent",
+        "text": "Erinnerung (vor längerer Zeit geplant): Heute bitte ChatGPT für adrian@mindtrajour.com kündigen ODER eine Alternative/Notlösung dafür festlegen."
+      },
+      "state": {
+        "nextRunAtMs": 1777618800000
+      }
+    }
+  ]
+}
