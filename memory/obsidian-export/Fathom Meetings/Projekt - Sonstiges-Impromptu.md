@@ -1,0 +1,229 @@
+# Projekt: Sonstiges - Impromptu
+
+Meetings: **48**
+
+## Teilnehmer
+- Adrian Rinnus <adrian.rinnus@gmail.com>
+- Marc (Dan Koe Writing Bootcamp) <mjblumenhagen@gmail.com>
+- valentinkit14@gmail.com
+
+## Meetings
+- 2026-02-17 · Impromptu Google Meet Meeting · [Transcript](https://fathom.video/share/YtqyQsta6hAceKQSetvVmZ6gTdroXkTs)
+  - Hauptinhalt: To realign on team values, define roles, and establish a new workflow.
+  - • Roles Defined: Adrian is now Product Owner (final decision-maker), Enes leads dev, Larissa leads lead generation, and E F handles marketing ops (SEO, ads).
+  - • New Workflow: Bi-weekly sprint meetings will review progress and create placeholder tickets. Tickets will then be refined offline, ensuring clear scope before development.
+  - • Top Priority: Lead Generation: The primary goal is acquiring new users. All marketing efforts will focus on this, with YouTube as the initial channel.
+- 2026-02-13 · Impromptu Google Meet Meeting · [Transcript](https://fathom.video/share/3khqzLAeW_PKzccMfcTynfeTzxhT_yu2)
+  - Hauptinhalt: Sync on app priorities, review new features, and plan next steps.
+  - • Report Fix is Top Priority: The "Company Meal Distribution" report is inaccurate, counting meals instead of people. This blocks fair cost allocation between companies and must be fixed before implementing new policies.
+  - • New Features Prioritized: After the report fix, the team will build a "cancel tomorrow's meal" feature (with admin control) and a "close canteen" function for holidays.
+  - • Weekly Planner UI Updated: The new planner UI is ready for release. A proposed "day-by-day" meal-entry workflow will be considered for a future update to avoid delaying the current release.
+- 2026-01-16 · Impromptu Google Meet Meeting · [Transcript](https://fathom.video/share/HtTSdNS4yCo4JzJ2dfFpyHnTxRY3c5CR)
+  - Hauptinhalt: Sync on business progress, user feedback, and operational challenges.
+  - • Centralized Feedback: Customer feedback is scattered, causing confusion (e.g., the Kohlbecker support case). Adrian will evaluate open-source CRMs like Odoo to create a single source of truth for all communication.
+  - • Critical Feature Requests: Users are requesting multi-currency support and import/export functions. These are blockers for user adoption, as one prospect (Günther) will switch from Excel only if these features are added.
+  - • Sales Momentum: Recent holiday sales (3 new subscriptions) and a user referral (Kohlbecker → Simon) show positive traction. The immediate priority is sales and marketing to build on this momentum.
+- 2026-01-03 · Impromptu Google Meet Meeting · [Transcript](https://fathom.video/share/1TsQzndPe6B7956wz_1C2_guX_niiwCf)
+  - Hauptinhalt: (kein Summary/Transcript verfügbar)
+- 2025-11-20 · Impromptu Google Meet Meeting · [Transcript](https://fathom.video/share/Xs6wJvXPLpa5GbNZHreDESLLg-U9PRqB)
+  - Hauptinhalt: (kein Summary/Transcript verfügbar)
+- 2025-11-07 · Impromptu Google Meet Meeting · [Transcript](https://fathom.video/share/EvWSPmh724LHmZzaQjVNA9Zyv1Dfjvz4)
+  - Hauptinhalt: Align on client pricing strategy and development priorities.
+  - • Ember Pricing: Propose a €140 user plan + a temporary development fee (e.g., €1k/mo). This simplifies client approval by framing it as a time-limited cost, not a permanent increase.
+  - • Admin Dashboard: Adrian's PR adds key metrics for Filipe, including guests/service, pending orders, menu schedules, and a list of users who haven't completed their menus.
+  - • "Missed Orders" Report: Enes will build a new report for admins to bill employees for food ordered but not picked up, a new policy starting next year.
+- 2025-11-04 · Impromptu Google Meet Meeting · [Transcript](https://fathom.video/share/6MGsKHxe3Socqu9phYMsVLK6qgxRCqMN)
+  - Hauptinhalt: Align on the client pricing proposal and internal development priorities.
+  - • Pricing Proposal: Propose a new €2,000/mo minimum fee, justified by the project's scope expansion and high customization for Kassaj.
+  - • Distribution Page Redesign: Prioritize a redesign to improve usability on tablets, addressing critical height constraints and making the scan history the primary focus.
+  - • E2E Testing: Make building end-to-end (E2E) tests a top priority to prevent regressions and ensure features work correctly for all user roles (e.g., admin vs. kitchen).
+- 2025-11-03 · Impromptu Google Meet Meeting · [Transcript](https://fathom.video/share/Wz5R2P_Za3Gxt5bqaHFPUEayhT5pH1TH)
+  - Hauptinhalt: Sync on product backlog, user feedback, and community engagement strategy.
+  - • New Strategies Live: Long Strangle and Iron Condor are live, with Iron Condor needing a date-sync fix.
+  - • UI/UX Improvements: Added full company names to tables for easier tracking and implemented input validation to prevent user errors.
+  - • User Onboarding: Voucher code confusion will be fixed with a video guide; new course users show mixed engagement (0–6 trades logged).
+- 2025-10-22 · Impromptu Google Meet Meeting · [Transcript](https://fathom.video/share/Jt7N5ryyFxiUzKku-BECkiMHP1wYV-sR)
+  - Hauptinhalt: Review Adrian's "ByteClub" project and discuss potential leads.
+  - • ByteClub: A PWA for corporate canteens solving 20% food waste by enabling weekly meal pre-orders.
+  - • Client Success: A Portuguese construction firm cut food waste by 20% (saving \~€25k/mo) and eliminated kitchen chaos.
+  - • Pricing: Current model is €5/user/month (€1k/mo ARR from the 200-user pilot). A per-meal fee (\~€0.20) is being considered for multi-company canteens.
+- 2025-10-21 · Impromptu Google Meet Meeting · [Transcript](https://fathom.video/share/QgbArzkGSxsFsaB27iTSinTH5XpYqxTe)
+  - Hauptinhalt: Sync on client feedback, prioritize fixes, and align on product strategy.
+  - • Client Expansion: Seat's client is rolling out to 140+ employees next week, providing a critical proof-of-concept for a larger presentation at Holka Seisch innovation days.
+  - • Immediate Fixes: The rollout requires two fixes: a batch QR code download for 140 users and a kitchen dashboard metric change from "meals" to "people" to clarify order volume.
+  - • Strategic Refactor: Adrian will rewrite the "meal selection" module, which is a maintenance bottleneck. The refactor is timed to precede the client expansion, preventing future issues.
+- 2025-10-21 · Impromptu Google Meet Meeting · [Transcript](https://fathom.video/share/7tBfzBG4-xudt4pyFPQxe2MqVppcsDHy)
+  - Hauptinhalt: (kein Summary/Transcript verfügbar)
+- 2025-10-21 · Impromptu Google Meet Meeting · [Transcript](https://fathom.video/share/sNYT5ASisH_fzEi2355qzatUQBWcixBK)
+  - Hauptinhalt: (kein Summary/Transcript verfügbar)
+- 2025-10-20 · Impromptu Google Meet Meeting · [Transcript](https://fathom.video/share/xd2XN_fAku3Gf-apx2QHqn3uQbWdvxFy)
+  - Hauptinhalt: Impromptu check-in and feature discussion for an options trading platform
+  - • Several UI/UX improvements identified: search functionality, strategy naming, column sorting, and screenshot capabilities
+  - • New features in development: sharing individual trades, expanded statistics, and integration with Interactive Brokers
+  - • Discussed potential of AI and automation tools (e.g., N8n) for streamlining workflows and content creation
+- 2025-10-07 · Impromptu Google Meet Meeting · [Transcript](https://fathom.video/share/vcEEpxXtHEppdzNaaejpya8eabeU4esg)
+  - Hauptinhalt: Implement NFC tag reading functionality for kitchen meal delivery system
+  - • Successfully set up local development environment accessible from mobile devices on same network
+  - • Created initial UI for manual order lookup by internal user ID
+  - • Attempted to implement NFC reading but encountered device compatibility issues
+- 2025-09-28 · Impromptu Google Meet Meeting · [Transcript](https://fathom.video/share/FhZqpky1L5zSHRsTuYheyoCbVmdbV7CZ)
+  - Hauptinhalt: Discuss and design improvements to the trading interface, focusing on accommodating multi-leg strategies like the Wheel of Options.
+  - • Agreed to create a more flexible, generic design that can handle multiple trades and stock positions within a single view
+  - • Decided to modify the existing "Option Leg" section to include stocks, renaming it to just "Leg"
+  - • Will implement a collapsible/expandable interface for multiple trade legs within a strategy
+- 2025-09-08 · Impromptu Google Meet Meeting · [Transcript](https://fathom.video/share/8hZJoznBR1uNKBawZyy2k9d6ATE23Uq4)
+  - Hauptinhalt: Impromptu discussion on recent activities, bug fixes, and data migration tool for trading platform.
+  - • New contract version received from Larissa, pending review
+  - • Bug fix for cross-connection issue implemented and ready for testing
+  - • Data migration tool developed to standardize premium calculations (gross vs. net)
+- 2025-09-05 · Impromptu Google Meet Meeting · [Transcript](https://fathom.video/share/ZiKex1732QTZUHr9wKSzx64M_uDFx3c5)
+  - Hauptinhalt: Discuss updates, improvements, and future features for the Kazais meal management app, focusing on preparing for the upcoming test phase and addressing key user needs.
+  - • App update to be released by next Thursday, with critical fixes for reports and kitchen order visibility
+  - • Current data to be backed up and migrated to the new version; users to stop making changes immediately
+  - • Future features discussed include NFC card integration for meal pickup and queue management
+- 2025-08-27 · Marc - Adrian Daily · [Transcript](https://fathom.video/share/ix7ZkgxoNXQaq1adyrG-bg81NacyKP_d)
+  - Hauptinhalt: Daily check-in and casual conversation between Marc and Adrian, covering personal updates and business discussions.
+  - • Adrian's trading journal project has gained its first two paying customers, showing proof of concept
+  - • Marc and Adrian explored Adrian's money mindset, uncovering potential limiting beliefs around wealth and friendships
+  - • They discussed the recent game fair experience, highlighting lessons learned for future attendance
+- 2025-08-25 · Impromptu Google Meet Meeting · [Transcript](https://fathom.video/share/eFDJpxjmWfKx7x9-ZAcAWVQQmgn-zw74)
+  - Hauptinhalt: (kein Summary/Transcript verfügbar)
+- 2025-08-21 · Impromptu Google Meet Meeting · [Transcript](https://fathom.video/share/EvAqTSWyHXZ9Q6whQ1zZsWk8oz_MuxsT)
+  - Hauptinhalt: Discuss feedback and potential improvements for Adrian's options trading journal software.
+  - • Pietro provided extensive feedback on desired features, including support for more asset types, improved data import, and better financial reporting
+  - • Key priorities are: 1) Data import (e.g. CSV), 2) Support for all asset types, 3) Stock trading support, 4) Dividend/fee tracking
+  - • Potential integration with Etsy's platform was discussed as a future possibility
+- 2025-08-19 · Impromptu Google Meet Meeting · [Transcript](https://fathom.video/share/coLee_eU_ac_Zk_ypcSezsKBrZ73hvjo)
+  - Hauptinhalt: Discuss pricing strategy and next steps for negotiation with Marcos regarding the trading journal product.
+  - • Team aims to offer Pro version at €12/month, with €10/month as the lowest acceptable price
+  - • Basic version target is €10/month, with €9/month as the lowest acceptable
+  - • Team will emphasize value proposition and market comparisons in negotiation
+- 2025-08-15 · Impromptu Google Meet Meeting · [Transcript](https://fathom.video/share/BszNJyFrFaybsc2xWs_SqxsoySSn_4JN)
+  - Hauptinhalt: Gather user feedback and insights on the MyTreasure trading journal software from an active user.
+  - • User finds MyTreasure highly useful for options trading, especially for strategy implementation and trade tracking
+  - • Multi-account feature and net profit calculations are top priorities for improvement
+  - • User suggests adding quick strategy checklists and improving visibility of certain features
+- 2025-08-06 · Impromptu Google Meet Meeting · [Transcript](https://fathom.video/share/BDbMSVZ5WZUePkczg1rerQgLsxRVzSTd)
+  - Hauptinhalt: Discuss and review the current state of the ByteClub meal planning application, identify issues, and plan next steps for development and testing.
+  - • The basic functionality of the ByteClub app is in place, including menu planning, dish management, and employee meal selection
+  - • Several bugs and missing features were identified, including issues with the kitchen dashboard and PDF report generation
+  - • Next steps include fixing bugs, implementing additional features (e.g., auto-assignment, more granular dish categories), and beginning small-scale testing
+- 2025-07-18 · Marc - Adrian Daily · [Transcript](https://fathom.video/share/9NULnhQ5endkaB2EZtP_bVzsHzLAaFb4)
+  - Hauptinhalt: Daily check-in and coaching session between Marc-Jannis and Adrian, focusing on Marc's personal and professional development.
+  - • Marc is exploring game development and seeking ways to test ideas with basic materials
+  - • Marc struggles with finding meaning in traditional employment and desires financial freedom
+  - • Adrian challenged Marc's beliefs about wealth, business, and self-enrichment
+- 2025-07-17 · Marc - Adrian Daily · [Transcript](https://fathom.video/share/bztyzgfwwCwUyzzFxSz3bNWfNxHCNTNP)
+  - Hauptinhalt: Daily check-in between Marc and Adrian to discuss ongoing projects and personal interests.
+  - • Adrian is working on an MVP for a meal ordering system, aiming to complete it by July 31st
+  - • Marc is exploring board game design as a potential content creation niche
+  - • Both discussed the parallels between board game design, video game design, and real-life applications
+- 2025-07-16 · Impromptu Google Meet Meeting · [Transcript](https://fathom.video/share/qSCChm25yWfmyWcssd6WnEntqYGo4S6k)
+  - Hauptinhalt: (kein Summary/Transcript verfügbar)
+- 2025-07-16 · Marc - Adrian Daily · [Transcript](https://fathom.video/share/8LSoV_LjR88MgYWcEv5pd3qiZyL6hAdu)
+  - Hauptinhalt: Daily check-in between Marc and Adrian to discuss personal health, work, and projects.
+  - • Marc is experiencing lower back and left leg pain, possibly related to ISG joint issues
+  - • Adrian emphasized the mind-body connection and the importance of addressing both physical and mental aspects of health
+  - • Both discussed the challenges of maintaining consistent exercise routines and the benefits of regular physical activity
+- 2025-07-15 · Marc - Adrian Daily · [Transcript](https://fathom.video/share/6buySjCBAfh3oBHXzXee_NzauBwsNfC6)
+  - Hauptinhalt: Daily check-in between Marc and Adrian to discuss recent experiences and insights.
+  - • Adrian secured a potential deal for €5 per active user monthly, potentially yielding €30,000/month for 6,000 users
+  - • Both discussed the concept of moral hypocrisy and how it's prevalent in everyone's lives
+  - • Marc shared insights from a board game design podcast, drawing parallels to content creation and software development
+- 2025-07-07 · Impromptu Google Meet Meeting · [Transcript](https://fathom.video/share/3iBGkoUGdL6Zk9RzyE9Mw1gQ1wmCqSto)
+  - Hauptinhalt: Gather user feedback on the options trading journal app from a beginner user perspective.
+  - • User found the app intuitive and easy to navigate overall, with helpful features like the checklist and dashboard
+  - • Some UX improvements suggested: paper vs. live trade distinction, auto-calculation of fees, clearer validation messaging
+  - • User expressed interest in community/social features and gamification elements to increase engagement
+- 2025-07-07 · Marc - Adrian Daily · [Transcript](https://fathom.video/share/XGgk9N15vcrys4FPdaQKkuWzAAXMxvZa)
+  - Hauptinhalt: Daily check-in and casual conversation between Marc and Adrian
+  - • Marc is considering starting a YouTube channel about board games, potentially in German
+  - • Adrian encouraged Marc to experiment with content creation without fear of ruining his hobby
+  - • They discussed the potential for niche audiences and monetization in board game content
+- 2025-07-04 · Marc - Adrian Daily · [Transcript](https://fathom.video/share/XSxDWoMvG-y5XrxNWvdx6SgFwCs_7g6j)
+  - Hauptinhalt: Daily check-in between Marc and Adrian to discuss personal and professional updates.
+  - • Adrian is negotiating a deal with a Portuguese company for his food waste reduction software, proposing €7.50 per user monthly
+  - • Adrian's side project "Mind Treasure" (trading journal software) is progressing with help from a highly skilled volunteer developer named Enes
+  - • Marc is planning a trip to Rome with his wife in September for their wedding anniversary
+- 2025-07-03 · Marc - Adrian Daily · [Transcript](https://fathom.video/share/uxSysQLzXPth3ZZRbugkSZPju4xEBkxj)
+  - Hauptinhalt: Daily check-in between Marc and Adrian to discuss progress, challenges, and next steps in their entrepreneurial journeys.
+  - • Marc is struggling with creating video content due to fear of judgment and perfectionism
+  - • Adrian suggested reframing the task and starting with easier formats like podcasts or interviews
+  - • They explored ways for Marc to practice speaking freely on camera without the pressure of publishing
+- 2025-07-01 · Impromptu Google Meet Meeting · [Transcript](https://fathom.video/share/9xbzFjcS5bXz-Eswx2ByFEismR49MHCP)
+  - Hauptinhalt: Discuss and prioritize feature development for an options trading journal application.
+  - • Prioritized features: expiration handling, dollar value display, historical price auto-population, and basic calendar filtering
+  - • Decided to implement a month-based filter for the dashboard due to limited historical data
+  - • Agreed to simplify user stories and focus on essential features based on user needs
+- 2025-06-30 · Impromptu Google Meet Meeting · [Transcript](https://fathom.video/share/NjiYGqMeVim3_2DHmWxoZxCoh2yMPU8V)
+  - Hauptinhalt: Discuss MyTreasure app updates, user feedback, and next steps for community engagement and feature development.
+  - • Community survey to be finalized and distributed to \~140 users for feedback
+  - • Margin tracking and risk management features to be considered for development
+  - • Payment integration with Stripe and affiliate system for Markus in progress
+- 2025-06-27 · Marc - Adrian Daily · [Transcript](https://fathom.video/share/N1qyN4LwcSrCJ3VQCJhRyjpDiKroppPq)
+  - Hauptinhalt: Daily check-in and discussion between Marc and Adrian on personal projects and productivity strategies.
+  - • Adrian developed a prioritization system using MOSCOW and ICE scoring in Notion
+  - • Marc plans to adapt the system for his video production workflow
+  - • Both are working on improving their task management and weekly planning
+- 2025-06-24 · Marc - Adrian Daily · [Transcript](https://fathom.video/share/gs1F7z-xzDmsn2-WAR79efxxpzydPRSr)
+  - Hauptinhalt: Daily check-in and discussion on workflow optimization and prioritization strategies.
+  - • Both Adrian and Marc are working on systematizing their workflows and prioritization methods
+  - • Adrian is developing a strategy for prioritizing bug fixes and feature requests using frameworks like MoSCoW
+  - • Marc is refining his content creation process and exploring AI tools for thumbnail generation
+- 2025-06-23 · Impromptu Google Meet Meeting · [Transcript](https://fathom.video/share/TpdQKGstwE-QpsYK7NAZjzFDsacQRWos)
+  - Hauptinhalt: (kein Summary/Transcript verfügbar)
+- 2025-06-12 · Marc - Adrian Daily · [Transcript](https://fathom.video/share/f6nXp6nwot2X3iSCHDcuMsrFehRZLbfs)
+  - Hauptinhalt: Daily check-in and project updates between Marc-Jannis and Adrian
+  - • Adrian is focusing on a B2B canteen tool project with more immediate revenue potential
+  - • Marc-Jannis is planning to create a video by next Friday as a personal challenge
+  - • Adrian received approval to post in a large options trading subreddit (1.3M members)
+- 2025-06-06 · Marc - Adrian Daily · [Transcript](https://fathom.video/share/7TvBkmj7o2sxuXn1AcjZRUZSte_BXJK4)
+  - Hauptinhalt: Informal check-in and discussion of recent activities and upcoming plans.
+  - • Adrian successfully used AI tools to prepare for a business negotiation, demonstrating innovative use of technology for professional tasks
+  - • Marc made progress setting up his video recording equipment and workflow for YouTube content creation
+  - • Both discussed personal projects and weekend plans, highlighting work-life balance
+- 2025-06-04 · Marc - Adrian Daily · [Transcript](https://fathom.video/share/NDsug4jzHCQDEFXJVSDYxNknHnytxcje)
+  - Hauptinhalt: Daily check-in between Marc and Adrian to discuss progress on their respective projects and share technical insights.
+  - • Adrian made progress on his canteen menu management system, overcoming challenges with KI-generated code
+  - • Marc set up OBS for video recording, including scene configurations for various content types
+  - • Both discussed database structures, API access, and performance optimization for web applications
+- 2025-06-03 · Marc - Adrian Daily · [Transcript](https://fathom.video/share/rszyubDNLEHsh-c3H2xySx3RR8KRHKUs)
+  - Hauptinhalt: Daily check-in and casual conversation between Adrian and Marc-Jannis
+  - • Marc-Jannis is setting up new video equipment (Cam Link) and noise-cancelling headphones for improved work setup
+  - • Both discussed challenges with feeling overwhelmed by tasks and the importance of breaking them down into smaller, manageable steps
+  - • Adrian may be visiting Köln next week, but timing didn't align for an in-person meetup with Marc-Jannis
+- 2025-05-30 · Impromptu Google Meet Meeting · [Transcript](https://fathom.video/share/NwK2t5pLS-mUztxvKLnmtF4WLBFPeW9m)
+  - Hauptinhalt: Impromptu call between Adrian Rinnus and Marc-Jannis Blumenhagen to catch up and discuss personal/professional challenges.
+  - • Adrian is facing challenges with his daughter's behavior and co-parenting situation
+  - • Marc reflected on his experiences as a child of divorced parents
+  - • Both discussed struggles with perfectionism and content creation
+- 2025-05-27 · Impromptu Google Meet Meeting · [Transcript](https://fathom.video/share/Td43GjV5AKki3R6Tr5Xzdc96a2Tz9rbE)
+  - Hauptinhalt: Impromptu update on Mind Treasure progress and discuss next steps for the trading journal tool.
+  - • Markus plans to actively use Mind Treasure from June; new cohort starting soon
+  - • Landing page nearly complete; final review and launch imminent
+  - • Key fixes needed: take-profit/stop-loss calculation, expired options handling
+- 2025-05-27 · Trading Platforms Discussion · [Transcript](https://fathom.video/share/i5W7tG63zqqN2CCMVE_dPKt1hBd5dsT7)
+  - Hauptinhalt: Discuss trading platforms and share insights on respective projects
+  - • Adrian is developing a trading journal for options traders, focusing on emotional tracking and planning/execution mirroring
+  - • Valentyn is building an AI-powered chat assistant for crypto traders, aiming to reduce emotional trading through data-driven insights
+  - • Both are in MVP stages, with Adrian partnering with an options trading educator and Valentyn preparing for initial B2C and B2B outreach
+- 2025-05-26 · Marc - Adrian Daily · [Transcript](https://fathom.video/share/7w6KwhW4zenjjRrAJK5nq1nZkGnCJ7G4)
+  - Hauptinhalt: Daily check-in and discussion on content strategy for X (Twitter) between Marc-Jannis and Adrian.
+  - • Both are exploring ways to create more authentic, engaging content on X
+  - • Adrian is finding success using Fathom for meeting transcripts and AI-assisted analysis
+  - • They discussed refining their content pillars to better align with their interests and audience needs
+- 2025-05-21 · Marc - Adrian Daily · [Transcript](https://fathom.video/share/-pkAmJwVE4sdu7yJfa2-_Vs4FfxE1Tzu)
+  - Hauptinhalt: Daily check-in and discussion between Marc and Adrian on content creation, personal projects, and life updates.
+  - • Marc is focusing on creating weekly video updates and long-form content for his 30-day challenge
+  - • Adrian is seeing gradual growth in followers and engagement on his content
+  - • Both discussed the challenges and mindset shifts needed when transitioning to full-time content creation
+- 2025-05-20 · Marc - Adrian Daily · [Transcript](https://fathom.video/share/BztxXgFJY4Rp4znUbdFfEkdFJehzTwhz)
+  - Hauptinhalt: Daily check-in and progress update between Marc-Jannis and Adrian, discussing personal projects and challenges.
+  - • Marc-Jannis is starting a new challenge, focusing on content creation and sustainable growth strategies
+  - • Adrian found a useful Chrome extension (X-ALLY) for analyzing Twitter engagement potential
+  - • Both are working on improving their social media presence and content strategies
+- 2025-05-19 · 2025-05-19 Daily · [Transcript](https://fathom.video/share/3ZQyyDEPpZYGZstXZNDXuEbk_YZYCNyG)
+  - Hauptinhalt: Impromptu check-in on project progress and discussion of UI/UX issues for a web application.
+  - • E F is working on structuring and presenting a project portfolio, seeking balance between detail and conciseness
+  - • Adrian is focusing on fixing UI issues and preparing for user testing, with plans to engage a large Reddit community
+  - • Several mobile UI issues were identified and discussed, including search bar functionality and element sizing

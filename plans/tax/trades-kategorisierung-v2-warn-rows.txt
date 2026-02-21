@@ -1,0 +1,3 @@
+row 27: 2024-02-15 10:15:41 CSCO Kauf qty=4 uncertain=Kein zuordenbarer ENTRY (Vorperiode oder fehlende Zeile)
+row 50: 2023-12-29 16:20:00 FCX Verfallen qty=7 uncertain=Kein zuordenbarer ENTRY (Vorperiode oder fehlende Zeile)
+row 65: 2023-12-29 16:20:00 HAL Verfallen qty=7 uncertain=Kein zuordenbarer ENTRY (Vorperiode oder fehlende Zeile)
