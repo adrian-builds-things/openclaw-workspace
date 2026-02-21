@@ -7,6 +7,9 @@ Diese Datei ist die verbindliche Ablage-Regel für OpenClaw im Workspace.
 - `MEMORY.md` -> Langzeitgedächtnis (Root)
 - `memory/YYYY-MM-DD.md` -> Tageslog / Kurzzeitkontext
 - `00-inbox/` -> ungeordnete Eingänge
+- `00-inbox/from-mac/` -> Eingang für Dateien/Notizen vom MacBook (Sync-Inbox)
+- `00-inbox/from-agent/` -> Eingang für agentseitig erzeugte Captures
+- `00-inbox/processed/` -> nach Einsortierung/Verarbeitung
 - `plans/` -> aktive Projekt- und Umsetzungspläne
 - `content/` -> Content-Entwürfe, SEO, Copy
 - `knowledge/` -> Referenzwissen, Research, extrahierte Quellen

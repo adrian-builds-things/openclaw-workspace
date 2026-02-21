@@ -1,26 +1,19 @@
-# Bot Roster (Ready-to-Run)
+# BOT_ROSTER.md
 
-Stand: vorbereitet, sodass nur noch API-Keys/Model-Provider gesetzt werden müssen.
+Aktuelles Agenten-Setup (C-Suite)
 
-## Teamnamen (persönlich, merkbar)
+- main (Manne) — Koordination, Daily Drive
+- max (CTO) — Tech, Code, Architektur, Bugs
+- luna (CMO) — Marketing, SEO, Content
+- rico (CRO) — Sales, Calls, Pitches, Deals
+- hunter — Lead, Outreach, Kaltakquise
+- sherlock — Recherche, Markt, Wettbewerber
+- zen (COO) — Ops, Prozesse, Struktur
+- pixel (CPO) — Features, UX, Roadmap
+- neo (Analyst) — MRR, KPIs, Zahlen, Analyse
+- ghost (DevOps) — Deploy, Server, Alerts
 
-1. **Käptn Fokus** — Orchestrator / PO
-2. **Forge** — Engineering + Software Architect
-3. **Echo** — Growth / Copy / SEO
-4. **Pulse** — Analytics / Experimentation
-5. **Nova** — Content Studio
-6. **Scout** — Outbound Prospecting (BC + MTJ)
-7. **Atlas** — Executive Productivity Assistant
+## Legacy
 
-## Zielbild
-- Brain/Muscle-Routing über `MODEL_ROUTING.md`
-- Guardrails über `GUARDRAILS.md`
-- Rollenverhalten über `souls/*.md`
-- Agent-Definitionen über `definitions/*.md`
-
-## APIs noch offen
-- OpenAI / Codex CLI
-- Anthropic (Opus)
-- Gemini
-
-Sobald die Provider-APIs gesetzt sind, können die Agenten direkt produktiv laufen.
+Die alte Agentenstruktur (Käptn Fokus / Forge / Echo / …) wurde verschoben nach:
+`agents/legacy/captain-focus-stack/`

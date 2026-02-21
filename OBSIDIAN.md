@@ -19,6 +19,11 @@ Für saubere Obsidian-Navigation gibt es zusätzlich folgende Alias-Ordner:
 
 Diese Symlinks zeigen auf die echten Quellordner.
 
+## Inbound Inbox (Mac -> Server)
+
+- Für schnelle Übergabe vom Mac: `00-inbox/from-mac/`
+- Nach Bearbeitung verschieben nach `00-inbox/processed/` oder direkt in Zielordner laut Routing
+
 ## Single Source of Truth
 
 - Erinnerungen: `MEMORY.md`, `memory/*.md`
