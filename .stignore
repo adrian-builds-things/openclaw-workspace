@@ -1,0 +1,34 @@
+# Syncthing marker/config immer erlauben
+!.stfolder
+!.stignore
+
+# Harte Excludes (technischer Kram)
+(?d).git
+(?d).openclaw
+(?d).venv
+(?d).venv-whisper
+(?d).venv_pdf
+(?d).venvs
+(?d)node_modules
+(?d).next
+(?d)dist
+(?d)build
+(?d)tmp
+(?d)data
+(?d)__pycache__
+*.pyc
+*.pyo
+*.log
+*.sqlite
+*.sqlite-*
+*.pid
+*.tgz
+*.tar.gz
+*.zip
+*.rar
+*.7z
+*.bin
+*.exe
+*.dll
+*.so
+*.dylib
