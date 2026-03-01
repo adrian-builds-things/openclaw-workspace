@@ -1,4 +1,4 @@
-# HEARTBEAT.md - Luna (CMO)
+# [[HEARTBEAT]] - Luna (CMO)
 
 # Keep this file empty (or with only comments) to skip heartbeat API calls.
 

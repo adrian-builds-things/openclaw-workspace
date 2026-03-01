@@ -1,4 +1,4 @@
-# MEMORY.md - Long-Term Memory for sherlock
+# [[MEMORY]] - Long-Term Memory for sherlock
 
 *Nur im Main Session laden.*
 

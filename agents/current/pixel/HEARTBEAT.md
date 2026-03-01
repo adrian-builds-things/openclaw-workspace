@@ -1,4 +1,4 @@
-# HEARTBEAT.md - Pixel (CPO)
+# [[HEARTBEAT]] - Pixel (CPO)
 
 ## Wöchentlich
 - Neue User Feedback eingegangen? (Support-Mails, App Store Reviews)

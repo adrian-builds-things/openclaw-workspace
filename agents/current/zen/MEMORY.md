@@ -1,4 +1,4 @@
-# MEMORY.md - Long-Term Memory for zen
+# [[MEMORY]] - Long-Term Memory for zen
 
 *Nur im Main Session laden.*
 

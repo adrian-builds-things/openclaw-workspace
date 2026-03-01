@@ -9,12 +9,12 @@ Quelle je Agent:
 
 Enthalten pro Agent (falls vorhanden):
 - `AGENTS.md`
-- `SOUL.md`
-- `IDENTITY.md`
-- `USER.md`
-- `TOOLS.md`
-- `HEARTBEAT.md`
-- `MEMORY.md`
+- `[[SOUL]]`
+- `[[IDENTITY]]`
+- `[[USER]]`
+- `[[TOOLS]]`
+- `[[HEARTBEAT]]`
+- `[[MEMORY]]`
 - `.openclaw/workspace-state.json`
 
 Zusätzlicher globaler Runtime-Snapshot:
@@ -24,3 +24,9 @@ Zusätzlicher globaler Runtime-Snapshot:
 - `config/runtime-snapshot/devices-paired.json`
 
 Hinweis: Secrets/Tokens wurden in `openclaw.redacted.json` automatisch geschwärzt.
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

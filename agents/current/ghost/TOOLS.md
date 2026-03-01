@@ -1,4 +1,4 @@
-# TOOLS.md - Ghost (DevOps) Local Notes
+# [[TOOLS]] - Ghost (DevOps) Local Notes
 
 ## Coolify
 

@@ -1,4 +1,4 @@
-# HEARTBEAT.md - Sherlock
+# [[HEARTBEAT]] - Sherlock
 
 ## Wöchentlich
 - EU Food Waste News in der letzten Woche? (Google Alert equivalent)

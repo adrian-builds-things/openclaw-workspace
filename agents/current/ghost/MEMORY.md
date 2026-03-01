@@ -1,4 +1,4 @@
-# MEMORY.md - Long-Term Memory for ghost
+# [[MEMORY]] - Long-Term Memory for ghost
 
 *Nur im Main Session laden.*
 

@@ -1,4 +1,4 @@
-# MEMORY.md
+# [[MEMORY]]
 
 ## User profile
 - User name: Adrian

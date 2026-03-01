@@ -1,4 +1,4 @@
-# HEARTBEAT.md - Rico (CRO)
+# [[HEARTBEAT]] - Rico (CRO)
 
 ## Wöchentlich (Montag)
 - Pipeline Review: Welche Leads haben keine Aktivität seit >7 Tagen?

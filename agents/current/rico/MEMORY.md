@@ -1,4 +1,4 @@
-# MEMORY.md - Long-Term Memory for rico
+# [[MEMORY]] - Long-Term Memory for rico
 
 *Nur im Main Session laden.*
 

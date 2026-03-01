@@ -1,4 +1,4 @@
-# HEARTBEAT.md - Hunter
+# [[HEARTBEAT]] - Hunter
 
 ## Täglich (werktags)
 - Gibt es neue LinkedIn-Signale von Leads in der Pipeline?

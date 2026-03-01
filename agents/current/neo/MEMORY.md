@@ -1,4 +1,4 @@
-# MEMORY.md - Long-Term Memory for neo
+# [[MEMORY]] - Long-Term Memory for neo
 
 *Nur im Main Session laden.*
 

@@ -16,3 +16,9 @@ Aktuelles Agenten-Setup (C-Suite)
 ## Legacy
 
 Die alte Agentenstruktur (Käptn Fokus / Forge / Echo / …) wurde vollständig entfernt.
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

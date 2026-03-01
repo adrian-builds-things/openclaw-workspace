@@ -1,4 +1,4 @@
-# HEARTBEAT.md - Zen (COO)
+# [[HEARTBEAT]] - Zen (COO)
 
 ## Täglich (Morgen, nicht vor 08:00)
 - Adrians Kalender heute — irgendwelche Konflikte oder Prep needed?

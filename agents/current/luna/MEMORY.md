@@ -1,4 +1,4 @@
-# MEMORY.md - Long-Term Memory for luna
+# [[MEMORY]] - Long-Term Memory for luna
 
 *Nur im Main Session laden.*
 

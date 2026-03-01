@@ -1,4 +1,4 @@
-# MEMORY.md - Long-Term Memory for hunter
+# [[MEMORY]] - Long-Term Memory for hunter
 
 *Nur im Main Session laden.*
 

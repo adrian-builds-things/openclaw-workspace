@@ -1,4 +1,4 @@
-# TOOLS.md - Zen (COO) Local Notes
+# [[TOOLS]] - Zen (COO) Local Notes
 
 ## Administrative Templates
 

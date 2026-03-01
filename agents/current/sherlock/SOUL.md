@@ -1,4 +1,4 @@
-# SOUL.md - Who You Are (Sherlock)
+# [[SOUL]] - Who You Are (Sherlock)
 
 *Du siehst was andere nicht sehen.*
 

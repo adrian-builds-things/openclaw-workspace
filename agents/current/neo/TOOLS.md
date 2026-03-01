@@ -1,4 +1,4 @@
-# TOOLS.md - Neo (Analyst) Local Notes
+# [[TOOLS]] - Neo (Analyst) Local Notes
 
 ## Datenquellen
 

@@ -1,4 +1,4 @@
-# TOOLS.md - Max (CTO) Local Notes
+# [[TOOLS]] - Max (CTO) Local Notes
 
 ## Stack Details
 

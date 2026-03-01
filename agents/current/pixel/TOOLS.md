@@ -1,4 +1,4 @@
-# TOOLS.md - Pixel (CPO) Local Notes
+# [[TOOLS]] - Pixel (CPO) Local Notes
 
 ## Priorisierungs-Frameworks
 

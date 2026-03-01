@@ -1,4 +1,4 @@
-# HEARTBEAT.md - Ghost (DevOps)
+# [[HEARTBEAT]] - Ghost (DevOps)
 
 ## Alle 4 Stunden
 

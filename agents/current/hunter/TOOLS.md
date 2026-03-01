@@ -1,4 +1,4 @@
-# TOOLS.md - Hunter Local Notes
+# [[TOOLS]] - Hunter Local Notes
 
 ## LinkedIn Research Workflow
 

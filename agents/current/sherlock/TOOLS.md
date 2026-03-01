@@ -1,4 +1,4 @@
-# TOOLS.md - Sherlock Local Notes
+# [[TOOLS]] - Sherlock Local Notes
 
 ## Go-To Quellen
 

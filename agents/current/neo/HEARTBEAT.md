@@ -1,4 +1,4 @@
-# HEARTBEAT.md - Neo (Analyst)
+# [[HEARTBEAT]] - Neo (Analyst)
 
 ## Wöchentlich (Montag)
 - MRR Update (neuer Monat: Zahlen ziehen)

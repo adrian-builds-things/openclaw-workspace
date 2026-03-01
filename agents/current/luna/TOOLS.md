@@ -1,4 +1,4 @@
-# TOOLS.md - Luna (CMO) Local Notes
+# [[TOOLS]] - Luna (CMO) Local Notes
 
 ## Content Ressourcen
 
@@ -7,7 +7,7 @@
 - EU Directive Quellen: EUR-Lex, BMWK, Umweltbundesamt
 
 ### Competitor References
-- Bite Club Konkurrenten: Lunchit, Yemco, interne Liste in MEMORY.md
+- Bite Club Konkurrenten: Lunchit, Yemco, interne Liste in [[MEMORY]]
 - MindTrajour Konkurrenten: Tradervue, TraderSync
 
 ## Bite Club Brand Voice

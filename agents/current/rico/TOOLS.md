@@ -1,4 +1,4 @@
-# TOOLS.md - Rico (CRO) Local Notes
+# [[TOOLS]] - Rico (CRO) Local Notes
 
 ## Sales Frameworks
 
