@@ -1,4 +1,4 @@
-# USER.md - About Your Human
+# [[USER]] - About Your Human
 
 *Lerne über die Person die du hilfst. Aktualisiere dies laufend.*
 
@@ -28,6 +28,9 @@
 - Next.js 15, TypeScript, Supabase, n8n Automation, Coolify für Deployment
 - Deployt auf Hetzner (nach Migration von AWS zu Hostinger)
 - Playwright für Tests, OpenTelemetry + PostHog für Logging
+- Build-Standard für neue Tools: **Next.js + TailwindCSS + shadcn/ui**
+- **Supabase nur wenn unbedingt nötig** (DB nur bei echtem Bedarf)
+- Für **jedes** neue Tool ein eigenes GitHub-Repository anlegen und dort die Entwicklung/Verwaltung führen
 
 **Aktuelle Prioritäten (Feb 2026):**
 - **Bite Club Lead Generation** — identifiziert als größter Engpass

@@ -1,0 +1,341 @@
+{
+  "meta": {
+    "lastTouchedVersion": "2026.2.26",
+    "lastTouchedAt": "2026-03-01T22:21:45.858Z"
+  },
+  "wizard": {
+    "lastRunAt": "2026-03-01T22:21:24.954Z",
+    "lastRunVersion": "2026.2.26",
+    "lastRunCommand": "configure",
+    "lastRunMode": "local"
+  },
+  "auth": {
+    "profiles": {
+      "openai-codex:default": {
+        "provider": "openai-codex",
+        "mode": "oauth"
+      },
+      "google:default": {
+        "provider": "google",
+        "mode": "api_key"
+      },
+      "openai-codex:adrian-mindtrajour": {
+        "provider": "openai-codex",
+        "mode": "token"
+      },
+      "anthropic:manual": {
+        "provider": "anthropic",
+        "mode": "token"
+      },
+      "google-gemini-cli:mindtrajourodoo@gmail.com": {
+        "provider": "google-gemini-cli",
+        "mode": "oauth"
+      },
+      "openrouter:default": {
+        "provider": "openrouter",
+        "mode": "api_key"
+      },
+      "anthropic:default": {
+        "provider": "anthropic",
+        "mode": "token"
+      }
+    },
+    "order": {
+      "google": [
+        "google:default"
+      ],
+      "openai-codex": [
+        "openai-codex:default",
+        "openai-codex:adrian-mindtrajour"
+      ]
+    }
+  },
+  "agents": {
+    "defaults": {
+      "model": {
+        "primary": "google-vertex/gemini-3.1-pro-preview",
+        "fallbacks": [
+          "anthropic/claude-opus-4-6",
+          "anthropic/claude-haiku-4-5",
+          "anthropic/claude-sonnet-4-6",
+          "openai/gpt-5.3-codex",
+          "openai/gpt-5.2-pro",
+          "openai/gpt-4o-mini",
+          "google-vertex/gemini-3-flash-preview",
+          "google-vertex/gemini-3-pro-preview",
+          "google-vertex/gemini-2.5-flash"
+        ]
+      },
+      "models": {
+        "anthropic/claude-opus-4-6": {},
+        "anthropic/claude-haiku-4-5": {},
+        "anthropic/claude-sonnet-4-6": {},
+        "openai/gpt-5.3-codex": {},
+        "openai/gpt-5.2-pro": {},
+        "openai/gpt-4o-mini": {},
+        "google-vertex/gemini-3.1-pro-preview": {},
+        "google-vertex/gemini-3-flash-preview": {},
+        "google-vertex/gemini-3-pro-preview": {},
+        "google-vertex/gemini-2.5-flash": {}
+      },
+      "workspace": "/home/adrian/.openclaw/workspace",
+      "memorySearch": {
+        "enabled": true,
+        "sources": [
+          "memory",
+          "sessions"
+        ],
+        "experimental": {
+          "sessionMemory": true
+        },
+        "provider": "local",
+        "fallback": "none",
+        "local": {
+          "modelPath": "hf:ggml-org/embeddinggemma-300m-qat-q8_0-GGUF/embeddinggemma-300m-qat-Q8_0.gguf"
+        }
+      },
+      "contextPruning": {
+        "mode": "cache-ttl",
+        "ttl": "21d",
+        "keepLastAssistants": 24,
+        "softTrimRatio": 0.75,
+        "hardClearRatio": 0.9
+      },
+      "compaction": {
+        "mode": "safeguard",
+        "memoryFlush": {
+          "enabled": true
+        }
+      },
+      "maxConcurrent": 4,
+      "subagents": {
+        "maxConcurrent": 8
+      }
+    },
+    "list": [
+      {
+        "id": "main",
+        "model": {
+          "primary": "google-vertex/gemini-2.5-flash",
+          "fallbacks": [
+            "anthropic/claude-haiku-4-5"
+          ]
+        },
+        "subagents": {
+          "allowAgents": [
+            "*"
+          ]
+        },
+        "tools": {
+          "elevated": {
+            "enabled": true,
+            "allowFrom": {
+              "telegram": [
+                "telegram:660184146",
+                660184146
+              ]
+            }
+          }
+        }
+      },
+      {
+        "id": "max",
+        "name": "Max",
+        "workspace": "/home/adrian/.openclaw/workspace-max",
+        "model": "openrouter/google/gemini-3.1-pro-preview"
+      },
+      {
+        "id": "luna",
+        "name": "Luna",
+        "workspace": "/home/adrian/.openclaw/workspace-luna",
+        "model": "openai-codex/o4-mini"
+      },
+      {
+        "id": "rico",
+        "name": "Rico",
+        "workspace": "/home/adrian/.openclaw/workspace-rico",
+        "model": "openai-codex/o4-mini"
+      },
+      {
+        "id": "hunter",
+        "name": "Hunter",
+        "workspace": "/home/adrian/.openclaw/workspace-hunter",
+        "model": "openai-codex/o4-mini"
+      },
+      {
+        "id": "sherlock",
+        "name": "Sherlock",
+        "workspace": "/home/adrian/.openclaw/workspace-sherlock",
+        "model": "openai-codex/o4-mini"
+      },
+      {
+        "id": "zen",
+        "name": "Zen",
+        "workspace": "/home/adrian/.openclaw/workspace-zen",
+        "model": "openai-codex/o4-mini"
+      },
+      {
+        "id": "pixel",
+        "name": "Pixel",
+        "workspace": "/home/adrian/.openclaw/workspace-pixel",
+        "model": "openai-codex/o4-mini"
+      },
+      {
+        "id": "neo",
+        "name": "Neo",
+        "workspace": "/home/adrian/.openclaw/workspace-neo",
+        "model": "openai-codex/o4-mini"
+      },
+      {
+        "id": "trading-analyst",
+        "name": "Trading Analyst",
+        "workspace": "/home/adrian/.openclaw/workspace-trading-analyst",
+        "model": "openai-codex/gpt-5.3-codex"
+      },
+      {
+        "id": "facility-ops-analyst",
+        "name": "Facility Ops Analyst",
+        "workspace": "/home/adrian/.openclaw/workspace-facility-ops-analyst",
+        "model": "openai-codex/gpt-5.3-codex"
+      },
+      {
+        "id": "ghost",
+        "name": "Ghost",
+        "workspace": "/home/adrian/.openclaw/workspace-ghost",
+        "model": "openrouter/google/gemini-3-flash-preview"
+      }
+    ]
+  },
+  "tools": {
+    "elevated": {
+      "enabled": true,
+      "allowFrom": {
+        "telegram": [
+          "telegram:660184146",
+          660184146,
+          660184146
+        ]
+      }
+    },
+    "exec": {
+      "security": "full",
+      "ask": "on-miss"
+    }
+  },
+  "bindings": [],
+  "messages": {
+    "ackReactionScope": "group-all"
+  },
+  "commands": {
+    "native": "auto",
+    "nativeSkills": "auto",
+    "restart": true,
+    "ownerDisplay": "raw"
+  },
+  "channels": {
+    "telegram": {
+      "enabled": true,
+      "dmPolicy": "pairing",
+      "botToken": "${TELEGRAM_BOT_TOKEN}",
+      "groupPolicy": "allowlist",
+      "streaming": "partial",
+      "retry": {
+        "attempts": 6,
+        "minDelayMs": 400,
+        "maxDelayMs": 8000,
+        "jitter": 0.2
+      }
+    },
+    "slack": {
+      "mode": "socket",
+      "webhookPath": "/slack/events",
+      "enabled": true,
+      "userTokenReadOnly": true,
+      "requireMention": false,
+      "groupPolicy": "open",
+      "streaming": "partial",
+      "nativeStreaming": true,
+      "dmPolicy": "open",
+      "allowFrom": [
+        "*"
+      ],
+      "channels": {
+        "C0AGLAD76JU": {
+          "requireMention": false
+        },
+        "C0AFANL75LJ": {
+          "requireMention": false
+        },
+        "C0AFPLGD2L9": {
+          "requireMention": false
+        },
+        "C0AF8MAGKFY": {
+          "requireMention": false
+        },
+        "C0AEVA0B0F9": {
+          "requireMention": false
+        },
+        "C0AFAP4U8LS": {
+          "requireMention": false
+        },
+        "C0AFPLVTRHP": {
+          "requireMention": false
+        },
+        "C0AF8M5BQ8N": {
+          "requireMention": false
+        },
+        "c0af8m6kr6j": {
+          "allow": true,
+          "requireMention": false
+        },
+        "CLAW_MANAGEMENT": {
+          "enabled": true,
+          "allow": true,
+          "requireMention": false,
+          "allowBots": true
+        }
+      }
+    }
+  },
+  "gateway": {
+    "port": 18789,
+    "mode": "local",
+    "bind": "loopback",
+    "auth": {
+      "mode": "token",
+      "token": "${OPENCLAW_GATEWAY_TOKEN}"
+    },
+    "tailscale": {
+      "mode": "off",
+      "resetOnExit": false
+    },
+    "nodes": {
+      "denyCommands": [
+        "camera.snap",
+        "camera.clip",
+        "screen.record",
+        "calendar.add",
+        "contacts.add",
+        "reminders.add"
+      ]
+    }
+  },
+  "skills": {
+    "install": {
+      "nodeManager": "bun"
+    }
+  },
+  "plugins": {
+    "entries": {
+      "telegram": {
+        "enabled": true
+      },
+      "slack": {
+        "enabled": true
+      },
+      "google-gemini-cli-auth": {
+        "enabled": true
+      }
+    }
+  }
+}

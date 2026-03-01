@@ -1,4 +1,4 @@
-# TOOLS.md - Local Notes
+# [[TOOLS]] - Local Notes
 
 Skills define _how_ tools work. This file is for _your_ specifics — the stuff that's unique to your setup.
 
@@ -12,6 +12,10 @@ Things like:
 - Speaker/room names
 - Device nicknames
 - Anything environment-specific
+
+## Google Calendar
+
+- **Aufgabenplanung** (Primary for work): `c_1ed5caf4a7972cd8b8b29749656f92c02a4213405280f36a510e22848bede6b7@group.calendar.google.com`
 
 ## Examples
 

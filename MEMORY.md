@@ -1,4 +1,4 @@
-# MEMORY.md
+# [[MEMORY]]
 
 ## User profile
 - User name: Adrian
@@ -31,7 +31,11 @@
 - Daily-Format-Präferenz (neu): Wetter ganz nach oben; News nur zu Adrians Interessen (v. a. KI, shadcn, Next.js/Dev-Stack); montags zusätzlich „wer kommt diese Woche im Modern Wisdom Podcast"; klarer Abschnitt „was Manne nachts/seit gestern erledigt hat".
 - Externe Kommunikation: **nur nach expliziter Freigabe**.
 - Präferenz für späteres Setup: Wenn Anthropic verfügbar ist, soll Manne Aufgaben **mit Opus** durchdenken/planen und dann mit **OpenAI Codex (5.3)** umsetzen.
+- **Modell-Regel (NEU - 2026-02-23):** Auf keinen Fall Opus 4.6 verwenden, außer nach ausdrücklicher Ansage. Immer Modelle von OpenAI oder OpenRouter Gemini nutzen.
+- **Kostenregel (obsolet):** (Die alte Regel bzgl. Opus für Planung ist hiermit durch die neue Modell-Regel ersetzt).
 - UI/Design-Standard (neu): Adrian erwartet UIs nach etablierten Best Practices (Design Systems, klare Tokens, konsistente Patterns, geringe kognitive Last). Keine improvisierten „quick CSS“-Layouts mehr.
+- **Fathom-Archiv-Regel (NEU - 2026-02-26):** Alle Meeting-Transkripte und Summaries werden ausschließlich in der bestehenden Struktur unter `~/.openclaw/workspace/data/fathom/raw/` gespeichert. Das Format für Dateinamen ist `YYYY-MM-DD__<RECORDING_ID>__<TITLE>__transcript/summary.json`. Keine temporären Ordner für Meetings anlegen.
+- YouTube-Präferenz (NEU 2026-02-25): Bei jedem YouTube-Link soll automatisch der `youtube-summarizer` Skill genutzt werden (Einsichten statt nur Rohdaten).
 - Workflow-Regel bei UI-Bau: vor Implementierung Referenzen/Best-Practices prüfen (z. B. Context7 + etablierte Patterns), dann erst umsetzen.
 - Wissens-/Doku-Regel (neu, verbindlich): Bei angewendetem Wissen immer Obsidian-like Quellenreferenzen mitführen (klare Source-Referenz am Inhalt; keine source-losen Aussagen) — **aber nur in Markdown-Dateien (MD), nicht in Chat-Antworten**.
 - Adrian hat explizit erlaubt, externe Skills lokal im Workspace zu installieren, damit Manne sie selbstständig nutzen kann.
