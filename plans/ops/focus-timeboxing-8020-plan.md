@@ -35,3 +35,9 @@ Die wenigen Aufgaben priorisieren, die direkt Pipeline, Gespräche und Umsatz be
 3. Bester Message-Angle?
 4. Top-Priorität für morgen?
 5. Welche Entscheidung braucht Adrian?
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

@@ -49,5 +49,14 @@ OpenClaw als „Brain“ + spezialisierte Tools/APIs als „Muscles“ + viel re
 - Verwandtes Setup-Video: [[knowledge/video-notes/2026-02-17-openclaw-first-10-things-setup-video|How to Actually Use OpenClaw (First 10 Things to Set Up)]]
 - Zugehörige Quellnotiz: [[knowledge/source-docs/2026-02-17-openclaw-after-setup-prompt-pack|OpenClaw After-Setup Prompt Pack (Quelle)]]
 
+## Update (2026-02-21)
+Erneut von Adrian bestätigt/gewünscht, dass diese Anleitung als referenzierbare Standard-Notiz im System geführt wird.
+
 ## Hinweis
 Diese Notiz ist eine strukturierte Ablage der vom Nutzer gelieferten Zusammenfassung. Konfigurationsänderungen wurden in dieser Ablage **nicht** automatisch ausgeführt.
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

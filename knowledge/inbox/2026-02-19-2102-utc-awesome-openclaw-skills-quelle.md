@@ -20,3 +20,9 @@ Seite/Link:
 
 Gemeinte Referenz:
 - awesome-openclaw-skills/README.md (VoltAgent/awesome-openclaw-skills)
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

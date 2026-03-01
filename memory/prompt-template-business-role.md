@@ -48,3 +48,9 @@ Step 6: Keep the Thinking Instruction at the bottom.
 This is the feature that separates Sonnet 4.6 from what came before.
 The model can pause and reason through a problem before generating a final response.
 Asking it to state its understanding before writing activates that reasoning layer and stops it from charging in the wrong direction.
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

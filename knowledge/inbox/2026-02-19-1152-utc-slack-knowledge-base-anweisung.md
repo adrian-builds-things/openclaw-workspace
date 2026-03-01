@@ -21,3 +21,9 @@ related:
 - Inhalt wird mit **vollständigem Nachrichtentext** gespeichert.
 - Format wird **Obsidian-kompatibel** angelegt (Frontmatter, Tags, Wikilinks).
 - Ziel: Aufbau einer durchsuchbaren, verknüpfbaren Knowledge Base für späteren Vault-Import.
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

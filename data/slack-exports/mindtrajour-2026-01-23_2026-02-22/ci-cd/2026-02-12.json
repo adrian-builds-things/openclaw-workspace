@@ -1,0 +1,188 @@
+[
+    {
+        "user": "U03SDCEUKH6",
+        "type": "message",
+        "ts": "1770886943.095669",
+        "edited": {
+            "user": "B03RPJA4R5Z",
+            "ts": "1771608030.000000"
+        },
+        "bot_id": "B03RPJA4R5Z",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T0197SMV2MQ",
+        "bot_profile": {
+            "id": "B03RPJA4R5Z",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U03SDCEUKH6",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1659210816,
+            "team_id": "T0197SMV2MQ"
+        },
+        "thread_ts": "1770886943.095669",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1770905940.656379",
+        "reply_users": [
+            "U03SDCEUKH6"
+        ],
+        "replies": [
+            {
+                "user": "U03SDCEUKH6",
+                "ts": "1770905940.656379"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1770905940.656379",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1770886939,
+                "color": "6f42c1",
+                "fallback": "[MindTrajour\/mindtrajour-app] Pull request opened by enszrlu",
+                "text": "Phase 8: Update Next.js to 16.x and update all packages  \nPhase 9: Update all shadcn components to latest  \nPhase 10: Migrate shadcn theming to default structure  \nPhase 11: Remove manual classname overrides from shadcn components  \nAdd theme selector.",
+                "pretext": "Pull request opened by <https:\/\/github.com\/enszrlu|enszrlu>",
+                "title": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/396|#396 Phase8-11 Cleanup - Nextjs 16 and Tailwindcss 4 update. >",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>",
+                "fields": [
+                    {
+                        "value": "<@U018T4T64FR>",
+                        "title": "Reviewers",
+                        "short": true
+                    },
+                    {
+                        "value": "released",
+                        "title": "Labels",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;MindTrajour&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:170454763,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;mindtrajour-app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:683163664,&amp;amp;quot;number&amp;amp;quot;:396,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/396&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Phase8-11 Cleanup - Nextjs 16 and Tailwindcss 4 update. &amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B03RPJA4R5Z",
+        "thread_ts": "1770886943.095669",
+        "root": {
+            "user": "U03SDCEUKH6",
+            "type": "message",
+            "ts": "1770886943.095669",
+            "edited": {
+                "user": "B03RPJA4R5Z",
+                "ts": "1771608030.000000"
+            },
+            "bot_id": "B03RPJA4R5Z",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T0197SMV2MQ",
+            "bot_profile": {
+                "id": "B03RPJA4R5Z",
+                "app_id": "A01BP7R4KNY",
+                "user_id": "U03SDCEUKH6",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1659210816,
+                "team_id": "T0197SMV2MQ"
+            },
+            "thread_ts": "1770886943.095669",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1770905940.656379",
+            "reply_users": [
+                "U03SDCEUKH6"
+            ],
+            "replies": [
+                {
+                    "user": "U03SDCEUKH6",
+                    "ts": "1770905940.656379"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1770905940.656379",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1770886939,
+                    "color": "6f42c1",
+                    "fallback": "[MindTrajour\/mindtrajour-app] Pull request opened by enszrlu",
+                    "text": "Phase 8: Update Next.js to 16.x and update all packages  \nPhase 9: Update all shadcn components to latest  \nPhase 10: Migrate shadcn theming to default structure  \nPhase 11: Remove manual classname overrides from shadcn components  \nAdd theme selector.",
+                    "pretext": "Pull request opened by <https:\/\/github.com\/enszrlu|enszrlu>",
+                    "title": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/396|#396 Phase8-11 Cleanup - Nextjs 16 and Tailwindcss 4 update. >",
+                    "callback_id": "pr-opened-interaction",
+                    "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>",
+                    "fields": [
+                        {
+                            "value": "<@U018T4T64FR>",
+                            "title": "Reviewers",
+                            "short": true
+                        },
+                        {
+                            "value": "released",
+                            "title": "Labels",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;MindTrajour&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:170454763,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;mindtrajour-app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:683163664,&amp;amp;quot;number&amp;amp;quot;:396,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/396&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Phase8-11 Cleanup - Nextjs 16 and Tailwindcss 4 update. &amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "user": "U03SDCEUKH6",
+        "type": "message",
+        "ts": "1770905940.656379",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1770886939,
+                "color": "6f42c1",
+                "fallback": "[MindTrajour\/mindtrajour-app] Pull request merged by enszrlu",
+                "pretext": "Pull request merged by <https:\/\/github.com\/enszrlu|enszrlu>",
+                "title": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/396|#396 Phase8-11 Cleanup - Nextjs 16 and Tailwindcss 4 update. >",
+                "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>"
+            }
+        ]
+    }
+]

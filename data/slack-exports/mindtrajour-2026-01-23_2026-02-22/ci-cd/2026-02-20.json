@@ -1,0 +1,262 @@
+[
+    {
+        "user": "U03SDCEUKH6",
+        "type": "message",
+        "ts": "1771605190.819909",
+        "edited": {
+            "user": "B03RPJA4R5Z",
+            "ts": "1771608029.000000"
+        },
+        "bot_id": "B03RPJA4R5Z",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T0197SMV2MQ",
+        "bot_profile": {
+            "id": "B03RPJA4R5Z",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U03SDCEUKH6",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1659210816,
+            "team_id": "T0197SMV2MQ"
+        },
+        "thread_ts": "1771605190.819909",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1771607935.160869",
+        "reply_users": [
+            "U03SDCEUKH6"
+        ],
+        "replies": [
+            {
+                "user": "U03SDCEUKH6",
+                "ts": "1771607935.160869"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1771605186,
+                "color": "6f42c1",
+                "fallback": "[MindTrajour\/mindtrajour-app] Pull request opened by enszrlu",
+                "text": "## Summary\n\n• Includes the full `release` branch (68 commits) into `main`, including the Next.js 16 + Bun\/Node 22 upgrade and related tooling\/config updates.\n• Adds the new E2E test suite (auth, landing, sidebar, dashboard, trades, all-trades) and associated test setup\/utilities.\n• Delivers large cleanup and UI work: dead code\/feature removal, shadcn\/theme refactors, theme enhancements, and bug fixes (dashboard date filter, account-change refresh, Safari monthly chart sorting).\n\n## Test plan\n\n• Run `bun install` and verify lockfile\/tooling consistency\n• Run `bun run lint`\n• Run `bun run type-check`\n• Run `bun run test` (unit\/integration)\n• Run `bun run test:e2e` (or CI e2e workflow)\n• Smoke test key flows: auth, dashboard date filter, all-trades, trade entry save behavior, theme switching, Safari dashboard chart sorting\n\nMade with <https:\/\/cursor.com|Cursor>",
+                "pretext": "Pull request opened by <https:\/\/github.com\/enszrlu|enszrlu>",
+                "title": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/397|#397 Release: Next.js 16 upgrade, cleanup, and UI\/theme updates>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>",
+                "fields": [
+                    {
+                        "value": "released",
+                        "title": "Labels",
+                        "short": true
+                    },
+                    {
+                        "value": "3",
+                        "title": "Comments",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;MindTrajour&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:170454763,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;mindtrajour-app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:683163664,&amp;amp;quot;number&amp;amp;quot;:397,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/397&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Release: Next.js 16 upgrade, cleanup, and UI\/theme updates&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B03RPJA4R5Z",
+        "thread_ts": "1771605190.819909",
+        "root": {
+            "user": "U03SDCEUKH6",
+            "type": "message",
+            "ts": "1771605190.819909",
+            "edited": {
+                "user": "B03RPJA4R5Z",
+                "ts": "1771608029.000000"
+            },
+            "bot_id": "B03RPJA4R5Z",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T0197SMV2MQ",
+            "bot_profile": {
+                "id": "B03RPJA4R5Z",
+                "app_id": "A01BP7R4KNY",
+                "user_id": "U03SDCEUKH6",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1659210816,
+                "team_id": "T0197SMV2MQ"
+            },
+            "thread_ts": "1771605190.819909",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1771607935.160869",
+            "reply_users": [
+                "U03SDCEUKH6"
+            ],
+            "replies": [
+                {
+                    "user": "U03SDCEUKH6",
+                    "ts": "1771607935.160869"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1771605186,
+                    "color": "6f42c1",
+                    "fallback": "[MindTrajour\/mindtrajour-app] Pull request opened by enszrlu",
+                    "text": "## Summary\n\n• Includes the full `release` branch (68 commits) into `main`, including the Next.js 16 + Bun\/Node 22 upgrade and related tooling\/config updates.\n• Adds the new E2E test suite (auth, landing, sidebar, dashboard, trades, all-trades) and associated test setup\/utilities.\n• Delivers large cleanup and UI work: dead code\/feature removal, shadcn\/theme refactors, theme enhancements, and bug fixes (dashboard date filter, account-change refresh, Safari monthly chart sorting).\n\n## Test plan\n\n• Run `bun install` and verify lockfile\/tooling consistency\n• Run `bun run lint`\n• Run `bun run type-check`\n• Run `bun run test` (unit\/integration)\n• Run `bun run test:e2e` (or CI e2e workflow)\n• Smoke test key flows: auth, dashboard date filter, all-trades, trade entry save behavior, theme switching, Safari dashboard chart sorting\n\nMade with <https:\/\/cursor.com|Cursor>",
+                    "pretext": "Pull request opened by <https:\/\/github.com\/enszrlu|enszrlu>",
+                    "title": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/397|#397 Release: Next.js 16 upgrade, cleanup, and UI\/theme updates>",
+                    "callback_id": "pr-opened-interaction",
+                    "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>",
+                    "fields": [
+                        {
+                            "value": "released",
+                            "title": "Labels",
+                            "short": true
+                        },
+                        {
+                            "value": "3",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;MindTrajour&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:170454763,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;mindtrajour-app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:683163664,&amp;amp;quot;number&amp;amp;quot;:397,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/397&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Release: Next.js 16 upgrade, cleanup, and UI\/theme updates&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "user": "U03SDCEUKH6",
+        "type": "message",
+        "ts": "1771607935.160869",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1771605186,
+                "color": "6f42c1",
+                "fallback": "[MindTrajour\/mindtrajour-app] Pull request merged by enszrlu",
+                "pretext": "Pull request merged by <https:\/\/github.com\/enszrlu|enszrlu>",
+                "title": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/397|#397 Release: Next.js 16 upgrade, cleanup, and UI\/theme updates>",
+                "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>"
+            }
+        ]
+    },
+    {
+        "user": "U03SDCEUKH6",
+        "type": "message",
+        "ts": "1771607936.336979",
+        "bot_id": "B03RPJA4R5Z",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T0197SMV2MQ",
+        "bot_profile": {
+            "id": "B03RPJA4R5Z",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U03SDCEUKH6",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1659210816,
+            "team_id": "T0197SMV2MQ"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[MindTrajour\/mindtrajour-app] 20 new commits pushed to _main_ by enszrlu",
+                "text": "`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/df39cf69135c9c7bc23ec0696db5024b7a78238a|df39cf69>` - Merge pull request #396 from MindTrajour\/eneszorlu\/sc-3510\/phase-8-update-next-js-to-16-x-and-update\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/969d4032745ba6e6cc9fe01924bc2194960852f9|969d4032>` - style(theming): update right sidebar and general overrides\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/3a9a7c1517b338f8954df4d9ff0b4c06e7c99f73|3a9a7c15>` - style(theming): add new themes\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/74961e2ae76b863635e84a7726fd0052536af719|74961e2a>` - style(numeric-inputs): hide spinner\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/6a8963f39a00ebf35d47f7f1202d2857ce84fec9|6a8963f3>` - style(positive-colour): optimize positive colours for accessibility. also improve retro chart-2 colour\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/a1f409414fec3df12c6932b8cad6c0d600714695|a1f40941>` - fix(trade-entry): avoid save button clicked multiple times while waiting for form to be submitted\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/7772a8fbe518b14ccd255ab8d60631818aa6dd24|7772a8fb>` - fix(account-change): fix issue with all-trades not updating on account change\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/9f40f59a79a14ab3ba39fa76cbb5b365b06aa44b|9f40f59a>` - style(account-page): align style with other pages\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/af5e0c81df7ccbd6f2650dab75411e55876ca4d8|af5e0c81>` - style(themes): add eve-mtj-modified theme\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/963d724e2272b29deb23b839c3224390b66388f0|963d724e>` - style(themes): add Eve's modified themes for testing\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/70699abe937364b6eb4570be55eec1adb9dcf9ab|70699abe>` - style(stat-card): stat card to use shacn card component as well\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/2ccabc3fc2f14301687932ee7fd471741f29659b|2ccabc3f>` - style(themes): remove least favourite themes\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/6617fb19c3e26449271bb696320852c40abe42d7|6617fb19>` - style(themes): fix fonts and rename mtj themes\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/b553a14181cf4e69e58d580237ffbbe6015ddeec|b553a141>` - style(themes): add missing dark shadows\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/513c57372d0d33e68359b976289b65e8d2c88606|513c5737>` - style(themes): Finalize themes and set mtj-purple as default. change darkmatter font and mtj red chart colours\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/be5de26f6e3368712a5cd4d84ca70a8381f22250|be5de26f>` - feat(themes): add theme switch tracking\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/b371a226b3ca4621c38835e68a2e1dfd121c063a|b371a226>` - fix(dashboard): fix date filter bug where open trades are not included\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/801fcf70fc2a264c9eb0904cf42f37fd5b5cb164|801fcf70>` - fix(safari-dashboard-monthly-chart): fix Safari browser sorting issue.\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/7b0de53f63a969b10dcc41b868a45b224115c06c|7b0de53f>` - style(themes): add original mindtrajour theme\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/1edcba8100d4cfb8ccc65bea09cd62b62e5e6c12|1edcba81>` - Merge pull request #397 from MindTrajour\/release",
+                "pretext": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/compare\/05a06315cea9...1edcba8100d4|20 new commits> pushed to `<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/tree\/main|main>` by <https:\/\/github.com\/enszrlu|enszrlu>",
+                "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03SDCEUKH6",
+        "type": "message",
+        "ts": "1771608014.941809",
+        "bot_id": "B03RPJA4R5Z",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T0197SMV2MQ",
+        "bot_profile": {
+            "id": "B03RPJA4R5Z",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U03SDCEUKH6",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1659210816,
+            "team_id": "T0197SMV2MQ"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1771608013,
+                "color": "24292f",
+                "fallback": "[MindTrajour\/mindtrajour-app] New release <https:\/\/github.com\/MindTrajour\/mindtrajour-app\/releases\/tag\/v1.17.0|Release - v1.17.0> published by github-actions[bot]",
+                "text": "# <https:\/\/github.com\/MindTrajour\/mindtrajour-app\/compare\/v1.16.0...v1.17.0|1.17.0> (2026-02-20)\n\n### Bug Fixes\n\n• *account-change:* fix issue with all-trades not updating on account change (<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/7772a8fbe518b14ccd255ab8d60631818aa6dd24|7772a8f>)\n• *dashboard:* fix date filter bug where open trades are not included (<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/b371a226b3ca4621c38835e68a2e1dfd121c063a|b371a22>)\n• *e2e:* exclude e2e from vitest (<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/d9791b3ca3cffee416494846206514fe2726a603|d9791b3>)\n• *global-strategies:* Update migration with manually added production global strategies (<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/68ea158c8d79a0e61e2246c4e7eaa7f2a37d16fd|68ea158>)\n• *re-render:* Fix re-render with resize (<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/cab74f201a1ddb5242b1a1828fd9650170e024ea|cab74f2>)\n• *safari-dashboard-monthly-chart:* fix Safari browser sorting issue. (<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/801fcf70fc2a264c9eb0904cf42f37fd5b5cb164|801fcf7>)\n• *seed.sql:* Update seed.sql with correct data, prepping for e2e testing (<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/07110f554d14e121f18282ffab866fe70776df8e|07110f5>)\n• *trade-entry:* avoid save button clicked multiple times while waiting for form to be submitted (<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/a1f409414fec3df12c6932b8cad6c0d600714695|a1f4094>)\n• *ui-errors:* Fix dashboard date filter errors and improve UI on certain pages (<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/1b277cad74f40424d4480e16eb4ed2a4a8b96450|1b277ca>)\n\n### Features\n\n• *theme:* add themes and theme selector to sidebar (<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/6197618c3f8d85a01b79836e8fd638c654d0b748|6197618>)\n• *themes:* add theme switch tracking (<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/be5de26f6e3368712a5cd4d84ca70a8381f22250|be5de26>)\n• *update-packages:* Update to nextjs 16, eslint, tailwindcss4, update all shadcn ui, theme (<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/1ee2a1324865adad9fc48935d1252b193b788db6|1ee2a13>)",
+                "pretext": "New release published by <https:\/\/github.com\/apps\/github-actions|github-actions[bot]>",
+                "title": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/releases\/tag\/v1.17.0|Release - v1.17.0>",
+                "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

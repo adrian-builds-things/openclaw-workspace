@@ -1,0 +1,142 @@
+[
+    {
+        "user": "U05BP6JEKRD",
+        "type": "message",
+        "ts": "1771669201.534399",
+        "client_msg_id": "364bf278-4c52-45fc-a945-16bcedb1a8ae",
+        "text": "Okay i will rewrite and post the newsletter later today",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "cbddedcb4f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-20\/6371114387445_cbddedcb4f3716d3e577_72.jpg",
+            "first_name": "Larissa",
+            "real_name": "Larissa Lange",
+            "display_name": "Larissa Lange",
+            "team": "T0197SMV2MQ",
+            "name": "larissa.j.lange",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771611131.821229",
+        "parent_user_id": "U05BP6JEKRD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "89sXG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay i will rewrite and post the newsletter later today"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06QAS7FPUH",
+                    "U018T4T64FR"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U018T4T64FR",
+        "type": "message",
+        "ts": "1771684310.314779",
+        "client_msg_id": "ea955e67-1c27-4c05-ac12-c792d13ea9a8",
+        "text": "I think I know why we do have always that kind of discussions. we have never defined a brand voice. this is something we should do. the voice should align with our main clients and talk to them. thats also a task we should tackle.  and we should align it with the copy of our landingpage.",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "d73f62394d70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-20\/1314120389299_d73f62394d70e7c52de4_72.jpg",
+            "first_name": "Adrian",
+            "real_name": "Adrian",
+            "display_name": "Aaaaaaadriaaaaaaan",
+            "team": "T0197SMV2MQ",
+            "name": "adrian.rinnus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771611131.821229",
+        "parent_user_id": "U05BP6JEKRD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NzOsN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think I know why we do have always that kind of discussions. we have never defined a brand voice. this is something we should do. the voice should align with our main clients and talk to them. thats also a task we should tackle.  and we should align it with the copy of our landingpage."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05BP6JEKRD",
+        "type": "message",
+        "ts": "1771687352.727189",
+        "client_msg_id": "5ce1fb9c-c209-4e88-b4ba-a46d25860b9b",
+        "text": "yes true, we need to align on that. Also before we start rewriting the landingpage.\n\nNewsletter is published now. Thank you Enes for your draft!",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "cbddedcb4f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-20\/6371114387445_cbddedcb4f3716d3e577_72.jpg",
+            "first_name": "Larissa",
+            "real_name": "Larissa Lange",
+            "display_name": "Larissa Lange",
+            "team": "T0197SMV2MQ",
+            "name": "larissa.j.lange",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771611131.821229",
+        "parent_user_id": "U05BP6JEKRD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eJ9Hm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes true, we need to align on that. Also before we start rewriting the landingpage.\n\nNewsletter is published now. Thank you Enes for your draft!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U018T4T64FR",
+                    "U06QAS7FPUH"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

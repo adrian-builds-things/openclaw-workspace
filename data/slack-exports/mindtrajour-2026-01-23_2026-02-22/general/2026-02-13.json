@@ -1,0 +1,74 @@
+[
+    {
+        "user": "U018T4T64FR",
+        "type": "message",
+        "ts": "1771017917.277749",
+        "client_msg_id": "3cc10dfc-e64a-4c44-a77f-10d1184d4031",
+        "text": "lol these guys are so cool! great marketing idea :smile: <https:\/\/posthog.com\/photobooth> like starbucks with the misspelled names on the cups",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "d73f62394d70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-20\/1314120389299_d73f62394d70e7c52de4_72.jpg",
+            "first_name": "Adrian",
+            "real_name": "Adrian",
+            "display_name": "Aaaaaaadriaaaaaaan",
+            "team": "T0197SMV2MQ",
+            "name": "adrian.rinnus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/posthog.com\/images\/og\/photobooth.png",
+                "image_width": 1200,
+                "image_height": 640,
+                "image_bytes": 212338,
+                "from_url": "https:\/\/posthog.com\/photobooth",
+                "service_icon": "https:\/\/posthog.com\/icons\/icon-48x48.png?v=6e5ac8d4a5b381b5caa29396fbf7c955",
+                "id": 1,
+                "original_url": "https:\/\/posthog.com\/photobooth",
+                "fallback": "Photo booth - PostHog",
+                "text": "A photo booth with Max the hedgehog",
+                "title": "Photo booth - PostHog",
+                "title_link": "https:\/\/posthog.com\/photobooth",
+                "service_name": "posthog.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cNKNg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lol these guys are so cool! great marketing idea "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/posthog.com\/photobooth"
+                            },
+                            {
+                                "type": "text",
+                                "text": " like starbucks with the misspelled names on the cups"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

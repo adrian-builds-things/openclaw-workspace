@@ -1,0 +1,296 @@
+[
+    {
+        "user": "U05JJ8QHBHB",
+        "type": "message",
+        "ts": "1771320642.277219",
+        "client_msg_id": "de8a14d9-26fe-4d4c-b2af-1dbbb1281ce5",
+        "text": "Hi <@U06QAS7FPUH> <@U05BP6JEKRD> <@U018T4T64FR> I’ve updated all the color themes you have voted for, and they’re now available in TweakCN. As for the themes I created, I removed one and reworked the other two. I also chose green and red as the primary chart colors for P&amp;L so they more clearly reflect their intended meaning. Regarding borders across all themes, the goal is to ensure that input fields, cards, and data tables are clearly distinguishable from the background on every page.  Feel free to take a look.",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "556fa38c8288",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-04\/6301065375105_556fa38c8288bf8c651a_72.png",
+            "first_name": "Eve",
+            "real_name": "Eve",
+            "display_name": "",
+            "team": "T0197SMV2MQ",
+            "name": "foldesieva25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770905021.207739",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3quVv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06QAS7FPUH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05BP6JEKRD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U018T4T64FR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I’ve updated all the color themes you have voted for, and they’re now available in TweakCN. As for the themes I created, I removed one and reworked the other two. I also chose green and red as the primary chart colors for P&L so they more clearly reflect their intended meaning. Regarding borders across all themes, the goal is to ensure that input fields, cards, and data tables are clearly distinguishable from the background on every page.  Feel free to take a look."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05JJ8QHBHB",
+        "type": "message",
+        "ts": "1771320798.991659",
+        "client_msg_id": "f144333d-91cc-449c-9279-85c3ca08a50b",
+        "text": "<https:\/\/tweakcn.com\/editor\/theme?p=mail>",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "556fa38c8288",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-04\/6301065375105_556fa38c8288bf8c651a_72.png",
+            "first_name": "Eve",
+            "real_name": "Eve",
+            "display_name": "",
+            "team": "T0197SMV2MQ",
+            "name": "foldesieva25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770905021.207739",
+        "parent_user_id": "U06QAS7FPUH",
+        "attachments": [
+            {
+                "from_url": "https:\/\/tweakcn.com\/editor\/theme?p=mail",
+                "image_url": "https:\/\/tweakcn.com\/og-image.v050725.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 585924,
+                "service_icon": "https:\/\/tweakcn.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/tweakcn.com\/editor\/theme?p=mail",
+                "fallback": "tweakcn: Beautiful themes for shadcn\/ui — tweakcn | Theme Editor &amp; Generator",
+                "text": "Customize theme for shadcn\/ui with tweakcn's interactive editor. Supports Tailwind CSS v4, Shadcn UI, and custom styles. Modify properties, preview changes, and get the code in real time.",
+                "title": "Beautiful themes for shadcn\/ui — tweakcn | Theme Editor &amp; Generator",
+                "title_link": "https:\/\/tweakcn.com\/editor\/theme?p=mail",
+                "service_name": "tweakcn"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rXCWI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/tweakcn.com\/editor\/theme?p=mail"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06QAS7FPUH",
+        "type": "message",
+        "ts": "1771324031.515959",
+        "client_msg_id": "4c8aff46-7049-42af-8856-e9dc125e8db9",
+        "text": "<@U018T4T64FR> I agree with dark matter, I don't like dark mode destructive tones being greenish. We can update it of course.",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "e6c03bfa2940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6814162374787_e6c03bfa29409aabbabf_72.jpg",
+            "first_name": "Enes",
+            "real_name": "Enes Zorlu",
+            "display_name": "Enes Zorlu",
+            "team": "T0197SMV2MQ",
+            "name": "enes.zrl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770905021.207739",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oC8ot",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U018T4T64FR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I agree with dark matter, I don't like dark mode destructive tones being greenish. We can update it of course."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06QAS7FPUH",
+        "type": "message",
+        "ts": "1771324246.656639",
+        "client_msg_id": "eabe2f3c-a528-45c2-b0ee-09e1b9cd993e",
+        "text": "<@U05JJ8QHBHB> thanks darling. I will update to them today and send a anonymous voting to all of you to vote for default theme that you would use.\n\n<@U018T4T64FR> yes, landing page does not align on some themes (especially in dark) and I did not want to stuck on it as you already said you will re-do landing page. So we can rework UI as well.",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "e6c03bfa2940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6814162374787_e6c03bfa29409aabbabf_72.jpg",
+            "first_name": "Enes",
+            "real_name": "Enes Zorlu",
+            "display_name": "Enes Zorlu",
+            "team": "T0197SMV2MQ",
+            "name": "enes.zrl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770905021.207739",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qqBZk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05JJ8QHBHB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thanks darling. I will update to them today and send a anonymous voting to all of you to vote for default theme that you would use.\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U018T4T64FR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " yes, landing page does not align on some themes (especially in dark) and I did not want to stuck on it as you already said you will re-do landing page. So we can rework UI as well."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U018T4T64FR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05JJ8QHBHB",
+        "type": "message",
+        "ts": "1771325637.544739",
+        "client_msg_id": "145c70df-0507-4453-8604-522980c99325",
+        "text": "Thank you <@U06QAS7FPUH>. In TweakCN Dark Matter Theme i updated destructive colour to red. <@U018T4T64FR>",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "556fa38c8288",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-04\/6301065375105_556fa38c8288bf8c651a_72.png",
+            "first_name": "Eve",
+            "real_name": "Eve",
+            "display_name": "",
+            "team": "T0197SMV2MQ",
+            "name": "foldesieva25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770905021.207739",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KBZOc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06QAS7FPUH"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". In TweakCN Dark Matter Theme i updated destructive colour to red. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U018T4T64FR"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06QAS7FPUH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U018T4T64FR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

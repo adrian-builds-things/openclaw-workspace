@@ -19,3 +19,9 @@ Wer impulsiv startet, hört meist auch impulsiv auf. Gewohnheiten werden stabile
 ## Verknüpfungen
 - Übersicht: [[knowledge/video-notes/INDEX|Video-Notizen Index]]
 - Umsetzungskontext: [[memory/2026-02-18|Daily Memory 2026-02-18]]
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

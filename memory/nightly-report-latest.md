@@ -12,7 +12,7 @@
   4. **Outreach Scripts** – LinkedIn + Email + Follow-ups + Value-add templates
   5. **48h Execution Plan** – 10 targets + 10 messages action plan
 - Updated taskboard to mark sales kit as completed
-- Consolidated all assets into `biteclub-sales-kit.md` for easy review
+- Consolidated all assets into `[[biteclub-sales-kit]]` for easy review
 
 ## Business Impact
 - **Immediate Revenue Potential:** Sales kit enables Adrian to start outreach tomorrow morning
@@ -21,17 +21,17 @@
 - **Scalability:** Assets can be reused for future sales cycles
 
 ## Files Changed
-- `biteclub/sales/01_ICP_DEEP_DIVE.md` (2.4 KB)
-- `biteclub/sales/02_PRICING_PACKAGES.md` (1.5 KB)
-- `biteclub/sales/03_LEAD_SOURCING_GUIDE.md` (1.9 KB)
-- `biteclub/sales/04_OUTREACH_SCRIPTS_EXPANDED.md` (2.6 KB)
-- `biteclub/sales/05_EXECUTION_PLAN.md` (0.7 KB)
-- `biteclub-sales-kit.md` (3.0 KB, consolidated)
-- `plans/biteclub-taskboard.md` (1.9 KB, updated)
+- `[[biteclub/sales/01_ICP_DEEP_DIVE]]` (2.4 KB)
+- `[[biteclub/sales/02_PRICING_PACKAGES]]` (1.5 KB)
+- `[[biteclub/sales/03_LEAD_SOURCING_GUIDE]]` (1.9 KB)
+- `[[biteclub/sales/04_OUTREACH_SCRIPTS_EXPANDED]]` (2.6 KB)
+- `[[biteclub/sales/05_EXECUTION_PLAN]]` (0.7 KB)
+- `[[biteclub-sales-kit]]` (3.0 KB, consolidated)
+- `[[plans/biteclub-taskboard]]` (1.9 KB, updated)
 
 ## What Adrian Should Review <10 min
-1. **biteclub-sales-kit.md** – Complete overview of all sales assets
-2. **plans/biteclub-taskboard.md** – Updated status and next steps
+1. **[[biteclub-sales-kit]]** – Complete overview of all sales assets
+2. **[[plans/biteclub-taskboard]]** – Updated status and next steps
 3. **branch:** `feature/biteclub-sales-v2` with commit `f49a4d42`
 
 ## Ready For
@@ -39,3 +39,8 @@
 - Lead list building (use the 4 methods in the sourcing guide)
 - Pilot offer pitching (€490 setup + 30 days free)
 - Sales tracking setup (add columns to Excel/Notion)
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

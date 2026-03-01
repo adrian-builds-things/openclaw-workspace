@@ -711,3 +711,9 @@ Gesamt Meetings: **74**
 - Teilnehmer: Susannah DuRant <susannah.durant@fathom.video>, Adrian Rinnus <adrian.rinnus@gmail.com>
 - Hauptthema: (kein Summary/Transcript verfügbar)
 - Link: https://fathom.video/share/xN1WF2EsRNysxaizEWmc1EcXRhpVkjGt
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

@@ -40,3 +40,8 @@ Meetings: **17**
   - Hauptinhalt: Daily check-in and discussion between Marc and Adrian on content creation, personal projects, and life updates.
 - 2025-05-20 · **Sonstiges - Impromptu** · Marc - Adrian Daily · [Transcript](https://fathom.video/share/BztxXgFJY4Rp4znUbdFfEkdFJehzTwhz)
   - Hauptinhalt: Daily check-in and progress update between Marc-Jannis and Adrian, discussing personal projects and challenges.
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

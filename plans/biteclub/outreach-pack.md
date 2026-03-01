@@ -141,3 +141,9 @@ Great. Often the win is not replacing everything, but improving visibility and r
 - Personalize first line + one context detail minimum.
 - Don’t send unchanged templates.
 - Track replies by message type (problem-led vs trigger-led) to improve copy quickly.
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

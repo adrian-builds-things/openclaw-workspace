@@ -112,3 +112,9 @@ Wenn gewünscht, erstelle ich als Nächstes direkt:
 1) die Scorecard-Vorlage,
 2) 3 konkrete Nischenvorschläge passend zu Bite Club + MindTrajour,
 3) ein erstes Seiten-/Datenmodell für den Gewinner.
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

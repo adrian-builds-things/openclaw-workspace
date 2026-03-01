@@ -45,3 +45,9 @@
 
 ## 9) Blocker für 100% revisionssichere Einzeltrade-Sicht
 - [x] Fehlende Primärdaten benannt: Activity Statement Detailed inkl. Trades/Fills/Exec-ID/FX-Transaktionen
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

@@ -45,7 +45,7 @@ Set up GitHub and Vercel so you can create repos, push code, and deploy websites
 ====================================
 6. THE DEEP-DIVE INTERVIEW (Personalization)
 ====================================
-Interview-Prompt zur Profilerstellung für USER.md.
+Interview-Prompt zur Profilerstellung für [[USER]].
 
 ====================================
 7. CHATGPT/CLAUDE HISTORY IMPORT
@@ -63,7 +63,7 @@ Prompt für 20 priorisierte Use Cases.
 Prompt zur Skill-Erstellung.
 
 ====================================
-10. SET UP HEARTBEAT (Proactive Monitoring)
+10. SET UP [[HEARTBEAT]] (Proactive Monitoring)
 ====================================
 Prompt für Heartbeat-Ideen.
 
@@ -80,3 +80,9 @@ Weitere Audit-, Automations-, Skill-, Sub-Agent- und Systemoptimierungs-Prompts.
 ---
 
 Hinweis: Das Originaldokument enthält alle Punkte im vollen Wortlaut. Falls du willst, speichere ich im nächsten Schritt eine 1:1 Vollabschrift als separaten Raw-Export ab.
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

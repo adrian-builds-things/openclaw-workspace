@@ -1,0 +1,3756 @@
+{
+  "transcript": [
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And if not, then it's also fine.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "How are you?",
+      "timestamp": "00:00:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ah, no, it's recording, it says at least.",
+      "timestamp": "00:00:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "I'm great, actually, for working.",
+      "timestamp": "00:00:06"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "I had pretty hard weekends.",
+      "timestamp": "00:00:09"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "How are you?",
+      "timestamp": "00:00:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "What was your main focus of work?",
+      "timestamp": "00:00:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I'm working on a small side project at the moment.",
+      "timestamp": "00:00:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And on the weekend, my girlfriend was on a wedding.",
+      "timestamp": "00:00:25"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And my daughter was not here, so I had some time.",
+      "timestamp": "00:00:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So I was sitting there, beginning at 6 in the evening until 4 o'clock in the morning, working on a side project.",
+      "timestamp": "00:00:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah.",
+      "timestamp": "00:00:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And then sleeping for three hours and continuing.",
+      "timestamp": "00:00:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So anyways, but it was fun.",
+      "timestamp": "00:00:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "It's still fun.",
+      "timestamp": "00:00:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So let's see how we're getting there.",
+      "timestamp": "00:00:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "It's a canteen management for a construction company.",
+      "timestamp": "00:00:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So they want to manage their food orders.",
+      "timestamp": "00:00:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "All those.",
+      "timestamp": "00:00:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "All",
+      "timestamp": "00:01:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And what was your job on the weekend that was hard?",
+      "timestamp": "00:01:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Yeah, was waitlist landing page deployment and all this stuff.",
+      "timestamp": "00:01:09"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "I actually spent pretty a lot of time on it.",
+      "timestamp": "00:01:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "And honestly, I over-engineered it completely, but I liked it anyway, so yeah.",
+      "timestamp": "00:01:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I'm interested in how it looks.",
+      "timestamp": "00:01:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Yeah, we'll share it when I manage finalist deployment with Marcel.",
+      "timestamp": "00:01:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "It's not working to deploy?",
+      "timestamp": "00:01:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "I have some issue with packages, so yeah.",
+      "timestamp": "00:01:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "It's like deploying, because Marcel is very easy and easy to use, I would say.",
+      "timestamp": "00:01:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "But some is not packages and all this stuff.",
+      "timestamp": "00:01:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Dependency is sometimes crazy.",
+      "timestamp": "00:01:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay.",
+      "timestamp": "00:01:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, I was also reworking our landing page last week.",
+      "timestamp": "00:01:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "much.",
+      "timestamp": "00:01:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "you.",
+      "timestamp": "00:01:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, not yet there.",
+      "timestamp": "00:02:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "missing some links and stuff like that, but my deaf colleague will tackle that one as long as I'm working on a site project, so I'm also okay.",
+      "timestamp": "00:02:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I can show you if you want to.",
+      "timestamp": "00:02:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, yes.",
+      "timestamp": "00:02:16"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Actually, I would like to hear more about your purpose vision on this project, because I think we have pretty similar some concepts.",
+      "timestamp": "00:02:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, so what we are working on is a trading journal, so where traders can just note down their trades and it's specifically for options in that sense.",
+      "timestamp": "00:02:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So we are niching down.",
+      "timestamp": "00:02:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "We had one created a very general one for all the traders, but that was not adapted to the market.",
+      "timestamp": "00:02:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "We failed pretty hard.",
+      "timestamp": "00:02:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And now we are just focusing on options in the first moment.",
+      "timestamp": "00:02:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And yeah.",
+      "timestamp": "00:02:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I can also show you the app.",
+      "timestamp": "00:03:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "That's not the point.",
+      "timestamp": "00:03:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Exactly.",
+      "timestamp": "00:03:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "it's more or less, you are just documenting what you are trading in the first moment to get insights, which strategies are useful for you, which assets are good for you.",
+      "timestamp": "00:03:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And also you have the possibility to note down your emotional state while trading to get some insights on that.",
+      "timestamp": "00:03:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And we are thinking about AI summaries and some action recommendations for you, how to treat your trading better in that sense.",
+      "timestamp": "00:03:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So that's the idea of it.",
+      "timestamp": "00:03:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I need to clean it up.",
+      "timestamp": "00:03:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "I like this UI.",
+      "timestamp": "00:03:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "It's very interesting.",
+      "timestamp": "00:03:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "It's hooking enough, I would say.",
+      "timestamp": "00:03:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah.",
+      "timestamp": "00:03:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Thank you.",
+      "timestamp": "00:03:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And I can also show you the application.",
+      "timestamp": "00:03:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "This is the old landing page.",
+      "timestamp": "00:03:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "It's not really aligned to our brand, but anyways.",
+      "timestamp": "00:03:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So this is more or less it.",
+      "timestamp": "00:04:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So you have the table with all the trades you did.",
+      "timestamp": "00:04:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "You have here some, yeah, all the logs, what you have traded in that sense, and also some statistics about it.",
+      "timestamp": "00:04:05"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And then you have the dashboard here.",
+      "timestamp": "00:04:16"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "System for trades, or you could execute, sorry, so you could execute some trades through it, or it's more like a note taking and just writing the trades.",
+      "timestamp": "00:04:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "For now it's just a note taking.",
+      "timestamp": "00:04:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "We are also thinking about working on TradingView integration that you can plan your trading view.",
+      "timestamp": "00:04:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "You get it in our application, and then we pull the data from the broker to have that planning execution mirror more or less that you see what you planned, what you did, and what happened.",
+      "timestamp": "00:04:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "We had to get more insights.",
+      "timestamp": "00:04:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Do you have a plan?",
+      "timestamp": "00:04:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Are you acting according to the plan and stuff like that?",
+      "timestamp": "00:04:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "We also have here some kind of checklist where you can check off what, before you start the trade, if it is right.",
+      "timestamp": "00:05:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "This is more aligned to the planning part.",
+      "timestamp": "00:05:06"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "The old application, wait, I can pretty much also show you the old application.",
+      "timestamp": "00:05:09"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "No, I can't.",
+      "timestamp": "00:05:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay.",
+      "timestamp": "00:05:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "There is a forwarding, so I...",
+      "timestamp": "00:05:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Could I?",
+      "timestamp": "00:05:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Let's see.",
+      "timestamp": "00:05:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I'm not sure if I can.",
+      "timestamp": "00:05:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "You?",
+      "timestamp": "00:05:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "No, I can't.",
+      "timestamp": "00:05:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay, I forgot the links.",
+      "timestamp": "00:05:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Anyways, yeah, and you have here the possibility of a checklist and you can add some notes and also the emotion tracker where I can note down how you felt or just using emojis, stuff like that, yeah.",
+      "timestamp": "00:05:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "This is pretty much it for now.",
+      "timestamp": "00:05:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "It's actually very interesting.",
+      "timestamp": "00:05:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "I really like the...",
+      "timestamp": "00:05:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "In of connecting the emotions to each trade, because I had several years experience of trading crypto and stocks, and yeah, actually emotions is like the best metric, because when you know that you feel fear or you feel FOMO, and so you know that your trade may be wrong.",
+      "timestamp": "00:06:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Revenge trading is always a thing I was used to.",
+      "timestamp": "00:06:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Oh, there is a loss.",
+      "timestamp": "00:06:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Oh, no, I'm getting in.",
+      "timestamp": "00:06:34"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I will get the return back.",
+      "timestamp": "00:06:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "you.",
+      "timestamp": "00:06:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Yeah, this emotional exit is the worst one, when it's down just several percent, and you are exiting instead of waiting.",
+      "timestamp": "00:06:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Yeah, exactly.",
+      "timestamp": "00:06:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So that was also the thing that I observed, and the reason why I was focusing on the emotional part.",
+      "timestamp": "00:06:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "The funny thing is, even in",
+      "timestamp": "00:06:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Old version, no one was using the emotion tracker, so everyone is just logging the traits, no one is using the emotional thing, because they don't have it in mind that it's important.",
+      "timestamp": "00:07:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "let's see.",
+      "timestamp": "00:07:10"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Let's see how that one...",
+      "timestamp": "00:07:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Sorry, internet connection was lost.",
+      "timestamp": "00:07:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Could you repeat?",
+      "timestamp": "00:07:16"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Sure.",
+      "timestamp": "00:07:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I just said, even with the old version, no one was using the emotion tracker.",
+      "timestamp": "00:07:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Everyone was just...",
+      "timestamp": "00:07:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So the old version was not used at all.",
+      "timestamp": "00:07:25"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "It was too complex.",
+      "timestamp": "00:07:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "There was a three-step process, planning, execution, review, and no one was using it properly, so that was a bit .",
+      "timestamp": "00:07:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, no.",
+      "timestamp": "00:07:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And here we didn't see anyone using the emotion tracker.",
+      "timestamp": "00:07:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I'm not sure if people are aware of the crucial fact in that sense.",
+      "timestamp": "00:07:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Anyways, let's see.",
+      "timestamp": "00:07:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Oh, yeah.",
+      "timestamp": "00:07:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "IOP MVP stage currently?",
+      "timestamp": "00:07:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yes, and we also have a business partner who is...",
+      "timestamp": "00:07:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "He is...",
+      "timestamp": "00:07:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Educator, and he's educating option trading, so he will now share the trade journal with his community and the new cohort, which we start in two weeks or in one week, and we'll also use it as the main trading journal, and beginning from September, all the users from him who are starting get a year of subscription included in his price, so we get the payment from him, and we have some clients because they're used to the tour later on, hopefully, and it's a matter of habit that they return.",
+      "timestamp": "00:08:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So that's already a good start, and we can learn a lot from the users there, and yeah, let's see.",
+      "timestamp": "00:08:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Okay, yeah, thank you for sharing.",
+      "timestamp": "00:08:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "That sounds interesting.",
+      "timestamp": "00:08:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Just a second, I would like to start my project so I could share the screen and show it.",
+      "timestamp": "00:08:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, I'm also very interested.",
+      "timestamp": "00:08:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And where do you live in Ukraine?",
+      "timestamp": "00:09:06"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "I live in Aviv.",
+      "timestamp": "00:09:09"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Just a second, please.",
+      "timestamp": "00:09:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Hello.",
+      "timestamp": "00:09:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "How about you?",
+      "timestamp": "00:09:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Can I get back you?",
+      "timestamp": "00:09:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I'm on a meeting right now.",
+      "timestamp": "00:09:25"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I'll right back.",
+      "timestamp": "00:09:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, ciao.",
+      "timestamp": "00:09:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Sorry.",
+      "timestamp": "00:09:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "It was my girlfriend.",
+      "timestamp": "00:09:34"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "had an online meeting and I wasn't sure if that one was working, so I know I'm back.",
+      "timestamp": "00:09:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So where are you located in Ukraine?",
+      "timestamp": "00:09:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "I'm located in Aviv.",
+      "timestamp": "00:09:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "It's near Poland.",
+      "timestamp": "00:09:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay.",
+      "timestamp": "00:09:44"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "The closest city, big city to the Poland.",
+      "timestamp": "00:09:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Okay, it started.",
+      "timestamp": "00:09:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "So while it's loading, so I'm building a startup.",
+      "timestamp": "00:09:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Our goal is, first of all, to target the B2C market, the real clients, traders, and it's currently about crypto traders, but we are also interested and looking for taking a wider market, but yeah, first of all, we want a more focused niche so we could succeed in it and then we could scale.",
+      "timestamp": "00:10:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "So it's a chat assistant that would be connected to different data sources such as exchanges.",
+      "timestamp": "00:10:25"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Also, it would be connected to different analysis tools.",
+      "timestamp": "00:10:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "sorry, hard to manage.",
+      "timestamp": "00:10:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "I had not a lot of sleep today.",
+      "timestamp": "00:10:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "yeah, just second, let me formulate it.",
+      "timestamp": "00:10:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Okay, so the main idea is to connect the different data sources.",
+      "timestamp": "00:10:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "So was the user could just ask for .",
+      "timestamp": "00:10:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": ".",
+      "timestamp": "00:11:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": ".",
+      "timestamp": "00:11:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": ".",
+      "timestamp": "00:11:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": ".",
+      "timestamp": "00:11:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "For Morning Crypto Check, and our tool will give him the 10 most important news, also would give us how the different coins reacted to each news, so for example, when Trump says something, Bitcoin is up by 5%, so it's the main idea to have this tool where traders could check all the information and connect the different sources using KI, and just English words, I would say, so yeah, that's the main idea, and our goal is also, one of our goal is also to eliminate this FOMO or other emotion trading, so when AI gives you some insights and specific information, for example, Bitcoin could be going down for 10%, and the trader could ask, are there any real reasons for this?",
+      "timestamp": "00:11:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Thank",
+      "timestamp": "00:12:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Sorry, it's just manipulation.",
+      "timestamp": "00:12:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "So this is how we are going to eliminate this emotion trading.",
+      "timestamp": "00:12:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "And that's also cool.",
+      "timestamp": "00:12:06"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Good idea.",
+      "timestamp": "00:12:07"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So to have some sparing partner that you can ask, is this a real threat or is it just my emotions getting...",
+      "timestamp": "00:12:08"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah.",
+      "timestamp": "00:12:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "In that sense.",
+      "timestamp": "00:12:16"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, cool.",
+      "timestamp": "00:12:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, good idea.",
+      "timestamp": "00:12:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "And let me share the whitelist page.",
+      "timestamp": "00:12:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "It was really funny when I was looking at your tweets and I saw your display and then that you are using Superbase.",
+      "timestamp": "00:12:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And what was the other one?",
+      "timestamp": "00:12:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I'm not sure.",
+      "timestamp": "00:12:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So it was a very, very much end with the things I do.",
+      "timestamp": "00:12:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "The only thing that is different is you're working on and window.",
+      "timestamp": "00:12:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And I'm using Linux, now I have switched to Mac OS at all, but this is the only difference, I guess.",
+      "timestamp": "00:13:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Yeah, I'm actually going to switch to Mac OS also.",
+      "timestamp": "00:13:09"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "I don't like Windows, but...",
+      "timestamp": "00:13:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Mac OS is such a game changer.",
+      "timestamp": "00:13:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So I was working on Linux for four years, I guess, and it was...",
+      "timestamp": "00:13:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I liked it, but it was always pain in the .",
+      "timestamp": "00:13:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Every update was pain in the .",
+      "timestamp": "00:13:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And now Mac OS is just, , it just switched on the machine and it's working, what the hell?",
+      "timestamp": "00:13:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So it's crazy and it's too convenient, you know?",
+      "timestamp": "00:13:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Everything works out of the box.",
+      "timestamp": "00:13:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Anyway, okay, let's see.",
+      "timestamp": "00:13:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Yeah, so this is a waitlist page currently.",
+      "timestamp": "00:13:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "So our target customers, I would say, is Gen Z and pretty young users.",
+      "timestamp": "00:13:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "So yeah, goal was to make it like cooking, I would say.",
+      "timestamp": "00:13:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Mac Okay.",
+      "timestamp": "00:13:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "I'm we're switch.",
+      "timestamp": "00:13:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "All right.",
+      "timestamp": "00:14:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Here is the hook for entering the Telegram ID, because our initial platform for this chat assistant would be Telegram, and then it's the standard problem, solution, our difference, and the user should choose us.",
+      "timestamp": "00:14:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "May I give you a hint there?",
+      "timestamp": "00:14:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yes, sure.",
+      "timestamp": "00:14:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "When I was building the landing page, additionally, release it first, and then rework it, because it's good enough.",
+      "timestamp": "00:14:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "This is also my common thing that I'm trying to build to perfection, and this is not working.",
+      "timestamp": "00:14:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "But the order of the sections, what you could add is a benefits thing.",
+      "timestamp": "00:14:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So, okay, a user has a problem, it's good that you are stating out the pain point and the problem in the beginning, and then the question is, okay, be be content.",
+      "timestamp": "00:14:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "You are selling features now, in that sense, okay.",
+      "timestamp": "00:15:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Yeah, no, actually, it's like the flow of a problem, benefits, PaaS benefits is a solution, and then we have a feature.",
+      "timestamp": "00:15:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay, okay, got it, you're right, then, okay, awesome, exactly, that was, I was, the solution was for me already features, but no, you're right, it's the benefits, and then you are heading to the features.",
+      "timestamp": "00:15:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay, got it.",
+      "timestamp": "00:15:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah.",
+      "timestamp": "00:15:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "It's actually a pretty working user experience strategy, like, to go through all these emotions, concerns, and then offer.",
+      "timestamp": "00:15:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Yeah.",
+      "timestamp": "00:15:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Yeah, here's the offer.",
+      "timestamp": "00:15:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Okay.",
+      "timestamp": "00:15:44"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Yeah, and it's actually one part of our initial product, the other part is that we are going to target the B2B.",
+      "timestamp": "00:15:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "B2B, for B2B, we are, want to find, uh,",
+      "timestamp": "00:15:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Businesses that may be interested in this AI assistant or in some custom solution in future.",
+      "timestamp": "00:16:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "So when we will establish our product, we want to use our architecture, APIs, etc.",
+      "timestamp": "00:16:08"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "To make it easy for other businesses just to paint a CGO model and use our API for getting this chat assistant into any of their sites, whatever.",
+      "timestamp": "00:16:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "could be anything.",
+      "timestamp": "00:16:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So we have something like that.",
+      "timestamp": "00:16:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "I think in future we could have some points for collaborations and it might be interesting.",
+      "timestamp": "00:16:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Sure.",
+      "timestamp": "00:16:44"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Your tech stack, you also, you are using Superbase.",
+      "timestamp": "00:16:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And what do you use for backend or do you have a backend at all?",
+      "timestamp": "00:16:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Do you build with Next.js and using the Next.js backend or how do you build?",
+      "timestamp": "00:16:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "We have a lot of backend because...",
+      "timestamp": "00:16:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "It's a chat assistant with not just an AI, it's a full architecture connecting like five, ten data sources and also the AI flow.",
+      "timestamp": "00:17:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "So we are synthesizing all the data sources, we are evaluating them, we are filtering them.",
+      "timestamp": "00:17:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "So for this we have to use something that could be scalable and it's of course Azure.",
+      "timestamp": "00:17:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "And when we choose Azure, we decided to stick with .NET and also Microsoft architecture.",
+      "timestamp": "00:17:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay.",
+      "timestamp": "00:17:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "So yeah, currently it's deployed on Azure.",
+      "timestamp": "00:17:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay.",
+      "timestamp": "00:17:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay.",
+      "timestamp": "00:17:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And what about you?",
+      "timestamp": "00:17:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "What do you use for backend?",
+      "timestamp": "00:17:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Our backend is pretty simple, it's just Superbase.",
+      "timestamp": "00:17:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Superbase with all the data and Next.js frontend and the backend routes that we have to use are also built in Next.js.",
+      "timestamp": "00:17:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So that's pretty much it.",
+      "timestamp": "00:17:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "It's not that backend intense at the moment because it's just data.",
+      "timestamp": "00:17:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Yeah, actually, usually it's always very good when your product is simple in backend site because it requires a lot of attention and time just to support or scale this thing.",
+      "timestamp": "00:18:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Yeah, that's true.",
+      "timestamp": "00:18:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Yeah, for example, for us, currently the backend staff, all the backend work is one person full time.",
+      "timestamp": "00:18:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "It's taken full time of one person.",
+      "timestamp": "00:18:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "So it's sometimes complex, but we have to do it anyway.",
+      "timestamp": "00:18:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And what is missing on your site to release it?",
+      "timestamp": "00:18:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "It's missing that I couldn't deploy it correctly in Varsal.",
+      "timestamp": "00:18:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "And also another part is I haven't yet correctly connected.",
+      "timestamp": "00:18:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "can't get this.",
+      "timestamp": "00:18:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "It's not a big issue because it's just a matter of some minutes probably, but first of all, I want to deploy it and then I will connect the super base because I think this probably will use some versal serverless or anything like that for the simple backend to connect super base and PA will need more attention.",
+      "timestamp": "00:19:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "May I wait just a second?",
+      "timestamp": "00:19:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah.",
+      "timestamp": "00:19:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I will share some code with you in a second.",
+      "timestamp": "00:19:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "New England.",
+      "timestamp": "00:19:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "This one.",
+      "timestamp": "00:19:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And catch up there, yeah.",
+      "timestamp": "00:19:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "This is not a telegram, but it's our...",
+      "timestamp": "00:19:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "What the hell?",
+      "timestamp": "00:19:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ah, no, it's this one.",
+      "timestamp": "00:19:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "hand!",
+      "timestamp": "00:19:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah.",
+      "timestamp": "00:19:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah.",
+      "timestamp": "00:19:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "OK, Nice to Thanks,",
+      "timestamp": "00:19:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Another project again, this window.",
+      "timestamp": "00:20:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "It's an email waitlist.",
+      "timestamp": "00:20:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I can send you the code, how I handled it, so that you have an idea.",
+      "timestamp": "00:20:05"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, it will be actually very useful.",
+      "timestamp": "00:20:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "So use custom solution in sending emails in Superbase?",
+      "timestamp": "00:20:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Yeah.",
+      "timestamp": "00:20:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Or do you use some...",
+      "timestamp": "00:20:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay.",
+      "timestamp": "00:20:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I'm sharing my screen again to show you what I did there.",
+      "timestamp": "00:20:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I'm just thinking what is the best to share.",
+      "timestamp": "00:20:34"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I'm sharing this whole screen, move you there.",
+      "timestamp": "00:20:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So then here we go.",
+      "timestamp": "00:20:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So I was also working on another project.",
+      "timestamp": "00:20:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "The idea was to have some AI-guided journal where you enter the quality of your day and what you did to get some AI recommendations to improve your life in that sense.",
+      "timestamp": "00:20:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And that was it.",
+      "timestamp": "00:20:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I was building there, and wait, I need a browser, another one here, so this is more or less the page, pretty simple page, and we also have the waitlist thingy here, and Superbase looks like that, it's just a simple, restore project, understood, ah, , okay, anyways, table editor, I'm not able to see it, okay, it's just one table with email address in that sense, so nothing special, and what I'm doing here is, it's a server action, and I'm just, I have a thing, create Superbase server client, and I'm just writing into Superbase the email address, that's",
+      "timestamp": "00:21:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Yeah, simplicity is a key.",
+      "timestamp": "00:22:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Yeah, exactly.",
+      "timestamp": "00:22:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "What I also have is a unique constraint on the email that it's just allowed once and if not you get the arrow back.",
+      "timestamp": "00:22:06"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So I can send you the server action and also how I have created the super-based server in that sense.",
+      "timestamp": "00:22:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, it would be actually useful for me.",
+      "timestamp": "00:22:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Okay, I will send it to you.",
+      "timestamp": "00:22:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yes, thank you.",
+      "timestamp": "00:22:25"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And also how I can, you know what, I will just share the whole landing page with you so you have the stuff there.",
+      "timestamp": "00:22:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I think that's the easiest one.",
+      "timestamp": "00:22:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Yeah, sure.",
+      "timestamp": "00:22:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "It would be really useful for me because currently it's my next task to do.",
+      "timestamp": "00:22:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Yeah, but then it's an easy one, you know, if you have all the things there.",
+      "timestamp": "00:22:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah.",
+      "timestamp": "00:22:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, I was into the three fives.",
+      "timestamp": "00:22:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Give me a second, I'm sending it out.",
+      "timestamp": "00:23:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Jip, jip, jip, jip.",
+      "timestamp": "00:23:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Uh-huh.",
+      "timestamp": "00:23:07"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay, back.",
+      "timestamp": "00:23:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Waitlist.",
+      "timestamp": "00:23:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So, where am I?",
+      "timestamp": "00:23:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Sometimes I'm still a bit lost on my machine.",
+      "timestamp": "00:23:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I don't know.",
+      "timestamp": "00:23:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I'm not 100% used to the macOS structure, but anyways, I'm getting there.",
+      "timestamp": "00:23:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "No, you see?",
+      "timestamp": "00:23:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "What do have?",
+      "timestamp": "00:23:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Do you have Macbook or Mac mini or anything like that?",
+      "timestamp": "00:23:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Sorry?",
+      "timestamp": "00:23:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "What do you have for laptop?",
+      "timestamp": "00:23:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Is it Macbook or do you use Mac Macbook, yeah.",
+      "timestamp": "00:23:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Macbook Pro.",
+      "timestamp": "00:23:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Come on.",
+      "timestamp": "00:23:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "What is this?",
+      "timestamp": "00:23:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "A Macbook Pro, it?",
+      "timestamp": "00:23:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah.",
+      "timestamp": "00:23:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "and luck.",
+      "timestamp": "00:23:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Thank No, I'm not",
+      "timestamp": "00:23:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I'm really happy with it, but anyways, come on.",
+      "timestamp": "00:24:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "This is not the thing I'm looking for.",
+      "timestamp": "00:24:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "me find this.",
+      "timestamp": "00:24:08"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "What the hell?",
+      "timestamp": "00:24:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay, I will send it after the meeting to you.",
+      "timestamp": "00:24:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Don't waste time on that one.",
+      "timestamp": "00:24:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Okay.",
+      "timestamp": "00:24:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Good.",
+      "timestamp": "00:24:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And what are your next steps?",
+      "timestamp": "00:24:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Next step is to deploy and find some clients.",
+      "timestamp": "00:24:25"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "So I will try to balance between B2C and B2B.",
+      "timestamp": "00:24:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "I need B2C for initial traction.",
+      "timestamp": "00:24:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "I need B2C product to show some B2B how it could be used.",
+      "timestamp": "00:24:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "And that's the initial idea.",
+      "timestamp": "00:24:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "And after that, I'm going to a lot of B2B work called mailing, called messaging or any other stuff to do.",
+      "timestamp": "00:24:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "So yeah, sounds like that.",
+      "timestamp": "00:24:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, sounds like a plan.",
+      "timestamp": "00:24:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "is when the you've Okay, So happened.",
+      "timestamp": "00:24:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay, Okay, that's So",
+      "timestamp": "00:24:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So the product is already working?",
+      "timestamp": "00:25:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Yes, the product is working.",
+      "timestamp": "00:25:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "There are a lot of bugs, of course, but it is working, it is answering questions, and it is already deployed on Polygram.",
+      "timestamp": "00:25:06"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay, so what happens if I'm turning the waitlist?",
+      "timestamp": "00:25:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Do I get immediately access or not?",
+      "timestamp": "00:25:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "No, if you enter, for example, the waitlist, we will wait for some pretty working MVP.",
+      "timestamp": "00:25:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Because, of course, MVP shouldn't be ideal, but currently there are too much bugs for MVP.",
+      "timestamp": "00:25:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "So we will notify the users through Telegram.",
+      "timestamp": "00:25:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "It's an interesting choice because not everyone is using this Telegram waitlist.",
+      "timestamp": "00:25:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "But for our ICP, it was much better because Gen Z and young traders, they are not actually reading their messages.",
+      "timestamp": "00:25:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "So reaching out through the telegram just manually would give us initial profit.",
+      "timestamp": "00:26:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And do you also have an analytics in place on our application that you have some insights?",
+      "timestamp": "00:26:07"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Yeah, I'm going to connect Google Analytics.",
+      "timestamp": "00:26:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "May I suppose something else which I really enjoy and it's...",
+      "timestamp": "00:26:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I will also...",
+      "timestamp": "00:26:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Give me a second.",
+      "timestamp": "00:26:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Because this is freaking awesome.",
+      "timestamp": "00:26:25"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "The integration is very easy and the insights are, , it's crazy.",
+      "timestamp": "00:26:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "So that's a problem actually with Google Analytics.",
+      "timestamp": "00:26:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "I was connecting several times and it is very complex.",
+      "timestamp": "00:26:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "It's like, I don't know, maybe for large established enterprises, but for startup it's sometimes overkill.",
+      "timestamp": "00:26:44"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So this is post hoc.",
+      "timestamp": "00:26:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "You should have a look at it.",
+      "timestamp": "00:26:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And for example, you also have, like in Microsoft Clarity, you have the...",
+      "timestamp": "00:26:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "You have the session replays in here, you have web analytics, you have product analytics, everything in place, and it's free, free to use, it's just a JavaScript library that you have to add, and you can go crazy, can have heat maps here, can, oh, they have removed the messaging, , I want to have the messaging again.",
+      "timestamp": "00:27:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "You can do email messaging with your clients and a lot of stuff, so it's, yeah, crazy, you can do your feature flags, you can do A-B testing, you can run service to get immediately feedback, early access features, blah, blah, blah, error tracking.",
+      "timestamp": "00:27:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Oh, yeah, this is actually very useful, I would say, I haven't heard about it, could you share a name, because, ah, yep, okay.",
+      "timestamp": "00:27:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "It's called post hoc.",
+      "timestamp": "00:27:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Post hoc.",
+      "timestamp": "00:27:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yes, that looks cool.",
+      "timestamp": "00:28:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "know, already the landing page is so cool, hosthawk.com, I was always laughing when I was there.",
+      "timestamp": "00:28:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Here, the EU governor which accepts the data privacy and stuff like this, I really like it, it's so cool.",
+      "timestamp": "00:28:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah.",
+      "timestamp": "00:28:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So the landing page is already awesome, and as I said, the integration is crazy.",
+      "timestamp": "00:28:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Crazy simple, the insights are cool, and it's for free in the first moment, it's a very generous free tier.",
+      "timestamp": "00:28:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "have already the landing pages, yeah, it's so cool.",
+      "timestamp": "00:28:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, it's amazing.",
+      "timestamp": "00:28:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Not a boring one.",
+      "timestamp": "00:28:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "No.",
+      "timestamp": "00:28:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, this is something I can also recommend to you, it's very useful.",
+      "timestamp": "00:28:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Yeah, yeah, it could be useful.",
+      "timestamp": "00:28:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Sam.",
+      "timestamp": "00:29:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "For all your recommendations and also if you will need any ideas or anything like that with something related to AI, feel free to reach me because it's our main skill fork and maybe I could find something useful for you or could share something.",
+      "timestamp": "00:29:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "How do you use AI?",
+      "timestamp": "00:29:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Do you use Open Router or do you connect AI models directly?",
+      "timestamp": "00:29:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "We connect AI models directly.",
+      "timestamp": "00:29:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "We use OpenAI and we are pretty happy with it actually.",
+      "timestamp": "00:29:25"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "We are using currently Ofo Mini and for our work Ofo Mini is one of the best.",
+      "timestamp": "00:29:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "I also, we were comparing two models.",
+      "timestamp": "00:29:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "It was Ofo Mini and 2.5 flash from Gmini.",
+      "timestamp": "00:29:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "And I think Gmini is like slightly better one in terms of price and performance.",
+      "timestamp": "00:29:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "But because we are using casualty, it was much easier just to connect OpenAI.",
+      "timestamp": "00:29:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Mm-hmm.",
+      "timestamp": "00:29:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, also I'm always not satisfied with the results from Gemini.",
+      "timestamp": "00:30:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I don't like it.",
+      "timestamp": "00:30:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "It's crap to me.",
+      "timestamp": "00:30:05"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I don't know why.",
+      "timestamp": "00:30:06"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "When I have to choose, I'm always using ChatGPT or Cloud or whatever, but rarely Gemini because it's...",
+      "timestamp": "00:30:07"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Yeah, I agree.",
+      "timestamp": "00:30:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "And actually, there's a lot of interesting new ways currently to enhance the AI with the context.",
+      "timestamp": "00:30:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "So, for example, for your case, when there are trades and all these informations, I think you could investigate the MCP for Superbase or something like that.",
+      "timestamp": "00:30:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "So, it will work like that, that AI will have some APIs or something like that.",
+      "timestamp": "00:30:44"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "And when the AI needs additional information, it could go directly into DB and take the user-related information.",
+      "timestamp": "00:30:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "And it could do crazy stuff.",
+      "timestamp": "00:31:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "could do some crazy SQL queries to select only what it needs and something like that.",
+      "timestamp": "00:31:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Yeah, right.",
+      "timestamp": "00:31:08"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I was never thinking about using an MCP in the product.",
+      "timestamp": "00:31:09"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "It was for me always just IDE related.",
+      "timestamp": "00:31:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I'm connecting my Postgres to it, blah, blah, blah.",
+      "timestamp": "00:31:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "But sure, I can also use it in the product.",
+      "timestamp": "00:31:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "That's cool.",
+      "timestamp": "00:31:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Good idea, yeah?",
+      "timestamp": "00:31:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Actually, about MCP, it was like the main reason I started this project, because my name was released.",
+      "timestamp": "00:31:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "I just look at it and it's crazy.",
+      "timestamp": "00:31:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "It could do crazy stuff with all the other APIs connected.",
+      "timestamp": "00:31:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "It could just search through different data sources.",
+      "timestamp": "00:31:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "So, yeah, it could be useful, actually.",
+      "timestamp": "00:31:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "And we are currently using it and it's very good.",
+      "timestamp": "00:31:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "It's crazy.",
+      "timestamp": "00:31:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "like connected to MCPs and it's doing all the job from the beginning.",
+      "timestamp": "00:31:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "That's cool.",
+      "timestamp": "00:31:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay.",
+      "timestamp": "00:31:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "That's a really good idea.",
+      "timestamp": "00:31:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I have to think about it.",
+      "timestamp": "00:31:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "All right.",
+      "timestamp": "00:31:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Cool.",
+      "timestamp": "00:32:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So thank you for your time.",
+      "timestamp": "00:32:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I think that was already a really cool meeting.",
+      "timestamp": "00:32:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Let's stay in touch and let's see how we can support each other.",
+      "timestamp": "00:32:06"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Yeah, thank you.",
+      "timestamp": "00:32:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "It was actually a very productive meeting, I would say.",
+      "timestamp": "00:32:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Thank you for your insight and hope for future collaborations.",
+      "timestamp": "00:32:16"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Let's keep in touch.",
+      "timestamp": "00:32:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And just one thing that experience taught me, release as fast as you can.",
+      "timestamp": "00:32:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Because product market fit will punch you so hard in your face.",
+      "timestamp": "00:32:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "You know, I was working on my product for almost two years, not on one product, but on different iterations, but I was never releasing.",
+      "timestamp": "00:32:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And last year in August, we finally released through a waitlist of 1000 people.",
+      "timestamp": "00:32:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "We also messed up the waitlist because it was just .",
+      "timestamp": "00:32:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "But there was exactly five people using it for one time and then they stopped.",
+      "timestamp": "00:32:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So, and it was all the things, all the ideas in my mind.",
+      "timestamp": "00:32:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Oh, this is so cool.",
+      "timestamp": "00:32:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "you very much.",
+      "timestamp": "00:33:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "No, no one was using it.",
+      "timestamp": "00:33:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "was too complex.",
+      "timestamp": "00:33:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "It was too .",
+      "timestamp": "00:33:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And then we checked some things, built an onboarding, blah, blah, blah, and still they did not use it.",
+      "timestamp": "00:33:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So we decided in January to throw it all in the bin and rebuild it from scratch in an easy approach and test it much earlier and get feedback on that and blah, blah, blah.",
+      "timestamp": "00:33:10"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And that was what was actually moving the needle.",
+      "timestamp": "00:33:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So get feedback fast and don't over-engineer it.",
+      "timestamp": "00:33:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Don't run in perfection.",
+      "timestamp": "00:33:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I know the issues.",
+      "timestamp": "00:33:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I did it as well.",
+      "timestamp": "00:33:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And this is just my experience, what I can tell you.",
+      "timestamp": "00:33:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And release, even if it's buggy.",
+      "timestamp": "00:33:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "But then you see if people are actually using it, if there is a value behind it and in which direction you could move and build.",
+      "timestamp": "00:33:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And yeah, this is just what experience taught me.",
+      "timestamp": "00:33:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And I know it's hard to release something which is buggy and not in the shape you want to have it.",
+      "timestamp": "00:33:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "But there are so many users out there.",
+      "timestamp": "00:33:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "There are 7 billion people living on",
+      "timestamp": "00:33:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "This planet, you know, even if they are leaving ten or a hundred of them, you will get more if it's a product, so that doesn't matter.",
+      "timestamp": "00:34:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Yeah, yeah, thanks for advice.",
+      "timestamp": "00:34:09"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "I think I already felt into this trap slightly, but I'm trying to get me out as soon as possible and just release it.",
+      "timestamp": "00:34:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "You know, I'm also working since two weeks on a landing page.",
+      "timestamp": "00:34:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "What the , it's the same, yeah?",
+      "timestamp": "00:34:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, exactly.",
+      "timestamp": "00:34:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I'm still into that page, but I'm getting better.",
+      "timestamp": "00:34:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Okay, yeah, thank you, I love.",
+      "timestamp": "00:34:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I will send you the waitlist code and also, I can also send you the SQL code for the database that you have it.",
+      "timestamp": "00:34:34"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So you can, yeah, but it's one table newsletter created and then unique constraint on the newsletter and UID and that's it more or less, so nothing special.",
+      "timestamp": "00:34:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, okay.",
+      "timestamp": "00:34:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Yeah, yeah, the RLS.",
+      "timestamp": "00:34:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "The RLS.",
+      "timestamp": "00:34:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So no one is allowed to read it, but everyone is allowed to write it.",
+      "timestamp": "00:35:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So that's the RLS settings for the Superbase table in that sense, yeah.",
+      "timestamp": "00:35:05"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Okay, yeah, thank you.",
+      "timestamp": "00:35:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "And if you will decide to integrate MCP or AI summarizations, yeah, sure.",
+      "timestamp": "00:35:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Valentyn Kit",
+        "matched_calendar_invitee_email": "valentinkit14@gmail.com"
+      },
+      "text": "Have a nice day and a productive meeting.",
+      "timestamp": "00:35:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, thank you.",
+      "timestamp": "00:35:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Bye bye.",
+      "timestamp": "00:35:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And also, could you share the notes from AI?",
+      "timestamp": "00:35:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Hopefully it happens automatically, but I will also send it to you, sure.",
+      "timestamp": "00:35:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay, thank you.",
+      "timestamp": "00:35:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Bye bye.",
+      "timestamp": "00:35:37"
+    }
+  ]
+}

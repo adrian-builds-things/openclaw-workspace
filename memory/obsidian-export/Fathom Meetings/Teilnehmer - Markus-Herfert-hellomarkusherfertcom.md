@@ -14,3 +14,8 @@ Meetings: **4**
   - Hauptinhalt: Biweekly check-in on MindTrajour product development and upcoming launch with Markus Herfert's trading community.
 - 2025-05-19 · **MindTrajour** · Markus x MindTrajour Biweekly  · [Transcript](https://fathom.video/share/cnyV7V2iq53dnU7bfYDyeqMhWp56-m2J)
   - Hauptinhalt: Quick check-in and discussion on using a new meeting tool for efficiency.
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

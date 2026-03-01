@@ -1,0 +1,3500 @@
+{
+  "transcript": [
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Reconnecting.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Now, here we go.",
+      "timestamp": "00:00:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay.",
+      "timestamp": "00:00:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So, Luís.",
+      "timestamp": "00:00:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, so I wanted to quickly introduce Adrian.",
+      "timestamp": "00:00:06"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So we met for a while now.",
+      "timestamp": "00:00:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "We worked together in some small projects.",
+      "timestamp": "00:00:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And to keep it short, Adrian is a very experienced full-stack engineer and one of the smartest guys I know.",
+      "timestamp": "00:00:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So that's pretty much about it.",
+      "timestamp": "00:00:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And I thought you could bring great value to the project and potentially to make it as well faster to develop.",
+      "timestamp": "00:00:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, that's it.",
+      "timestamp": "00:00:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I would suggest, Zay, if you could, I'm sorry, but if you could go through your idea again and explain your pain points and so on.",
+      "timestamp": "00:00:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "What are you trying to solve for that, Adrian?",
+      "timestamp": "00:00:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah.",
+      "timestamp": "00:00:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Again, um…",
+      "timestamp": "00:00:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So if I can interrupt for a second, I think it makes sense if we have a little bit of a structured approach, so I would like to know how, so as far as I know, I can tell you what I already know, so it's about, you have some canteens for your construction site, and it's a mess, the workers order food, and you have a mess there, and you don't know how to handle it, that's the short version.",
+      "timestamp": "00:01:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So, I think what would be really helpful for us would be if you could describe how you usually do the meal ordering, and how this usually works nowadays, that we have an idea what is happening and what happens on your site.",
+      "timestamp": "00:01:25"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So, on this point, the workers doesn't choose any food, so we give the round numbers to the cookers.",
+      "timestamp": "00:01:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "We have, on this moment, three canteens working, in the beginning or in the ending of the...",
+      "timestamp": "00:01:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "week, we give the numbers that we think that they have to cook, so for the lunch and for the dinner, including the weekends.",
+      "timestamp": "00:02:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay, now we are finishing a new canteen that's gonna join two of those three canteens, gonna be a central canteen.",
+      "timestamp": "00:02:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "But we have a problem.",
+      "timestamp": "00:02:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "We have Muslim guys, we have Indian guys, we have Portuguese guys, and sometimes they cannot control the food they serve to each one.",
+      "timestamp": "00:02:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And sometimes they mix everything.",
+      "timestamp": "00:02:44"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "There are some Muslim guys that doesn't have food to eat, and they take the food in the morning to the sites, the work sites.",
+      "timestamp": "00:02:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I don't know the name in English.",
+      "timestamp": "00:02:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "you We say...",
+      "timestamp": "00:02:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "That's",
+      "timestamp": "00:03:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And they mix up and it's a mess because the guy is there for a long period without eating nothing.",
+      "timestamp": "00:03:05"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Sometimes they cannot share the food because it has pork or cow and it's a mess, handling with the problems of the site and then the problems with the food and so we try to find, we are trying to find a solution for the cookers and for the workers and for us, essentially for us.",
+      "timestamp": "00:03:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "The idea, it starts like we're gonna fix a menu for three weeks.",
+      "timestamp": "00:03:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It's a fixed menu every three weeks.",
+      "timestamp": "00:03:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So in the end of three weeks it starts, okay?",
+      "timestamp": "00:03:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "of Okay?",
+      "timestamp": "00:03:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:04:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "But we have to, we have some special occasions that we need to change the menu.",
+      "timestamp": "00:04:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It's not going to be so often.",
+      "timestamp": "00:04:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It's going to be like three or four times per year that we change the menu.",
+      "timestamp": "00:04:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So the guys like me must have that kind of permission to change the menu.",
+      "timestamp": "00:04:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And the guys, the workers, they only have to choose what they want to eat, basically.",
+      "timestamp": "00:04:34"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So until Saturday, they have to choose for the next week.",
+      "timestamp": "00:04:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Like this, the cooker knows exactly what he has to cook for each quantities, for each person.",
+      "timestamp": "00:04:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And, uh, and,",
+      "timestamp": "00:04:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Who is missing?",
+      "timestamp": "00:05:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Because there are a lot of food going to the trash every day because they cannot control exactly the quantities we are speaking about in the total of 200 meals on lunch and 200 meals more or less in the dinner.",
+      "timestamp": "00:05:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So they do like 250 meals each time.",
+      "timestamp": "00:05:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It's food going to the fresh.",
+      "timestamp": "00:05:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It's a lot of money that we lose also.",
+      "timestamp": "00:05:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And we want to control that part also.",
+      "timestamp": "00:05:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Like this, they are better organized and they know exactly the quantity or the amount of people that already come and they can control the",
+      "timestamp": "00:05:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "The amount of food that they have and they can control the plates and the idea it's also because we are two companies and that shared canteen it's for two of that companies and we have to share the bills of the companies.",
+      "timestamp": "00:06:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "We also know exactly how many plates we serve in each meal for each company also.",
+      "timestamp": "00:06:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It's two companies but from the same group.",
+      "timestamp": "00:06:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "But internal we have to separate the costs.",
+      "timestamp": "00:06:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay?",
+      "timestamp": "00:06:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:06:44"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "The idea it's also helped with that.",
+      "timestamp": "00:06:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Like this we know that the company A has 50 meals and the company B has 130, for example.",
+      "timestamp": "00:06:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "need to download.",
+      "timestamp": "00:06:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay?",
+      "timestamp": "00:06:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:06:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And we can organize all the costs also.",
+      "timestamp": "00:07:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "In the large view, it's more or less this.",
+      "timestamp": "00:07:07"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Of course, then there are some small things that we need to adjust for the cooker and improve the service of the cooker also.",
+      "timestamp": "00:07:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Like Luís also, when we started this kind of brainstorming, spoke about McDonald's, like have a monitor and the guys go like the check-in when they arrive to the canteen and the cooker knows exactly what he choose for the meal.",
+      "timestamp": "00:07:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "He has a monitor and says like the person A shows meat and he knows like the next plate that he serves is meat for that guy.",
+      "timestamp": "00:07:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "You know, have like a small button or a tablet that he, when he serves, he cleans the lineup.",
+      "timestamp": "00:08:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:08:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "This is basically idea.",
+      "timestamp": "00:08:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "We have then also guys that in the middle of the week, they change from the canteen A for the canteen B.",
+      "timestamp": "00:08:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "You have to be able also to change them and warn the cooker saying, okay, you have one more on your canteen and one more and one less on the other canteen.",
+      "timestamp": "00:08:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "You know, then this is the small things, but they are important also like this, can organize what we're going to cook on the next day.",
+      "timestamp": "00:08:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So may I summarize what I understood?",
+      "timestamp": "00:08:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So, .",
+      "timestamp": "00:08:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "It's about the workers, so at the moment you don't have any ordering process, you are just cooking food and the people taking it out or they don't because they are not able to eat it because it's not fitting their food restrictions in that sense.",
+      "timestamp": "00:09:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So now what you want to have is that the workers are ordering the food in the morning, for example, no, until Saturdays for the next week and they order breakfast, no, not breakfast, but it's mainly lunch and dinner and okay, so you have these two and you have a meal plan for three weeks usually and this is changing two to three times a year.",
+      "timestamp": "00:09:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, you would like to have some kind of pre-ordered meal list that the people know how much they should buy and you would like to have for the chefs that they know what they have to prepare in the front end mall.",
+      "timestamp": "00:09:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And you need an admin access to change the meal, and you need an admin access to move people from one canteen to another, and there are different companies, which are internal companies, that are in the same canteen, so you need to assign the people from one canteen to the other.",
+      "timestamp": "00:10:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yes.",
+      "timestamp": "00:10:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "This is what I understood.",
+      "timestamp": "00:10:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yes, it's that.",
+      "timestamp": "00:10:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And for the first approach, what is the main pain point that you have?",
+      "timestamp": "00:10:25"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Is it really that the cookers get already that screen where they see what they have to do, or is it more the idea of ordering or pre-ordering the meals and preparing the grocery list and stuff like that?",
+      "timestamp": "00:10:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "The most important is to pre-order the food.",
+      "timestamp": "00:10:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:10:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay?",
+      "timestamp": "00:10:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "This is the main cause.",
+      "timestamp": "00:10:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Then, of course, if we can add this kind of information, of course, better.",
+      "timestamp": "00:10:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Then we don't need to do counts and separate the mills, so you have to pay this, I have to pay this, count the plates or count the people.",
+      "timestamp": "00:11:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I think maybe it's more or less easy to group these two companies or two or three companies forever, because maybe we can have a third company associated to this, like guests or something like that.",
+      "timestamp": "00:11:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "But tell me, if you imagine like a canteen of a big company and imagine the mess, if you pre the food, the cooker doesn't know if you want duck or if you want fish.",
+      "timestamp": "00:11:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah.",
+      "timestamp": "00:11:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "What you going to do?",
+      "timestamp": "00:12:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "He knows the people, the persons, but sometimes he doesn't know.",
+      "timestamp": "00:12:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It's difficult to know exactly what a guy wants to eat on that day.",
+      "timestamp": "00:12:08"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "If he orders, he orders and it's done.",
+      "timestamp": "00:12:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "There are no chances to miss the food for the guys.",
+      "timestamp": "00:12:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay, so I know the canteen from Germany and I was also working in a big corporate and there it was like you had the big boxes where you were putting the food on the plates and you were selecting it by yourself.",
+      "timestamp": "00:12:25"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So how is it organized on your side?",
+      "timestamp": "00:12:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "How is it organized on your side?",
+      "timestamp": "00:12:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "They get a ready-built plate more or less?",
+      "timestamp": "00:12:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yes, they receive the ready plate.",
+      "timestamp": "00:12:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:12:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "That would be for dinner only, No, for the dinner the plate and for the lunch time...",
+      "timestamp": "00:12:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It's the Tupperware, the small box already pre-prepared in the morning, so he must know exactly who's to eat sandwich or hot food.",
+      "timestamp": "00:13:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Sometimes the guys prefer a sandwich or the other times they prefer hot meal.",
+      "timestamp": "00:13:16"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And we give these both options.",
+      "timestamp": "00:13:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Choices.",
+      "timestamp": "00:13:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Is it their own Tupperware or is it the company provides the Tupperware?",
+      "timestamp": "00:13:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yes, yes.",
+      "timestamp": "00:13:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "We provide for the soup, for the food, the drinking, the bread.",
+      "timestamp": "00:13:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "We do like a small kit, you know.",
+      "timestamp": "00:13:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "We pre-prepare everything.",
+      "timestamp": "00:13:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And the guys in the morning lose like 10 minutes during the breakfast to pick up the...",
+      "timestamp": "00:13:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay, what Luís also mentioned was that it is possible that the people are not able to read sometimes.",
+      "timestamp": "00:14:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Sometimes we have some guys that it must be very intuitive and very simple.",
+      "timestamp": "00:14:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It's like being like only touching, it's nothing too complicated, really nothing.",
+      "timestamp": "00:14:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Because these guys, we can say they are not so...",
+      "timestamp": "00:14:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Well educated.",
+      "timestamp": "00:14:34"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Educated, okay.",
+      "timestamp": "00:14:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Constructing workers.",
+      "timestamp": "00:14:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And one more question.",
+      "timestamp": "00:14:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, you know, it's not the kind of things that they usually do.",
+      "timestamp": "00:14:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So that's why we need to have two options for the check-in.",
+      "timestamp": "00:14:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "The language we're going to do be bilingual in English for the Indian guys.",
+      "timestamp": "00:14:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And two more questions.",
+      "timestamp": "00:15:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I have a lot of more questions.",
+      "timestamp": "00:15:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So, do they usually have a mobile phone, guys, or is that not available?",
+      "timestamp": "00:15:05"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "There are some guys that don't have a smartphone.",
+      "timestamp": "00:15:10"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:15:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:15:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So we do a private register and then we're gonna provide on the canteens like tablets.",
+      "timestamp": "00:15:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:15:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "They show the card with a QR code or something and opens this menu of choice.",
+      "timestamp": "00:15:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Or do you have some ID cards which the workers care with them, company ID cards?",
+      "timestamp": "00:15:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "We have, but it's the QR code is changing site for site, the Limosa ones.",
+      "timestamp": "00:15:34"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "But it's, we should have our own QR code support.",
+      "timestamp": "00:15:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "But this is a possible solution that they are carrying an ID card with a QR code.",
+      "timestamp": "00:15:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "This is one of the solutions that I have to use.",
+      "timestamp": "00:15:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "you.",
+      "timestamp": "00:15:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "be",
+      "timestamp": "00:16:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Their internal personal number.",
+      "timestamp": "00:16:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah.",
+      "timestamp": "00:16:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "If they know it, they don't know the number or the QR code.",
+      "timestamp": "00:16:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "They don't need to touch the number.",
+      "timestamp": "00:16:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "They show to the camera and it's easier for both choices.",
+      "timestamp": "00:16:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "But that makes it hard to remember them that they have to order still.",
+      "timestamp": "00:16:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yes.",
+      "timestamp": "00:16:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "It's one of the things that we need to think about.",
+      "timestamp": "00:16:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay.",
+      "timestamp": "00:16:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "For the guys who has the app on their cell phones, they receive a reminder every day to do the choice for the next week.",
+      "timestamp": "00:16:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "For the guys that doesn't have or doesn't make the choice, the guys like me have to have a list like the guys.",
+      "timestamp": "00:16:44"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I mean, it's Friday morning.",
+      "timestamp": "00:16:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I...",
+      "timestamp": "00:16:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "See the list from the guys that doesn't make the choice and I will provide a way to make the choice for them or ask them, don't forget, if not you will not eat next week, you know, there are, it's only a few guys, like 10 guys that's going to be a mess.",
+      "timestamp": "00:17:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "But still it's a requirement that you have to fulfill in that sense.",
+      "timestamp": "00:17:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, yeah.",
+      "timestamp": "00:17:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "But we have to get noticed that there are several guys that, exactly the guys who doesn't make the choice.",
+      "timestamp": "00:17:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "If I know who are them and I go directly to the sites by phone with the guys that are responsible about the sites and they can help also them to make the choice.",
+      "timestamp": "00:17:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Just read for them and do the thing with the, on the, on the, on the computer or on the app.",
+      "timestamp": "00:17:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I don't know that we get web.",
+      "timestamp": "00:17:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "back What the?",
+      "timestamp": "00:18:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I think we have now a pretty good picture about the thing, that the question is, so there are so many things that you would like to solve, what is the most important one, what is your biggest pain point, it's the pre-ordering of the food that you don't have that much food waste.",
+      "timestamp": "00:18:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So if we are thinking about different steps of implementation, this would be the first thing that we need to solve, that you are not wasting that much food.",
+      "timestamp": "00:18:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And for sure the different canteens and assigning the workers to the canteens and the companies, this for sure is important.",
+      "timestamp": "00:18:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "But for example that cookers display, this is something we can do in a second step, this is not required for this.",
+      "timestamp": "00:18:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, it's not for this first step or the second step, it's not the main question, of course.",
+      "timestamp": "00:18:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Of course, then if we can update the things and the information.",
+      "timestamp": "00:18:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Bye.",
+      "timestamp": "00:18:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Is there anything left?",
+      "timestamp": "00:19:06"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Luís, do you have any more questions?",
+      "timestamp": "00:19:10"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I think I'm pretty satisfied and it's also good to have that recorded because then we can go through and listen it again.",
+      "timestamp": "00:19:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, I think it's clear the problem we're trying to solve and different ideas that this can grow into as well.",
+      "timestamp": "00:19:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I think, let me see my notes.",
+      "timestamp": "00:19:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So I think basically I just have, so Zai, you mentioned on the 6th of June there's going to be an opening of a new canteen.",
+      "timestamp": "00:19:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And realistically, it's a bit short on time, but I don't as you mentioned, we could do some, I don't know, presentations.",
+      "timestamp": "00:19:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "But it can be a bit premature to try and come up with something.",
+      "timestamp": "00:20:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "course.",
+      "timestamp": "00:20:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "If you do a demonstration, perfect.",
+      "timestamp": "00:20:05"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Even with some slides in PowerPoint or something, only to show them how it's going to work.",
+      "timestamp": "00:20:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "But if not, they don't know what's going to happen, so they don't know, they will not be waiting for this.",
+      "timestamp": "00:20:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Sure.",
+      "timestamp": "00:20:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Our ships are a pair of these, of course.",
+      "timestamp": "00:20:34"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "For now, it's for the five people, five persons that know this idea.",
+      "timestamp": "00:20:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:20:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "If can present something on that date, nice.",
+      "timestamp": "00:20:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It's going to be a thing to add to the start, but if not...",
+      "timestamp": "00:20:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Awesome.",
+      "timestamp": "00:21:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah.",
+      "timestamp": "00:21:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Well, as long as we keep in mind, it's always going to be some sort of prototype, like visual prototype, and we can see some flows, I think might be okay.",
+      "timestamp": "00:21:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And you mentioned something like, when would you want to have this working?",
+      "timestamp": "00:21:16"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "What would be a deadline?",
+      "timestamp": "00:21:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I think you mentioned something.",
+      "timestamp": "00:21:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Luís, it's not a deadline.",
+      "timestamp": "00:21:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "We don't have like a deadline.",
+      "timestamp": "00:21:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Of course, faster, better, but I prefer to do like maybe steps, you know, because it would be a big change for them, and we need to have sometimes like two months to be ready to say, okay, we are ready to start this in a really, so I",
+      "timestamp": "00:21:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I imagine in September, when they come back from holidays.",
+      "timestamp": "00:22:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So are you working in August?",
+      "timestamp": "00:22:07"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yes, in August we stopped two weeks in July, the last two weeks of July.",
+      "timestamp": "00:22:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay, but it's quite common for things to slow down a lot, right?",
+      "timestamp": "00:22:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Then in September, we know that the maximum.",
+      "timestamp": "00:22:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay, perfect.",
+      "timestamp": "00:22:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Question, would you be, like, are you thinking, let's say, we come to September and we have something, how will you be willing to test with a smaller group?",
+      "timestamp": "00:22:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yes, we start with a smaller group, like, for example, in one canteen, in the central canteen, because we have more control of that canteen because it's near.",
+      "timestamp": "00:22:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "The office is almost 200 kilometers from here.",
+      "timestamp": "00:23:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I'm not there to solve the problems every day.",
+      "timestamp": "00:23:05"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So I start here, I see the problems here, I fix some problems and then I pass to the other canteen on the north.",
+      "timestamp": "00:23:09"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It's better to go slowly and be nearby the problems, not solve that small problems, adjust that small things and then pass to the other one.",
+      "timestamp": "00:23:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, that sounds great.",
+      "timestamp": "00:23:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It's a good plan.",
+      "timestamp": "00:23:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "There's always surprises, right?",
+      "timestamp": "00:23:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yes.",
+      "timestamp": "00:23:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "All good.",
+      "timestamp": "00:23:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I don't have any other questions.",
+      "timestamp": "00:23:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Adrian, you were thinking...",
+      "timestamp": "00:23:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I two more questions.",
+      "timestamp": "00:23:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "One is how many different meals are there to choose from?",
+      "timestamp": "00:23:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "The idea is on the lunchtime to have a hot milk, a sandwich and...",
+      "timestamp": "00:23:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "If that's hot meal, imagine it's pork.",
+      "timestamp": "00:24:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "We need to have a third meal, a special third meal.",
+      "timestamp": "00:24:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "The idea is not everybody choose the third meal, okay?",
+      "timestamp": "00:24:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Choosing between the main meal and the sandwich, and then the Indian guys or intolerant guys or, I don't know, have a third choice there.",
+      "timestamp": "00:24:16"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "That it's not the best choice, let's say.",
+      "timestamp": "00:24:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And they know that it's more for that small group of people.",
+      "timestamp": "00:24:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah.",
+      "timestamp": "00:24:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "We have three choices, three options.",
+      "timestamp": "00:24:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "On the lunch time, on the dinner time, it's only two, okay?",
+      "timestamp": "00:24:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "The main one and the other one for the Muslims and the Indian guys.",
+      "timestamp": "00:24:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So it's just to have a picture of the UI that we, how many choices...",
+      "timestamp": "00:24:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And the second one is, is there any data privacy topics that we have to take care of because I was already thinking about there are tools that you can monitor what is happening in the application that we can improve and see if there are some struggles and also does the data have to be in your corporate data cloud somewhere or can we put it somewhere externally?",
+      "timestamp": "00:25:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I think in the beginning we can put in somewhere else in New York because we don't want to use like ID card or it's only the name and maybe the number of the workers be easier to because it's only one number for each person.",
+      "timestamp": "00:25:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "The name can be equal but the number it's always different.",
+      "timestamp": "00:25:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Even with the Indian guys we have a lot of guys.",
+      "timestamp": "00:25:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "See you guys!",
+      "timestamp": "00:25:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "That's exactly the same name.",
+      "timestamp": "00:26:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So we have used the number as the main identification for the app, you know, I think because the name then you have to go for it, seeing it's exactly the same, exactly the same name.",
+      "timestamp": "00:26:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I wanted to ask as well about this internal ID number.",
+      "timestamp": "00:26:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "How big is it?",
+      "timestamp": "00:26:34"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Five numbers, I think.",
+      "timestamp": "00:26:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Five numbers.",
+      "timestamp": "00:26:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "The new numbers, it's 3,000 and so I think it's five or six numbers.",
+      "timestamp": "00:26:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:26:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It's not the big, it's the new ones, only the new ones.",
+      "timestamp": "00:26:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "You're talking about Portuguese and do you have a Belgian number?",
+      "timestamp": "00:26:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "We have also a Belgian number.",
+      "timestamp": "00:26:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "We can use the national number in Belgium.",
+      "timestamp": "00:27:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "The guys, when they arrive, they have a number that, yeah, we can use also that number that's unique also.",
+      "timestamp": "00:27:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay, perfect.",
+      "timestamp": "00:27:16"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "If you see it, okay, this is a big number because the other one is the date of birth and three numbers.",
+      "timestamp": "00:27:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So two, four, six, nine numbers, the national number, Belgium national number.",
+      "timestamp": "00:27:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:27:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Then we can decide.",
+      "timestamp": "00:27:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, but this is something we can decide on the go.",
+      "timestamp": "00:27:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "That's totally fine.",
+      "timestamp": "00:27:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I can give you the data that we have in the moment.",
+      "timestamp": "00:27:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And then we have some guys that we imagine on Monday, we have a lot of guys arriving from Portugal, new guys.",
+      "timestamp": "00:27:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I have to be able.",
+      "timestamp": "00:27:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Well, to do the profile of the guy and when he arrives, I send him like a small link and he only make the download from that link and it appears his profile doesn't do nothing, you know.",
+      "timestamp": "00:28:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "But this is an interesting challenge.",
+      "timestamp": "00:28:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So if new people are arriving, how is the pre-ordering of the food working?",
+      "timestamp": "00:28:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I have to do, like me, I have to call him and say, okay, for this week we have this and I will prepare with him my phone when he's in Portugal, you know, on Friday, for example, because I know that he's coming on Monday and I can call him and make the choice for him for the first week.",
+      "timestamp": "00:28:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Or you can send the link to him.",
+      "timestamp": "00:28:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I think we will deploy it somewhere.",
+      "timestamp": "00:28:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Or I can send the link already, because I don't, sometimes I don't know the guys.",
+      "timestamp": "00:28:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "The first time that I'll be with him to explain to them how it works, it's gonna be a little bit difficult.",
+      "timestamp": "00:29:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "If so, then we did a bad job.",
+      "timestamp": "00:29:09"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "If it would be complicated for him the first time, then we did a bad job.",
+      "timestamp": "00:29:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So it should be easy.",
+      "timestamp": "00:29:16"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "You can blame on us.",
+      "timestamp": "00:29:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, because normally by the name I can guess if he's Muslim or not, and it's one of the main concerns, because we have a lot of them.",
+      "timestamp": "00:29:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, and by the name, 99% of the guys I can guess.",
+      "timestamp": "00:29:34"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "You get the sense.",
+      "timestamp": "00:29:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And that guys are a little bit more tricky.",
+      "timestamp": "00:29:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "The Indian guys, of course, I know by the name that they are Indian.",
+      "timestamp": "00:29:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So I can fresh use the things.",
+      "timestamp": "00:29:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "The Europeans also, and the Portuguese ones, they, okay.",
+      "timestamp": "00:29:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "They don't like that.",
+      "timestamp": "00:30:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "The cookers, they will not do exactly the quantity.",
+      "timestamp": "00:30:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "They always have a little bit more for anything to repeat, because they can repeat the plate.",
+      "timestamp": "00:30:07"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "A little suggestion to this.",
+      "timestamp": "00:30:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "A little upgrade is maybe saving the options for future.",
+      "timestamp": "00:30:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So if you like some meal, you put it like a favorite, so it's auto-choose.",
+      "timestamp": "00:30:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "You don't have to do it every time.",
+      "timestamp": "00:30:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "At some point it's automatic, so you don't have to do it every week.",
+      "timestamp": "00:30:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "We are speaking in choosing the next week, but if it is easier to choose like the three weeks in a row, they do only once.",
+      "timestamp": "00:30:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah.",
+      "timestamp": "00:30:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "If you don't do nothing, it stays automatically.",
+      "timestamp": "00:31:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, that's a good idea.",
+      "timestamp": "00:31:05"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, good idea.",
+      "timestamp": "00:31:08"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "If they want it, they choose the favorite plates and it stays automatically.",
+      "timestamp": "00:31:09"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "If they don't do nothing, it stays automatically.",
+      "timestamp": "00:31:16"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And what we also could do, Justin, an idea we could define in the worker profile, if they don't eat pork or don't eat...",
+      "timestamp": "00:31:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, and it doesn't have a problem, it can be blocked.",
+      "timestamp": "00:31:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah.",
+      "timestamp": "00:31:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "But that is gonna be on the next, because I don't know all the ingredients of the plates are...",
+      "timestamp": "00:31:34"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, every profile can make its choices in the beginning at the register.",
+      "timestamp": "00:31:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Exactly.",
+      "timestamp": "00:31:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "The register will be us doing the register.",
+      "timestamp": "00:31:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "But the worker can...",
+      "timestamp": "00:31:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "The first time they choose, no pork, no whatever.",
+      "timestamp": "00:31:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah.",
+      "timestamp": "00:31:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah.",
+      "timestamp": "00:31:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah.",
+      "timestamp": "00:31:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah.",
+      "timestamp": "00:31:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Then the problem is when you insert the menu, I have to put the ingredients, that's the problem.",
+      "timestamp": "00:32:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, at least, but I think, you know, at least the protein or the pork or whatever, then you can adapt it.",
+      "timestamp": "00:32:07"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah.",
+      "timestamp": "00:32:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "But it's also something that we have to have in mind when creating the database for it, that we have that kind of fields.",
+      "timestamp": "00:32:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And I think it's not that hard to do, but this is also a second or third step.",
+      "timestamp": "00:32:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I think the first step is pre-ordering and then I like the idea of the favorites.",
+      "timestamp": "00:32:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "It's a really cool idea because it saves a lot of time.",
+      "timestamp": "00:32:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah.",
+      "timestamp": "00:32:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And a mess because it can be automatically, you know.",
+      "timestamp": "00:32:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah.",
+      "timestamp": "00:32:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah.",
+      "timestamp": "00:32:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And I'm pretty sure they will mostly want to set it and forget it.",
+      "timestamp": "00:32:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah.",
+      "timestamp": "00:32:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah.",
+      "timestamp": "00:32:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And they will forget it, you know.",
+      "timestamp": "00:32:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "They will forget it.",
+      "timestamp": "00:32:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I know that in the beginning, the guys that they are here now, they will forget for sure.",
+      "timestamp": "00:32:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I know that I have to call every week to the sites.",
+      "timestamp": "00:32:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah.",
+      "timestamp": "00:32:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Thank",
+      "timestamp": "00:33:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And then I have another problem.",
+      "timestamp": "00:33:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "know that's going to happen, for sure.",
+      "timestamp": "00:33:05"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "But it's a different problem and that can go easily.",
+      "timestamp": "00:33:08"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I will not eat the food and they will learn quickly.",
+      "timestamp": "00:33:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Something just crossed my mind.",
+      "timestamp": "00:33:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Would it be needed to cancel meals for any reason?",
+      "timestamp": "00:33:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Let's say a worker is sick, whatever.",
+      "timestamp": "00:33:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "This sick, for example, I have to have a choice, me and the guy, maybe, to say, OK, I'm sick, I cannot work.",
+      "timestamp": "00:33:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Cancel.",
+      "timestamp": "00:33:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "OK, it's going to be like the cooker.",
+      "timestamp": "00:33:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Once in a while.",
+      "timestamp": "00:33:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "But, yeah, it doesn't happen so often.",
+      "timestamp": "00:33:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It's only one guy.",
+      "timestamp": "00:33:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "If he has to travel, he has to cancel.",
+      "timestamp": "00:33:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Let's go.",
+      "timestamp": "00:33:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "The rest of the week, for example, if something happens, he must go tomorrow to Portugal, and he has the three weeks already chosen, he has to put in standby until he comes back.",
+      "timestamp": "00:34:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "But is that on you or on his responsibility?",
+      "timestamp": "00:34:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "In the beginning I think it's better to be on me.",
+      "timestamp": "00:34:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Right.",
+      "timestamp": "00:34:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, right.",
+      "timestamp": "00:34:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "In the first year, I think it's better to stay with me until the process sits.",
+      "timestamp": "00:34:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, makes sense.",
+      "timestamp": "00:34:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And then we pass more responsibilities to the workers.",
+      "timestamp": "00:34:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I think it's better to go like this, pass some information in the beginning for us, and then slowly passing to them.",
+      "timestamp": "00:34:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Even changing from the canteen, in the beginning it's better to be the administrators to do that.",
+      "timestamp": "00:34:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "In the future, think it's much less to the workers.",
+      "timestamp": "00:34:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "You have to have the responsibility to say, okay, I will change to the other canteen, let me mark the next week.",
+      "timestamp": "00:35:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, that makes sense.",
+      "timestamp": "00:35:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I don't know, Adrian, from my side, I think we got the overall idea.",
+      "timestamp": "00:35:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Everything else would be details that we can fine tune as we go or leave for a second stage.",
+      "timestamp": "00:35:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So I guess we can wrap it up here.",
+      "timestamp": "00:35:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And if there's something, we can come back to Zé with questions.",
+      "timestamp": "00:35:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "The next idea, we are speaking to Belgium, but maybe for Germany, you can adapt.",
+      "timestamp": "00:35:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Let's see.",
+      "timestamp": "00:35:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It's the same.",
+      "timestamp": "00:35:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "The number is the same.",
+      "timestamp": "00:35:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "We don't have that big amount of workers, so it's not that big problem.",
+      "timestamp": "00:35:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, imagine that we have 20 or 30 guys.",
+      "timestamp": "00:35:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It's not that difficult to organize like 150 or 20.",
+      "timestamp": "00:35:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Right, right.",
+      "timestamp": "00:36:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Not for now, but maybe in future.",
+      "timestamp": "00:36:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "not?",
+      "timestamp": "00:36:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "The idea is to do the test here and if it works nice, I know that it's a possibility to put in other markets.",
+      "timestamp": "00:36:06"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Sure, sure.",
+      "timestamp": "00:36:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "But language is always Portuguese or English.",
+      "timestamp": "00:36:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "if we prepare multilingual stuff, then it's also not that hard to add different languages later on.",
+      "timestamp": "00:36:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So if we need two, then it doesn't matter if there is a third or fourth one later on.",
+      "timestamp": "00:36:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "That makes sense.",
+      "timestamp": "00:36:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "From the beginning, I think that it's more than enough.",
+      "timestamp": "00:36:44"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, it's more than enough.",
+      "timestamp": "00:36:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "All good.",
+      "timestamp": "00:36:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Adrian, if you don't have anything else, I guess we're done.",
+      "timestamp": "00:36:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And the next step will be for us to, now that we have a general idea, is for us to come up with a proposal that solves these issues in a way that's like, let's say, MVP style as well, because we don't want to drop a bunch of features that we don't know if they're needed.",
+      "timestamp": "00:37:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So, and keep the, the, keep this, this, the scope, um, close to the goal.",
+      "timestamp": "00:37:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So we are open, Luís, to, to know new ideas and new things that you think, okay, this is a, a nice, imagine that, uh, in the future, uh, like have the most common, uh, chosen plates.",
+      "timestamp": "00:37:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "There are plates that they are never chosen.",
+      "timestamp": "00:37:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:37:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It's a good idea to know, or to have that information, uh, but you can do a lot of, only in the future.",
+      "timestamp": "00:37:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And on the go there will be a lot of more ideas, know, but that's okay.",
+      "timestamp": "00:38:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, for sure.",
+      "timestamp": "00:38:05"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Like, for instance, simple one, someone who doesn't eat cow, doesn't need to have any meal that has cow in it, so filtering meals, there's so much that can be done.",
+      "timestamp": "00:38:06"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah.",
+      "timestamp": "00:38:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So, okay.",
+      "timestamp": "00:38:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah.",
+      "timestamp": "00:38:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Cool.",
+      "timestamp": "00:38:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "All right.",
+      "timestamp": "00:38:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So, Filipe, thanks, and Gabriel, thank you for your time, and Adrian as well.",
+      "timestamp": "00:38:25"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And hope to see you soon.",
+      "timestamp": "00:38:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, we are always available.",
+      "timestamp": "00:38:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Any question, anything, let me know.",
+      "timestamp": "00:38:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Give me a call.",
+      "timestamp": "00:38:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I do have a question.",
+      "timestamp": "00:38:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Is that a sunny day in Belgium?",
+      "timestamp": "00:38:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I saw the sun.",
+      "timestamp": "00:38:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I saw the sun yesterday.",
+      "timestamp": "00:38:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yesterday.",
+      "timestamp": "00:38:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "there is sun in Belgium.",
+      "timestamp": "00:38:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ah.",
+      "timestamp": "00:38:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Tends to say hello.",
+      "timestamp": "00:38:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I'm sorry, then.",
+      "timestamp": "00:38:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I think, I think you kidnapped.",
+      "timestamp": "00:38:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It's getting better, getting better.",
+      "timestamp": "00:39:05"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Adrian, you are in Germany right now?",
+      "timestamp": "00:39:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Me?",
+      "timestamp": "00:39:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yes, I'm in Germany.",
+      "timestamp": "00:39:16"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And the weather is pretty much like on your side at the moment.",
+      "timestamp": "00:39:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "But you are from Monique or in other parts of Germany?",
+      "timestamp": "00:39:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "No, it's in between the Lake of Constance and Stuttgart, so pretty much in the middle.",
+      "timestamp": "00:39:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "We were based in Munich.",
+      "timestamp": "00:39:34"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:39:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Love it.",
+      "timestamp": "00:39:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "That's quite a question.",
+      "timestamp": "00:39:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "About three hours drive from my side, yeah.",
+      "timestamp": "00:39:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:39:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Something tells me...",
+      "timestamp": "00:39:44"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "In the future, maybe when we start this, maybe it's a good idea if you have some...",
+      "timestamp": "00:39:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "some time.",
+      "timestamp": "00:39:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Mm-hmm.",
+      "timestamp": "00:39:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Pass, pass by and see really...",
+      "timestamp": "00:39:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Working here, the idea, I think, and you see how it works and see, okay, this is not how I imagine, maybe I can improve here or do something different on this, maybe it's a good idea then in the future to pass by and see really working and routine of this.",
+      "timestamp": "00:40:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "But then we speak about that.",
+      "timestamp": "00:40:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, that's fine.",
+      "timestamp": "00:40:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay?",
+      "timestamp": "00:40:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "All right.",
+      "timestamp": "00:40:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Awesome.",
+      "timestamp": "00:40:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So guys, thank you so much for your time again.",
+      "timestamp": "00:40:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Thank you for your time also.",
+      "timestamp": "00:40:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Keep in touch, okay?",
+      "timestamp": "00:40:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Have a nice rest of weekend.",
+      "timestamp": "00:40:44"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, you too.",
+      "timestamp": "00:40:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Thank you guys.",
+      "timestamp": "00:40:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "See you, bye-bye.",
+      "timestamp": "00:40:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Filipe Fernandes",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Bye-bye.",
+      "timestamp": "00:40:50"
+    }
+  ]
+}

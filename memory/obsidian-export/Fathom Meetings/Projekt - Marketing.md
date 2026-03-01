@@ -21,3 +21,8 @@ Meetings: **3**
   - • Marcus (partner) is satisfied with the platform; minor fixes needed for take profit/stop loss calculations and translations
   - • Product Hunt launch planned; Enes to lead submission process with support from team
   - • Presentation for Marcus's community call on June 19th; Larissa to prepare
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

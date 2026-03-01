@@ -128,3 +128,9 @@ Pragmatisch für die Steuerunterlagen (ohne Rechtsgarantie):
 2. **Je Topf nur 4 Kernwerte ausweisen:** Brutto-Gewinne, Brutto-Verluste, Gebühren/Provisionen, Netto in EUR.  
 3. **Zusätzlich eine Mapping-Tabelle** (Trade-ID/Datum/Symbol → Steuerkategorie), damit Rückfragen vom Steuerberater schnell beantwortbar sind.  
 4. Für Deutschland bei Kapitalerträgen die Systematik von **§20 EStG** beachten (nur orientierend); bei Derivaten die konkrete Verlustverrechenbarkeit separat prüfen.
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

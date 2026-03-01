@@ -1,0 +1,420 @@
+[
+    {
+        "user": "U05BP6JEKRD",
+        "type": "message",
+        "ts": "1771593490.955219",
+        "client_msg_id": "d280a6f8-4087-446c-af3c-f0f8d0e17942",
+        "text": "Btw perfect timing then i can show the themes tomorrow in the video with markus!!",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "cbddedcb4f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-20\/6371114387445_cbddedcb4f3716d3e577_72.jpg",
+            "first_name": "Larissa",
+            "real_name": "Larissa Lange",
+            "display_name": "Larissa Lange",
+            "team": "T0197SMV2MQ",
+            "name": "larissa.j.lange",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771460464.503879",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d56tU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Btw perfect timing then i can show the themes tomorrow in the video with markus!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06QAS7FPUH",
+        "type": "message",
+        "ts": "1771595887.983169",
+        "client_msg_id": "dcdf13f5-38fa-48af-9fb4-b90fc1e34c24",
+        "text": "I will merge today.",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "e6c03bfa2940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6814162374787_e6c03bfa29409aabbabf_72.jpg",
+            "first_name": "Enes",
+            "real_name": "Enes Zorlu",
+            "display_name": "Enes Zorlu",
+            "team": "T0197SMV2MQ",
+            "name": "enes.zrl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771460464.503879",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gKhsQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will merge today."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05BP6JEKRD",
+        "type": "message",
+        "ts": "1771611131.821229",
+        "client_msg_id": "81e0863a-941d-44c3-af1a-24f80a282997",
+        "text": "Newsletter for new updates feb 2026: Please give me your feedback <@U06QAS7FPUH> <@U05JJ8QHBHB> <@U018T4T64FR>\n\n<https:\/\/app.shortcut.com\/mindtrajour\/write\/IkRvYyI6I3V1aWQgIjY5OThhMmNjLThhMTItNDMzNS1iYmQ5LWI3NDUzMDNhZDJjNCI=>",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "cbddedcb4f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-20\/6371114387445_cbddedcb4f3716d3e577_72.jpg",
+            "first_name": "Larissa",
+            "real_name": "Larissa Lange",
+            "display_name": "Larissa Lange",
+            "team": "T0197SMV2MQ",
+            "name": "larissa.j.lange",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771611131.821229",
+        "reply_count": 8,
+        "reply_users_count": 3,
+        "latest_reply": "1771687352.727189",
+        "reply_users": [
+            "U06QAS7FPUH",
+            "U018T4T64FR",
+            "U05BP6JEKRD"
+        ],
+        "replies": [
+            {
+                "user": "U06QAS7FPUH",
+                "ts": "1771619465.910109"
+            },
+            {
+                "user": "U018T4T64FR",
+                "ts": "1771621048.661039"
+            },
+            {
+                "user": "U05BP6JEKRD",
+                "ts": "1771622235.270719"
+            },
+            {
+                "user": "U05BP6JEKRD",
+                "ts": "1771622321.420489"
+            },
+            {
+                "user": "U06QAS7FPUH",
+                "ts": "1771627828.534019"
+            },
+            {
+                "user": "U05BP6JEKRD",
+                "ts": "1771669201.534399"
+            },
+            {
+                "user": "U018T4T64FR",
+                "ts": "1771684310.314779"
+            },
+            {
+                "user": "U05BP6JEKRD",
+                "ts": "1771687352.727189"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1771687352.727189",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/static.shortcut.com\/images\/dot-16px.png",
+                "ts": 1771611060,
+                "bot_id": "B05UVP1KMS4",
+                "bot_team_id": "T0197SMV2MQ",
+                "app_unfurl_url": "https:\/\/app.shortcut.com\/mindtrajour\/write\/IkRvYyI6I3V1aWQgIjY5OThhMmNjLThhMTItNDMzNS1iYmQ5LWI3NDUzMDNhZDJjNCI=",
+                "is_app_unfurl": true,
+                "app_id": "A0E57HPCM",
+                "fallback": "Feb Theme Update",
+                "text": "Subject: MindTrajour Update: A Smoother, More Enjoyable Journaling Experience Hi everyone, we’ve released a new MindTrajour update focused on UX, UI, and a smoother everyday experience — because j ...",
+                "title": "Feb Theme Update",
+                "title_link": "https:\/\/app.shortcut.com\/mindtrajour\/write\/IkRvYyI6I3V1aWQgIjY5OThhMmNjLThhMTItNDMzNS1iYmQ5LWI3NDUzMDNhZDJjNCI=",
+                "footer": "Created by Larissa Lange"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mtyKf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Newsletter for new updates feb 2026: Please give me your feedback "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06QAS7FPUH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05JJ8QHBHB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U018T4T64FR"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/app.shortcut.com\/mindtrajour\/write\/IkRvYyI6I3V1aWQgIjY5OThhMmNjLThhMTItNDMzNS1iYmQ5LWI3NDUzMDNhZDJjNCI="
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06QAS7FPUH",
+        "type": "message",
+        "ts": "1771619465.910109",
+        "client_msg_id": "af716cdc-2b50-4d3e-986f-b78a3a4cba88",
+        "text": "I think it is too much talk, and focused only on themes. I like clear and short emails with these kind of change logs. Example below. \n\n​Hi everyone,\n\n​We’ve just released a major update to MindTrajour! We completed a full infrastructure modernization behind the scenes to make the platform faster and more reliable, while also rolling out several everyday usability improvements based on your feedback.\n\n​Here is what’s new and improved:\n- ​Themes &amp; Visual Polish: We've refined the interface for better readability and accessibility. Also added theme options which you can easily select on app sidebar. If you miss the classic look, we’ve added a \"MindTrajour Original\" theme so you can easily switch back!\n- ​Faster &amp; More Reliable: Upgraded our core framework for better stability and faster performance across the board.\n- ​Safer Trade Entry: Saving button clearly indicates the process to prevent accidental duplicate trade creation\n- ​Seamless Account Switching: Fixed an issue so your All Trades view now refreshes correctly when changing accounts.\n- ​Safari Compatibility: Resolved monthly chart month sorting issues for Safari browser users.\n\n​We want to say a huge thank you for the detailed feedback we’ve received. Your ideas and real-world use cases are our biggest motivation to keep improving MindTrajour.\n​All updates are live now. If anything feels off, or if you want to let us know which theme you enjoy most, just reply directly to this email!\n\n​Best,\nThe MindTrajour Team",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "e6c03bfa2940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6814162374787_e6c03bfa29409aabbabf_72.jpg",
+            "first_name": "Enes",
+            "real_name": "Enes Zorlu",
+            "display_name": "Enes Zorlu",
+            "team": "T0197SMV2MQ",
+            "name": "enes.zrl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771611131.821229",
+        "parent_user_id": "U05BP6JEKRD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kYGRo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think it is too much talk, and focused only on themes. I like clear and short emails with these kind of change logs. Example below. \n\n​Hi everyone,\n\n​We’ve just released a major update to MindTrajour! We completed a full infrastructure modernization behind the scenes to make the platform faster and more reliable, while also rolling out several everyday usability improvements based on your feedback.\n\n​Here is what’s new and improved:\n- ​Themes & Visual Polish: We've refined the interface for better readability and accessibility. Also added theme options which you can easily select on app sidebar. If you miss the classic look, we’ve added a \"MindTrajour Original\" theme so you can easily switch back!\n- ​Faster & More Reliable: Upgraded our core framework for better stability and faster performance across the board.\n- ​Safer Trade Entry: Saving button clearly indicates the process to prevent accidental duplicate trade creation\n- ​Seamless Account Switching: Fixed an issue so your All Trades view now refreshes correctly when changing accounts.\n- ​Safari Compatibility: Resolved monthly chart month sorting issues for Safari browser users.\n\n​We want to say a huge thank you for the detailed feedback we’ve received. Your ideas and real-world use cases are our biggest motivation to keep improving MindTrajour.\n​All updates are live now. If anything feels off, or if you want to let us know which theme you enjoy most, just reply directly to this email!\n\n​Best,\nThe MindTrajour Team"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U018T4T64FR",
+        "type": "message",
+        "ts": "1771621048.661039",
+        "client_msg_id": "9127515a-4fa6-4a0b-8f5e-a2259c7192c2",
+        "text": "I do also prefer a short and on point newsletter. reduce it to what matters and cut out the fluff. also the motivation wasn't a calmer ui it was just making it \"standard\". but does this really matter? Not sure",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "d73f62394d70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-20\/1314120389299_d73f62394d70e7c52de4_72.jpg",
+            "first_name": "Adrian",
+            "real_name": "Adrian",
+            "display_name": "Aaaaaaadriaaaaaaan",
+            "team": "T0197SMV2MQ",
+            "name": "adrian.rinnus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771611131.821229",
+        "parent_user_id": "U05BP6JEKRD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qEX4i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I do also prefer a short and on point newsletter. reduce it to what matters and cut out the fluff. also the motivation wasn't a calmer ui it was just making it \"standard\". but does this really matter? Not sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05BP6JEKRD",
+        "type": "message",
+        "ts": "1771622235.270719",
+        "client_msg_id": "fb06d1bf-8926-4efe-9372-6a079ebe9151",
+        "text": "For me the theme is the most interesting bc it is something new and people can play around with it. The technical stuff is also really important but this is more or less subconcious for the most user when they are using the app, better save function or better account switching etc..",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "cbddedcb4f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-20\/6371114387445_cbddedcb4f3716d3e577_72.jpg",
+            "first_name": "Larissa",
+            "real_name": "Larissa Lange",
+            "display_name": "Larissa Lange",
+            "team": "T0197SMV2MQ",
+            "name": "larissa.j.lange",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771611131.821229",
+        "parent_user_id": "U05BP6JEKRD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9uE7e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For me the theme is the most interesting bc it is something new and people can play around with it. The technical stuff is also really important but this is more or less subconcious for the most user when they are using the app, better save function or better account switching etc.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05BP6JEKRD",
+        "type": "message",
+        "ts": "1771622321.420489",
+        "client_msg_id": "0e9cf641-d292-4bb9-b418-249e616edbbe",
+        "text": "If you prefer i make it shorter and more focus on technical stuff, as you prefer.",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "cbddedcb4f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-20\/6371114387445_cbddedcb4f3716d3e577_72.jpg",
+            "first_name": "Larissa",
+            "real_name": "Larissa Lange",
+            "display_name": "Larissa Lange",
+            "team": "T0197SMV2MQ",
+            "name": "larissa.j.lange",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771611131.821229",
+        "parent_user_id": "U05BP6JEKRD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MRL5y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you prefer i make it shorter and more focus on technical stuff, as you prefer."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06QAS7FPUH",
+        "type": "message",
+        "ts": "1771627828.534019",
+        "client_msg_id": "0ea6e52a-71eb-4364-b8ca-6a227e8fbb41",
+        "text": "I dont think the example I sent focuses on technical stuff. It is a update note at the end, bug fixes and infrastructure updates should be informed as well.\nif you want to focus on playful theme stuff, you can extend it more. but your version has too much fluff (no offence, just opinion)",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "e6c03bfa2940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6814162374787_e6c03bfa29409aabbabf_72.jpg",
+            "first_name": "Enes",
+            "real_name": "Enes Zorlu",
+            "display_name": "Enes Zorlu",
+            "team": "T0197SMV2MQ",
+            "name": "enes.zrl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771611131.821229",
+        "parent_user_id": "U05BP6JEKRD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M4hPM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I dont think the example I sent focuses on technical stuff. It is a update note at the end, bug fixes and infrastructure updates should be informed as well.\nif you want to focus on playful theme stuff, you can extend it more. but your version has too much fluff (no offence, just opinion)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U018T4T64FR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

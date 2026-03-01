@@ -41,3 +41,8 @@ We will convert backlog into a 7-day plan with timeboxes.
 - [x] 48h Execution Plan (10 targets + 10 messages)
 
 **Status:** Ready for review. Adrian should check the sales kit and the taskboard for prioritization.
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

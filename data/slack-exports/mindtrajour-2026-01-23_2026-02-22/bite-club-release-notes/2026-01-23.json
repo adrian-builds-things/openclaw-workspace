@@ -1,0 +1,152 @@
+[
+    {
+        "user": "U09JU38R1QA",
+        "type": "message",
+        "ts": "1769191590.780429",
+        "bot_id": "B09JXJRNDAQ",
+        "app_id": "A09JML388D9",
+        "text": ":bar_chart: Update v1.18.0 is live!\n\n:sparkles: What's new\n• Command Palette now available! Press ⌘K (or Ctrl+K) to quickly search and navigate the app :rocket:\n• Beautiful new product demo video added to our homepage showcasing what we do best\n• Refreshed login pages with our updated branding and a cleaner design :muscle:\n• New pilot badge and clearer statistics labels to better understand your data\n• Updated BiteClub logo and brand colors for a fresh new look\n• Added E2E testing infrastructure for a more reliable experience\n\n:ladybug: Fixes\n• Improved employee login flow - no more crashes during authentication\n• Fixed language switcher for a smoother multilingual experience\n• Better spacing and layout on the landing page for all screen sizes :dart:\n• Properly syncing volume state when reopening video modals\n• Command palette now shows keyboard shortcuts specific to your device\n• Fixed meal selection with better optimistic updates\n\n:zap: Performance\n• Dramatically improved attendance pattern processing - from 7 seconds to just 2! :zap:\n• Optimized command palette to only load data when you need it\n• Removed unused fonts for faster page loads\n• Better employee management with proper cleanup of old accounts\n\n:lock: Security\n• Command palette access restricted to admin users only for better control\n\n:rocket: Our biggest update yet with powerful navigation tools, performance boosts, and a fresh new look to make your BiteClub experience better than ever!\n_Automated with this <https:\/\/n8n.internal.mindtrajour.com\/workflow\/qcfDRj7w0MEDoQc5?utm_source=n8n-internal&amp;utm_medium=powered_by&amp;utm_campaign=n8n-nodes-base.slack_31a079d7ac3257c80c0f928e3bd1e65494e1faaed7d1335db30a475d39d7b551|n8n workflow>_",
+        "team": "T0197SMV2MQ",
+        "bot_profile": {
+            "id": "B09JXJRNDAQ",
+            "deleted": false,
+            "name": "N8N Integration",
+            "updated": 1759671050,
+            "app_id": "A09JML388D9",
+            "user_id": "U09JU38R1QA",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_36.png",
+                "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/service_72.png"
+            },
+            "team_id": "T0197SMV2MQ"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Qy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "bar_chart",
+                                "unicode": "1f4ca"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Update v1.18.0 is live!\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": " What's new\n• Command Palette now available! Press ⌘K (or Ctrl+K) to quickly search and navigate the app "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rocket",
+                                "unicode": "1f680"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n• Beautiful new product demo video added to our homepage showcasing what we do best\n• Refreshed login pages with our updated branding and a cleaner design "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n• New pilot badge and clearer statistics labels to better understand your data\n• Updated BiteClub logo and brand colors for a fresh new look\n• Added E2E testing infrastructure for a more reliable experience\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ladybug",
+                                "unicode": "1f41e"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Fixes\n• Improved employee login flow - no more crashes during authentication\n• Fixed language switcher for a smoother multilingual experience\n• Better spacing and layout on the landing page for all screen sizes "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dart",
+                                "unicode": "1f3af"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n• Properly syncing volume state when reopening video modals\n• Command palette now shows keyboard shortcuts specific to your device\n• Fixed meal selection with better optimistic updates\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "zap",
+                                "unicode": "26a1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Performance\n• Dramatically improved attendance pattern processing - from 7 seconds to just 2! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "zap",
+                                "unicode": "26a1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n• Optimized command palette to only load data when you need it\n• Removed unused fonts for faster page loads\n• Better employee management with proper cleanup of old accounts\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "lock",
+                                "unicode": "1f512"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Security\n• Command palette access restricted to admin users only for better control\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rocket",
+                                "unicode": "1f680"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Our biggest update yet with powerful navigation tools, performance boosts, and a fresh new look to make your BiteClub experience better than ever!\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Automated with this ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/n8n.internal.mindtrajour.com\/workflow\/qcfDRj7w0MEDoQc5?utm_source=n8n-internal&amp;utm_medium=powered_by&amp;utm_campaign=n8n-nodes-base.slack_31a079d7ac3257c80c0f928e3bd1e65494e1faaed7d1335db30a475d39d7b551",
+                                "text": "n8n workflow",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03N1MJB8K0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

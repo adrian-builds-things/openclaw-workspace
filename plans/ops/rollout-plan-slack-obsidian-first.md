@@ -121,3 +121,9 @@ Fokus auf Output statt Tool-Spielerei.
 2. Slack in OpenClaw konfigurieren
 3. Test mit `#ops-hq`
 4. Danach Obsidian-Sync finalisieren
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

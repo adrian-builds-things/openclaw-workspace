@@ -132,3 +132,9 @@ Why: easiest procurement conversation, predictable invoice, clear value framing 
 1. Section 1 (Decision Summary)
 2. Section 4 (Pricing recommendation + packages)
 3. Section 6 (Validation plan)
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

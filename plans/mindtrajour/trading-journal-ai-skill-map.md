@@ -86,3 +86,9 @@ Woche 4:
 - Erst Klarheit, dann Komplexität
 - Explainable AI statt Blackbox
 - Handlungsempfehlung > reine Analyse
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

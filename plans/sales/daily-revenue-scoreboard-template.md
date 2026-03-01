@@ -39,3 +39,9 @@ Adjust after 2 weeks with real conversion data.
 3. Best-performing message angle
 4. #1 priority tomorrow
 5. Help/decision needed from Adrian
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

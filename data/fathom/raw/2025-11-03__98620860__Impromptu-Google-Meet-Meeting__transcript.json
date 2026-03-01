@@ -1,0 +1,2444 @@
+{
+  "transcript": [
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Hallo Markus.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Servus.",
+      "timestamp": "00:00:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ist das okay, wenn ich aufzeichne?",
+      "timestamp": "00:00:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Bitte?",
+      "timestamp": "00:00:07"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ist es okay, wenn ich aufzeichne?",
+      "timestamp": "00:00:08"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, klar.",
+      "timestamp": "00:00:09"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ich werde jedes Mal nur immer lieber nicht, dass es nachher heißt, nee.",
+      "timestamp": "00:00:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Wie geht's dir?",
+      "timestamp": "00:00:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Passt.",
+      "timestamp": "00:00:16"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ganz gut.",
+      "timestamp": "00:00:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ganz gut.",
+      "timestamp": "00:00:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Spannende Woche.",
+      "timestamp": "00:00:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "World of Trading steht ja bevor.",
+      "timestamp": "00:00:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Das stimmt.",
+      "timestamp": "00:00:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ist schon diese Woche, ja klar.",
+      "timestamp": "00:00:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ist diese Woche, genau.",
+      "timestamp": "00:00:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ich war jetzt die letzten vier Tage noch mit Freunden unterwegs und waren in Köln.",
+      "timestamp": "00:00:25"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Und deswegen stimme auch noch ein bisschen belegt und nicht ganz so viel geschafft.",
+      "timestamp": "00:00:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Deswegen ist diese Woche wirklich pickepacke voll.",
+      "timestamp": "00:00:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Also wäre gut, wenn wir 15, 20 Minuten heute schaffen.",
+      "timestamp": "00:00:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, ich habe viel eigentlich.",
+      "timestamp": "00:00:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ich glaube auch, wir haben nicht allzu viel, aber sprechen ein über Backlog und das, was wir eben gerade heute Morgen angerissen haben.",
+      "timestamp": "00:00:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja.",
+      "timestamp": "00:00:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Wie ist es bei dir?",
+      "timestamp": "00:00:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, interessant, sagen wir so.",
+      "timestamp": "00:00:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay.",
+      "timestamp": "00:00:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ich glaube, wenn wir in der AOK haben kochen und sagt, ja, also wir hätten gerne 5.000 Euro von dir.",
+      "timestamp": "00:00:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, genau.",
+      "timestamp": "00:00:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Wer wollte das?",
+      "timestamp": "00:01:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "AOK.",
+      "timestamp": "00:01:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ach was?",
+      "timestamp": "00:01:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Weil ich bin freiwillig versichert bei denen halt.",
+      "timestamp": "00:01:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und durch das, dass ich kein Einkommen hatte und auch keine Steuerklärung für die Vorjahre, habe ich nämlich einen Mensch-Beitrag angesetzt.",
+      "timestamp": "00:01:05"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und ich dachte, ja gut, das ist dann durch.",
+      "timestamp": "00:01:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Dann hat mich auch keiner informiert.",
+      "timestamp": "00:01:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja.",
+      "timestamp": "00:01:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und dann habe ich Steuerklärung gemacht für 23, wo ich an der Börse halt gut Geld verdient habe.",
+      "timestamp": "00:01:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und sagte ich, nee, also neuer Beitrag sind jetzt nicht nur 260 Euro, sondern 600.",
+      "timestamp": "00:01:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ach ich dachte dann bitte nach.",
+      "timestamp": "00:01:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Boah, krass.",
+      "timestamp": "00:01:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und das tut schon weh.",
+      "timestamp": "00:01:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So richtig.",
+      "timestamp": "00:01:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und jetzt gibt es nichts anderes, als das zu machen?",
+      "timestamp": "00:01:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Oder gibt es irgendwie Klage?",
+      "timestamp": "00:01:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "du könntest irgendwie abstottern, was weiß ich was.",
+      "timestamp": "00:01:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Also ich habe jetzt den Beitrag wieder runtergesetzt, kriegt auf die 270 oder 62, das ist okay.",
+      "timestamp": "00:01:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay.",
+      "timestamp": "00:01:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und die 5000 muss ich mir jetzt halt Geld leider bezahlen, sonst wäre ich am Arsch gewesen, Ja.",
+      "timestamp": "00:01:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Die sind anscheinend auch knallhart, die macht ja die Hütte zu und fertig.",
+      "timestamp": "00:01:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "sind anscheinend.",
+      "timestamp": "00:01:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Du bist dich versichert in der nicht mehr, Ne, das ist für mich egal.",
+      "timestamp": "00:01:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Da wäre ich total schmerzfrei.",
+      "timestamp": "00:01:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ne, aber die macht anscheinend mit die Forderung, die Forderungsabteilung bei der nicht Knallhart.",
+      "timestamp": "00:01:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Achso.",
+      "timestamp": "00:01:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Achso.",
+      "timestamp": "00:01:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Achso.",
+      "timestamp": "00:01:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Mhm.",
+      "timestamp": "00:02:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ah, spannend.",
+      "timestamp": "00:02:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja.",
+      "timestamp": "00:02:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und sonst, ja, das Kantine-Projekt läuft jetzt ganz gut an.",
+      "timestamp": "00:02:06"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Da sind wir auf einem guten Weg und mache jetzt auch ein bisschen Kalt-Tag-Quise, gucke mal, was man nur findet.",
+      "timestamp": "00:02:10"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Trading-Journal habe ich jetzt heute ein bisschen was gemacht und wie gesagt, den Long-Straddle habe ich auch einbaut.",
+      "timestamp": "00:02:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Mega.-Strangle.",
+      "timestamp": "00:02:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Strangle, genau.",
+      "timestamp": "00:02:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und Iron-Condor ist die Alternative, ne?",
+      "timestamp": "00:02:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Da bin ich jetzt gerade dran, genau.",
+      "timestamp": "00:02:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und ich mache auch noch, das kann ich dir kurz zeigen, mache gerade noch mehr, mache nämlich nur eine.",
+      "timestamp": "00:02:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, nice Long-Strangle, yes.",
+      "timestamp": "00:02:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Kauf und Call, sehr gut.",
+      "timestamp": "00:02:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Moment, ich teile mal ganz kurz.",
+      "timestamp": "00:02:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Genau, das ist auch Short-Put und Short-Call, sehr gut.",
+      "timestamp": "00:02:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, genau, das habe ich auch schon benannt.",
+      "timestamp": "00:02:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja.",
+      "timestamp": "00:02:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Was ich jetzt gerade noch mache, ich mache, also Iron-Condor ist noch nicht ganz perfekt hier, das Ding noch nicht richtig gesetzt.",
+      "timestamp": "00:02:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Das Datum, das muss ich noch reparieren, aber das ist jetzt mal ganz.",
+      "timestamp": "00:02:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay, aus.",
+      "timestamp": "00:03:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und was ich auch drin habe, ist jetzt, wenn man hier hingeht und gibt einen Wert ein, wird quasi überprüft, ob das Sinn macht.",
+      "timestamp": "00:03:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Das heißt, der Ausübungspreis, das müsstest du allerdings mal dann genau angucken, weil da bin ich jetzt auch nicht ganz so drin, ob das dann passt, dass halt der Ausübungspreis dann passt.",
+      "timestamp": "00:03:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und was ich glaube ich tue, ist, ich werde bei den Strategien, die kein Calendar Spreads sind, also wo Expiration Date gleich ist, werde ich glaube ich einfach, das, man wird dann immer, wenn man den ändert, automatisch den anderen mit ändern und umgekehrt auch.",
+      "timestamp": "00:03:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und wenn man mal mit Calendar Spreads anfange, dann habe ich jetzt in der Databank hinterlegt, dass die Verfallsdaten nicht synchron sein müssen und dann schaue ich die automatische Auswahl, wenn ich eins ändere, ändert sich das andere mit, hebe ich dann auf.",
+      "timestamp": "00:03:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Also so ist die Idee.",
+      "timestamp": "00:03:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja.",
+      "timestamp": "00:03:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Also wir müssten das nicht verpflichtend haben.",
+      "timestamp": "00:03:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Es ist gut, wenn ich es jetzt initial einstelle oben, dass es unten mitgezogen wird.",
+      "timestamp": "00:03:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Aber wäre jetzt, denke ich, auch schon nicht verkehrt, wenn ich es einzeln einstellen kann.",
+      "timestamp": "00:04:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Also ich denke, die wenigsten handeln es, aber natürlich die, die es handeln wollen, wollen es auch einstellen können.",
+      "timestamp": "00:04:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay.",
+      "timestamp": "00:04:09"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ich weiß nicht, wenn es jetzt zu komplex ist, lass es weg, bis jemand fragt.",
+      "timestamp": "00:04:10"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, also Calendar Spread würde ich halt als eigene Strategie dann anlegen, wo das dann explizit hinterlegt ist, weißt Schickmann?",
+      "timestamp": "00:04:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, aber Calendar Spread könnte dann ja wieder jede andere Strategie bedeuten, ne?",
+      "timestamp": "00:04:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Das könnte dann ja auch bedeuten, ich mache einen Long Strangle als Calendar Spread.",
+      "timestamp": "00:04:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Calendar Spread bedeutet nur...",
+      "timestamp": "00:04:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, dass ich halt unterschiedliche Expiration Dates habe.",
+      "timestamp": "00:04:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Unterschiedliche Expiration Dates, aber ich könnte trotzdem viele weitere Strategien, das heißt, du wüsstest jetzt nicht, welche Lags zeige ich an beim Calendar Spread, ne?",
+      "timestamp": "00:04:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay, ja, dann machen wir es so, okay.",
+      "timestamp": "00:04:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, okay.",
+      "timestamp": "00:04:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, und wie gesagt, ein Konto habe ich jetzt dann zum Großteil, wie gesagt, das will ein Datum übernehmen, ich noch reparieren und dann...",
+      "timestamp": "00:04:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Mega, und dann ist das auch da, ne?",
+      "timestamp": "00:04:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Oh, aber hier unten ist es natürlich noch mal hässlich, dass ich mich dann gucke, ob das noch alles passt.",
+      "timestamp": "00:04:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Hm.",
+      "timestamp": "00:04:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ah, ne, du gibst ja immer das Gesamte ein, dann ist ja wurscht.",
+      "timestamp": "00:04:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Genau, das ist...",
+      "timestamp": "00:04:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Egal, das passt, ne?",
+      "timestamp": "00:05:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Musst eben nur die gesamten Werte haben, genau.",
+      "timestamp": "00:05:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Außer Risikoberechnung und sowas, da muss ich natürlich nochmal reingucken.",
+      "timestamp": "00:05:06"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Genau, das müssen halt die Summen sein aus...",
+      "timestamp": "00:05:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Wobei wir die gar nicht ausrechnen, oder?",
+      "timestamp": "00:05:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja doch, aber mit der Rendite und so, oh scheiße, da küsst du mich ein.",
+      "timestamp": "00:05:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Aber die Rendite ist ja wieder unabhängig von den Lacks.",
+      "timestamp": "00:05:25"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Wir nehmen ja einfach nur die Zeile unten, die sowieso identisch ist.",
+      "timestamp": "00:05:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Da haben wir ja die Prämieneinnahme, wir nehmen ja eine Prämie ein.",
+      "timestamp": "00:05:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "ja mit dem Ausübungspreis, dass man sagt...",
+      "timestamp": "00:05:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ne, ich stimme nur mit der Margin, den wir selber eintragen.",
+      "timestamp": "00:05:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Genau, wir tragen die Margin ein und wir tragen die Prämie ein.",
+      "timestamp": "00:05:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Kann ich das vorstellen.",
+      "timestamp": "00:05:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Aber für ein Risiko, hast du recht, bräuchten wir es im Zweifel?",
+      "timestamp": "00:05:44"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja.",
+      "timestamp": "00:05:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Dass wir das Doppelte haben an Risiko.",
+      "timestamp": "00:05:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Stimmt, ja, okay, aber das haben wir ja gar nicht drin, glaube ich.",
+      "timestamp": "00:05:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Was ich jetzt noch gemacht habe, ich habe hier kaum noch was einbaut.",
+      "timestamp": "00:05:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Das ist quasi die Nomeklatur dasteht und nicht nur die Ticker, weil wenn du halt mehr auf den Tag handelst, dann wirst du ja wahnsinnig sein, geht es ja gar nicht.",
+      "timestamp": "00:06:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Das ist richtig gut, ja.",
+      "timestamp": "00:06:09"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Genau, immer kann trotzdem nur hingehen und, wenn ich gerade sage, hier Spaltenanzeigen, und dann nur sage, ich möchte nur den Ticker anzeigen.",
+      "timestamp": "00:06:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Gucke, dass ich das Logo dann dementsprechend einmal ausblende.",
+      "timestamp": "00:06:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Sonst habe ich halt doppelt das Logo drin.",
+      "timestamp": "00:06:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, ja.",
+      "timestamp": "00:06:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Aber ich denke, beides wird man auch nicht machen, ne?",
+      "timestamp": "00:06:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Nee, normal nicht.",
+      "timestamp": "00:06:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Wenn du jetzt MSFT Oktober haben willst, das ist die detaillierte Version, oder nur den Ticker, beides wird keiner machen.",
+      "timestamp": "00:06:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Naja, ich lasse es erstmal so und dann sieht man weiter.",
+      "timestamp": "00:06:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Genau, das sind so die Sachen, ich jetzt mal einbaut habe.",
+      "timestamp": "00:06:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Cool.",
+      "timestamp": "00:06:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, genau.",
+      "timestamp": "00:06:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Dann haben wir noch das Thema mit den...",
+      "timestamp": "00:06:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "...",
+      "timestamp": "00:06:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "...",
+      "timestamp": "00:06:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "...",
+      "timestamp": "00:06:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "...",
+      "timestamp": "00:06:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Mit den Futures und dem DAX.",
+      "timestamp": "00:07:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Weiß nicht, ob wir da eine einfache Hint, so einen Hinweis bekommen oder sowas, wenn der merkt, hey, ich will den DAX suchen, aber das kriegen wir halt vorher nicht hin, oder wir müssen einen generellen Hinweis oben drüber schreiben.",
+      "timestamp": "00:07:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Das muss ich jetzt, ich muss jetzt erst wieder beim anderen Ding dann auch weitermachen.",
+      "timestamp": "00:07:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Er ist nur da auf den eigenen Konto, das müsst ihr relativ schnell haben, das kriegt dann hin.",
+      "timestamp": "00:07:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Das ist super.",
+      "timestamp": "00:07:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Wenn man G-DAX sieht, was der DAX ist, aber da kommt niemand drauf, weil es ja leider nicht angezeigt wird.",
+      "timestamp": "00:07:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, ich habe schon eine Idee im Kopf, ich weiß aber nicht, wie einfach das zu bauen ist, dass man halt oben dann auswählt, was man sucht, also wie bei Tradingview Legends, da gibt es auch eine Future-Aktie, was weiß ich was.",
+      "timestamp": "00:07:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Und das andere waren diese USD-GC und USD-GC.",
+      "timestamp": "00:07:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Das doof ist halt, dass was anderes davor steht, wenn es das GC-USD wäre.",
+      "timestamp": "00:07:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Er wird es trotzdem finden, aber er zeigt es halt nicht an.",
+      "timestamp": "00:08:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Also sie sind ja da, vielleicht müsste man sonst auch diese Anzeige, aber ich weiß nicht, ob du die beeinflussen kannst.",
+      "timestamp": "00:08:08"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, wie gesagt, das ist schon ein Thema, das muss ich mir angucken und ich habe jetzt halt mit einem anderen Projekt gerade auch noch einige Sachen zu tun.",
+      "timestamp": "00:08:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja.",
+      "timestamp": "00:08:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Den einen Konto hatte ich mir heute Vormittag einplant, bin ich schon länger dran als gedacht, ich auch mehr mache, als ich eigentlich machen wollte, aber gut.",
+      "timestamp": "00:08:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja.",
+      "timestamp": "00:08:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Die Validierung von der Eingabe macht Sinn und hilft den Leuten auf jeden Fall.",
+      "timestamp": "00:08:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und mit den Futures, ja, ich gucke es mir an, wenn ich dann mal wieder ein paar Minuten vorrei schaufle, dann gucke ich da drauf.",
+      "timestamp": "00:08:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Das passt.",
+      "timestamp": "00:08:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Oder auch der Enes, wenn der dann mal Zeit hat, dann kann ich es dem auch geben, dass man es dann nochmal irgendwie einstellt.",
+      "timestamp": "00:08:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, und das ist, glaube ich, noch ein Thema, was wir haben.",
+      "timestamp": "00:08:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, Andreas Schimpel oder wie er hieß da mit seinem Voucher-Code.",
+      "timestamp": "00:08:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, ich glaube, da musst du vielleicht halt nochmal genaue Anleitungen, wo sie den Code eingeben.",
+      "timestamp": "00:08:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ist das denn richtig, dass sie das noch nicht eingeben können bei der Erstregistrierung?",
+      "timestamp": "00:09:05"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Weil dann bekommen sie erst mal sieben Tage für free.",
+      "timestamp": "00:09:10"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Und dann werden sie aufgefordert, dein Paket expired, jetzt musst du kaufen.",
+      "timestamp": "00:09:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "dann ist das schon mal gut, wenn das der Prozess ist.",
+      "timestamp": "00:09:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, vielleicht muss ich nur mal darauf hinweisen, ich mache mal am besten auch ein kurzes Video.",
+      "timestamp": "00:09:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Da müsste ich halt einmal einen Dummy anlegen, den kannst du dann nachher löschen, wenn das für dich passt.",
+      "timestamp": "00:09:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Und dann nehme ich da einmal ein Video dazu auf.",
+      "timestamp": "00:09:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Du musst ihn ja dann nicht einlösen, sondern trägst du nur einmal ein und bevor du halt auf bezahlen gehst.",
+      "timestamp": "00:09:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, oder so, genau.",
+      "timestamp": "00:09:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Genau, das wäre cool.",
+      "timestamp": "00:09:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja.",
+      "timestamp": "00:09:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Gut.",
+      "timestamp": "00:09:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, das mache ich mal.",
+      "timestamp": "00:09:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Super.",
+      "timestamp": "00:09:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Genau.",
+      "timestamp": "00:09:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "sonst ist es nicht gut.",
+      "timestamp": "00:09:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "irgendwelche Themen aus deiner Community raus, wo man was mitgekriegt hat, dass es nicht so gut",
+      "timestamp": "00:09:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ne.",
+      "timestamp": "00:10:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Wie ist das mit den neuen Registrierungen?",
+      "timestamp": "00:10:05"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Siehst du, wie aktiv die sind mit den Eintragungen?",
+      "timestamp": "00:10:07"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Also die neuen Registrierungen jetzt von vor zwei, drei Wochen.",
+      "timestamp": "00:10:10"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ich kann gerade mal reinschauen.",
+      "timestamp": "00:10:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Aber wie viele haben wir eigentlich, weil sie auch nicht haben?",
+      "timestamp": "00:10:16"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Warte, ich kann Haben wir gut 15.",
+      "timestamp": "00:10:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Wir haben einen Markus Krieg, eine Angela Schumacher, eine Joana Sarvey, Ben Charney, kann es sein?",
+      "timestamp": "00:10:34"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Cool, da sind schon mal einige, auch der Markus Krieg, die sind nicht aus meinem Kurs, aber es ist cool, dass die über den Optionsletter gekommen sind.",
+      "timestamp": "00:10:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja.",
+      "timestamp": "00:10:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Das ist schon mal cool.",
+      "timestamp": "00:10:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay, Joana ist bei mir aus dem Kurs, wer war das noch?",
+      "timestamp": "00:10:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ben ist bei mir auch nicht im Kurs.",
+      "timestamp": "00:10:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Cool.",
+      "timestamp": "00:11:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Auch Optionsletter?",
+      "timestamp": "00:11:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, ich weiß nicht.",
+      "timestamp": "00:11:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Könnte sein, weil er deutschsprachig ist, ja.",
+      "timestamp": "00:11:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und dann habe ich noch einen englischsprachigen.",
+      "timestamp": "00:11:07"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Der kommt dann woanders wahrscheinlich.",
+      "timestamp": "00:11:09"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Mhm.",
+      "timestamp": "00:11:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Also es müssen noch einige weitere sein, ne?",
+      "timestamp": "00:11:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Thomas Biermann und Sascha Ja, ja.",
+      "timestamp": "00:11:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "habe zwischerein mal eine Automatisierung gebaut, die man die Automatisierung einträgt.",
+      "timestamp": "00:11:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay.",
+      "timestamp": "00:11:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Also muss ich nochmal kurz in das Tool an sich reingucken.",
+      "timestamp": "00:11:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und wie viele, warte, wenn du kurz Zeit hast, gucke ich mal, ob ich dir das sagen kann.",
+      "timestamp": "00:11:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Mhm.",
+      "timestamp": "00:11:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja.",
+      "timestamp": "00:11:34"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Also hauptsächlich die, sich jetzt vor zwei, drei Wochen registriert haben, weil die müssten dann aus dem Kurs kommen.",
+      "timestamp": "00:11:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Authentication.",
+      "timestamp": "00:11:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Also, ich habe hier Created at...",
+      "timestamp": "00:11:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Die, nochmal hier, die Scanning.",
+      "timestamp": "00:11:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Dann haben wir hier, genau.",
+      "timestamp": "00:11:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ben Czarni, Johanna Sarve, Angela Schumacher, Markus Krieg, Elmar Schilling, Andreas Schimpiel.",
+      "timestamp": "00:11:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Schimpiel, mhm.",
+      "timestamp": "00:11:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Man...",
+      "timestamp": "00:11:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Klaus, Anders, Daniel Straß, Markus Rasche, Bernd Hebing, Sascha Bendig, Leon Ebner, Otus Kaniel am 14., da weiß ich nicht, ob der zu dir dazukommt oder nicht.",
+      "timestamp": "00:12:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Wie heißt der Otus Kaniel?",
+      "timestamp": "00:12:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, vermutlich nicht.",
+      "timestamp": "00:12:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Kaniel Kanier kenne ich, aber Otus sagt gar nichts.",
+      "timestamp": "00:12:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Wir haben also sind eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn, elf, zwölf, zwölf von dir auf jeden Fall mal.",
+      "timestamp": "00:12:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay.",
+      "timestamp": "00:12:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und wie aktiv wir sind, kann ich kurz rein spickeln, ob ich da dir was sagen kann.",
+      "timestamp": "00:12:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "User Summary.",
+      "timestamp": "00:12:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay.",
+      "timestamp": "00:12:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "die machen wir mal in Filter, created ad, created ad, und dann machen wir hier 20, 25, 10, 15.",
+      "timestamp": "00:12:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ausgleich, immer aus dem",
+      "timestamp": "00:12:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay, und dann sortieren wir es mal und dann zeig ich dir das.",
+      "timestamp": "00:13:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Oh, ist, der Bernd Hebing ist sportlich unterwegs, sechs Trades eintragen.",
+      "timestamp": "00:13:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Super.",
+      "timestamp": "00:13:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Der hat schon mal sechs Trades eingetragen, Leon Ebner mit drei, Thomas Biermann mit zwei, FM1, Newsletter TV, keine Ahnung, Klaus einen, Serscha einen, und viele noch gar keinen, Angela Schumacher, okay.",
+      "timestamp": "00:13:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:13:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Jo.",
+      "timestamp": "00:13:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja.",
+      "timestamp": "00:13:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja.",
+      "timestamp": "00:13:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja.",
+      "timestamp": "00:13:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja.",
+      "timestamp": "00:14:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja.",
+      "timestamp": "00:14:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Wenn wir mal jetzt in allen weiteren, wir haben jetzt genau Halbzeit, sechs Wochen hinter uns und fünf Wochen kommen noch und dann werden wir das jetzt natürlich jedes Session mit nutzen, jetzt handeln wir was und jetzt tragen wir es ein, jetzt kommentieren wir es und dann wird es auch immer mehr zur Routine, für die, es nutzen und für die, die es noch nicht nutzen, dass die es dann auch hoffentlich mal einrichten, weil da fehlen noch ein paar, unter denen du vorgelesen hast.",
+      "timestamp": "00:14:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Nee, cool, aber dann werde ich dann mal noch ein Video machen, jetzt wird nichts mehr diese Woche, aber ich denke, das ist ja das Tolle, eigentlich ist es intuitiv, aber so ein paar weitere Hotline-Ticket-Fälle können wir noch killen, wenn...",
+      "timestamp": "00:14:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, das war nur, wie gesagt, es ist mal aufgefallen, dass er dann nachgefragt hat und dann, du musst ja wirklich so die, ja, da musst du wirklich alle Hürde auseinanderräumen, dass es, und ich kenne es mir selber manchmal auch und denkst du, hä, bläh, bläh, bläh, Weil wenn du dich nicht ganz sicher fühlst, dann ist es halt so, Ja, genau, dann wird...",
+      "timestamp": "00:14:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Nachgefragt ist auch okay.",
+      "timestamp": "00:15:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Aber da können wir noch ein paar ausmerzen, das stimmt.",
+      "timestamp": "00:15:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Nee, gut.",
+      "timestamp": "00:15:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Aber sonst denke ich, es ist ein Weg, der funktioniert.",
+      "timestamp": "00:15:05"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ich habe jetzt frisch eine neue Discord-Gruppe aufgemacht am Sonntag, meine gesamten Newsletter-Abonnenten jetzt zu Discord eingeladen, das sind so 1000 Newsletter-Abonnenten, und dann habe ich da jetzt natürlich auch nochmal mehr Interaktion und Austausch, und es ist nicht so wie per Newsletter, du bekommst 30 E-Mails am Tag, sondern du bist jetzt in der Discord-Gruppe, du bekommst eine Nachricht, wenn jemand geschieht, beschrieben hat, kann es selber schreiben, und dann kann ich dir auch nochmal besser zu Angeboten, Aktionen und sowas abholen, und das will ich jetzt im November auch noch mit Black Friday machen, und werde dann auch immer mal so punktuell so ein paar Dinge bespielen, wie jetzt auch Mindtreasure, und dann bin ich immer näher dran.",
+      "timestamp": "00:15:09"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Darf die Mindtreasure-Gruppe auch nochmal, also einen Kanal für Mindtreasure drin, interessant, dass man den vielleicht auch rüber zieht, oder ich weiß nicht, weil da sind ja viele Leute vom Newsletter auch da, und dass man da halt auch informieren kann, und gerade auch, weißt du, so ein Update-Post,",
+      "timestamp": "00:15:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Finde ich auch gut, dass wir das da mit reinbringen, weil das stellt sich jetzt da als eine Gruppe von Aktiven, von Leuten, die im Demokonto sind, von Leuten, die die Theorien ein bisschen verstehen und von denen, die noch gar nicht gestartet sind.",
+      "timestamp": "00:16:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Also eigentlich sind da alle in dieser neuen Discord-Gruppe drin.",
+      "timestamp": "00:16:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Macht es auch ein bisschen schwierig, das natürlich zu managen, aber du hast nie Content für jeden.",
+      "timestamp": "00:16:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Aber dennoch finde ich eine gute Idee, der dann auch nochmal so ein...",
+      "timestamp": "00:16:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Kanal aufzumachen, wo ihr auch mit drin seid.",
+      "timestamp": "00:16:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja.",
+      "timestamp": "00:16:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Das ist halt auch, wenn sie Fragen habt, direkt auf uns zu.",
+      "timestamp": "00:16:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Wir können da mit den direkten Kanals einfachstehen, denke ich.",
+      "timestamp": "00:16:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Genau.",
+      "timestamp": "00:16:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, wir müssen ja schon in der Gruppe drin, wo meine Community ist, also meine schon Bestandskunden.",
+      "timestamp": "00:16:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Aber dann können wir das in diesem neuen Kanal auch noch machen.",
+      "timestamp": "00:16:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Sind jetzt gerade schon gut 100 drin, glaube ich.",
+      "timestamp": "00:16:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Also hat schon bei jedem zehnten gefruchtet.",
+      "timestamp": "00:16:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Mal gerade kurz gucken.",
+      "timestamp": "00:16:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "17 plus 72 sind 89.",
+      "timestamp": "00:16:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "die dem Aufruf gefolgt sind.",
+      "timestamp": "00:17:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ist schon ganz cool.",
+      "timestamp": "00:17:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Das ist kostenlos, aber natürlich mit dem Ziel, Affiliate und Kurse und alles immer mal so reinzuspielen.",
+      "timestamp": "00:17:06"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Na klar.",
+      "timestamp": "00:17:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja.",
+      "timestamp": "00:17:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Gut.",
+      "timestamp": "00:17:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Super.",
+      "timestamp": "00:17:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Sehr gut.",
+      "timestamp": "00:17:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, dann.",
+      "timestamp": "00:17:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Dann.",
+      "timestamp": "00:17:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Eine erfolgreiche World of Trading.",
+      "timestamp": "00:17:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "habe dieses Jahr, ich habe es irgendwie überhaupt nicht auf dem Schirm gehabt.",
+      "timestamp": "00:17:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ich war nur so weit weg und ich habe irgendwie so Anfang November hatte ich mal, aber dann, naja.",
+      "timestamp": "00:17:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Naja.",
+      "timestamp": "00:17:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja.",
+      "timestamp": "00:17:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Passt.",
+      "timestamp": "00:17:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Passt.",
+      "timestamp": "00:17:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ich werde berichten, sonst gibt es ja auch viele Livestreams, glaube ich.",
+      "timestamp": "00:17:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, das Ganze, ich handel ja gerade nicht aktiv von dem, das bringt es mir herzlich wenig.",
+      "timestamp": "00:17:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Für mich ist es interessant, mit Leuten, wenn sie dann mal neue Businesspartner aufmachen, haben immer so was für ein Interessant.",
+      "timestamp": "00:17:44"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja.",
+      "timestamp": "00:17:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Da ist da vielleicht auch nicht zu kommen, oder?",
+      "timestamp": "00:17:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Keine Ahnung.",
+      "timestamp": "00:17:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay.",
+      "timestamp": "00:17:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ich weiß es gar nicht.",
+      "timestamp": "00:17:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Da ist gerade Kontakt auch eher ein bisschen lose, weil sie auch wieder einen Fulltime-Job hat.",
+      "timestamp": "00:17:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja.",
+      "timestamp": "00:18:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und ich dann mit dem Kantine-Projekt da gerade ordentlich unterwegs bin, wie gesagt, wir machen immer noch weiter, und Edens hat ja auch mit dem Kliefer gehabt, und das wird dann sowas, und es ist halt ein bisschen langsamer, aber wie gesagt, AOK alles grüße nicht, wo soll ich das Geld hernehmen im Moment, ist ja eine Herausforderung.",
+      "timestamp": "00:18:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "krass, ja, das stimmt.",
+      "timestamp": "00:18:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Alright.",
+      "timestamp": "00:18:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Na gut, dann erstmal ganz viel lang dir.",
+      "timestamp": "00:18:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, dir auch, und viel Erfolg, und wir hören uns in zwei Wochen.",
+      "timestamp": "00:18:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Definitiv.",
+      "timestamp": "00:18:25"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Oder in der Zwischenzeit, alles klar.",
+      "timestamp": "00:18:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Markus Herfert",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "mach's mal.",
+      "timestamp": "00:18:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Adrian.",
+      "timestamp": "00:18:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Hält dich gerne in Iron Condor.",
+      "timestamp": "00:18:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja.",
+      "timestamp": "00:18:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ich gucke, ob ich da so ein 4-Release irgendwo mache, du da mal drauf gucken kannst.",
+      "timestamp": "00:18:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ich muss gucken, ob ich es hinkriege, ansonsten haue ich es einfach mal raus, und dann sehen wir es einfach.",
+      "timestamp": "00:18:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "dann lernen wir along the way.",
+      "timestamp": "00:18:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Alles klar.",
+      "timestamp": "00:18:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So, danke dir.",
+      "timestamp": "00:18:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ciao.",
+      "timestamp": "00:18:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ciao.",
+      "timestamp": "00:18:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ciao.",
+      "timestamp": "00:18:48"
+    }
+  ]
+}

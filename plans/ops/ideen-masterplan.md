@@ -158,3 +158,9 @@ Bessere Qualität bei kontrollierten Kosten.
 ## Nächster konkreter Schritt
 - Dieses Dokument als "Master Scope" verwenden.
 - Danach in ein Umsetzungs-Board mit Tickets (Setup, Integrationen, Automationen) herunterbrechen.
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

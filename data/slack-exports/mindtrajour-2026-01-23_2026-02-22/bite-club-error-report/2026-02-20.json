@@ -1,0 +1,166 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "New issue created: DOMException",
+        "username": "ErrorMaster",
+        "icons": {
+            "emoji": ":shit:"
+        },
+        "type": "message",
+        "ts": "1771611511.654539",
+        "bot_id": "B09QXE2LGDP",
+        "app_id": "A03M3FN0RSQ",
+        "blocks": [
+            {
+                "type": "header",
+                "block_id": "9DVZv",
+                "text": {
+                    "type": "plain_text",
+                    "text": ":red_circle: DOMException",
+                    "emoji": true
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "VvrgO",
+                "text": {
+                    "type": "plain_text",
+                    "text": "New issue created",
+                    "emoji": true
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "rzU3p",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "```AbortError: The operation was aborted.```",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "xpw5y",
+                "elements": [
+                    {
+                        "type": "plain_text",
+                        "text": "Status: Active",
+                        "emoji": true
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Project: <https:\/\/eu.posthog.com\/project\/80969|Bite Club>",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Alert: <https:\/\/eu.posthog.com\/project\/80969\/pipeline\/destinations\/hog-019a4be4-654d-0000-b06f-aea202442d37\/configuration\/|Post to Slack on issue created>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "v2nn0"
+            },
+            {
+                "type": "actions",
+                "block_id": "e358o",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "v5s39",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "View Issue",
+                            "emoji": true
+                        },
+                        "url": "https:\/\/eu.posthog.com\/project\/80969\/error_tracking\/019c7c46-5386-7e42-9325-dbd97fef3f59?fingerprint=7e8042631da6099d26cc9547055ed1e83d29a453c2e252e7c1e8bb134f6967f2c2fe3e7b54104c680db9665f539e0d7c4ec40ec00a07c05e0f6c93a70c812584&timestamp=2026-02-20T18:18:08.591Z"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "New issue created: TypeError",
+        "username": "ErrorMaster",
+        "icons": {
+            "emoji": ":shit:"
+        },
+        "type": "message",
+        "ts": "1771658711.026389",
+        "bot_id": "B09QXE2LGDP",
+        "app_id": "A03M3FN0RSQ",
+        "blocks": [
+            {
+                "type": "header",
+                "block_id": "uKJsL",
+                "text": {
+                    "type": "plain_text",
+                    "text": ":red_circle: TypeError",
+                    "emoji": true
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "sKu\/O",
+                "text": {
+                    "type": "plain_text",
+                    "text": "New issue created",
+                    "emoji": true
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "P0AJf",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "```Error in input stream```",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "bkdsW",
+                "elements": [
+                    {
+                        "type": "plain_text",
+                        "text": "Status: Active",
+                        "emoji": true
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Project: <https:\/\/eu.posthog.com\/project\/80969|Bite Club>",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Alert: <https:\/\/eu.posthog.com\/project\/80969\/pipeline\/destinations\/hog-019a4be4-654d-0000-b06f-aea202442d37\/configuration\/|Post to Slack on issue created>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "Pcb7g"
+            },
+            {
+                "type": "actions",
+                "block_id": "7Puxp",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "vw\/D5",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "View Issue",
+                            "emoji": true
+                        },
+                        "url": "https:\/\/eu.posthog.com\/project\/80969\/error_tracking\/019c7f16-88e5-7a81-81b5-f79663b00d50?fingerprint=490402970b1bb7b26e3310a440ecfb49efd5a278e16c293c73da5127f3c99f1f6a36899e038570f35232f47c684ecdc4768b3c8a170d96529fa6dfed4d0a723c&timestamp=2026-02-21T07:25:05.899Z"
+                    }
+                ]
+            }
+        ]
+    }
+]

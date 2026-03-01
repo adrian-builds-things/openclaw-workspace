@@ -1,0 +1,516 @@
+[
+    {
+        "user": "U03SDCEUKH6",
+        "type": "message",
+        "ts": "1769942163.574969",
+        "bot_id": "B03RPJA4R5Z",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T0197SMV2MQ",
+        "bot_profile": {
+            "id": "B03RPJA4R5Z",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U03SDCEUKH6",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1659210816,
+            "team_id": "T0197SMV2MQ"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[MindTrajour\/mindtrajour-app] 1 new commit pushed to _main_ by enszrlu",
+                "text": "`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/2722eda24e97d86ac3bf260d806cdcecb9626d41|2722eda2>` - style(style-updates): add close button to modal card and fix mobile on all trade header",
+                "pretext": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/compare\/cb0ae6477298...2722eda24e97|1 new commit> pushed to `<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/tree\/main|main>` by <https:\/\/github.com\/enszrlu|enszrlu>",
+                "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03SDCEUKH6",
+        "type": "message",
+        "ts": "1769942591.130789",
+        "bot_id": "B03RPJA4R5Z",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T0197SMV2MQ",
+        "bot_profile": {
+            "id": "B03RPJA4R5Z",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U03SDCEUKH6",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1659210816,
+            "team_id": "T0197SMV2MQ"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[MindTrajour\/mindtrajour-app] 1 new commit pushed to _main_ by enszrlu",
+                "text": "`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/822000582116ee8f2efc49b7b7b5c45589b0e0d3|82200058>` - style(dropdown-bg): change dropdown bg to primary",
+                "pretext": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/compare\/2722eda24e97...822000582116|1 new commit> pushed to `<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/tree\/main|main>` by <https:\/\/github.com\/enszrlu|enszrlu>",
+                "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03SDCEUKH6",
+        "type": "message",
+        "ts": "1769955206.412959",
+        "edited": {
+            "user": "B03RPJA4R5Z",
+            "ts": "1769989063.000000"
+        },
+        "bot_id": "B03RPJA4R5Z",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T0197SMV2MQ",
+        "bot_profile": {
+            "id": "B03RPJA4R5Z",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U03SDCEUKH6",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1659210816,
+            "team_id": "T0197SMV2MQ"
+        },
+        "thread_ts": "1769955206.412959",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1769955206.647619",
+        "reply_users": [
+            "U03SDCEUKH6"
+        ],
+        "replies": [
+            {
+                "user": "U03SDCEUKH6",
+                "ts": "1769955206.647619"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1762777769,
+                "color": "6f42c1",
+                "fallback": "[MindTrajour\/mindtrajour-app] Pull request opened by shorthander",
+                "pretext": "Pull request opened by <https:\/\/github.com\/shorthander|shorthander>",
+                "title": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/380|#380 Feature\/add iron condor strategy>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>",
+                "fields": [
+                    {
+                        "value": "released",
+                        "title": "Labels",
+                        "short": true
+                    },
+                    {
+                        "value": "1",
+                        "title": "Comments",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;MindTrajour&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:170454763,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;mindtrajour-app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:683163664,&amp;amp;quot;number&amp;amp;quot;:380,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/380&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Feature\/add iron condor strategy&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B03RPJA4R5Z",
+        "thread_ts": "1769955206.412959",
+        "root": {
+            "user": "U03SDCEUKH6",
+            "type": "message",
+            "ts": "1769955206.412959",
+            "edited": {
+                "user": "B03RPJA4R5Z",
+                "ts": "1769989063.000000"
+            },
+            "bot_id": "B03RPJA4R5Z",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T0197SMV2MQ",
+            "bot_profile": {
+                "id": "B03RPJA4R5Z",
+                "app_id": "A01BP7R4KNY",
+                "user_id": "U03SDCEUKH6",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1659210816,
+                "team_id": "T0197SMV2MQ"
+            },
+            "thread_ts": "1769955206.412959",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1769955206.647619",
+            "reply_users": [
+                "U03SDCEUKH6"
+            ],
+            "replies": [
+                {
+                    "user": "U03SDCEUKH6",
+                    "ts": "1769955206.647619"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1762777769,
+                    "color": "6f42c1",
+                    "fallback": "[MindTrajour\/mindtrajour-app] Pull request opened by shorthander",
+                    "pretext": "Pull request opened by <https:\/\/github.com\/shorthander|shorthander>",
+                    "title": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/380|#380 Feature\/add iron condor strategy>",
+                    "callback_id": "pr-opened-interaction",
+                    "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>",
+                    "fields": [
+                        {
+                            "value": "released",
+                            "title": "Labels",
+                            "short": true
+                        },
+                        {
+                            "value": "1",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;MindTrajour&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:170454763,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;mindtrajour-app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:683163664,&amp;amp;quot;number&amp;amp;quot;:380,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/380&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Feature\/add iron condor strategy&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "user": "U03SDCEUKH6",
+        "type": "message",
+        "ts": "1769955206.647619",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1762777769,
+                "color": "6f42c1",
+                "fallback": "[MindTrajour\/mindtrajour-app] Pull request merged by enszrlu",
+                "pretext": "Pull request merged by <https:\/\/github.com\/enszrlu|enszrlu>",
+                "title": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/380|#380 Feature\/add iron condor strategy>",
+                "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>"
+            }
+        ]
+    },
+    {
+        "user": "U03SDCEUKH6",
+        "type": "message",
+        "ts": "1769988744.567949",
+        "edited": {
+            "user": "B03RPJA4R5Z",
+            "ts": "1769989062.000000"
+        },
+        "bot_id": "B03RPJA4R5Z",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T0197SMV2MQ",
+        "bot_profile": {
+            "id": "B03RPJA4R5Z",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U03SDCEUKH6",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1659210816,
+            "team_id": "T0197SMV2MQ"
+        },
+        "thread_ts": "1769988744.567949",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1769988810.116789",
+        "reply_users": [
+            "U03SDCEUKH6"
+        ],
+        "replies": [
+            {
+                "user": "U03SDCEUKH6",
+                "ts": "1769988810.116789"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1769988741,
+                "color": "6f42c1",
+                "fallback": "[MindTrajour\/mindtrajour-app] Pull request opened by enszrlu",
+                "pretext": "Pull request opened by <https:\/\/github.com\/enszrlu|enszrlu>",
+                "title": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/393|#393 Merge pull request #380 from MindTrajour\/feature\/add-iron-condor-strategy\\n\\nFeature\/add iron condor strategy>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>",
+                "fields": [
+                    {
+                        "value": "released",
+                        "title": "Labels",
+                        "short": true
+                    },
+                    {
+                        "value": "1",
+                        "title": "Comments",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;MindTrajour&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:170454763,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;mindtrajour-app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:683163664,&amp;amp;quot;number&amp;amp;quot;:393,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/393&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Merge pull request #380 from MindTrajour\/feature\/add-iron-condor-strategy  Feature\/add iron condor strategy&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B03RPJA4R5Z",
+        "thread_ts": "1769988744.567949",
+        "root": {
+            "user": "U03SDCEUKH6",
+            "type": "message",
+            "ts": "1769988744.567949",
+            "edited": {
+                "user": "B03RPJA4R5Z",
+                "ts": "1769989062.000000"
+            },
+            "bot_id": "B03RPJA4R5Z",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T0197SMV2MQ",
+            "bot_profile": {
+                "id": "B03RPJA4R5Z",
+                "app_id": "A01BP7R4KNY",
+                "user_id": "U03SDCEUKH6",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1659210816,
+                "team_id": "T0197SMV2MQ"
+            },
+            "thread_ts": "1769988744.567949",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1769988810.116789",
+            "reply_users": [
+                "U03SDCEUKH6"
+            ],
+            "replies": [
+                {
+                    "user": "U03SDCEUKH6",
+                    "ts": "1769988810.116789"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1769988741,
+                    "color": "6f42c1",
+                    "fallback": "[MindTrajour\/mindtrajour-app] Pull request opened by enszrlu",
+                    "pretext": "Pull request opened by <https:\/\/github.com\/enszrlu|enszrlu>",
+                    "title": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/393|#393 Merge pull request #380 from MindTrajour\/feature\/add-iron-condor-strategy\\n\\nFeature\/add iron condor strategy>",
+                    "callback_id": "pr-opened-interaction",
+                    "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>",
+                    "fields": [
+                        {
+                            "value": "released",
+                            "title": "Labels",
+                            "short": true
+                        },
+                        {
+                            "value": "1",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;MindTrajour&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:170454763,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;mindtrajour-app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:683163664,&amp;amp;quot;number&amp;amp;quot;:393,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/393&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Merge pull request #380 from MindTrajour\/feature\/add-iron-condor-strategy  Feature\/add iron condor strategy&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "user": "U03SDCEUKH6",
+        "type": "message",
+        "ts": "1769988810.116789",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1769988741,
+                "color": "6f42c1",
+                "fallback": "[MindTrajour\/mindtrajour-app] Pull request merged by enszrlu",
+                "pretext": "Pull request merged by <https:\/\/github.com\/enszrlu|enszrlu>",
+                "title": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/393|#393 Merge pull request #380 from MindTrajour\/feature\/add-iron-condor-strategy\\n\\nFeature\/add iron condor strategy>",
+                "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>"
+            }
+        ]
+    },
+    {
+        "user": "U03SDCEUKH6",
+        "type": "message",
+        "ts": "1769988810.335759",
+        "bot_id": "B03RPJA4R5Z",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T0197SMV2MQ",
+        "bot_profile": {
+            "id": "B03RPJA4R5Z",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U03SDCEUKH6",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1659210816,
+            "team_id": "T0197SMV2MQ"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[MindTrajour\/mindtrajour-app] 20 new commits pushed to _main_ by enszrlu",
+                "text": "`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/7014a76565174333bb4875bacfcf99b146014aa0|7014a765>` - Merge pull request #379 from MindTrajour\/feature\/202510106-add-more-descriptive-header-to-all-trades\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/96e79dfaf4feeaa12013068084867be05905879a|96e79dfa>` - feat(database): add iron condor 4-leg options strategy\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/16bba1c8db4a36d3f91478e4da4cd469f99d6bb1|16bba1c8>` - feat(database): add strategy constraints system with validation rules\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/d4d65b32e78a9da4032ef706a3b2290837da220e|d4d65b32>` - feat(database): add strategy constraints system with validation rules\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/50f167a49eb21a9a43f770db1656be5cc6b8b8dd|50f167a4>` - feat(validation): improve strategy constraint validation UI and remove expiration date validation\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/ec3f969cfde8642f4d18773239f927430a007e49|ec3f969c>` - feat(i18n): internationalize strategy validation error messages\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/911afd73081999b794848e9823e170a1ddb8636b|911afd73>` - feat(options): fix expiration date sync for Iron Condor and multi-leg strategies\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/4d9146f98472a8a3224af339a511bfd62958a34d|4d9146f9>` - chore(test) Fix unit test.\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/91f0871aaaa033e8d801e66106a64af0bde509a0|91f0871a>` - Merge pull request #390 from MindTrajour\/main\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/eb5e3d0f8d7448f47267834439f2e4c2e0841f18|eb5e3d0f>` - Merge remote-tracking branch 'origin\/main' into feature\/add-iron-condor-strategy\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/c018943aecb6da382010ff0b96a75114eec9e2bb|c018943a>` - Merge branch 'main' into release\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/4587e1bc65af486bee0d792f52f343e4013cfeab|4587e1bc>` - chore(cicd) update github actions to use supabase staging project for release branch\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/c6716fb48c1ddcea605844aff4141f508899cd1b|c6716fb4>` - fix(getUrl): fix env variable filter.\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/695e65e4ae0c303a4e523b95372fbb43e6644c7e|695e65e4>` - Merge branch 'release' into feature\/add-iron-condor-strategy\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/9ef8f881d78ab1d939510e87a127551bf364cdd1|9ef8f881>` - feat(all-trades): implement global search box for all trades table, removing old input boxes\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/6ff47a7facced15413f6caf635275d216b50fe8d|6ff47a7f>` - style(all-trades): Filters are arranged better and column order fixed\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/bb17fbb388dc84bbab423a76062367426bc320b9|bb17fbb3>` - style(buttons): hover colour is fixed for export and all other buttons\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/5e33c8761859bb589df20e3054d4117f866c7b4d|5e33c876>` - update types\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/42dcd125cacdb97e4da5db1b3b672232b29a3933|42dcd125>` - Merge pull request #380 from MindTrajour\/feature\/add-iron-condor-strategy\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/05a06315cea93e79cb8754025f7e89c7eea27daf|05a06315>` - Merge pull request #393 from MindTrajour\/release",
+                "pretext": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/compare\/822000582116...05a06315cea9|20 new commits> pushed to `<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/tree\/main|main>` by <https:\/\/github.com\/enszrlu|enszrlu>",
+                "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03SDCEUKH6",
+        "type": "message",
+        "ts": "1769989054.210879",
+        "bot_id": "B03RPJA4R5Z",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T0197SMV2MQ",
+        "bot_profile": {
+            "id": "B03RPJA4R5Z",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U03SDCEUKH6",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1659210816,
+            "team_id": "T0197SMV2MQ"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1769989053,
+                "color": "24292f",
+                "fallback": "[MindTrajour\/mindtrajour-app] New release <https:\/\/github.com\/MindTrajour\/mindtrajour-app\/releases\/tag\/v1.16.0|Release - v1.16.0> published by github-actions[bot]",
+                "text": "# <https:\/\/github.com\/MindTrajour\/mindtrajour-app\/compare\/v1.15.1...v1.16.0|1.16.0> (2026-02-01)\n\n### Bug Fixes\n\n• *getUrl:* fix env variable filter. (<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/c6716fb48c1ddcea605844aff4141f508899cd1b|c6716fb>)\n\n### Features\n\n• *all-trades:* add localStorage persistence for table state (<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/ac6748cc8e0db8845ec234e10c6cf40b24db8974|ac6748c>)\n• *all-trades:* implement global search box for all trades table, removing old input boxes (<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/9ef8f881d78ab1d939510e87a127551bf364cdd1|9ef8f88>)\n• *database:* add iron condor 4-leg options strategy (<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/96e79dfaf4feeaa12013068084867be05905879a|96e79df>)\n• *database:* add strategy constraints system with validation rules (<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/d4d65b32e78a9da4032ef706a3b2290837da220e|d4d65b3>)\n• *database:* add strategy constraints system with validation rules (<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/16bba1c8db4a36d3f91478e4da4cd469f99d6bb1|16bba1c>)\n• *i18n:* internationalize strategy validation error messages (<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/ec3f969cfde8642f4d18773239f927430a007e49|ec3f969>)\n• *options:* add new Option column with professional notation format (<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/0e68a085d74c787016a9ac1f785107f96e5c3a1f|0e68a08>)\n• *options:* fix expiration date sync for Iron Condor and multi-leg strategies (<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/911afd73081999b794848e9823e170a1ddb8636b|911afd7>)\n• *validation:* improve strategy constraint validation UI and remove expiration date validation (<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/50f167a49eb21a9a43f770db1656be5cc6b8b8dd|50f167a>)",
+                "pretext": "New release published by <https:\/\/github.com\/apps\/github-actions|github-actions[bot]>",
+                "title": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/releases\/tag\/v1.16.0|Release - v1.16.0>",
+                "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

@@ -59,3 +59,9 @@ Bitte exakt diesen Export aus IBKR/CapTrader bereitstellen:
 4. Format: **CSV** (bevorzugt) oder XML
 
 Erst damit kann pro Trade Entry/Exit + realisierter Gewinn/Verlust + FX-Anteil ohne Heuristik final und revisionssicher abgeschlossen werden.
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

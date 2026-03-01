@@ -23,14 +23,20 @@
 - [x] Dashboard komplett überarbeitet (KPI-Header, Fokus-Karten, erweiterte Dokumentliste)
 - [x] Markdown-Viewer im Dashboard auf hübsche Darstellung umgestellt (Headings, Tabellen, Listen, Codeblöcke)
 - [x] Ops-Tool um Marketing-Tab als Control Center erweitert
-- [x] Neues Marketing-Masterdokument erstellt (`plans/biteclub/marketing-master-plan-v2.md`)
+- [x] Neues Marketing-Masterdokument erstellt (`[[plans/biteclub/marketing-master-plan-v2]]`)
 - [x] Markdown-Dokumentansicht auf 2 Modi umgestellt (Lesbar + Original) inkl. besserer Struktur/Typografie
 - [x] Messaging bei Bite Club von "Bestellchaos" auf "Food Waste + Küchensteuerung" umgestellt
 - [x] Vorläufige EU-Regulatory-Notiz erstellt (`plans/knowledge/eu-food-waste-regulatory-note.md`)
 - [x] Ops auf Focus-Timeboxing-8020 ausgerichtet (High-Impact 20% + Fokusblöcke)
 - [x] Daily Revenue Scoreboard als nutzbares Ops-UI gebaut (`/ops` Tab "Revenue")
 - [x] API + Datenablage für Scoreboard ergänzt (`/api/revenue-scoreboard`, `data/revenue-scoreboard.json`)
-- [x] Timeboxing-Plan dokumentiert (`plans/ops/focus-timeboxing-8020-plan.md`)
+- [x] Timeboxing-Plan dokumentiert (`[[plans/ops/focus-timeboxing-8020-plan]]`)
 - [x] Dashboard mit KPI-/Revenue-/Pipeline-Fokus neu strukturiert (decision-first)
 - [x] Neues CRM-Tool gebaut (`/crm`) inkl. API + Datenfile
 - [x] Ops-UI stark vereinfacht (Focus 80/20, Tasks, Revenue, Marketing)
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

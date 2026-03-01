@@ -1,0 +1,62 @@
+[
+    {
+        "user": "U09JU38R1QA",
+        "type": "message",
+        "ts": "1771758209.184699",
+        "bot_id": "B09JXJRNDAQ",
+        "app_id": "A09JML388D9",
+        "text": "```\n📊 Update 1.20.0 is live!\n\n✨ What's new\n• Click employee names to view and edit their full profiles, including dietary restrictions 👤\n• Mobile menu planning just got easier with new drawer-based dish selection for each course 📱\n• Enhanced meal distribution reports now show delivery percentages and summary tables for better insights 📊\n• Multi-select category filters in the weekly menu planner for more flexible dish browsing 🎯\n• Complete German language support added, plus improved translation system across the app 🌍\n• Landing page now tracks user engagement including scroll depth and video viewing analytics 📈\n\n🐞 Fixes\n• Fixed broken blog links and restored proper localized links for each page ⚡\n• Breadcrumbs no longer show confusing UUID segments for cleaner navigation\n• Employee dietary restriction checkboxes now update correctly when modified\n• Delete action restored to employee list dropdown menu\n• Menu planning on tablets now works smoothly with no gaps in the interface\n• Language switcher is back and working properly\n• Weekly menu creation headers now display in all supported languages\n• Invalid drag-and-drop actions now show helpful error messages\n• Sidebar height in the dish selector now fills the available space properly\n• Selected category filter now displays the correct visual indicator\n• Menu lock messages now show the correct reason why it's locked\n\n⚡ Performance\n• Employee detail pages load faster with dedicated API for single employee fetches 🚀\n• Meal distribution reports optimized for quicker data retrieval\n\n🚀 Better menus, clearer employee info, and full multilingual support — this update makes meal planning smoother for everyone!\n```\n_Automated with this <https:\/\/n8n.internal.mindtrajour.com\/workflow\/qcfDRj7w0MEDoQc5?utm_source=n8n-internal&amp;utm_medium=powered_by&amp;utm_campaign=n8n-nodes-base.slack_31a079d7ac3257c80c0f928e3bd1e65494e1faaed7d1335db30a475d39d7b551|n8n workflow>_",
+        "team": "T0197SMV2MQ",
+        "bot_profile": {
+            "id": "B09JXJRNDAQ",
+            "app_id": "A09JML388D9",
+            "user_id": "U09JU38R1QA",
+            "name": "N8N Integration",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_36.png",
+                "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/service_72.png"
+            },
+            "deleted": false,
+            "updated": 1759671050,
+            "team_id": "T0197SMV2MQ"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uFud",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "📊 Update 1.20.0 is live!\n\n✨ What's new\n• Click employee names to view and edit their full profiles, including dietary restrictions 👤\n• Mobile menu planning just got easier with new drawer-based dish selection for each course 📱\n• Enhanced meal distribution reports now show delivery percentages and summary tables for better insights 📊\n• Multi-select category filters in the weekly menu planner for more flexible dish browsing 🎯\n• Complete German language support added, plus improved translation system across the app 🌍\n• Landing page now tracks user engagement including scroll depth and video viewing analytics 📈\n\n🐞 Fixes\n• Fixed broken blog links and restored proper localized links for each page ⚡\n• Breadcrumbs no longer show confusing UUID segments for cleaner navigation\n• Employee dietary restriction checkboxes now update correctly when modified\n• Delete action restored to employee list dropdown menu\n• Menu planning on tablets now works smoothly with no gaps in the interface\n• Language switcher is back and working properly\n• Weekly menu creation headers now display in all supported languages\n• Invalid drag-and-drop actions now show helpful error messages\n• Sidebar height in the dish selector now fills the available space properly\n• Selected category filter now displays the correct visual indicator\n• Menu lock messages now show the correct reason why it's locked\n\n⚡ Performance\n• Employee detail pages load faster with dedicated API for single employee fetches 🚀\n• Meal distribution reports optimized for quicker data retrieval\n\n🚀 Better menus, clearer employee info, and full multilingual support — this update makes meal planning smoother for everyone!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Automated with this ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/n8n.internal.mindtrajour.com\/workflow\/qcfDRj7w0MEDoQc5?utm_source=n8n-internal&amp;utm_medium=powered_by&amp;utm_campaign=n8n-nodes-base.slack_31a079d7ac3257c80c0f928e3bd1e65494e1faaed7d1335db30a475d39d7b551",
+                                "text": "n8n workflow",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,764 @@
+[
+    {
+        "user": "U018T4T64FR",
+        "type": "message",
+        "ts": "1771257031.125509",
+        "client_msg_id": "d74990be-1b82-4dc2-8946-3ac9bfdf4720",
+        "text": "yeah lets do it and see who will use which theme. we should also start logging it in posthog.",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "d73f62394d70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-20\/1314120389299_d73f62394d70e7c52de4_72.jpg",
+            "first_name": "Adrian",
+            "real_name": "Adrian",
+            "display_name": "Aaaaaaadriaaaaaaan",
+            "team": "T0197SMV2MQ",
+            "name": "adrian.rinnus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770905021.207739",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "le36X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah lets do it and see who will use which theme. we should also start logging it in posthog."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U018T4T64FR",
+        "type": "message",
+        "ts": "1771257039.568169",
+        "client_msg_id": "c3aaf19d-88c0-4200-b39f-73f3fdaa6f8b",
+        "text": "here are my test results: <https:\/\/app.shortcut.com\/mindtrajour\/write\/IkRvYyI6I3V1aWQgIjY5OTMzMzIwLTMzYTUtNGQ1ZS1hOWZhLTMxMmY3NDcxZGNkZiI=>",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "d73f62394d70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-20\/1314120389299_d73f62394d70e7c52de4_72.jpg",
+            "first_name": "Adrian",
+            "real_name": "Adrian",
+            "display_name": "Aaaaaaadriaaaaaaan",
+            "team": "T0197SMV2MQ",
+            "name": "adrian.rinnus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770905021.207739",
+        "parent_user_id": "U06QAS7FPUH",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/static.shortcut.com\/images\/dot-16px.png",
+                "ts": 1771256938,
+                "bot_id": "B05UVP1KMS4",
+                "bot_team_id": "T0197SMV2MQ",
+                "app_unfurl_url": "https:\/\/app.shortcut.com\/mindtrajour\/write\/IkRvYyI6I3V1aWQgIjY5OTMzMzIwLTMzYTUtNGQ1ZS1hOWZhLTMxMmY3NDcxZGNkZiI=",
+                "is_app_unfurl": true,
+                "app_id": "A0E57HPCM",
+                "fallback": "20260216 Project Clean up Finding Adrian",
+                "text": "Tests done and passed: checklist items checked on different trades and tested if they are persisted changing entry price for existing trade using emotion tracker and notes function and check for d ...",
+                "title": "20260216 Project Clean up Finding Adrian",
+                "title_link": "https:\/\/app.shortcut.com\/mindtrajour\/write\/IkRvYyI6I3V1aWQgIjY5OTMzMzIwLTMzYTUtNGQ1ZS1hOWZhLTMxMmY3NDcxZGNkZiI=",
+                "footer": "Created by Adrian Rinnus"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H1pSl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "here are my test results: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/app.shortcut.com\/mindtrajour\/write\/IkRvYyI6I3V1aWQgIjY5OTMzMzIwLTMzYTUtNGQ1ZS1hOWZhLTMxMmY3NDcxZGNkZiI="
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05BP6JEKRD",
+        "type": "message",
+        "ts": "1771261281.407849",
+        "client_msg_id": "0b70dde9-7c31-4415-8aa5-469a8703a7b6",
+        "text": "Dear Enes, thank you so much for the clean up and for integrating the new themes! Here is my detailed review: <https:\/\/app.shortcut.com\/mindtrajour\/write\/IkRvYyI6I3V1aWQgIjY5OTMzNmVjLWIyMGMtNDNlMS1iYTcxLWE1ZmI2Y2UzNTYxOSI=|https:\/\/app.shortcut.com\/mindtrajour\/write\/IkRvYyI6I3V1aWQgIjY5OTMzNmVjLWIyMGMtNDNlMS1iYTcxLWE1ZmI2Y2UzNTYxOSI=>",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "cbddedcb4f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-20\/6371114387445_cbddedcb4f3716d3e577_72.jpg",
+            "first_name": "Larissa",
+            "real_name": "Larissa Lange",
+            "display_name": "Larissa Lange",
+            "team": "T0197SMV2MQ",
+            "name": "larissa.j.lange",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770905021.207739",
+        "parent_user_id": "U06QAS7FPUH",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/static.shortcut.com\/images\/dot-16px.png",
+                "ts": 1771261183,
+                "bot_id": "B05UVP1KMS4",
+                "bot_team_id": "T0197SMV2MQ",
+                "app_unfurl_url": "https:\/\/app.shortcut.com\/mindtrajour\/write\/IkRvYyI6I3V1aWQgIjY5OTMzNmVjLWIyMGMtNDNlMS1iYTcxLWE1ZmI2Y2UzNTYxOSI=",
+                "is_app_unfurl": true,
+                "app_id": "A0E57HPCM",
+                "fallback": "260216 Detailed Testing of Staging Review by Larissa",
+                "text": ":white_check_mark: MindTrajour – Staging Testing Checklist :one: Environment & Setup x Login with Google Account works x Logout with Google Account works x Session persists (no unexpected logout) x Page refresh keep ...",
+                "title": "260216 Detailed Testing of Staging Review by Larissa",
+                "title_link": "https:\/\/app.shortcut.com\/mindtrajour\/write\/IkRvYyI6I3V1aWQgIjY5OTMzNmVjLWIyMGMtNDNlMS1iYTcxLWE1ZmI2Y2UzNTYxOSI=",
+                "footer": "Created by Larissa Lange"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SVULk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dear Enes, thank you so much for the clean up and for integrating the new themes! Here is my detailed review: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/app.shortcut.com\/mindtrajour\/write\/IkRvYyI6I3V1aWQgIjY5OTMzNmVjLWIyMGMtNDNlMS1iYTcxLWE1ZmI2Y2UzNTYxOSI=",
+                                "text": "https:\/\/app.shortcut.com\/mindtrajour\/write\/IkRvYyI6I3V1aWQgIjY5OTMzNmVjLWIyMGMtNDNlMS1iYTcxLWE1ZmI2Y2UzNTYxOSI="
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06QAS7FPUH",
+        "type": "message",
+        "ts": "1771261728.611429",
+        "client_msg_id": "8da60c2a-9863-4a7b-a7b8-cf78256978f1",
+        "text": "<@U018T4T64FR> Thanks for review, comments are added. Please let me know once answered.",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "e6c03bfa2940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6814162374787_e6c03bfa29409aabbabf_72.jpg",
+            "first_name": "Enes",
+            "real_name": "Enes Zorlu",
+            "display_name": "Enes Zorlu",
+            "team": "T0197SMV2MQ",
+            "name": "enes.zrl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770905021.207739",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tLD6V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U018T4T64FR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thanks for review, comments are added. Please let me know once answered."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06QAS7FPUH",
+        "type": "message",
+        "ts": "1771262158.899789",
+        "client_msg_id": "33732bf0-3a86-49da-8876-7ac038ce1524",
+        "text": "<@U05BP6JEKRD> thanks for review, I left two comments. Others I need to fix.",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "e6c03bfa2940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6814162374787_e6c03bfa29409aabbabf_72.jpg",
+            "first_name": "Enes",
+            "real_name": "Enes Zorlu",
+            "display_name": "Enes Zorlu",
+            "team": "T0197SMV2MQ",
+            "name": "enes.zrl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770905021.207739",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l5OHz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05BP6JEKRD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thanks for review, I left two comments. Others I need to fix."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U05BP6JEKRD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U018T4T64FR",
+        "type": "message",
+        "ts": "1771263051.716329",
+        "client_msg_id": "9714fced-764e-403b-94c6-baa327df1c7b",
+        "text": "<@U06QAS7FPUH> answered",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "d73f62394d70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-20\/1314120389299_d73f62394d70e7c52de4_72.jpg",
+            "first_name": "Adrian",
+            "real_name": "Adrian",
+            "display_name": "Aaaaaaadriaaaaaaan",
+            "team": "T0197SMV2MQ",
+            "name": "adrian.rinnus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770905021.207739",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BLESb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06QAS7FPUH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " answered"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06QAS7FPUH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06QAS7FPUH",
+        "type": "message",
+        "ts": "1771281280.699619",
+        "client_msg_id": "8924c359-571b-44f0-b63e-719d298e09f3",
+        "text": "Fixed all requests:\n• Trade Management profit section made more accessible\n• Trade entry Submit button is disabled and showing loader when clicked to avoid double saves and avoid confusion when network is slow.\n• Trade entry numeric inputs does not show spinner anymore (up-down arrows)\n• Account setting page design is aligned with other pages. \n• Trade Account change now triggers data refresh on all-trades page as well. \nAlso commented on your files. Please review one last time and let me know if you are happy.\n\n<@U018T4T64FR> you did not comment on your favourite theme.\n\nAlso if you dont have a favourite, please feel free to create one.\n\nFinally please comment on <@U05JJ8QHBHB>’s themes.",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "e6c03bfa2940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6814162374787_e6c03bfa29409aabbabf_72.jpg",
+            "first_name": "Enes",
+            "real_name": "Enes Zorlu",
+            "display_name": "Enes Zorlu",
+            "team": "T0197SMV2MQ",
+            "name": "enes.zrl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770905021.207739",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eOITZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fixed all requests:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Trade Management profit section made more accessible"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Trade entry Submit button is disabled and showing loader when clicked to avoid double saves and avoid confusion when network is slow."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Trade entry numeric inputs does not show spinner anymore (up-down arrows)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Account setting page design is aligned with other pages. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Trade Account change now triggers data refresh on all-trades page as well. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nAlso commented on your files. Please review one last time and let me know if you are happy.\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U018T4T64FR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you did not comment on your favourite theme.\n\nAlso if you dont have a favourite, please feel free to create one.\n\nFinally please comment on "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05JJ8QHBHB"
+                            },
+                            {
+                                "type": "text",
+                                "text": "’s themes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U05BP6JEKRD",
+                    "U018T4T64FR"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06QAS7FPUH",
+        "type": "message",
+        "ts": "1771281304.664919",
+        "client_msg_id": "304668d2-9315-48ef-9724-2d41ddf84336",
+        "text": "<@U05JJ8QHBHB>’s review file here as well:\n<https:\/\/app.shortcut.com\/mindtrajour\/write\/IkRvYyI6I3V1aWQgIjY5OGUwYmVkLTZiNWItNDgzMC04MjdhLWIyZWNmOTAxYmRiMiI=>",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "e6c03bfa2940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6814162374787_e6c03bfa29409aabbabf_72.jpg",
+            "first_name": "Enes",
+            "real_name": "Enes Zorlu",
+            "display_name": "Enes Zorlu",
+            "team": "T0197SMV2MQ",
+            "name": "enes.zrl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770905021.207739",
+        "parent_user_id": "U06QAS7FPUH",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/static.shortcut.com\/images\/dot-16px.png",
+                "ts": 1770998623,
+                "bot_id": "B05UVP1KMS4",
+                "bot_team_id": "T0197SMV2MQ",
+                "app_unfurl_url": "https:\/\/app.shortcut.com\/mindtrajour\/write\/IkRvYyI6I3V1aWQgIjY5OGUwYmVkLTZiNWItNDgzMC04MjdhLWIyZWNmOTAxYmRiMiI=",
+                "is_app_unfurl": true,
+                "app_id": "A0E57HPCM",
+                "fallback": "12.2026. Eve: PROJECT CLEANUP",
+                "text": "Technical issues 1. The “Lifetime” label isn’t very clear and doesn’t suggest that it can be clicked to change the date range. It looks more like a static label than an action, and there’s no icon ...",
+                "title": "12.2026. Eve: PROJECT CLEANUP",
+                "title_link": "https:\/\/app.shortcut.com\/mindtrajour\/write\/IkRvYyI6I3V1aWQgIjY5OGUwYmVkLTZiNWItNDgzMC04MjdhLWIyZWNmOTAxYmRiMiI=",
+                "footer": "Created by Eve"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+CZn\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05JJ8QHBHB"
+                            },
+                            {
+                                "type": "text",
+                                "text": "’s review file here as well:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/app.shortcut.com\/mindtrajour\/write\/IkRvYyI6I3V1aWQgIjY5OGUwYmVkLTZiNWItNDgzMC04MjdhLWIyZWNmOTAxYmRiMiI="
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05BP6JEKRD",
+        "type": "message",
+        "ts": "1771283055.585769",
+        "client_msg_id": "5736d998-d58b-4dff-a820-50ea5dfbe8d9",
+        "text": "Thank you sooo much Enes for fixing everything so quickly!! You are amazing! Will check it tomorrow",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "cbddedcb4f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-20\/6371114387445_cbddedcb4f3716d3e577_72.jpg",
+            "first_name": "Larissa",
+            "real_name": "Larissa Lange",
+            "display_name": "Larissa Lange",
+            "team": "T0197SMV2MQ",
+            "name": "larissa.j.lange",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770905021.207739",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lbdNM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you sooo much Enes for fixing everything so quickly!! You are amazing! Will check it tomorrow"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06QAS7FPUH",
+        "type": "message",
+        "ts": "1771284232.970189",
+        "client_msg_id": "a6ced03f-44e1-4fd6-a9bf-2c995828690a",
+        "text": "In my opinion (also Bensu), Eve MTJ was really strong in Dark. Light need some tweaking. (Also Dark chart text needs changing for accessibility.)\nOther tweakcn themes, they are all nice and good to have as an option to give to customers.\n\nWhy eve-mtj needs tweaking:|\n• it is very border heavy rather than contrast on background and card colour. (making 30% transparent improved a lot) \n• Chart colours are not in same pastel level (whatever it is called) with primary colour. It makes it too alone by itself in dashboard. Create new trade button itching eyes. \n• All other themes have primary colour also in chart-2 colour but this theme has it on chart-4. making primary chart-2 improved the theme significantly.\n<@U05JJ8QHBHB> I added eve-mtj-modified with some colour changes per above. I am still not sure about background colours, maybe I like more cleaner whiter look on bg colours. Like Dark Matter, Midnight Bloom and Northern Lights.\n\nMy favourite themes that could be a default theme of an app:\n• Dark Matter - strong on light mode not so in dark mode.\n• Twitter - strong on both but can use less radius. \n• Northern Lights - strong on both. \n• Retro is superb but just not our vibe. ",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "e6c03bfa2940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6814162374787_e6c03bfa29409aabbabf_72.jpg",
+            "first_name": "Enes",
+            "real_name": "Enes Zorlu",
+            "display_name": "Enes Zorlu",
+            "team": "T0197SMV2MQ",
+            "name": "enes.zrl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770905021.207739",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RorDK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In my opinion (also Bensu), Eve MTJ was really strong in Dark. Light need some tweaking. (Also Dark chart text needs changing for accessibility.)\nOther tweakcn themes, they are all nice and good to have as an option to give to customers.\n\nWhy eve-mtj needs tweaking:|\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "it is very border heavy rather than contrast on background and card colour. (making 30% transparent improved a lot) "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Chart colours are not in same pastel level (whatever it is called) with primary colour. It makes it too alone by itself in dashboard. Create new trade button itching eyes. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "All other themes have primary colour also in chart-2 colour but this theme has it on chart-4. making primary chart-2 improved the theme significantly."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05JJ8QHBHB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I added eve-mtj-modified with some colour changes per above. I am still not sure about background colours, maybe I like more cleaner whiter look on bg colours. Like Dark Matter, Midnight Bloom and Northern Lights.\n\nMy favourite themes that could be a default theme of an app:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Dark Matter - strong on light mode not so in dark mode."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Twitter - strong on both but can use less radius. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Northern Lights - strong on both. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Retro is superb but just not our vibe. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U018T4T64FR",
+        "type": "message",
+        "ts": "1771306077.095469",
+        "client_msg_id": "bc0734d2-e908-48dd-bd29-b56c57d6762a",
+        "text": "i like nothern lights and dark matter and twitter so-so...  only thing is: landing page does not fit with it any more. Thank you for fixing everything Enes. that was was a tough ride for you.",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "d73f62394d70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-20\/1314120389299_d73f62394d70e7c52de4_72.jpg",
+            "first_name": "Adrian",
+            "real_name": "Adrian",
+            "display_name": "Aaaaaaadriaaaaaaan",
+            "team": "T0197SMV2MQ",
+            "name": "adrian.rinnus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770905021.207739",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DSw0c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i like nothern lights and dark matter and twitter so-so...  only thing is: landing page does not fit with it any more. Thank you for fixing everything Enes. that was was a tough ride for you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U018T4T64FR",
+        "type": "message",
+        "ts": "1771306261.234769",
+        "client_msg_id": "f7f35a50-e3ea-45d1-8472-94766c088c31",
+        "text": "just one thing in dark matter that i dont like: in trade management are the \"negative\" fields in a green color what is confusing. also just a minor details",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "d73f62394d70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-20\/1314120389299_d73f62394d70e7c52de4_72.jpg",
+            "first_name": "Adrian",
+            "real_name": "Adrian",
+            "display_name": "Aaaaaaadriaaaaaaan",
+            "team": "T0197SMV2MQ",
+            "name": "adrian.rinnus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770905021.207739",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KiMDK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "just one thing in dark matter that i dont like: in trade management are the \"negative\" fields in a green color what is confusing. also just a minor details"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

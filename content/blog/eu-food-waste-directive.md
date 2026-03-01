@@ -47,3 +47,9 @@ Sie sparen:
 Warten Sie nicht, bis das Amt vor der Tür steht. Digitalisieren Sie Ihre Bestellung und machen Sie Ihre Kantine zukunftssicher. Und profitabler.
 
 [Bite Club testen ->]
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

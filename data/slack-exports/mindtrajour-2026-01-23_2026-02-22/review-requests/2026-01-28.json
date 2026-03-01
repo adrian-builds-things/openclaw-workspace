@@ -1,0 +1,664 @@
+[
+    {
+        "text": "Hey <@U06QAS7FPUH> Thank you for realizing this feature so quickly! Links work for me just some minor comments. I was a bit lost after I created a link on how to close the window- maybe we can add a cross in the corner of the screen?",
+        "files": [
+            {
+                "id": "F0ABXP1FM8R",
+                "created": 1769622798,
+                "timestamp": 1769622798,
+                "name": "Screenshot 2026-01-28 185305.png",
+                "title": "Screenshot 2026-01-28 185305.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05BP6JEKRD",
+                "user_team": "T0197SMV2MQ",
+                "editable": false,
+                "size": 65569,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0197SMV2MQ-F0ABXP1FM8R\/screenshot_2026-01-28_185305.png?token=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0197SMV2MQ-F0ABXP1FM8R\/download\/screenshot_2026-01-28_185305.png?token=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0ABXP1FM8R-8c313db5a5\/screenshot_2026-01-28_185305_64.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0ABXP1FM8R-8c313db5a5\/screenshot_2026-01-28_185305_80.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0ABXP1FM8R-8c313db5a5\/screenshot_2026-01-28_185305_360.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_360_w": 360,
+                "thumb_360_h": 265,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0ABXP1FM8R-8c313db5a5\/screenshot_2026-01-28_185305_480.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_480_w": 480,
+                "thumb_480_h": 353,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0ABXP1FM8R-8c313db5a5\/screenshot_2026-01-28_185305_160.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0ABXP1FM8R-8c313db5a5\/screenshot_2026-01-28_185305_720.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_720_w": 720,
+                "thumb_720_h": 530,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0ABXP1FM8R-8c313db5a5\/screenshot_2026-01-28_185305_800.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_800_w": 800,
+                "thumb_800_h": 589,
+                "original_w": 865,
+                "original_h": 637,
+                "thumb_tiny": "AwAkADCmzNuOKTe\/rSsxWVipwcmk8x8Y3HHpRqPQN7etG9vWjzGJyWOfXNG6QgcsRjj+VGoaBvb1p8ZZs55pu+X1b9aktv4vwoVxEZUNI+XC8nrmmUr\/AH2+pptAC05Tt5VmDY7U6MZHCM3Y7e\/pQ20DBjKkDHXv3pgMDEsCWPHf0qe36vzn3qvU1uQN2fakAFFJzik2L6U+kpgN2L6UbF9KdRQA3YvpTgoXpRS0Af\/Z",
+                "permalink": "https:\/\/trdngjrnl.slack.com\/files\/U018T4T64FR\/F0ABXP1FM8R\/screenshot_2026-01-28_185305.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0197SMV2MQ-F0ABXP1FM8R-01eb35691b",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05BP6JEKRD",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rsXfL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06QAS7FPUH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thank you for realizing this feature so quickly! Links work for me just some minor comments. I was a bit lost after I created a link on how to close the window- maybe we can add a cross in the corner of the screen?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1769622808.866709",
+        "client_msg_id": "19479d7c-4b29-4da0-b72f-5a80dabb7605",
+        "thread_ts": "1769520970.481159",
+        "parent_user_id": "U06QAS7FPUH"
+    },
+    {
+        "user": "U05BP6JEKRD",
+        "type": "message",
+        "ts": "1769623346.618699",
+        "client_msg_id": "c02ba930-35dd-48b1-bb74-8257c007347e",
+        "text": "Thank you so much Enes!! This Export Function is really great. If people request more detailed exports like for each leg we can still extend it but I guess this export then will be much more complicated.\n\nI like the differentiation with the drop down between all possible columns or just the visible ones.\n\nMaybe we can adapt it to: One option in the drop down: Just visible trades and visible colomns (then the people can use the filter to just download specific trades)\n\n(I find it a bit confusing to be able to customize columns but not trades)\n\nsecond options as it is already: all trades with all colomns.",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "cbddedcb4f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-20\/6371114387445_cbddedcb4f3716d3e577_72.jpg",
+            "first_name": "Larissa",
+            "real_name": "Larissa Lange",
+            "display_name": "Larissa Lange",
+            "team": "T0197SMV2MQ",
+            "name": "larissa.j.lange",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769533069.769039",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "363XD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you so much Enes!! This Export Function is really great. If people request more detailed exports like for each leg we can still extend it but I guess this export then will be much more complicated.\n\nI like the differentiation with the drop down between all possible columns or just the visible ones.\n\nMaybe we can adapt it to: One option in the drop down: Just visible trades and visible colomns (then the people can use the filter to just download specific trades)\n\n(I find it a bit confusing to be able to customize columns but not trades)\n\nsecond options as it is already: all trades with all colomns."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06QAS7FPUH",
+        "type": "message",
+        "ts": "1769623984.553289",
+        "client_msg_id": "d92a45f2-dbe8-4cde-843a-b9e389358bda",
+        "text": "<@U05BP6JEKRD> I don't understand the first one. It is already just downloading based on filters and all visible configured columns.",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "e6c03bfa2940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6814162374787_e6c03bfa29409aabbabf_72.jpg",
+            "first_name": "Enes",
+            "real_name": "Enes Zorlu",
+            "display_name": "Enes Zorlu",
+            "team": "T0197SMV2MQ",
+            "name": "enes.zrl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769533069.769039",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9dT4q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05BP6JEKRD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I don't understand the first one. It is already just downloading based on filters and all visible configured columns."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06QAS7FPUH",
+        "type": "message",
+        "ts": "1769624049.274499",
+        "client_msg_id": "61322a16-5024-406c-9a6f-507199b87991",
+        "text": "Sure, we can. I think it is same as today's window, but can surely add it.",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "e6c03bfa2940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6814162374787_e6c03bfa29409aabbabf_72.jpg",
+            "first_name": "Enes",
+            "real_name": "Enes Zorlu",
+            "display_name": "Enes Zorlu",
+            "team": "T0197SMV2MQ",
+            "name": "enes.zrl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769520970.481159",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qCdbl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure, we can. I think it is same as today's window, but can surely add it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "For me it is shown in both variants same amount of trades (all trades and not just the visible ones on first page)",
+        "files": [
+            {
+                "id": "F0ABH05P86A",
+                "created": 1769624222,
+                "timestamp": 1769624222,
+                "name": "Screenshot 2026-01-28 191651.png",
+                "title": "Screenshot 2026-01-28 191651.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05BP6JEKRD",
+                "user_team": "T0197SMV2MQ",
+                "editable": false,
+                "size": 15829,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0197SMV2MQ-F0ABH05P86A\/screenshot_2026-01-28_191651.png?token=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0197SMV2MQ-F0ABH05P86A\/download\/screenshot_2026-01-28_191651.png?token=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0ABH05P86A-c5bbb4ead9\/screenshot_2026-01-28_191651_64.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0ABH05P86A-c5bbb4ead9\/screenshot_2026-01-28_191651_80.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0ABH05P86A-c5bbb4ead9\/screenshot_2026-01-28_191651_360.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_360_w": 320,
+                "thumb_360_h": 172,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0ABH05P86A-c5bbb4ead9\/screenshot_2026-01-28_191651_160.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "original_w": 320,
+                "original_h": 172,
+                "thumb_tiny": "AwAaADChRTo1DE5UnA7GneWWBKKcDsTk0APtYFmDbmxip\/sUeM7z9M\/\/AFqqCN2JAQnHXjpR5T8fKeaq6EWvscePvNUc1sqbQrgE\/wB41D5bnojflSlCEIZcHIxnj1ougEjXeT8pbH93607ymIcrG4C+p6etR\/wD6mikMkaF8bhGwXGeaTyZN23Y2fTFMooAVlZThgQfcUf8sm\/3h\/WkpCeMUAf\/2Q==",
+                "permalink": "https:\/\/trdngjrnl.slack.com\/files\/U018T4T64FR\/F0ABH05P86A\/screenshot_2026-01-28_191651.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0197SMV2MQ-F0ABH05P86A-44c0a7ac5c",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05BP6JEKRD",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F9JTL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For me it is shown in both variants same amount of trades (all trades and not just the visible ones on first page)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1769624259.943769",
+        "client_msg_id": "45922285-cf10-4c8a-bdf7-37c1bfd9459e",
+        "thread_ts": "1769533069.769039",
+        "parent_user_id": "U06QAS7FPUH"
+    },
+    {
+        "user": "U06QAS7FPUH",
+        "type": "message",
+        "ts": "1769624278.703949",
+        "client_msg_id": "12ae8999-0308-4005-9bd9-33d021bc2fbf",
+        "text": "Because you did not filter?",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "e6c03bfa2940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6814162374787_e6c03bfa29409aabbabf_72.jpg",
+            "first_name": "Enes",
+            "real_name": "Enes Zorlu",
+            "display_name": "Enes Zorlu",
+            "team": "T0197SMV2MQ",
+            "name": "enes.zrl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769533069.769039",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gm6zr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Because you did not filter?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06QAS7FPUH",
+        "type": "message",
+        "ts": "1769624299.389519",
+        "client_msg_id": "6d33499e-3cf5-4ae0-a7c5-0ea7d4b5b258",
+        "text": "Filter something in the table first then check it please",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "e6c03bfa2940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6814162374787_e6c03bfa29409aabbabf_72.jpg",
+            "first_name": "Enes",
+            "real_name": "Enes Zorlu",
+            "display_name": "Enes Zorlu",
+            "team": "T0197SMV2MQ",
+            "name": "enes.zrl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769533069.769039",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jHnbv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Filter something in the table first then check it please"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F0ABNKRGL3W",
+                "created": 1769624345,
+                "timestamp": 1769624345,
+                "name": "IMG_20260128_181900.jpg",
+                "title": "IMG_20260128_181900.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U06QAS7FPUH",
+                "user_team": "T0197SMV2MQ",
+                "editable": false,
+                "size": 76378,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0197SMV2MQ-F0ABNKRGL3W\/img_20260128_181900.jpg?token=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0197SMV2MQ-F0ABNKRGL3W\/download\/img_20260128_181900.jpg?token=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0ABNKRGL3W-4475b65c9d\/img_20260128_181900_64.jpg?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0ABNKRGL3W-4475b65c9d\/img_20260128_181900_80.jpg?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0ABNKRGL3W-4475b65c9d\/img_20260128_181900_360.jpg?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_360_w": 332,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0ABNKRGL3W-4475b65c9d\/img_20260128_181900_480.jpg?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_480_w": 442,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0ABNKRGL3W-4475b65c9d\/img_20260128_181900_160.jpg?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0ABNKRGL3W-4475b65c9d\/img_20260128_181900_720.jpg?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_720_w": 663,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0ABNKRGL3W-4475b65c9d\/img_20260128_181900_800.jpg?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_800_w": 800,
+                "thumb_800_h": 868,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0ABNKRGL3W-4475b65c9d\/img_20260128_181900_960.jpg?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_960_w": 885,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0ABNKRGL3W-4475b65c9d\/img_20260128_181900_1024.jpg?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_1024_w": 944,
+                "thumb_1024_h": 1024,
+                "original_w": 1080,
+                "original_h": 1172,
+                "thumb_tiny": "AwAwAC2kELDII645YCm5peMHg59c0lABT0QsM7lH1OKRAMgsRj0OeaCU3fd49jTARgVJGQfoaQUUCgB3lnyjJg43bfak+Xnk+3HWpBtFsT8pbfjHfGKj3c52ikAHGMD+VIuAef5UpOT0FGfYUAA29yR9BSCnhxgDaODTKAJAHMJwxC55XPXpz6Umxyc5\/HPrTM8YxRQA5lYHDHv3NAQk4GPzoCZ7qPqaaRj0\/OgCRY5MKwOBng5qPGDRQKAP\/9k=",
+                "permalink": "https:\/\/trdngjrnl.slack.com\/files\/U018T4T64FR\/F0ABNKRGL3W\/img_20260128_181900.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T0197SMV2MQ-F0ABNKRGL3W-a46b5d0122",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06QAS7FPUH",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hCn+5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1769624348.564769",
+        "client_msg_id": "e4baa390-373b-48ab-a057-c3f65328e423",
+        "thread_ts": "1769533069.769039",
+        "parent_user_id": "U06QAS7FPUH"
+    },
+    {
+        "user": "U06QAS7FPUH",
+        "type": "message",
+        "ts": "1769624394.356889",
+        "client_msg_id": "82c9c71e-b641-4d4e-b29a-03395e125af7",
+        "text": "Seems like we need bit more explanation how to use it. Any ideas how we can make this more clear anyone?\n\n<@U05BP6JEKRD> <@U05JJ8QHBHB> <@U018T4T64FR>",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "e6c03bfa2940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6814162374787_e6c03bfa29409aabbabf_72.jpg",
+            "first_name": "Enes",
+            "real_name": "Enes Zorlu",
+            "display_name": "Enes Zorlu",
+            "team": "T0197SMV2MQ",
+            "name": "enes.zrl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769533069.769039",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+58tr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Seems like we need bit more explanation how to use it. Any ideas how we can make this more clear anyone?\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05BP6JEKRD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05JJ8QHBHB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U018T4T64FR"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05BP6JEKRD",
+        "type": "message",
+        "ts": "1769624854.081439",
+        "edited": {
+            "user": "U05BP6JEKRD",
+            "ts": "1769624896.000000"
+        },
+        "client_msg_id": "afe55b7f-5a1b-421e-b205-7161aa3b1fe3",
+        "text": "for me just the 63 in both variants confused me. If it would have been 10 Trades (which are visible on screen) I would have understood the filter better. I would name first variant just: Export filtered trades with customized columns",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "cbddedcb4f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-20\/6371114387445_cbddedcb4f3716d3e577_72.jpg",
+            "first_name": "Larissa",
+            "real_name": "Larissa Lange",
+            "display_name": "Larissa Lange",
+            "team": "T0197SMV2MQ",
+            "name": "larissa.j.lange",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769533069.769039",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gUp9F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "for me just the 63 in both variants confused me. If it would have been 10 Trades (which are visible on screen) I would have understood the filter better. I would name first variant just: Export filtered trades with customized columns"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05BP6JEKRD",
+        "type": "message",
+        "ts": "1769624865.704129",
+        "client_msg_id": "3f6701fc-907c-4eb6-9ad9-8292c728cef6",
+        "text": "to see the total amount of trades confused me",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "cbddedcb4f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-20\/6371114387445_cbddedcb4f3716d3e577_72.jpg",
+            "first_name": "Larissa",
+            "real_name": "Larissa Lange",
+            "display_name": "Larissa Lange",
+            "team": "T0197SMV2MQ",
+            "name": "larissa.j.lange",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769533069.769039",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m5D7b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "to see the total amount of trades confused me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05BP6JEKRD",
+        "type": "message",
+        "ts": "1769624993.338199",
+        "client_msg_id": "aeca9189-529a-4824-a568-412c11e634b1",
+        "text": "Just a minor thing. We will also see how people behave. We can definetly publish it like this!",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "cbddedcb4f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-20\/6371114387445_cbddedcb4f3716d3e577_72.jpg",
+            "first_name": "Larissa",
+            "real_name": "Larissa Lange",
+            "display_name": "Larissa Lange",
+            "team": "T0197SMV2MQ",
+            "name": "larissa.j.lange",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769520970.481159",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+ooxr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just a minor thing. We will also see how people behave. We can definetly publish it like this!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06QAS7FPUH",
+        "type": "message",
+        "ts": "1769630885.046619",
+        "client_msg_id": "3bbbf3eb-f4f9-42f8-b38d-393c2781ef75",
+        "text": "Let's see what others thing as well.",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "e6c03bfa2940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6814162374787_e6c03bfa29409aabbabf_72.jpg",
+            "first_name": "Enes",
+            "real_name": "Enes Zorlu",
+            "display_name": "Enes Zorlu",
+            "team": "T0197SMV2MQ",
+            "name": "enes.zrl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769533069.769039",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6v+zs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let's see what others thing as well."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

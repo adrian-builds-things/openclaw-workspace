@@ -1,0 +1,1133 @@
+[
+    {
+        "user": "U06QAS7FPUH",
+        "type": "message",
+        "ts": "1771510010.736039",
+        "client_msg_id": "ae02052a-520a-4556-878c-1eb6aeb15d9a",
+        "text": "<@U05JJ8QHBHB> <@U05BP6JEKRD> <@U018T4T64FR>\n\nFonts are using originals from tweakcn now. If you like the theme but not the font, it is easy to change. So you can write it down here.",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "e6c03bfa2940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6814162374787_e6c03bfa29409aabbabf_72.jpg",
+            "first_name": "Enes",
+            "real_name": "Enes Zorlu",
+            "display_name": "Enes Zorlu",
+            "team": "T0197SMV2MQ",
+            "name": "enes.zrl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771460464.503879",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qp8CM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05JJ8QHBHB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05BP6JEKRD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U018T4T64FR"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nFonts are using originals from tweakcn now. If you like the theme but not the font, it is easy to change. So you can write it down here."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06QAS7FPUH",
+        "type": "message",
+        "ts": "1771510040.745639",
+        "client_msg_id": "72f03d6b-b6b0-4a0b-be5b-2c7e335b04e0",
+        "text": "If that is the case, write down which theme's font you would prefer.\n\nPlease feel free to suggest solutions.",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "e6c03bfa2940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6814162374787_e6c03bfa29409aabbabf_72.jpg",
+            "first_name": "Enes",
+            "real_name": "Enes Zorlu",
+            "display_name": "Enes Zorlu",
+            "team": "T0197SMV2MQ",
+            "name": "enes.zrl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771460464.503879",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UzYuM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If that is the case, write down which theme's font you would prefer.\n\nPlease feel free to suggest solutions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U018T4T64FR",
+        "type": "message",
+        "ts": "1771510827.110769",
+        "client_msg_id": "a633f1fa-d1ac-490b-a670-d28b164489e5",
+        "text": "Dark Matter (change font of twitter theme) and MindTrajour Purple  as is. There is just one thing: the purple in darkmode is screaming louder than the green :slightly_smiling_face: so main cta looks like menu on bottom.",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "d73f62394d70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-20\/1314120389299_d73f62394d70e7c52de4_72.jpg",
+            "first_name": "Adrian",
+            "real_name": "Adrian",
+            "display_name": "Aaaaaaadriaaaaaaan",
+            "team": "T0197SMV2MQ",
+            "name": "adrian.rinnus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771460464.503879",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XKj8U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dark Matter (change font of twitter theme) and MindTrajour Purple  as is. There is just one thing: the purple in darkmode is screaming louder than the green "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " so main cta looks like menu on bottom."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U018T4T64FR",
+        "type": "message",
+        "ts": "1771511040.199489",
+        "client_msg_id": "d014faa2-78c5-4f36-891e-2e2757a818c6",
+        "text": "• account page looks good \n• account swtich is also working properly\n• save button behaviour looks also good\nlooks good to me! thank you Enes for your hard work!!:slightly_smiling_face:",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "d73f62394d70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-20\/1314120389299_d73f62394d70e7c52de4_72.jpg",
+            "first_name": "Adrian",
+            "real_name": "Adrian",
+            "display_name": "Aaaaaaadriaaaaaaan",
+            "team": "T0197SMV2MQ",
+            "name": "adrian.rinnus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771460464.503879",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/kg65",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "account page looks good "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "account swtich is also working properly"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "save button behaviour looks also good"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nlooks good to me! thank you Enes for your hard work!!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06QAS7FPUH",
+                    "U05BP6JEKRD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06QAS7FPUH",
+        "type": "message",
+        "ts": "1771513057.922169",
+        "client_msg_id": "4143951b-c7e8-47c4-bfe7-258f10899af8",
+        "text": "<@U018T4T64FR> Thanks! I agree that purple screams more. I am not sure what we should do though.\n• We can swap purple to be primary and green to be secondary, but this will mess the entire theme as other colours are aligned with greenish tones. \n• We can change the tone of the purple to make it more pastel and quite. -&gt; I think this is better option. ",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "e6c03bfa2940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6814162374787_e6c03bfa29409aabbabf_72.jpg",
+            "first_name": "Enes",
+            "real_name": "Enes Zorlu",
+            "display_name": "Enes Zorlu",
+            "team": "T0197SMV2MQ",
+            "name": "enes.zrl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771460464.503879",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pDDly",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U018T4T64FR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thanks! I agree that purple screams more. I am not sure what we should do though.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We can swap purple to be primary and green to be secondary, but this will mess the entire theme as other colours are aligned with greenish tones. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We can change the tone of the purple to make it more pastel and quite. -> I think this is better option. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U018T4T64FR",
+        "type": "message",
+        "ts": "1771513995.777299",
+        "client_msg_id": "2fecb9a5-7c46-4a47-980c-130de0fdec4c",
+        "text": "I do like option 2. I just didn't have the time to think about and make proposals",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "d73f62394d70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-20\/1314120389299_d73f62394d70e7c52de4_72.jpg",
+            "first_name": "Adrian",
+            "real_name": "Adrian",
+            "display_name": "Aaaaaaadriaaaaaaan",
+            "team": "T0197SMV2MQ",
+            "name": "adrian.rinnus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771460464.503879",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nkKwg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I do like option 2. I just didn't have the time to think about and make proposals"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06QAS7FPUH",
+        "type": "message",
+        "ts": "1771518368.597199",
+        "client_msg_id": "84bed097-4a6f-4099-acbe-7500120bbf86",
+        "text": "Let's see what <@U05JJ8QHBHB> and <@U05BP6JEKRD> thinks.",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "e6c03bfa2940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6814162374787_e6c03bfa29409aabbabf_72.jpg",
+            "first_name": "Enes",
+            "real_name": "Enes Zorlu",
+            "display_name": "Enes Zorlu",
+            "team": "T0197SMV2MQ",
+            "name": "enes.zrl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771460464.503879",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o0lVC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let's see what "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05JJ8QHBHB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05BP6JEKRD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thinks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05JJ8QHBHB",
+        "type": "message",
+        "ts": "1771528562.536569",
+        "client_msg_id": "F11271EB-DC43-422C-AA61-614D61C53274",
+        "text": "Hi guys, for me the Fonts are ok. ",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "556fa38c8288",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-04\/6301065375105_556fa38c8288bf8c651a_72.png",
+            "first_name": "Eve",
+            "real_name": "Eve",
+            "display_name": "",
+            "team": "T0197SMV2MQ",
+            "name": "foldesieva25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771460464.503879",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OQGwo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi guys, for me the Fonts are ok. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06QAS7FPUH",
+        "type": "message",
+        "ts": "1771529122.235729",
+        "client_msg_id": "a213440f-265c-4c86-8b8c-2d97e8e0836c",
+        "text": "Thanks. Let's see what <@U05BP6JEKRD> thinks. \n\nPlease respond to the poll if you have a preference <@U05JJ8QHBHB>",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "e6c03bfa2940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6814162374787_e6c03bfa29409aabbabf_72.jpg",
+            "first_name": "Enes",
+            "real_name": "Enes Zorlu",
+            "display_name": "Enes Zorlu",
+            "team": "T0197SMV2MQ",
+            "name": "enes.zrl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771460464.503879",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vx1qj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks. Let's see what "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05BP6JEKRD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thinks. \n\nPlease respond to the poll if you have a preference "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05JJ8QHBHB"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05JJ8QHBHB",
+        "type": "message",
+        "ts": "1771530158.632969",
+        "client_msg_id": "1DF64879-E1B7-4F68-98A4-832E7F4DF36F",
+        "text": "Done! :white_check_mark: Thanks <@U06QAS7FPUH> ",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "556fa38c8288",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-04\/6301065375105_556fa38c8288bf8c651a_72.png",
+            "first_name": "Eve",
+            "real_name": "Eve",
+            "display_name": "",
+            "team": "T0197SMV2MQ",
+            "name": "foldesieva25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771460464.503879",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c0HKG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Done! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06QAS7FPUH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05BP6JEKRD",
+        "type": "message",
+        "ts": "1771535823.285569",
+        "client_msg_id": "7cbc327b-7d49-43db-a74a-c51869e9aa76",
+        "text": "from the mindtrajour theme options I like Green the most! But I dont like the monthly win is very bright orange\/ red which is psychological a dangerous color and it is not welcoming to see a dashboard with bright red tones even though they are winning months",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "cbddedcb4f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-20\/6371114387445_cbddedcb4f3716d3e577_72.jpg",
+            "first_name": "Larissa",
+            "real_name": "Larissa Lange",
+            "display_name": "Larissa Lange",
+            "team": "T0197SMV2MQ",
+            "name": "larissa.j.lange",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771460464.503879",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FGoEA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "from the mindtrajour theme options I like Green the most! But I dont like the monthly win is very bright orange\/ red which is psychological a dangerous color and it is not welcoming to see a dashboard with bright red tones even though they are winning months"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05BP6JEKRD",
+        "type": "message",
+        "ts": "1771535865.327199",
+        "client_msg_id": "803a17e1-4941-4447-b05d-0e5734e554dd",
+        "text": "if we can change the color of this chart I would vote for MTJ Green but for now I prefer Twitter",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "cbddedcb4f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-20\/6371114387445_cbddedcb4f3716d3e577_72.jpg",
+            "first_name": "Larissa",
+            "real_name": "Larissa Lange",
+            "display_name": "Larissa Lange",
+            "team": "T0197SMV2MQ",
+            "name": "larissa.j.lange",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771460464.503879",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/frR0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if we can change the color of this chart I would vote for MTJ Green but for now I prefer Twitter"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05BP6JEKRD",
+        "type": "message",
+        "ts": "1771535932.850349",
+        "client_msg_id": "28b05605-e3c4-40d5-86d1-0e5aa3f090bb",
+        "text": "I also agree with Adrian that CTA create new trade always needs to pop the most visually and not the menu button at the buttom",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "cbddedcb4f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-20\/6371114387445_cbddedcb4f3716d3e577_72.jpg",
+            "first_name": "Larissa",
+            "real_name": "Larissa Lange",
+            "display_name": "Larissa Lange",
+            "team": "T0197SMV2MQ",
+            "name": "larissa.j.lange",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771460464.503879",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dg6L7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I also agree with Adrian that CTA create new trade always needs to pop the most visually and not the menu button at the buttom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "in the first month of the user dashboard will look like this.. It is really confusing to show a positive month in red",
+        "files": [
+            {
+                "id": "F0AG1EQHNQJ",
+                "created": 1771536050,
+                "timestamp": 1771536050,
+                "name": "Screenshot 2026-02-19 222040.png",
+                "title": "Screenshot 2026-02-19 222040.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05BP6JEKRD",
+                "user_team": "T0197SMV2MQ",
+                "editable": false,
+                "size": 130309,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0197SMV2MQ-F0AG1EQHNQJ\/screenshot_2026-02-19_222040.png?token=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0197SMV2MQ-F0AG1EQHNQJ\/download\/screenshot_2026-02-19_222040.png?token=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0AG1EQHNQJ-cb1a125fcd\/screenshot_2026-02-19_222040_64.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0AG1EQHNQJ-cb1a125fcd\/screenshot_2026-02-19_222040_80.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0AG1EQHNQJ-cb1a125fcd\/screenshot_2026-02-19_222040_360.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_360_w": 360,
+                "thumb_360_h": 176,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0AG1EQHNQJ-cb1a125fcd\/screenshot_2026-02-19_222040_480.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_480_w": 480,
+                "thumb_480_h": 235,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0AG1EQHNQJ-cb1a125fcd\/screenshot_2026-02-19_222040_160.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0AG1EQHNQJ-cb1a125fcd\/screenshot_2026-02-19_222040_720.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_720_w": 720,
+                "thumb_720_h": 352,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0AG1EQHNQJ-cb1a125fcd\/screenshot_2026-02-19_222040_800.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_800_w": 800,
+                "thumb_800_h": 391,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0AG1EQHNQJ-cb1a125fcd\/screenshot_2026-02-19_222040_960.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_960_w": 960,
+                "thumb_960_h": 469,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0AG1EQHNQJ-cb1a125fcd\/screenshot_2026-02-19_222040_1024.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 501,
+                "original_w": 1876,
+                "original_h": 917,
+                "thumb_tiny": "AwAYADCg7llwR06cmkJyScdfQYoPSlyTjJ6dKoQ3ApSpHUEc46UoJGcEjPBpKQCYFKCAD8oPH5U5WdR8pYD2NNJJySck0AK6sASVI\/CpImjCnfjOe4qW5+4\/1\/rVOjccXZ3Le+D\/AGfyquxG446Z4plFJKxUpXHhgMHjikPSm0UyD\/\/Z",
+                "permalink": "https:\/\/trdngjrnl.slack.com\/files\/U018T4T64FR\/F0AG1EQHNQJ\/screenshot_2026-02-19_222040.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0197SMV2MQ-F0AG1EQHNQJ-d90ee46da7",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05BP6JEKRD",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5AeE\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "in the first month of the user dashboard will look like this.. It is really confusing to show a positive month in red"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1771536085.658849",
+        "client_msg_id": "c769d4e8-ac6d-400a-adec-2bc8422bc9b8",
+        "thread_ts": "1771460464.503879",
+        "parent_user_id": "U06QAS7FPUH"
+    },
+    {
+        "user": "U05BP6JEKRD",
+        "type": "message",
+        "ts": "1771536258.633699",
+        "client_msg_id": "9219565f-49f1-46d8-8b94-e72f65071033",
+        "text": "I tested the app again! Really great to have save button disabled with loader now it is really clear to me!! Thank you Enes !! :slightly_smiling_face:",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "cbddedcb4f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-20\/6371114387445_cbddedcb4f3716d3e577_72.jpg",
+            "first_name": "Larissa",
+            "real_name": "Larissa Lange",
+            "display_name": "Larissa Lange",
+            "team": "T0197SMV2MQ",
+            "name": "larissa.j.lange",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771460464.503879",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5715T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I tested the app again! Really great to have save button disabled with loader now it is really clear to me!! Thank you Enes !! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05BP6JEKRD",
+        "type": "message",
+        "ts": "1771536385.380549",
+        "client_msg_id": "a79cd6c4-c204-4cb3-bf07-6f23e4a69dd9",
+        "text": "I also like dark matter but with our original mtj font. the orange in this theme is more golden and not so red",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "cbddedcb4f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-20\/6371114387445_cbddedcb4f3716d3e577_72.jpg",
+            "first_name": "Larissa",
+            "real_name": "Larissa Lange",
+            "display_name": "Larissa Lange",
+            "team": "T0197SMV2MQ",
+            "name": "larissa.j.lange",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771460464.503879",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "StQMa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I also like dark matter but with our original mtj font. the orange in this theme is more golden and not so red"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Without my vote, this are the results.\nI chose MTJ Purple as this is the best out of the box for landing page.\n\n• Dark mater font changed same as twitter\n• MTJ green and orange chart red colour is moved to chart colour 4 and more positive colour used instead. \n• Mindtrajour (Old name Mindtrajour Purple)'s purple changed slightly so it is not so loud. \n• Tracking added for posthog, so we can see which theme people switch to most. Then maybe change the default if there is a significant pattern.\n• Theme names shorted by removing MTJ bit. \n• Next button and keyboard theme changer removed. \n• Run all end to end test and verified all. (actually identified a critical bug! and fixed it now.) lovely to see tests helping. \nAre we all happy to merge to production?",
+        "files": [
+            {
+                "id": "F0AFZPLDUH4",
+                "created": 1771539616,
+                "timestamp": 1771539616,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U06QAS7FPUH",
+                "user_team": "T0197SMV2MQ",
+                "editable": false,
+                "size": 220804,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0197SMV2MQ-F0AFZPLDUH4\/image.png?token=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0197SMV2MQ-F0AFZPLDUH4\/download\/image.png?token=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0AFZPLDUH4-1f81e1a754\/image_64.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0AFZPLDUH4-1f81e1a754\/image_80.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0AFZPLDUH4-1f81e1a754\/image_360.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_360_w": 360,
+                "thumb_360_h": 144,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0AFZPLDUH4-1f81e1a754\/image_480.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_480_w": 480,
+                "thumb_480_h": 192,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0AFZPLDUH4-1f81e1a754\/image_160.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0AFZPLDUH4-1f81e1a754\/image_720.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_720_w": 720,
+                "thumb_720_h": 288,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0AFZPLDUH4-1f81e1a754\/image_800.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_800_w": 800,
+                "thumb_800_h": 320,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0AFZPLDUH4-1f81e1a754\/image_960.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_960_w": 960,
+                "thumb_960_h": 384,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0AFZPLDUH4-1f81e1a754\/image_1024.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 410,
+                "original_w": 1480,
+                "original_h": 592,
+                "thumb_tiny": "AwAUADDSCgZ5PJz1NNYqmCxPXjknmn1Vus+ap7DkUm7AWVI2jGce+c\/rSk4Gap28srSqhbKjIq4eh5x7mqasA0OC2MNn3U04DAxz+dMjJKKfMVx\/eA60+kAUjIrjDDNLRQA1I1jztGM9adRRQAgG0YGfxOaWiigD\/9k=",
+                "permalink": "https:\/\/trdngjrnl.slack.com\/files\/U018T4T64FR\/F0AFZPLDUH4\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0197SMV2MQ-F0AFZPLDUH4-3b8f21942f",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06QAS7FPUH",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nJRyJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Without my vote, this are the results.\nI chose MTJ Purple as this is the best out of the box for landing page.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Dark mater font changed same as twitter"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "MTJ green and orange chart red colour is moved to chart colour 4 and more positive colour used instead. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Mindtrajour (Old name Mindtrajour Purple)'s purple changed slightly so it is not so loud. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Tracking added for posthog, so we can see which theme people switch to most. Then maybe change the default if there is a significant pattern."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Theme names shorted by removing MTJ bit. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Next button and keyboard theme changer removed. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Run all end to end test and verified all. (actually identified a critical bug! and fixed it now.) lovely to see tests helping. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nAre we all happy to merge to production?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1771541028.011319",
+        "client_msg_id": "1338410b-b45e-473f-a86f-08af301922fa",
+        "thread_ts": "1771460464.503879",
+        "parent_user_id": "U06QAS7FPUH"
+    },
+    {
+        "user": "U05BP6JEKRD",
+        "type": "message",
+        "ts": "1771571239.491629",
+        "client_msg_id": "2a4e0e70-d474-47ea-a280-c31f616020f9",
+        "text": "Good morning, thank you so much for the quick fixing and also for the bug fix. Would be interesting to know what it was! From my sidw you can publish!",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "cbddedcb4f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-20\/6371114387445_cbddedcb4f3716d3e577_72.jpg",
+            "first_name": "Larissa",
+            "real_name": "Larissa Lange",
+            "display_name": "Larissa Lange",
+            "team": "T0197SMV2MQ",
+            "name": "larissa.j.lange",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771460464.503879",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IO8QT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good morning, thank you so much for the quick fixing and also for the bug fix. Would be interesting to know what it was! From my sidw you can publish!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05BP6JEKRD",
+        "type": "message",
+        "ts": "1771571270.001969",
+        "client_msg_id": "22f3e4c7-8997-4932-bdd1-c5d9ae7d4d5b",
+        "text": "I will also create a newsletter today to inform our community",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "cbddedcb4f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-20\/6371114387445_cbddedcb4f3716d3e577_72.jpg",
+            "first_name": "Larissa",
+            "real_name": "Larissa Lange",
+            "display_name": "Larissa Lange",
+            "team": "T0197SMV2MQ",
+            "name": "larissa.j.lange",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771460464.503879",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "USrDp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will also create a newsletter today to inform our community"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U018T4T64FR",
+        "type": "message",
+        "ts": "1771572131.226689",
+        "client_msg_id": "4510e74f-e1ff-40d1-92db-1c93202df05e",
+        "text": "I am happy to merge as well.",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "d73f62394d70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-20\/1314120389299_d73f62394d70e7c52de4_72.jpg",
+            "first_name": "Adrian",
+            "real_name": "Adrian",
+            "display_name": "Aaaaaaadriaaaaaaan",
+            "team": "T0197SMV2MQ",
+            "name": "adrian.rinnus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771460464.503879",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CXy3g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am happy to merge as well."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,292 @@
+[
+    {
+        "text": "i tried all possible scenarios, for me it is was clear what do i have to do and why. Regarding the CTA button. here we have some issues with ui that can be better, (colors and visual groupings as well) but it has no impact on the export now.\nThe UI needs stronger consistency across all pages, as the current version varies from screen to screen.\n\nThanks <@U06QAS7FPUH> for setting this up. It is a useful addition to the functions.",
+        "files": [
+            {
+                "id": "F0ACJAU3WKS",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": false,
+        "user": "U05JJ8QHBHB",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vLEYn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i tried all possible scenarios, for me it is was clear what do i have to do and why. Regarding the CTA button. here we have some issues with ui that can be better, (colors and visual groupings as well) but it has no impact on the export now.\nThe UI needs stronger consistency across all pages, as the current version varies from screen to screen.\n\nThanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06QAS7FPUH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for setting this up. It is a useful addition to the functions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1769680798.437409",
+        "client_msg_id": "fe7714e2-cba8-4ef6-b3a7-0600ad52aa0a",
+        "thread_ts": "1769533069.769039",
+        "parent_user_id": "U06QAS7FPUH"
+    },
+    {
+        "user": "U06QAS7FPUH",
+        "type": "message",
+        "ts": "1769681437.677989",
+        "client_msg_id": "8af9f05a-b2c2-4f24-ac53-1c02804b2092",
+        "text": "Let's squueze a quick 1 2 hours of work to your visit, so we can quickly review all pages and update UI as you want :blush: I am sure we can update so many within an hour with the help of AI",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "e6c03bfa2940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6814162374787_e6c03bfa29409aabbabf_72.jpg",
+            "first_name": "Enes",
+            "real_name": "Enes Zorlu",
+            "display_name": "Enes Zorlu",
+            "team": "T0197SMV2MQ",
+            "name": "enes.zrl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769533069.769039",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+bWrK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let's squueze a quick 1 2 hours of work to your visit, so we can quickly review all pages and update UI as you want "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I am sure we can update so many within an hour with the help of AI"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U05BP6JEKRD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05JJ8QHBHB",
+        "type": "message",
+        "ts": "1769681544.526079",
+        "client_msg_id": "79C14725-F86B-4986-896C-210190886DDD",
+        "text": "Would be great, I'm up for it. ",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "556fa38c8288",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-04\/6301065375105_556fa38c8288bf8c651a_72.png",
+            "first_name": "Eve",
+            "real_name": "Eve",
+            "display_name": "",
+            "team": "T0197SMV2MQ",
+            "name": "foldesieva25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769533069.769039",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "119ge",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would be great, I'm up for it. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U018T4T64FR",
+        "type": "message",
+        "ts": "1769685538.163619",
+        "client_msg_id": "206cdb4c-a2e3-4912-8a5b-8a3c8e97f732",
+        "text": "fuck i lost track with this one. I will have a look at it and fix the things. <@U05JJ8QHBHB> and <@U05BP6JEKRD> please also have a look at it as soon as its is updated. thank you",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "d73f62394d70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-20\/1314120389299_d73f62394d70e7c52de4_72.jpg",
+            "first_name": "Adrian",
+            "real_name": "Adrian",
+            "display_name": "Aaaaaaadriaaaaaaan",
+            "team": "T0197SMV2MQ",
+            "name": "adrian.rinnus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762778169.178619",
+        "parent_user_id": "U018T4T64FR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/JBfn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "fuck i lost track with this one. I will have a look at it and fix the things. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05JJ8QHBHB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05BP6JEKRD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please also have a look at it as soon as its is updated. thank you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05JJ8QHBHB",
+        "type": "message",
+        "ts": "1769685980.850409",
+        "client_msg_id": "8FC63304-C040-49DA-B3F9-2029F84A3B68",
+        "text": "Of course, let me know when ",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "556fa38c8288",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-04\/6301065375105_556fa38c8288bf8c651a_72.png",
+            "first_name": "Eve",
+            "real_name": "Eve",
+            "display_name": "",
+            "team": "T0197SMV2MQ",
+            "name": "foldesieva25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762778169.178619",
+        "parent_user_id": "U018T4T64FR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cGv0F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Of course, let me know when "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U018T4T64FR",
+        "type": "message",
+        "ts": "1769687344.898489",
+        "client_msg_id": "a3c80c29-5cd4-4c04-962e-08155dd9954e",
+        "text": "just 1 or 2 hours :smile: I am disappointed :see_no_evil:",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "d73f62394d70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-20\/1314120389299_d73f62394d70e7c52de4_72.jpg",
+            "first_name": "Adrian",
+            "real_name": "Adrian",
+            "display_name": "Aaaaaaadriaaaaaaan",
+            "team": "T0197SMV2MQ",
+            "name": "adrian.rinnus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769533069.769039",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wq6WH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "just 1 or 2 hours "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I am disappointed "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "see_no_evil",
+                                "unicode": "1f648"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

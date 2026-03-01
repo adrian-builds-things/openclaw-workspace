@@ -1,0 +1,1476 @@
+{
+  "transcript": [
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "No, I think, and we have unlimited time because my Google Workplace space thing, that's good, we are not limited to one hour, that's cool.",
+      "timestamp": "00:00:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "All right, so yes, let's start again with what is required for the MVP.",
+      "timestamp": "00:00:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So I think required for the MVP is we have to manage the workers.",
+      "timestamp": "00:00:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So where do, in which canteen are the workers and for which company are the workers working?",
+      "timestamp": "00:00:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "What kind of restrictions do they have in that sense?",
+      "timestamp": "00:00:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Even the restrictions there is not MVP in my opinion, they can still select it on the menu.",
+      "timestamp": "00:00:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Then we have the canteen and company management, so we have to be able to create new canteens for new companies.",
+      "timestamp": "00:00:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "That's easy stuff, it's just crud, yeah.",
+      "timestamp": "00:00:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And then we are talking about the menu selection, no, the menu management, creating dishes.",
+      "timestamp": "00:00:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "the menu��니.",
+      "timestamp": "00:00:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "creating menus assigning menus to calendar weeks and then we have the my meals part where the people can select what they want to choose and that's MVP my opinion right yeah yeah and one thing is missing an important one and we need some kind of summary whatever for the to buy the groceries and stuff like that how many meals do we have or do we need and stuff like that this is missing yeah the reports yes exactly yeah to what extent that goes like ingredients I don't know because there would not from that for later I think it's really cool because yeah because later you can get the whole grocery list out of it and do the ordering out of it that would be really cool but in the first one it's just we have 50 of that meal and 100 of this and whatever so that we have the numbers and yeah yeah yeah yeah yeah yeah yeah you",
+      "timestamp": "00:01:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "We can always extend it.",
+      "timestamp": "00:02:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "the beginning, it's just numbers in my opinion, and then we have the MVP ready, I would say.",
+      "timestamp": "00:02:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Anything else?",
+      "timestamp": "00:02:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I really like all the things you did.",
+      "timestamp": "00:02:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "It's awesome, but this is not MVP in the first moment to show it to them.",
+      "timestamp": "00:02:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "We can still use that one to show our ideas, you know, but the thing working, this is not required in the first place.",
+      "timestamp": "00:02:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, exactly, and it's actually a strategic approach, because we show them, look, here's a prototype.",
+      "timestamp": "00:02:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And also, here we have many more ideas that can help you, and look how much time you can save if you have the ingredients, and you get the whole grocery list there, blah, blah, blah, blah, blah.",
+      "timestamp": "00:02:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "You know, that's all cool stuff.",
+      "timestamp": "00:02:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "But this is something that we can give them as some kind of, how do you call it?",
+      "timestamp": "00:02:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "This one is not working, menu management, the main page is not working, the weekly plan here, this is a dummy page, I have to move the real page first, I know, it's actually the page, yeah, but this is not yet working, I don't have connected database, this is what I need to do.",
+      "timestamp": "00:03:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay, okay, okay, but everything else, settings, all right, you know what I would like to fix this as well, like I want to get rid of this and have the login, immediately.",
+      "timestamp": "00:03:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yes.",
+      "timestamp": "00:03:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So, okay, I would say let's focus on this.",
+      "timestamp": "00:04:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Sorry, but from here, what is it missing here?",
+      "timestamp": "00:04:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "The connection to Superbase, more or less, and a theme that looks good, but this can be done later.",
+      "timestamp": "00:04:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "We are talking about functionality first, and then we can build the shape or the Tweak CN thingy later if we want to.",
+      "timestamp": "00:04:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "What is missing is functionality.",
+      "timestamp": "00:04:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And also the canteens companies and workers thing, that was just the first draft to have it up and running.",
+      "timestamp": "00:04:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "But I think it needs more love.",
+      "timestamp": "00:04:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "For example, the billing information also here, it needs more love too.",
+      "timestamp": "00:04:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Also, we can think about building our own page created, that it's not a dialogue.",
+      "timestamp": "00:04:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Mm-hmm.",
+      "timestamp": "00:04:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So you can...",
+      "timestamp": "00:04:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Go crazy there a bit better and improve the UX if you want to.",
+      "timestamp": "00:05:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And I will take care about the menu creation and connecting it to the back end.",
+      "timestamp": "00:05:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay.",
+      "timestamp": "00:05:10"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Is that a way to go for you or what do you like or what do you enjoy doing?",
+      "timestamp": "00:05:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "What is the thing you want to do?",
+      "timestamp": "00:05:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Well, let's do what we need to get done.",
+      "timestamp": "00:05:16"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I think this is it.",
+      "timestamp": "00:05:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "But as I told you, I want to have like this, like going straight to the login or dashboards.",
+      "timestamp": "00:05:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah.",
+      "timestamp": "00:05:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Dashboards, guess it will be based on the role.",
+      "timestamp": "00:05:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah.",
+      "timestamp": "00:05:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So I think I'll start to try and get a sense of what's here.",
+      "timestamp": "00:05:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "What's, what can, what like things like, uh, uh, what's in the, what's in the.",
+      "timestamp": "00:05:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, and how can it be improved and what is needed and stuff like that?",
+      "timestamp": "00:06:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Well, in truth, we really just want to avoid dialogues on mobile, unless they're information-heavy.",
+      "timestamp": "00:06:05"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "But I don't think that's really the case.",
+      "timestamp": "00:06:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Well, this is weird, but that's a weird screen as well.",
+      "timestamp": "00:06:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, I think I'm going to go with that.",
+      "timestamp": "00:06:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Checking the menus.",
+      "timestamp": "00:06:44"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I will work on the menu management now, building the dishes in the back-end and also the menu creation, how to store data in the back-end and blah, blah, blah.",
+      "timestamp": "00:06:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "This is what I will tackle.",
+      "timestamp": "00:06:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So I think it makes sense if you don't touch the menu management.",
+      "timestamp": "00:06:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Bye.",
+      "timestamp": "00:06:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So we don't get conflicts, but you can take care about all the others.",
+      "timestamp": "00:07:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And again, do what you enjoy.",
+      "timestamp": "00:07:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So tell me what you want to do.",
+      "timestamp": "00:07:07"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I'm okay with tackling the back-end.",
+      "timestamp": "00:07:08"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, I've already enjoyed a lot doing this, and the ideas are there, so let's get the MVP done.",
+      "timestamp": "00:07:16"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:07:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It doesn't matter much for me now.",
+      "timestamp": "00:07:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I want to try and get this looking good.",
+      "timestamp": "00:07:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So as you say, if you're okay with this sort of...",
+      "timestamp": "00:07:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Absolutely.",
+      "timestamp": "00:07:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "...deaming, let me show you something that I found yesterday on Dribbble, which actually got me some sort of inspiration.",
+      "timestamp": "00:07:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "But this is it.",
+      "timestamp": "00:07:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Like, you scroll the days there, blah, blah, blah.",
+      "timestamp": "00:07:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Mm-hmm.",
+      "timestamp": "00:07:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Of course we don't have...",
+      "timestamp": "00:07:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Images and images really pop out really well, but I don't think we're going to want to add images because they will look ugly anyway.",
+      "timestamp": "00:08:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, not for now exactly, and they will look ugly, yeah, yeah.",
+      "timestamp": "00:08:09"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "All right, what do you say, can I, oh no, they have the Tailwind config, right?",
+      "timestamp": "00:08:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "If I download the code, actually it's...",
+      "timestamp": "00:08:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, there is something in, but the color scheme is not...",
+      "timestamp": "00:08:25"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I was putting it, what you...",
+      "timestamp": "00:08:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ah, wait, I have an idea about that.",
+      "timestamp": "00:08:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Um, tweak, import, you can import, but it...",
+      "timestamp": "00:08:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, here you can...",
+      "timestamp": "00:08:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Root, background, you can import the CSS, but you don't have the CSS, I guess, here, what do you have?",
+      "timestamp": "00:08:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, they, I did.",
+      "timestamp": "00:08:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "The config is there, let me see, code, tailwindconfig, where is it, sheeshit, eh, tailwindconfig, okay, and where it gets the, I just downloaded, here, let me open this, somewhere, we need the global CSS thingy in that sense, ah, here it is, okay, just put it in, you can import custom CSS into TweakCN, and then you can adjust it.",
+      "timestamp": "00:09:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "What about these?",
+      "timestamp": "00:09:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "This is, this stays the same, you don't need to touch it, you just need the global CSS in my opinion.",
+      "timestamp": "00:09:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So, supposedly, if you take these.",
+      "timestamp": "00:09:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, and if you take it now, go to Twixian, this is, so, where is source, it's in, it could also be in public, ah, yes, uh, no, oh, it's not, ah, then it's, well, main.css, no, global.css, global.css source app, yep, this is, no, no, no, it is, wait.",
+      "timestamp": "00:10:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay, I have undo.",
+      "timestamp": "00:10:34"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Can you, can you go to Twixian, because this is a different Tailwind base, Twixian and then import it there, I think that's the, the easiest.",
+      "timestamp": "00:10:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So I guess, try to import, import.",
+      "timestamp": "00:10:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yes, no copy paste, the proper one.",
+      "timestamp": "00:10:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Now what?",
+      "timestamp": "00:11:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "No, it didn't work, I would say.",
+      "timestamp": "00:11:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Can you go back to, have you imported the proper one?",
+      "timestamp": "00:11:09"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "What's that?",
+      "timestamp": "00:11:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Is that the right one?",
+      "timestamp": "00:11:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So just take the glasses, the root and the dark, guess, you write that like that.",
+      "timestamp": "00:11:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "No, import, because they also have just that.",
+      "timestamp": "00:11:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yes.",
+      "timestamp": "00:11:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Imported successfully, but, ah, no.",
+      "timestamp": "00:11:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "But the colors are  up.",
+      "timestamp": "00:11:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Payser says it follows, because I make sure to verify the primary.",
+      "timestamp": "00:11:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ah, the primary, is that included there?",
+      "timestamp": "00:11:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "No, it's not.",
+      "timestamp": "00:11:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "No.",
+      "timestamp": "00:11:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "right.",
+      "timestamp": "00:11:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "All All right.",
+      "timestamp": "00:11:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "All right.",
+      "timestamp": "00:11:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "All",
+      "timestamp": "00:12:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "This is just a sidebar, okay, but it's black, zero, zero, this is not, at tailwind base, you are in at tailwind base, you are not, this is the wrong file, I guess, huh?",
+      "timestamp": "00:12:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay, let me check again where the hell, why is there a file name, I mean, okay, let me close windsurf and make sure I'm the right thing, this was the thing that I just downloaded, and then global CSS, primary, zero, zero percent, well, that's okay.",
+      "timestamp": "00:12:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay.",
+      "timestamp": "00:12:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Global, and the config, well, HLS can, but, oh man, this should be it, so why is this behaving like that, download, I will also give it a try, download zip, cool, where are you, it's in at global CSS, open, primary, what is that kind of a color, HLSL, that's, don't uh, uh, uh, uh,",
+      "timestamp": "00:13:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Is your cat now here the new one?",
+      "timestamp": "00:14:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "No, not yet.",
+      "timestamp": "00:14:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Maybe tomorrow.",
+      "timestamp": "00:14:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:14:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Just a second.",
+      "timestamp": "00:14:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "What kind of color is this?",
+      "timestamp": "00:14:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Nine, nine, nine.",
+      "timestamp": "00:14:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "This is just .",
+      "timestamp": "00:14:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Zero, zero, nine percent.",
+      "timestamp": "00:14:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, the colors are .",
+      "timestamp": "00:14:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah.",
+      "timestamp": "00:14:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah.",
+      "timestamp": "00:14:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah.",
+      "timestamp": "00:14:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah.",
+      "timestamp": "00:14:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So the Scheme Generator does the right thing, it's just that, ah, I think I know what the problem is, give me a second, here, no, here, the menu selection, for example, where do we have something blue, it is in the sidebar, for example, components, UI, sidebar, Fsidebar, no, this is the, navigation here, and here, what do they do, do they use color codes, bggray hover, mm-hmm, so the problem could be F2, Lu, yeah, okay, the problem is, um, ShadeCN is not properly, no, V0 is not properly theming the things, what they do is,",
+      "timestamp": "00:15:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "They just use color codes on there, so they don't use primary or secondary color, so that is the problem.",
+      "timestamp": "00:16:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So if you have a look, go to the code, for example, and then open the navigation in components, think, open the components folder, or navigate, exactly, and now search for blue.",
+      "timestamp": "00:16:08"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So, you see, here they have blue 100 or blue 700, but they don't use primary and primary.",
+      "timestamp": "00:16:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So this is the problem.",
+      "timestamp": "00:16:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "We need to rework the components in that way, that we are using a theme, and not just the color tokens from Tailwind.",
+      "timestamp": "00:16:34"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay, so I guess...",
+      "timestamp": "00:16:44"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "You can try.",
+      "timestamp": "00:16:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah.",
+      "timestamp": "00:16:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I'm going to go manually, no?",
+      "timestamp": "00:16:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Or you can try in V0, just fork it, and tell it it should...",
+      "timestamp": "00:16:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "It a proper theme, so it should show exactly the same UI, but use a proper theme with a ShadeCN config, or less, that it uses primary and whatever, so that it creates it based on ShadeCN components, you know, and not on Tailwind stuff.",
+      "timestamp": "00:17:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So there we go.",
+      "timestamp": "00:17:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yes, and now tell it to use ShadeCN theme and make it look exactly the same with the colorings, instead of Tailwind color glasses.",
+      "timestamp": "00:17:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And what?",
+      "timestamp": "00:17:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And make it look, or appearing exactly the same.",
+      "timestamp": "00:17:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Make it look visually, or looking, exactly visually the same, or whatever, yeah.",
+      "timestamp": "00:17:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Letís see what happens, I have no idea, I guess you got the idea, please.",
+      "timestamp": "00:18:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Letís see what happens.",
+      "timestamp": "00:18:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I always forget to use Fathom.",
+      "timestamp": "00:18:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "use the prompt in S.",
+      "timestamp": "00:18:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "No, itís reworking everything, okay, calendar menu.",
+      "timestamp": "00:18:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "you.",
+      "timestamp": "00:18:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Thank Thank",
+      "timestamp": "00:19:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ah, what?",
+      "timestamp": "00:19:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "An interesting app.",
+      "timestamp": "00:19:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Oh, it's actually there.",
+      "timestamp": "00:19:05"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Come on.",
+      "timestamp": "00:19:07"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Just not configured.",
+      "timestamp": "00:19:08"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "it's not even tailwind.",
+      "timestamp": "00:19:10"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "How come I didn't saw this before?",
+      "timestamp": "00:19:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Oh, background card.",
+      "timestamp": "00:19:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Primary.",
+      "timestamp": "00:19:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "No, it's creating a lot of new whatever.",
+      "timestamp": "00:19:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Let's see.",
+      "timestamp": "00:19:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "The G-Blue is still there.",
+      "timestamp": "00:19:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, he's reworking it at the moment.",
+      "timestamp": "00:19:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Weekly Calendar.",
+      "timestamp": "00:19:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Weekly Calendar menu, reworking that one.",
+      "timestamp": "00:19:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Let's see if he has no primary or whatever instead of the color tokens.",
+      "timestamp": "00:19:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Text Forecron, Text Muted Forecron, that looks better.",
+      "timestamp": "00:19:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And here, the colors, another thing.",
+      "timestamp": "00:19:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Text Forecron, Text Destructive, yeah, that looks better.",
+      "timestamp": "00:19:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay.",
+      "timestamp": "00:19:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Let's see what it does and how it looks like afterwards.",
+      "timestamp": "00:19:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Alrighty.",
+      "timestamp": "00:19:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "You know what?",
+      "timestamp": "00:19:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "To fix one minor thing for the landing page, and then first I need to go somewhere and bring away the things I was drinking, and then I will fix the landing page, and then I will start integrating the backend to your stuff.",
+      "timestamp": "00:20:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Cool.",
+      "timestamp": "00:20:16"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Let's catch up later then.",
+      "timestamp": "00:20:16"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "See you later.",
+      "timestamp": "00:20:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "See you.",
+      "timestamp": "00:20:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Bye-bye.",
+      "timestamp": "00:20:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "fun.",
+      "timestamp": "00:20:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Luís Braga",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Cheers.",
+      "timestamp": "00:20:21"
+    }
+  ]
+}

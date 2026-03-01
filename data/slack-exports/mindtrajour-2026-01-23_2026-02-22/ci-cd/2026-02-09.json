@@ -1,0 +1,210 @@
+[
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B03RPJA4R5Z",
+        "thread_ts": "1770508576.241699",
+        "root": {
+            "user": "U03SDCEUKH6",
+            "type": "message",
+            "ts": "1770508576.241699",
+            "edited": {
+                "user": "B03RPJA4R5Z",
+                "ts": "1771608034.000000"
+            },
+            "bot_id": "B03RPJA4R5Z",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T0197SMV2MQ",
+            "bot_profile": {
+                "id": "B03RPJA4R5Z",
+                "app_id": "A01BP7R4KNY",
+                "user_id": "U03SDCEUKH6",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1659210816,
+                "team_id": "T0197SMV2MQ"
+            },
+            "thread_ts": "1770508576.241699",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1770675018.973239",
+            "reply_users": [
+                "U03SDCEUKH6"
+            ],
+            "replies": [
+                {
+                    "user": "U03SDCEUKH6",
+                    "ts": "1770675018.973239"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1770675018.973239",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1770508572,
+                    "color": "6f42c1",
+                    "fallback": "[MindTrajour\/mindtrajour-app] Pull request opened by enszrlu",
+                    "text": "Delete all unused routes, components, packages and components.",
+                    "pretext": "Pull request opened by <https:\/\/github.com\/enszrlu|enszrlu>",
+                    "title": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/395|#395 Remove unused routes storybook snaplet>",
+                    "callback_id": "pr-opened-interaction",
+                    "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>",
+                    "fields": [
+                        {
+                            "value": "<@U018T4T64FR>",
+                            "title": "Reviewers",
+                            "short": true
+                        },
+                        {
+                            "value": "released",
+                            "title": "Labels",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;MindTrajour&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:170454763,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;mindtrajour-app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:683163664,&amp;amp;quot;number&amp;amp;quot;:395,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/395&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Remove unused routes storybook snaplet&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "user": "U03SDCEUKH6",
+        "type": "message",
+        "ts": "1770675018.973239",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1770508572,
+                "color": "6f42c1",
+                "fallback": "[MindTrajour\/mindtrajour-app] Pull request merged by enszrlu",
+                "pretext": "Pull request merged by <https:\/\/github.com\/enszrlu|enszrlu>",
+                "title": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/395|#395 Remove unused routes storybook snaplet>",
+                "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>"
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B03RPJA4R5Z",
+        "thread_ts": "1770411855.291439",
+        "root": {
+            "user": "U03SDCEUKH6",
+            "type": "message",
+            "ts": "1770411855.291439",
+            "edited": {
+                "user": "B03RPJA4R5Z",
+                "ts": "1771608032.000000"
+            },
+            "bot_id": "B03RPJA4R5Z",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T0197SMV2MQ",
+            "bot_profile": {
+                "id": "B03RPJA4R5Z",
+                "app_id": "A01BP7R4KNY",
+                "user_id": "U03SDCEUKH6",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1659210816,
+                "team_id": "T0197SMV2MQ"
+            },
+            "thread_ts": "1770411855.291439",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1770675039.288519",
+            "reply_users": [
+                "U03SDCEUKH6"
+            ],
+            "replies": [
+                {
+                    "user": "U03SDCEUKH6",
+                    "ts": "1770675039.288519"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1770675039.288519",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1770411852,
+                    "color": "6f42c1",
+                    "fallback": "[MindTrajour\/mindtrajour-app] Pull request opened by enszrlu",
+                    "text": "## Add comprehensive E2E test suite with Playwright\n\n### Summary\n\n• Introduce a full Playwright E2E test suite covering all major user flows: landing pages, authentication, dashboard, all-trades table, trade creation\/editing\/deletion, sidebar features (navigation, language\/theme, logout, subscription, emotion tracker, notes, strategy checklist), and column\/filter\/search\/export functionality\n• Add reusable test infrastructure including auth fixtures with persistent sessions, trade helper utilities for creating\/cleaning up trades across all 10 strategy types, and a global setup for dev server warm-up\n• Fix minor app issues found during E2E development: replace `router.push` with `&lt;Link&gt;` in landing header for testability, switch trade deletion from `router.refresh()` to `refetch()` for reliable UI updates, add `data-testid` and `aria-label` attributes to sidebar buttons, and add test IDs to landing page elements\n\n### Changes\n\n*E2E Infrastructure*\n\n• `playwright.config.ts` -- project-based config with separate auth setup, unauthenticated, authenticated, and isolated logout projects\n• `e2e\/auth.setup.ts` -- persistent auth setup for 3 test users (with trades, no trades, no subscription)\n• `e2e\/fixtures\/` -- custom Playwright fixtures, constants, and base fixture\n• `e2e\/global-setup.ts` -- dev server warm-up to prevent cache race conditions\n• `e2e\/utils\/trade-helpers.ts` -- ~420 lines of reusable helpers for asset selection, strategy selection, leg filling, trade creation, and cleanup for all 10 global strategies\n• `e2e\/utils\/helpers.ts`, `e2e\/utils\/test-data.ts` -- shared navigation and test data utilities\n• `e2e\/README.md`, `e2e\/IMPLEMENTATION_SUMMARY.md` -- documentation\n\n*Test Specs (34 files, ~3700 lines)*\n\n• Landing: home, pricing, contact, legal pages\n• Auth: sign-in, sign-up, password reset, request password\n• Dashboard: data display, date filters, gross\/net toggle\n• All-trades: search, filters, column visibility, CSV export\n• Trades: create (all 10 strategies with validation), edit\/delete, emotion tracker, notes, strategy checklist\n• Sidebar: navigation, language\/theme switching, subscription paywall, logout (self-contained with fresh login per test)\n\n*App Source Changes*\n\n• `src\/features\/landing-page-v2\/components\/header.tsx` -- replace `router.push` with `&lt;Link&gt;` for proper navigation, add `id` attributes for test targeting\n• `src\/features\/landing-page-v2\/components\/hero.tsx` -- add `id=\"hero-section\"`\n• `src\/features\/sidebar\/Sidebar.tsx` -- add `data-testid` and `aria-label` to desktop sidebar buttons\n• `src\/features\/options-testballoon\/all-trades\/components\/all-trades.tsx` -- use `refetch()` instead of `router.refresh()` after trade deletion\n\n*Config &amp; DB*\n\n• `supabase\/migrations\/20260131091252_add_iron_condor_strategy.sql` -- add all 10 production global strategies with leg configs and constraint rules\n• `supabase\/seed.sql` -- streamlined seed data for consistent test environment\n• `vitest.config.ts` -- exclude `e2e\/**` to prevent Vitest from processing Playwright files\n• `.eslintrc.js` -- ignore `e2e\/*` from ESLint\n• `.gitignore` -- ignore Playwright reports, test results, auth state, and temp files\n• `package.json` -- add `@playwright\/test` dependency and convenience scripts (`test:e2e`, `test:e2e:ui`, per-feature scripts)\n\n### Test plan\n\n• Run `yarn test:e2e` with a fresh `supabase db reset` to verify the full suite passes\n• Run individual suites (`yarn test:e2e:trades`, `yarn test:e2e:all-trades`, etc.) to verify isolation\n• Run `yarn test:e2e -- e2e\/tests\/sidebar\/logout.spec.ts` independently to confirm it logs in fresh and doesn't depend on other projects\n• Verify `yarn test:push` (Vitest) still works without picking up e2e files\n• Confirm seed data and migration produce a consistent test-ready database state",
+                    "pretext": "Pull request opened by <https:\/\/github.com\/enszrlu|enszrlu>",
+                    "title": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/394|#394 Add comprehensive E2E test suite with Playwright>",
+                    "callback_id": "pr-opened-interaction",
+                    "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>",
+                    "fields": [
+                        {
+                            "value": "<@U018T4T64FR>",
+                            "title": "Reviewers",
+                            "short": true
+                        },
+                        {
+                            "value": "released",
+                            "title": "Labels",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;MindTrajour&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:170454763,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;mindtrajour-app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:683163664,&amp;amp;quot;number&amp;amp;quot;:394,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/394&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Add comprehensive E2E test suite with Playwright&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "user": "U03SDCEUKH6",
+        "type": "message",
+        "ts": "1770675039.288519",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1770411852,
+                "color": "6f42c1",
+                "fallback": "[MindTrajour\/mindtrajour-app] Pull request merged by enszrlu",
+                "pretext": "Pull request merged by <https:\/\/github.com\/enszrlu|enszrlu>",
+                "title": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/394|#394 Add comprehensive E2E test suite with Playwright>",
+                "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>"
+            }
+        ]
+    }
+]

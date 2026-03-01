@@ -17,3 +17,9 @@ Link:
 
 Notiz von Adrian:
 - „Erinnere mich heute Abend um 16:20 Uhr daran, ich will es auswerten und Infos für dich herausziehen.“
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

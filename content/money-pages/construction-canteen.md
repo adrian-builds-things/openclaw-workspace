@@ -34,3 +34,9 @@ Die EU macht Druck bei Lebensmittelverschwendung. Mit Vorbestellungen wissen Sie
 Holen Sie sich jetzt Ihre Demo. Wir richten Ihren Standort in 24h ein.
 
 [Demo anfordern ->]
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

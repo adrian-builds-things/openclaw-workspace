@@ -1,0 +1,161 @@
+# Installed Skills Log
+
+## 2026-02-16
+- `frontend-design`
+  - Source: https://skills.sh/anthropics/skills/frontend-design
+  - Path: `/home/adrian/.openclaw/workspace/skills/frontend-design/SKILL.md`
+  - Installed by: Manne
+  - Note: UI quality baseline enforced (design system + tokens + established patterns)
+
+- `skill-creator`
+  - Source: https://skills.sh/anthropics/skills/skill-creator
+  - Path: `/home/adrian/.openclaw/workspace/skills/skill-creator/SKILL.md`
+
+- `mcp-builder`
+  - Source: https://skills.sh/anthropics/skills/mcp-builder
+  - Path: `/home/adrian/.openclaw/workspace/skills/mcp-builder/SKILL.md`
+
+- `agent-development`
+  - Source: https://skills.sh/anthropics/claude-code/agent-development
+  - Path: `/home/adrian/.openclaw/workspace/skills/agent-development/SKILL.md`
+
+- `mcp-integration`
+  - Source: https://skills.sh/anthropics/claude-code/mcp-integration
+  - Path: `/home/adrian/.openclaw/workspace/skills/mcp-integration/SKILL.md`
+
+- `vercel-react-best-practices`
+  - Source: https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices
+  - Path: `/home/adrian/.openclaw/workspace/skills/vercel-react-best-practices/SKILL.md`
+
+- `next-best-practices`
+  - Source: https://skills.sh/vercel-labs/next-skills/next-best-practices
+  - Path: `/home/adrian/.openclaw/workspace/skills/next-best-practices/SKILL.md`
+
+- `web-design-guidelines`
+  - Source: https://skills.sh/vercel-labs/agent-skills/web-design-guidelines
+  - Path: `/home/adrian/.openclaw/workspace/skills/web-design-guidelines/SKILL.md`
+
+- `seo-audit`
+  - Source: https://skills.sh/coreyhaines31/marketingskills/seo-audit
+  - Path: `/home/adrian/.openclaw/workspace/skills/seo-audit/SKILL.md`
+- `copywriting`
+  - Source: https://skills.sh/coreyhaines31/marketingskills/copywriting
+  - Path: `/home/adrian/.openclaw/workspace/skills/copywriting/SKILL.md`
+- `programmatic-seo`
+  - Source: https://skills.sh/coreyhaines31/marketingskills/programmatic-seo
+  - Path: `/home/adrian/.openclaw/workspace/skills/programmatic-seo/SKILL.md`
+- `content-strategy`
+  - Source: https://skills.sh/coreyhaines31/marketingskills/content-strategy
+  - Path: `/home/adrian/.openclaw/workspace/skills/content-strategy/SKILL.md`
+- `product-marketing-context`
+  - Source: https://skills.sh/coreyhaines31/marketingskills/product-marketing-context
+  - Path: `/home/adrian/.openclaw/workspace/skills/product-marketing-context/SKILL.md`
+- `marketing-ideas`
+  - Source: https://skills.sh/coreyhaines31/marketingskills/marketing-ideas
+  - Path: `/home/adrian/.openclaw/workspace/skills/marketing-ideas/SKILL.md`
+- `copy-editing`
+  - Source: https://skills.sh/coreyhaines31/marketingskills/copy-editing
+  - Path: `/home/adrian/.openclaw/workspace/skills/copy-editing/SKILL.md`
+- `social-content`
+  - Source: https://skills.sh/coreyhaines31/marketingskills/social-content
+  - Path: `/home/adrian/.openclaw/workspace/skills/social-content/SKILL.md`
+- `pricing-strategy`
+  - Source: https://skills.sh/coreyhaines31/marketingskills/pricing-strategy
+  - Path: `/home/adrian/.openclaw/workspace/skills/pricing-strategy/SKILL.md`
+- `launch-strategy`
+  - Source: https://skills.sh/coreyhaines31/marketingskills/launch-strategy
+  - Path: `/home/adrian/.openclaw/workspace/skills/launch-strategy/SKILL.md`
+- `analytics-tracking`
+  - Source: https://skills.sh/coreyhaines31/marketingskills/analytics-tracking
+  - Path: `/home/adrian/.openclaw/workspace/skills/analytics-tracking/SKILL.md`
+
+- `paid-ads`
+  - Source: https://skills.sh/coreyhaines31/marketingskills/paid-ads
+  - Path: `/home/adrian/.openclaw/workspace/skills/paid-ads/SKILL.md`
+- `find-skills`
+  - Source: https://skills.sh/vercel-labs/skills/find-skills
+  - Path: `/home/adrian/.openclaw/workspace/skills/find-skills/SKILL.md`
+- `agent-browser`
+  - Source: https://skills.sh/vercel-labs/agent-browser/agent-browser
+  - Path: `/home/adrian/.openclaw/workspace/skills/agent-browser/SKILL.md`
+- `systematic-debugging`
+  - Source: https://skills.sh/obra/superpowers/systematic-debugging
+  - Path: `/home/adrian/.openclaw/workspace/skills/systematic-debugging/SKILL.md`
+- `competitor-alternatives`
+  - Source: https://skills.sh/coreyhaines31/marketingskills/competitor-alternatives
+  - Path: `/home/adrian/.openclaw/workspace/skills/competitor-alternatives/SKILL.md`
+- `page-cro`
+  - Source: https://skills.sh/coreyhaines31/marketingskills/page-cro
+  - Path: `/home/adrian/.openclaw/workspace/skills/page-cro/SKILL.md`
+- `email-sequence`
+  - Source: https://skills.sh/coreyhaines31/marketingskills/email-sequence
+  - Path: `/home/adrian/.openclaw/workspace/skills/email-sequence/SKILL.md`
+- `ab-test-setup`
+  - Source: https://skills.sh/coreyhaines31/marketingskills/ab-test-setup
+  - Path: `/home/adrian/.openclaw/workspace/skills/ab-test-setup/SKILL.md`
+- `schema-markup`
+  - Source: https://skills.sh/coreyhaines31/marketingskills/schema-markup
+  - Path: `/home/adrian/.openclaw/workspace/skills/schema-markup/SKILL.md`
+- `form-cro`
+  - Source: https://skills.sh/coreyhaines31/marketingskills/form-cro
+  - Path: `/home/adrian/.openclaw/workspace/skills/form-cro/SKILL.md`
+- `onboarding-cro`
+  - Source: https://skills.sh/coreyhaines31/marketingskills/onboarding-cro
+  - Path: `/home/adrian/.openclaw/workspace/skills/onboarding-cro/SKILL.md`
+- `signup-flow-cro`
+  - Source: https://skills.sh/coreyhaines31/marketingskills/signup-flow-cro
+  - Path: `/home/adrian/.openclaw/workspace/skills/signup-flow-cro/SKILL.md`
+- `paywall-upgrade-cro`
+  - Source: https://skills.sh/coreyhaines31/marketingskills/paywall-upgrade-cro
+  - Path: `/home/adrian/.openclaw/workspace/skills/paywall-upgrade-cro/SKILL.md`
+- `popup-cro`
+  - Source: https://skills.sh/coreyhaines31/marketingskills/popup-cro
+  - Path: `/home/adrian/.openclaw/workspace/skills/popup-cro/SKILL.md`
+- `free-tool-strategy`
+  - Source: https://skills.sh/coreyhaines31/marketingskills/free-tool-strategy
+  - Path: `/home/adrian/.openclaw/workspace/skills/free-tool-strategy/SKILL.md`
+- `referral-program`
+  - Source: https://skills.sh/coreyhaines31/marketingskills/referral-program
+  - Path: `/home/adrian/.openclaw/workspace/skills/referral-program/SKILL.md`
+- `marketing-psychology`
+  - Source: https://skills.sh/coreyhaines31/marketingskills/marketing-psychology
+  - Path: `/home/adrian/.openclaw/workspace/skills/marketing-psychology/SKILL.md`
+- `webapp-testing`
+  - Source: https://skills.sh/anthropics/skills/webapp-testing
+  - Path: `/home/adrian/.openclaw/workspace/skills/webapp-testing/SKILL.md`
+- `verification-before-completion`
+  - Source: https://skills.sh/obra/superpowers/verification-before-completion
+  - Path: `/home/adrian/.openclaw/workspace/skills/verification-before-completion/SKILL.md`
+- `tailwind-design-system`
+  - Source: https://skills.sh/wshobson/agents/tailwind-design-system
+  - Path: `/home/adrian/.openclaw/workspace/skills/tailwind-design-system/SKILL.md`
+- `subagent-driven-development`
+  - Source: https://skills.sh/obra/superpowers/subagent-driven-development
+  - Path: `/home/adrian/.openclaw/workspace/skills/subagent-driven-development/SKILL.md`
+- `email-sequence` (updated/confirmed)
+  - Source: https://skills.sh/coreyhaines31/marketingskills/email-sequence
+  - Path: `/home/adrian/.openclaw/workspace/skills/email-sequence/SKILL.md`
+- `shadcn-ui`
+  - Source: https://skills.sh/giuseppe-trisciuoglio/developer-kit/shadcn-ui
+  - Path: `/home/adrian/.openclaw/workspace/skills/shadcn-ui/SKILL.md`
+- `browser-use`
+  - Source: https://skills.sh/browser-use/browser-use/browser-use
+  - Path: `/home/adrian/.openclaw/workspace/skills/browser-use/SKILL.md`
+- `focus-timeboxing-8020`
+  - Source: https://skills.sh/lyndonkl/claude/focus-timeboxing-8020
+  - Path: `/home/adrian/.openclaw/workspace/skills/focus-timeboxing-8020/SKILL.md`
+- `kpi-dashboard-design`
+  - Source: https://skills.sh/wshobson/agents/kpi-dashboard-design
+  - Path: `/home/adrian/.openclaw/workspace/skills/kpi-dashboard-design/SKILL.md`
+- `fathom`
+  - Source: https://clawhub.ai/stopmoclay/fathom
+  - Path: `/home/adrian/.openclaw/workspace/skills/fathom/SKILL.md`
+- `freeride` (folder: `free-ride`)
+  - Source: https://clawhub.ai/Shaivpidadi/free-ride
+  - Path: `/home/adrian/.openclaw/workspace/skills/free-ride/SKILL.md`
+- `self-improvement` (folder: `self-improving-agent`)
+  - Source: https://clawhub.ai/pskoett/self-improving-agent
+  - Path: `/home/adrian/.openclaw/workspace/skills/self-improving-agent/SKILL.md`
+- `obsidian`
+  - Source: https://clawhub.ai/steipete/obsidian
+  - Path: `/home/adrian/.openclaw/workspace/skills/obsidian/SKILL.md`

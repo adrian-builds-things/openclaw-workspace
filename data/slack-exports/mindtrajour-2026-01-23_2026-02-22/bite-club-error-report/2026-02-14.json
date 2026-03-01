@@ -1,0 +1,84 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "New issue created: DOMException",
+        "username": "ErrorMaster",
+        "icons": {
+            "emoji": ":shit:"
+        },
+        "type": "message",
+        "ts": "1771078129.408759",
+        "bot_id": "B09QXE2LGDP",
+        "app_id": "A03M3FN0RSQ",
+        "blocks": [
+            {
+                "type": "header",
+                "block_id": "+OqLH",
+                "text": {
+                    "type": "plain_text",
+                    "text": ":red_circle: DOMException",
+                    "emoji": true
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "43HRa",
+                "text": {
+                    "type": "plain_text",
+                    "text": "New issue created",
+                    "emoji": true
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "El54T",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "```NotFoundError: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.```",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "rkRIp",
+                "elements": [
+                    {
+                        "type": "plain_text",
+                        "text": "Status: Active",
+                        "emoji": true
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Project: <https:\/\/eu.posthog.com\/project\/80969|Bite Club>",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Alert: <https:\/\/eu.posthog.com\/project\/80969\/pipeline\/destinations\/hog-019a4be4-654d-0000-b06f-aea202442d37\/configuration\/|Post to Slack on issue created>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "PYAA1"
+            },
+            {
+                "type": "actions",
+                "block_id": "qxGkU",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "5Unde",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "View Issue",
+                            "emoji": true
+                        },
+                        "url": "https:\/\/eu.posthog.com\/project\/80969\/error_tracking\/019c5c7b-8fb9-7803-9cfa-39640a8612a2?fingerprint=fae783ee8a1dfbd1670eab92f7276fe68b477d5094978e2b3d8da44790c215d0743439a361b6889bfdc0f6562a182a8fab90d2bf034d8af242f9e8106a4ecf5b&timestamp=2026-02-14T14:08:44.625Z"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,482 @@
+[
+    {
+        "user": "U06QAS7FPUH",
+        "type": "message",
+        "ts": "1770905021.207739",
+        "edited": {
+            "user": "U06QAS7FPUH",
+            "ts": "1770906036.000000"
+        },
+        "client_msg_id": "95c8e81e-e7e7-4563-92d2-c55549d36aea",
+        "text": "*VERY DETAILED AND LONG TESTING IS REQUIRED!!!!*\n\n*1. Title of the Review Request:*  PROJECT CLEANUP, NEXTJS 16, TAILWINDCSS 4, SHADCN, THEMES AND VARIOUS UPDATES\n*2. Define who should review the Document <@U018T4T64FR>* <@U05BP6JEKRD>, <@U05JJ8QHBHB>\n*3. Use this link:* <https:\/\/staging:mindtrajour2025@staging.mindtrajour.com\/>\n*4. Focus on:* Whole app is refactored, so significant change. Focus on everything, test all functionality! *Dont message back to back with issues, please share a report with all findings with details, screenshots appreciated!*\n• For theming, you can select theme from app sidebar. Default theme is just a place holder, we will run a vote with what we like most and make it default.\n• Eve MTJ theme is something Eve works on atm. I dont like the current state, but Eve should update us. \n• *First focus on functionality, then vote on your favourite themes.* \n• *You can create your own theme* <https:\/\/tweakcn.com\/> (login using mindtrajour account) then save it and let me know, so I can add it. \n• *IF AN ISSUE FOUND AND NOT SURE, TEST IT IN <http:\/\/mindtrajour.co|mindtrajour.co>*m as well to see if it is related to these changes! \n*5. Notes:* -\n*6. Review Timeline:*\n Deadline:  17th Feb 2026\n*7. Feedback Mechanism:* Send a detailed report as a text file or create a doc in shortcut for yourself...",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "e6c03bfa2940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6814162374787_e6c03bfa29409aabbabf_72.jpg",
+            "first_name": "Enes",
+            "real_name": "Enes Zorlu",
+            "display_name": "Enes Zorlu",
+            "team": "T0197SMV2MQ",
+            "name": "enes.zrl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770905021.207739",
+        "reply_count": 21,
+        "reply_users_count": 4,
+        "latest_reply": "1771325637.544739",
+        "reply_users": [
+            "U018T4T64FR",
+            "U06QAS7FPUH",
+            "U05BP6JEKRD",
+            "U05JJ8QHBHB"
+        ],
+        "replies": [
+            {
+                "user": "U018T4T64FR",
+                "ts": "1770905642.729049"
+            },
+            {
+                "user": "U06QAS7FPUH",
+                "ts": "1770906325.963699"
+            },
+            {
+                "user": "U05BP6JEKRD",
+                "ts": "1770993958.002149"
+            },
+            {
+                "user": "U06QAS7FPUH",
+                "ts": "1770994600.737679"
+            },
+            {
+                "user": "U018T4T64FR",
+                "ts": "1771257031.125509"
+            },
+            {
+                "user": "U018T4T64FR",
+                "ts": "1771257039.568169"
+            },
+            {
+                "user": "U05BP6JEKRD",
+                "ts": "1771261281.407849"
+            },
+            {
+                "user": "U06QAS7FPUH",
+                "ts": "1771261728.611429"
+            },
+            {
+                "user": "U06QAS7FPUH",
+                "ts": "1771262158.899789"
+            },
+            {
+                "user": "U018T4T64FR",
+                "ts": "1771263051.716329"
+            },
+            {
+                "user": "U06QAS7FPUH",
+                "ts": "1771281280.699619"
+            },
+            {
+                "user": "U06QAS7FPUH",
+                "ts": "1771281304.664919"
+            },
+            {
+                "user": "U05BP6JEKRD",
+                "ts": "1771283055.585769"
+            },
+            {
+                "user": "U06QAS7FPUH",
+                "ts": "1771284232.970189"
+            },
+            {
+                "user": "U018T4T64FR",
+                "ts": "1771306077.095469"
+            },
+            {
+                "user": "U018T4T64FR",
+                "ts": "1771306261.234769"
+            },
+            {
+                "user": "U05JJ8QHBHB",
+                "ts": "1771320642.277219"
+            },
+            {
+                "user": "U05JJ8QHBHB",
+                "ts": "1771320798.991659"
+            },
+            {
+                "user": "U06QAS7FPUH",
+                "ts": "1771324031.515959"
+            },
+            {
+                "user": "U06QAS7FPUH",
+                "ts": "1771324246.656639"
+            },
+            {
+                "user": "U05JJ8QHBHB",
+                "ts": "1771325637.544739"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1771325637.544739",
+        "attachments": [
+            {
+                "from_url": "https:\/\/staging:mindtrajour2025@staging.mindtrajour.com\/",
+                "image_url": "https:\/\/www.mindtrajour.com\/images\/ogThumbnail.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 274863,
+                "id": 1,
+                "original_url": "https:\/\/staging:mindtrajour2025@staging.mindtrajour.com\/",
+                "fallback": "MindTrajour - The Only Options Specific Trading Journal",
+                "text": "MindTrajour is the only options-specific trading journal that reveals your hidden patterns and improve your trading performance in just 60 seconds per trade. Start now and elevate your trading experience.",
+                "title": "MindTrajour - The Only Options Specific Trading Journal",
+                "title_link": "https:\/\/staging:mindtrajour2025@staging.mindtrajour.com\/",
+                "service_name": "MindTrajour"
+            },
+            {
+                "image_url": "https:\/\/tweakcn.com\/og-image.v050725.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 585924,
+                "from_url": "https:\/\/tweakcn.com\/",
+                "service_icon": "https:\/\/tweakcn.com\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/tweakcn.com\/",
+                "fallback": "tweakcn: Beautiful themes for shadcn\/ui — tweakcn | Theme Editor &amp; Generator",
+                "text": "Customize theme for shadcn\/ui with tweakcn's interactive editor. Supports Tailwind CSS v4, Shadcn UI, and custom styles. Modify properties, preview changes, and get the code in real time.",
+                "title": "Beautiful themes for shadcn\/ui — tweakcn | Theme Editor &amp; Generator",
+                "title_link": "https:\/\/tweakcn.com\/",
+                "service_name": "tweakcn"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pc6Hc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "VERY DETAILED AND LONG TESTING IS REQUIRED!!!!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "1. Title of the Review Request:  ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "PROJECT CLEANUP, NEXTJS 16, TAILWINDCSS 4, SHADCN, THEMES AND VARIOUS UPDATES\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "2. Define who should review the Document ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U018T4T64FR",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05BP6JEKRD"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05JJ8QHBHB"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "3. Use this link: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/staging:mindtrajour2025@staging.mindtrajour.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "4. Focus on: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Whole app is refactored, so significant change. Focus on everything, test all functionality! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Dont message back to back with issues, please share a report with all findings with details, screenshots appreciated!",
+                                "style": {
+                                    "bold": true,
+                                    "underline": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "For theming, you can select theme from app sidebar. Default theme is just a place holder, we will run a vote with what we like most and make it default."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Eve MTJ theme is something Eve works on atm. I dont like the current state, but Eve should update us. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "First focus on functionality, then vote on your favourite themes. ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "You can create your own theme ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/tweakcn.com\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (login using mindtrajour account) then save it and let me know, so I can add it. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "IF AN ISSUE FOUND AND NOT SURE, TEST IT IN ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/mindtrajour.co",
+                                        "text": "mindtrajour.co",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "m as well to see if it is related to these changes! "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "5. Notes:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " -\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "6. Review Timeline:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n Deadline:  17th Feb 2026\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "7. Feedback Mechanism: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Send a detailed report as a text file or create a doc in shortcut for yourself..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U05BP6JEKRD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U018T4T64FR",
+        "type": "message",
+        "ts": "1770905642.729049",
+        "client_msg_id": "726ba31b-136a-4768-9f5e-84f675d3d275",
+        "text": "as a proposal: lets run the tests on release. so merging it first to release and then staging because then we run the tests just once",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "d73f62394d70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-20\/1314120389299_d73f62394d70e7c52de4_72.jpg",
+            "first_name": "Adrian",
+            "real_name": "Adrian",
+            "display_name": "Aaaaaaadriaaaaaaan",
+            "team": "T0197SMV2MQ",
+            "name": "adrian.rinnus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770905021.207739",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hJ6AS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "as a proposal: lets run the tests on release. so merging it first to release and then staging because then we run the tests just once"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06QAS7FPUH",
+        "type": "message",
+        "ts": "1770906325.963699",
+        "client_msg_id": "3db484c2-e126-4a23-ae21-7e250ff9d8d0",
+        "text": "Fine by me, link is updated.",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "e6c03bfa2940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6814162374787_e6c03bfa29409aabbabf_72.jpg",
+            "first_name": "Enes",
+            "real_name": "Enes Zorlu",
+            "display_name": "Enes Zorlu",
+            "team": "T0197SMV2MQ",
+            "name": "enes.zrl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770905021.207739",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nzRon",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fine by me, link is updated."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U018T4T64FR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

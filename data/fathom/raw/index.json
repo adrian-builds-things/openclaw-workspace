@@ -1,0 +1,886 @@
+[
+  {
+    "recording_id": 123034130,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2026-02-17T18:47:14Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Adrian Rinnus",
+      "Enes Zorlu",
+      "Larissa Lange",
+      "E F"
+    ],
+    "md_path": "md/2026-02-17__123034130__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 946,
+    "has_summary": true
+  },
+  {
+    "recording_id": 122206235,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2026-02-13T09:58:33Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Xavier Sá",
+      "Luís Braga",
+      "Adrian Rinnus",
+      "Enes Zorlu"
+    ],
+    "md_path": "md/2026-02-13__122206235__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 533,
+    "has_summary": true
+  },
+  {
+    "recording_id": 115118614,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2026-01-18T18:35:48Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Luís Braga",
+      "Adrian Rinnus",
+      "Enes Zorlu"
+    ],
+    "md_path": "md/2026-01-18__115118614__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 1067,
+    "has_summary": true
+  },
+  {
+    "recording_id": 114783852,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2026-01-16T07:46:05Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Adrian Rinnus",
+      "Larissa Lange"
+    ],
+    "md_path": "md/2026-01-16__114783852__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 442,
+    "has_summary": true
+  },
+  {
+    "recording_id": 111576586,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2026-01-03T09:33:59Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Adrian Rinnus"
+    ],
+    "md_path": "md/2026-01-03__111576586__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 20,
+    "has_summary": false
+  },
+  {
+    "recording_id": 105166070,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-12-01T13:58:36Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Larissa Lange",
+      "Adrian Rinnus",
+      "Markus Herfert"
+    ],
+    "md_path": "md/2025-12-01__105166070__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 635,
+    "has_summary": true
+  },
+  {
+    "recording_id": 104897323,
+    "title": "Bite Club Multi Canteen and Presentation",
+    "created_at": "2025-11-28T09:32:13Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Adrian Rinnus",
+      "Filipe Fernandes",
+      "Xavier Sá"
+    ],
+    "md_path": "md/2025-11-28__104897323__Bite-Club-Multi-Canteen-and-Presentation.md",
+    "transcript_segments": 806,
+    "has_summary": true
+  },
+  {
+    "recording_id": 103149346,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-11-20T16:04:38Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Marc-Jannis Blumenhagen",
+      "Adrian Rinnus"
+    ],
+    "md_path": "md/2025-11-20__103149346__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 496,
+    "has_summary": false
+  },
+  {
+    "recording_id": 100775524,
+    "title": "Marketing Strategy & Update MindTrajour",
+    "created_at": "2025-11-11T17:33:06Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Larissa Lange",
+      "Enes Zorlu",
+      "Adrian Rinnus"
+    ],
+    "md_path": "md/2025-11-11__100775524__Marketing-Strategy-Update-MindTrajour.md",
+    "transcript_segments": 624,
+    "has_summary": true
+  },
+  {
+    "recording_id": 99946179,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-11-07T08:24:04Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Adrian Rinnus",
+      "Enes Zorlu"
+    ],
+    "md_path": "md/2025-11-07__99946179__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 257,
+    "has_summary": true
+  },
+  {
+    "recording_id": 98921252,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-11-04T10:18:04Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Adrian Rinnus",
+      "Luís Braga",
+      "Enes Zorlu"
+    ],
+    "md_path": "md/2025-11-04__98921252__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 631,
+    "has_summary": true
+  },
+  {
+    "recording_id": 98620860,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-11-03T13:21:03Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Adrian Rinnus",
+      "Markus Herfert"
+    ],
+    "md_path": "md/2025-11-03__98620860__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 305,
+    "has_summary": true
+  },
+  {
+    "recording_id": 95859142,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-10-22T09:01:18Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Adrian Rinnus",
+      "Aki Pa"
+    ],
+    "md_path": "md/2025-10-22__95859142__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 554,
+    "has_summary": true
+  },
+  {
+    "recording_id": 95523931,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-10-21T08:33:36Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Enes Zorlu",
+      "Adrian Rinnus"
+    ],
+    "md_path": "md/2025-10-21__95523931__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 456,
+    "has_summary": true
+  },
+  {
+    "recording_id": 95523179,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-10-21T08:03:05Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Adrian Rinnus",
+      "Enes Zorlu"
+    ],
+    "md_path": "md/2025-10-21__95523179__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 3,
+    "has_summary": false
+  },
+  {
+    "recording_id": 95518384,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-10-21T07:57:51Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Adrian Rinnus",
+      "Filipe Fernandes"
+    ],
+    "md_path": "md/2025-10-21__95518384__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 247,
+    "has_summary": false
+  },
+  {
+    "recording_id": 95239646,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-10-20T12:29:12Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Markus Herfert",
+      "Adrian Rinnus"
+    ],
+    "md_path": "md/2025-10-20__95239646__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 457,
+    "has_summary": true
+  },
+  {
+    "recording_id": 92336193,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-10-07T15:44:33Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Adrian Rinnus",
+      "Luís Braga"
+    ],
+    "md_path": "md/2025-10-07__92336193__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 1903,
+    "has_summary": true
+  },
+  {
+    "recording_id": 92322877,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-10-07T13:05:31Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Luís Braga",
+      "Adrian Rinnus"
+    ],
+    "md_path": "md/2025-10-07__92322877__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 238,
+    "has_summary": true
+  },
+  {
+    "recording_id": 92269354,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-10-07T09:28:26Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Adrian Rinnus",
+      "Filipe Fernandes"
+    ],
+    "md_path": "md/2025-10-07__92269354__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 914,
+    "has_summary": true
+  },
+  {
+    "recording_id": 90471489,
+    "title": "Levi x MindTrajour",
+    "created_at": "2025-09-29T16:31:30Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Adrian Rinnus",
+      "Larissa Lange",
+      "Levi Woods"
+    ],
+    "md_path": "md/2025-09-29__90471489__Levi-x-MindTrajour.md",
+    "transcript_segments": 871,
+    "has_summary": true
+  },
+  {
+    "recording_id": 90295624,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-09-28T09:30:13Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-09-28__90295624__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 89072594,
+    "title": "Jens Rabe x Options Trading Journal MindTrajour",
+    "created_at": "2025-09-23T09:45:57Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-09-23__89072594__Jens-Rabe-x-Options-Trading-Journal-MindTrajour.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 85517659,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-09-08T09:01:12Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-09-08__85517659__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 85203372,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-09-05T10:09:51Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-09-05__85203372__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 83162973,
+    "title": "Marc - Adrian Daily",
+    "created_at": "2025-08-27T07:54:45Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-08-27__83162973__Marc---Adrian-Daily.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 82586776,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-08-25T12:24:19Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-08-25__82586776__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 82050476,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-08-21T15:34:51Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-08-21__82050476__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 81470199,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-08-19T16:13:58Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-08-19__81470199__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 80802595,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-08-15T13:07:57Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-08-15__80802595__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 78733589,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-08-06T08:28:45Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-08-06__78733589__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 76741482,
+    "title": "Markus x MindTrajour Biweekly ",
+    "created_at": "2025-07-28T12:50:06Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-07-28__76741482__Markus-x-MindTrajour-Biweekly.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 74991878,
+    "title": "Marc - Adrian Daily",
+    "created_at": "2025-07-18T06:51:48Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-07-18__74991878__Marc---Adrian-Daily.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 74709668,
+    "title": "Marc - Adrian Daily",
+    "created_at": "2025-07-17T07:31:09Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-07-17__74709668__Marc---Adrian-Daily.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 74431744,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-07-16T09:17:37Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-07-16__74431744__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 74416269,
+    "title": "Marc - Adrian Daily",
+    "created_at": "2025-07-16T07:40:19Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-07-16__74416269__Marc---Adrian-Daily.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 74115642,
+    "title": "Marc - Adrian Daily",
+    "created_at": "2025-07-15T07:47:01Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-07-15__74115642__Marc---Adrian-Daily.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 73864939,
+    "title": "Markus x MindTrajour Biweekly ",
+    "created_at": "2025-07-14T12:50:04Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-07-14__73864939__Markus-x-MindTrajour-Biweekly.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 73623002,
+    "title": "Sprint Planning MindTrajour",
+    "created_at": "2025-07-11T15:16:06Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-07-11__73623002__Sprint-Planning-MindTrajour.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 73281127,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-07-10T10:10:37Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-07-10__73281127__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 72476893,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-07-07T15:36:18Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-07-07__72476893__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 72401357,
+    "title": "Marc - Adrian Daily",
+    "created_at": "2025-07-07T07:32:16Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-07-07__72401357__Marc---Adrian-Daily.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 72240355,
+    "title": "Marc - Adrian Daily",
+    "created_at": "2025-07-04T06:31:25Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-07-04__72240355__Marc---Adrian-Daily.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 72042440,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-07-03T12:41:01Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-07-03__72042440__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 71997492,
+    "title": "Marc - Adrian Daily",
+    "created_at": "2025-07-03T08:00:47Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-07-03__71997492__Marc---Adrian-Daily.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 71562337,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-07-01T16:41:22Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-07-01__71562337__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 71212855,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-06-30T12:40:44Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-06-30__71212855__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 70907255,
+    "title": "Marc - Adrian Daily",
+    "created_at": "2025-06-27T07:28:48Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-06-27__70907255__Marc---Adrian-Daily.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 70064877,
+    "title": "Marc - Adrian Daily",
+    "created_at": "2025-06-24T07:26:51Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-06-24__70064877__Marc---Adrian-Daily.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 69850652,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-06-23T13:39:40Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-06-23__69850652__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 69333925,
+    "title": "SheInvest x Options Trading Journal MindTrajour",
+    "created_at": "2025-06-19T09:28:42Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-06-19__69333925__SheInvest-x-Options-Trading-Journal-MindTrajour.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 68744717,
+    "title": "MindTrajour Weekly Sync",
+    "created_at": "2025-06-17T08:07:59Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-06-17__68744717__MindTrajour-Weekly-Sync.md",
+    "transcript_segments": 0,
+    "has_summary": false
+  },
+  {
+    "recording_id": 67945856,
+    "title": "Marc - Adrian Daily",
+    "created_at": "2025-06-12T07:32:52Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [],
+    "md_path": "md/2025-06-12__67945856__Marc---Adrian-Daily.md",
+    "transcript_segments": 0,
+    "has_summary": true
+  },
+  {
+    "recording_id": 66879041,
+    "title": "Marc - Adrian Daily",
+    "created_at": "2025-06-06T07:53:07Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Marc-Jannis Blumenhagen",
+      "Adrian Rinnus"
+    ],
+    "md_path": "md/2025-06-06__66879041__Marc---Adrian-Daily.md",
+    "transcript_segments": 454,
+    "has_summary": true
+  },
+  {
+    "recording_id": 66621582,
+    "title": "App Prototype Demo",
+    "created_at": "2025-06-05T09:21:46Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Adrian Rinnus",
+      "Filipe Fernandes",
+      "Luís Braga"
+    ],
+    "md_path": "md/2025-06-05__66621582__App-Prototype-Demo.md",
+    "transcript_segments": 483,
+    "has_summary": true
+  },
+  {
+    "recording_id": 66333400,
+    "title": "Marc - Adrian Daily",
+    "created_at": "2025-06-04T07:33:04Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Adrian Rinnus",
+      "Marc-Jannis Blumenhagen"
+    ],
+    "md_path": "md/2025-06-04__66333400__Marc---Adrian-Daily.md",
+    "transcript_segments": 312,
+    "has_summary": true
+  },
+  {
+    "recording_id": 66064981,
+    "title": "Marc - Adrian Daily",
+    "created_at": "2025-06-03T08:35:42Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Adrian Rinnus",
+      "Marc-Jannis Blumenhagen"
+    ],
+    "md_path": "md/2025-06-03__66064981__Marc---Adrian-Daily.md",
+    "transcript_segments": 286,
+    "has_summary": true
+  },
+  {
+    "recording_id": 66051009,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-06-03T06:36:28Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Adrian Rinnus",
+      "E F",
+      "Enes Zorlu",
+      "Larissa Lange"
+    ],
+    "md_path": "md/2025-06-03__66051009__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 397,
+    "has_summary": true
+  },
+  {
+    "recording_id": 65832668,
+    "title": "Markus x MindTrajour Biweekly",
+    "created_at": "2025-06-02T12:46:01Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Adrian Rinnus",
+      "Larissa Lange",
+      "E F",
+      "Markus Herfert"
+    ],
+    "md_path": "md/2025-06-02__65832668__Markus-x-MindTrajour-Biweekly.md",
+    "transcript_segments": 587,
+    "has_summary": true
+  },
+  {
+    "recording_id": 65556255,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-05-30T09:10:52Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Adrian Rinnus",
+      "Marc-Jannis Blumenhagen"
+    ],
+    "md_path": "md/2025-05-30__65556255__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 307,
+    "has_summary": true
+  },
+  {
+    "recording_id": 65023708,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-05-28T08:35:46Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Adrian Rinnus",
+      "Luís Braga"
+    ],
+    "md_path": "md/2025-05-28__65023708__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 184,
+    "has_summary": true
+  },
+  {
+    "recording_id": 64843044,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-05-27T16:00:50Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Adrian Rinnus",
+      "Larissa Lange",
+      "Enes Zorlu"
+    ],
+    "md_path": "md/2025-05-27__64843044__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 424,
+    "has_summary": true
+  },
+  {
+    "recording_id": 64746765,
+    "title": "Trading Platforms Discussion",
+    "created_at": "2025-05-27T09:39:27Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Adrian Rinnus",
+      "Valentyn Kit"
+    ],
+    "md_path": "md/2025-05-27__64746765__Trading-Platforms-Discussion.md",
+    "transcript_segments": 469,
+    "has_summary": true
+  },
+  {
+    "recording_id": 64592042,
+    "title": "Marc - Adrian Daily",
+    "created_at": "2025-05-26T07:31:34Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Marc-Jannis Blumenhagen",
+      "Adrian Rinnus"
+    ],
+    "md_path": "md/2025-05-26__64592042__Marc---Adrian-Daily.md",
+    "transcript_segments": 273,
+    "has_summary": true
+  },
+  {
+    "recording_id": 64566909,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-05-25T16:47:06Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Adrian Rinnus",
+      "Luís Braga"
+    ],
+    "md_path": "md/2025-05-25__64566909__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 218,
+    "has_summary": true
+  },
+  {
+    "recording_id": 64566156,
+    "title": "Impromptu Google Meet Meeting",
+    "created_at": "2025-05-25T16:19:26Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Luís Braga",
+      "Adrian Rinnus"
+    ],
+    "md_path": "md/2025-05-25__64566156__Impromptu-Google-Meet-Meeting.md",
+    "transcript_segments": 280,
+    "has_summary": true
+  },
+  {
+    "recording_id": 63832203,
+    "title": "Canteen Project Kickoff",
+    "created_at": "2025-05-21T11:19:26Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Filipe Fernandes",
+      "Adrian Rinnus",
+      "Luís Braga"
+    ],
+    "md_path": "md/2025-05-21__63832203__Canteen-Project-Kickoff.md",
+    "transcript_segments": 437,
+    "has_summary": true
+  },
+  {
+    "recording_id": 63804243,
+    "title": "Marc - Adrian Daily",
+    "created_at": "2025-05-21T07:26:05Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Marc-Jannis Blumenhagen",
+      "Adrian Rinnus"
+    ],
+    "md_path": "md/2025-05-21__63804243__Marc---Adrian-Daily.md",
+    "transcript_segments": 232,
+    "has_summary": true
+  },
+  {
+    "recording_id": 63524766,
+    "title": "Marc - Adrian Daily",
+    "created_at": "2025-05-20T07:22:47Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Marc-Jannis Blumenhagen",
+      "Adrian Rinnus"
+    ],
+    "md_path": "md/2025-05-20__63524766__Marc---Adrian-Daily.md",
+    "transcript_segments": 152,
+    "has_summary": true
+  },
+  {
+    "recording_id": 63519304,
+    "title": "Weekly MindTrajour",
+    "created_at": "2025-05-20T06:27:57Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Enes Zorlu",
+      "Adrian Rinnus",
+      "Larissa Lange",
+      "E F"
+    ],
+    "md_path": "md/2025-05-20__63519304__Weekly-MindTrajour.md",
+    "transcript_segments": 273,
+    "has_summary": true
+  },
+  {
+    "recording_id": 63306815,
+    "title": "Markus x MindTrajour Biweekly ",
+    "created_at": "2025-05-19T12:06:56Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "E F",
+      "Adrian Rinnus"
+    ],
+    "md_path": "md/2025-05-19__63306815__Markus-x-MindTrajour-Biweekly.md",
+    "transcript_segments": 36,
+    "has_summary": true
+  },
+  {
+    "recording_id": 63277269,
+    "title": "Canteen App Initial Call",
+    "created_at": "2025-05-19T09:34:44Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Luís Braga",
+      "Adrian Rinnus"
+    ],
+    "md_path": "md/2025-05-19__63277269__Canteen-App-Initial-Call.md",
+    "transcript_segments": 427,
+    "has_summary": true
+  },
+  {
+    "recording_id": 63269147,
+    "title": "2025-05-19 Daily",
+    "created_at": "2025-05-19T08:10:50Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "E F",
+      "Adrian Rinnus"
+    ],
+    "md_path": "md/2025-05-19__63269147__2025-05-19-Daily.md",
+    "transcript_segments": 388,
+    "has_summary": true
+  },
+  {
+    "recording_id": 63267157,
+    "title": "Fathom Demo",
+    "created_at": "2025-05-19T07:22:57Z",
+    "recorded_by": "Adrian Rinnus",
+    "speakers": [
+      "Richard White",
+      "Susannah DuRant"
+    ],
+    "md_path": "md/2025-05-19__63267157__Fathom-Demo.md",
+    "transcript_segments": 143,
+    "has_summary": false
+  }
+]

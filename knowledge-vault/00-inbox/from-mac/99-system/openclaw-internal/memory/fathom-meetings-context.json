@@ -1,0 +1,1135 @@
+[
+  {
+    "date": "2026-02-17",
+    "recording_id": 123034130,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "To realign on team values, define roles, and establish a new workflow.",
+    "key_points": [
+      "Roles Defined: Adrian is now Product Owner (final decision-maker), Enes leads dev, Larissa leads lead generation, and E F handles marketing ops (SEO, ads).",
+      "New Workflow: Bi-weekly sprint meetings will review progress and create placeholder tickets. Tickets will then be refined offline, ensuring clear scope before development.",
+      "Top Priority: Lead Generation: The primary goal is acquiring new users. All marketing efforts will focus on this, with YouTube as the initial channel."
+    ],
+    "share_url": "https://fathom.video/share/YtqyQsta6hAceKQSetvVmZ6gTdroXkTs"
+  },
+  {
+    "date": "2026-02-13",
+    "recording_id": 122206235,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Sync on app priorities, review new features, and plan next steps.",
+    "key_points": [
+      "Report Fix is Top Priority: The \"Company Meal Distribution\" report is inaccurate, counting meals instead of people. This blocks fair cost allocation between companies and must be fixed before implementing new policies.",
+      "New Features Prioritized: After the report fix, the team will build a \"cancel tomorrow's meal\" feature (with admin control) and a \"close canteen\" function for holidays.",
+      "Weekly Planner UI Updated: The new planner UI is ready for release. A proposed \"day-by-day\" meal-entry workflow will be considered for a future update to avoid delaying the current release."
+    ],
+    "share_url": "https://fathom.video/share/3khqzLAeW_PKzccMfcTynfeTzxhT_yu2"
+  },
+  {
+    "date": "2026-01-18",
+    "recording_id": 115118614,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Align on project priorities, roles, and marketing strategy.",
+    "key_points": [
+      "Roles Defined: Adrian will lead marketing (lead magnets, outreach), Enes will lead development (bugs, features), and Luís will lead design/UX cleanup.",
+      "Technical Foundation: The repo will move to the Mindtreasure org to enable GitHub Actions for E2E tests, unblocking critical refactors like centralizing routes.",
+      "Branding Refresh: The current logo will be replaced with a new wordmark and icon, with Luís exploring options based on existing proposals."
+    ],
+    "share_url": "https://fathom.video/share/LyjGxRdsCJuSZdMy3VA38Lzcxj8ps5xL"
+  },
+  {
+    "date": "2026-01-16",
+    "recording_id": 114783852,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Sync on business progress, user feedback, and operational challenges.",
+    "key_points": [
+      "Centralized Feedback: Customer feedback is scattered, causing confusion (e.g., the Kohlbecker support case). Adrian will evaluate open-source CRMs like Odoo to create a single source of truth for all communication.",
+      "Critical Feature Requests: Users are requesting multi-currency support and import/export functions. These are blockers for user adoption, as one prospect (Günther) will switch from Excel only if these features are added.",
+      "Sales Momentum: Recent holiday sales (3 new subscriptions) and a user referral (Kohlbecker → Simon) show positive traction. The immediate priority is sales and marketing to build on this momentum."
+    ],
+    "share_url": "https://fathom.video/share/HtTSdNS4yCo4JzJ2dfFpyHnTxRY3c5CR"
+  },
+  {
+    "date": "2026-01-03",
+    "recording_id": 111576586,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "(kein Summary/Transcript verfügbar)",
+    "key_points": [],
+    "share_url": "https://fathom.video/share/1TsQzndPe6B7956wz_1C2_guX_niiwCf"
+  },
+  {
+    "date": "2025-12-01",
+    "recording_id": 105166070,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Review partnership progress, plan marketing, and discuss product features.",
+    "key_points": [
+      "Marketing Push: A blog post and YouTube interview are planned to drive user acquisition by targeting trader pain points (e.g., repeated losses) and building trust through authentic storytelling.",
+      "Product Visibility: Main Treasure will become a standalone course in Markus's academy to increase its visibility and highlight it as a core tool, complete with new instructional videos.",
+      "Feature Enhancements: The Iron Condor strategy is a top priority, and the \"Share Trade\" link expiration will be extended from 30 to 90 days to support longer-term trades."
+    ],
+    "share_url": "https://fathom.video/share/vS6BQ8SxFZzRWyWZyztTCypi3D28SgLr"
+  },
+  {
+    "date": "2025-11-28",
+    "recording_id": 104897323,
+    "title": "Bite Club Multi Canteen and Presentation",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Review system glitches and discuss a major upcoming presentation.",
+    "key_points": [
+      "Critical Glitches Found: The new Blankenberg canteen revealed bugs: meal orders are lost when workers switch canteens, and soup-only orders are miscounted and block check-ins.",
+      "Presentation Opportunity: Filipe will present the project to \\~1,000 attendees, including senior leadership, to secure buy-in for expansion. Adrian will provide data and help prepare.",
+      "Food Waste Reduction: The system is successfully cutting food waste, aligning with the new EU directive (30% reduction by 2030). This is a key selling point for the presentation."
+    ],
+    "share_url": "https://fathom.video/share/Kpp16q617AXhaRzz81UTJBauiziXcqsg"
+  },
+  {
+    "date": "2025-11-20",
+    "recording_id": 103149346,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "(kein Summary/Transcript verfügbar)",
+    "key_points": [],
+    "share_url": "https://fathom.video/share/Xs6wJvXPLpa5GbNZHreDESLLg-U9PRqB"
+  },
+  {
+    "date": "2025-11-11",
+    "recording_id": 100775524,
+    "title": "Marketing Strategy & Update MindTrajour",
+    "participants": [
+      "foldesieva25@gmail.com",
+      "enes.zrl@gmail.com",
+      "larissa@mindtrajour.com",
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Align on MindTrajour's marketing strategy and immediate priorities.",
+    "key_points": [
+      "Immediate Priority: SEO Backlinks. Submit MindTrajour to high-Domain Rating (DR) \"dofollow\" directories (e.g., ListingCat) this week. This is the fastest way to build domain authority, which is critical for long-term organic traffic.",
+      "Shift Focus to Sales & Outreach. With the app stable, the team is shifting from development to sales. The immediate goal is to generate leads via cold outreach to partners and educators, as SEO takes 3–6 months to yield results.",
+      "Clarify Roles via Communication. The team identified a communication gap causing uncertainty and missed opportunities. The solution is to proactively share progress and challenges to enable team support and alignment."
+    ],
+    "share_url": "https://fathom.video/share/SrbEUm9EJpYcQGhtYyoZPL7NRwPW-w-V"
+  },
+  {
+    "date": "2025-11-07",
+    "recording_id": 99946179,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Align on client pricing strategy and development priorities.",
+    "key_points": [
+      "Ember Pricing: Propose a €140 user plan + a temporary development fee (e.g., €1k/mo). This simplifies client approval by framing it as a time-limited cost, not a permanent increase.",
+      "Admin Dashboard: Adrian's PR adds key metrics for Filipe, including guests/service, pending orders, menu schedules, and a list of users who haven't completed their menus.",
+      "\"Missed Orders\" Report: Enes will build a new report for admins to bill employees for food ordered but not picked up, a new policy starting next year."
+    ],
+    "share_url": "https://fathom.video/share/EvWSPmh724LHmZzaQjVNA9Zyv1Dfjvz4"
+  },
+  {
+    "date": "2025-11-04",
+    "recording_id": 98921252,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Align on the client pricing proposal and internal development priorities.",
+    "key_points": [
+      "Pricing Proposal: Propose a new €2,000/mo minimum fee, justified by the project's scope expansion and high customization for Kassaj.",
+      "Distribution Page Redesign: Prioritize a redesign to improve usability on tablets, addressing critical height constraints and making the scan history the primary focus.",
+      "E2E Testing: Make building end-to-end (E2E) tests a top priority to prevent regressions and ensure features work correctly for all user roles (e.g., admin vs. kitchen)."
+    ],
+    "share_url": "https://fathom.video/share/6MGsKHxe3Socqu9phYMsVLK6qgxRCqMN"
+  },
+  {
+    "date": "2025-11-03",
+    "recording_id": 98620860,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Sync on product backlog, user feedback, and community engagement strategy.",
+    "key_points": [
+      "New Strategies Live: Long Strangle and Iron Condor are live, with Iron Condor needing a date-sync fix.",
+      "UI/UX Improvements: Added full company names to tables for easier tracking and implemented input validation to prevent user errors.",
+      "User Onboarding: Voucher code confusion will be fixed with a video guide; new course users show mixed engagement (0–6 trades logged)."
+    ],
+    "share_url": "https://fathom.video/share/Wz5R2P_Za3Gxt5bqaHFPUEayhT5pH1TH"
+  },
+  {
+    "date": "2025-10-22",
+    "recording_id": 95859142,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Review Adrian's \"ByteClub\" project and discuss potential leads.",
+    "key_points": [
+      "ByteClub: A PWA for corporate canteens solving 20% food waste by enabling weekly meal pre-orders.",
+      "Client Success: A Portuguese construction firm cut food waste by 20% (saving \\~€25k/mo) and eliminated kitchen chaos.",
+      "Pricing: Current model is €5/user/month (€1k/mo ARR from the 200-user pilot). A per-meal fee (\\~€0.20) is being considered for multi-company canteens."
+    ],
+    "share_url": "https://fathom.video/share/Jt7N5ryyFxiUzKku-BECkiMHP1wYV-sR"
+  },
+  {
+    "date": "2025-10-21",
+    "recording_id": 95523931,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Sync on client feedback, prioritize fixes, and align on product strategy.",
+    "key_points": [
+      "Client Expansion: Seat's client is rolling out to 140+ employees next week, providing a critical proof-of-concept for a larger presentation at Holka Seisch innovation days.",
+      "Immediate Fixes: The rollout requires two fixes: a batch QR code download for 140 users and a kitchen dashboard metric change from \"meals\" to \"people\" to clarify order volume.",
+      "Strategic Refactor: Adrian will rewrite the \"meal selection\" module, which is a maintenance bottleneck. The refactor is timed to precede the client expansion, preventing future issues."
+    ],
+    "share_url": "https://fathom.video/share/QgbArzkGSxsFsaB27iTSinTH5XpYqxTe"
+  },
+  {
+    "date": "2025-10-21",
+    "recording_id": 95523179,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "(kein Summary/Transcript verfügbar)",
+    "key_points": [],
+    "share_url": "https://fathom.video/share/7tBfzBG4-xudt4pyFPQxe2MqVppcsDHy"
+  },
+  {
+    "date": "2025-10-21",
+    "recording_id": 95518384,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "(kein Summary/Transcript verfügbar)",
+    "key_points": [],
+    "share_url": "https://fathom.video/share/sNYT5ASisH_fzEi2355qzatUQBWcixBK"
+  },
+  {
+    "date": "2025-10-20",
+    "recording_id": 95239646,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Impromptu check-in and feature discussion for an options trading platform",
+    "key_points": [
+      "Several UI/UX improvements identified: search functionality, strategy naming, column sorting, and screenshot capabilities",
+      "New features in development: sharing individual trades, expanded statistics, and integration with Interactive Brokers",
+      "Discussed potential of AI and automation tools (e.g., N8n) for streamlining workflows and content creation"
+    ],
+    "share_url": "https://fathom.video/share/xd2XN_fAku3Gf-apx2QHqn3uQbWdvxFy"
+  },
+  {
+    "date": "2025-10-07",
+    "recording_id": 92336193,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Implement NFC tag reading functionality for kitchen meal delivery system",
+    "key_points": [
+      "Successfully set up local development environment accessible from mobile devices on same network",
+      "Created initial UI for manual order lookup by internal user ID",
+      "Attempted to implement NFC reading but encountered device compatibility issues"
+    ],
+    "share_url": "https://fathom.video/share/vcEEpxXtHEppdzNaaejpya8eabeU4esg"
+  },
+  {
+    "date": "2025-10-07",
+    "recording_id": 92322877,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Discuss and plan the implementation of NFC functionality for a canteen ordering system.",
+    "key_points": [
+      "Implement a simple NFC-based check-in system for the canteen, focusing on an easy solution first",
+      "Use NFC cards with unique IDs to retrieve user meal information for the current day",
+      "Consider fallback options (QR codes, manual ID input) for devices without NFC support"
+    ],
+    "share_url": "https://fathom.video/share/EnYzrnxYo5jcRvzo1Lzu56ktnAgC5EN_"
+  },
+  {
+    "date": "2025-10-07",
+    "recording_id": 92269354,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Discuss progress, priorities, and future plans for the canteen management app development.",
+    "key_points": [
+      "NFC card implementation is the top priority for improving canteen efficiency",
+      "App is providing value but needs refinement; aiming for full implementation by November 1st",
+      "Potential to expand app usage across other Kazaj locations and even to other companies"
+    ],
+    "share_url": "https://fathom.video/share/diHoAe3BVf6w5NaCgEB-pJyVNW_K7zPR"
+  },
+  {
+    "date": "2025-09-29",
+    "recording_id": 90471489,
+    "title": "Levi x MindTrajour",
+    "participants": [
+      "larissa@mindtrajour.com",
+      "drawbridgefinance.ca@gmail.com",
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Discuss potential collaboration between Levi Woods and MindTrajour on enhancing their options trading journal app.",
+    "key_points": [
+      "Levi's complex trading strategies require more advanced features than MindTrajour's current MVP",
+      "Key needs: multi-leg trade grouping, individual leg closing, and real-time options data (challenging due to cost)",
+      "Both parties interested in potential collaboration, but more development needed before Levi can fully test the app"
+    ],
+    "share_url": "https://fathom.video/share/RoW_5FPDQwRskyoKUL6AHshmX2Vwiniz"
+  },
+  {
+    "date": "2025-09-28",
+    "recording_id": 90295624,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Discuss and design improvements to the trading interface, focusing on accommodating multi-leg strategies like the Wheel of Options.",
+    "key_points": [
+      "Agreed to create a more flexible, generic design that can handle multiple trades and stock positions within a single view",
+      "Decided to modify the existing \"Option Leg\" section to include stocks, renaming it to just \"Leg\"",
+      "Will implement a collapsible/expandable interface for multiple trade legs within a strategy"
+    ],
+    "share_url": "https://fathom.video/share/FhZqpky1L5zSHRsTuYheyoCbVmdbV7CZ"
+  },
+  {
+    "date": "2025-09-23",
+    "recording_id": 89072594,
+    "title": "Jens Rabe x Options Trading Journal MindTrajour",
+    "participants": [
+      "j.rabe@jensrabe.de",
+      "Larissa <larissa.j.lange@gmail.com>",
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Discuss and evaluate MindTrajour, an options trading journal software, with potential partnership/collaboration opportunities.",
+    "key_points": [
+      "MindTrajour is a user-friendly options trading journal focused on simplicity and key metrics",
+      "Jens Rabe expressed interest in testing and potentially recommending the tool to his clients",
+      "Potential improvements discussed: adding stocks, more detailed analytics, and strategy-specific checklists"
+    ],
+    "share_url": "https://fathom.video/share/ubWzbz45-2AqbNm4EknMekUqjmts47GK"
+  },
+  {
+    "date": "2025-09-08",
+    "recording_id": 85517659,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Impromptu discussion on recent activities, bug fixes, and data migration tool for trading platform.",
+    "key_points": [
+      "New contract version received from Larissa, pending review",
+      "Bug fix for cross-connection issue implemented and ready for testing",
+      "Data migration tool developed to standardize premium calculations (gross vs. net)"
+    ],
+    "share_url": "https://fathom.video/share/8hZJoznBR1uNKBawZyy2k9d6ATE23Uq4"
+  },
+  {
+    "date": "2025-09-05",
+    "recording_id": 85203372,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Discuss updates, improvements, and future features for the Kazais meal management app, focusing on preparing for the upcoming test phase and addressing key user needs.",
+    "key_points": [
+      "App update to be released by next Thursday, with critical fixes for reports and kitchen order visibility",
+      "Current data to be backed up and migrated to the new version; users to stop making changes immediately",
+      "Future features discussed include NFC card integration for meal pickup and queue management"
+    ],
+    "share_url": "https://fathom.video/share/ZiKex1732QTZUHr9wKSzx64M_uDFx3c5"
+  },
+  {
+    "date": "2025-08-27",
+    "recording_id": 83162973,
+    "title": "Marc - Adrian Daily",
+    "participants": [
+      "Marc (Dan Koe Writing Bootcamp) <mjblumenhagen@gmail.com>",
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Daily check-in and casual conversation between Marc and Adrian, covering personal updates and business discussions.",
+    "key_points": [
+      "Adrian's trading journal project has gained its first two paying customers, showing proof of concept",
+      "Marc and Adrian explored Adrian's money mindset, uncovering potential limiting beliefs around wealth and friendships",
+      "They discussed the recent game fair experience, highlighting lessons learned for future attendance"
+    ],
+    "share_url": "https://fathom.video/share/ix7ZkgxoNXQaq1adyrG-bg81NacyKP_d"
+  },
+  {
+    "date": "2025-08-25",
+    "recording_id": 82586776,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "(kein Summary/Transcript verfügbar)",
+    "key_points": [],
+    "share_url": "https://fathom.video/share/eFDJpxjmWfKx7x9-ZAcAWVQQmgn-zw74"
+  },
+  {
+    "date": "2025-08-21",
+    "recording_id": 82050476,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Discuss feedback and potential improvements for Adrian's options trading journal software.",
+    "key_points": [
+      "Pietro provided extensive feedback on desired features, including support for more asset types, improved data import, and better financial reporting",
+      "Key priorities are: 1) Data import (e.g. CSV), 2) Support for all asset types, 3) Stock trading support, 4) Dividend/fee tracking",
+      "Potential integration with Etsy's platform was discussed as a future possibility"
+    ],
+    "share_url": "https://fathom.video/share/EvAqTSWyHXZ9Q6whQ1zZsWk8oz_MuxsT"
+  },
+  {
+    "date": "2025-08-19",
+    "recording_id": 81470199,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Discuss pricing strategy and next steps for negotiation with Marcos regarding the trading journal product.",
+    "key_points": [
+      "Team aims to offer Pro version at €12/month, with €10/month as the lowest acceptable price",
+      "Basic version target is €10/month, with €9/month as the lowest acceptable",
+      "Team will emphasize value proposition and market comparisons in negotiation"
+    ],
+    "share_url": "https://fathom.video/share/coLee_eU_ac_Zk_ypcSezsKBrZ73hvjo"
+  },
+  {
+    "date": "2025-08-15",
+    "recording_id": 80802595,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Gather user feedback and insights on the MyTreasure trading journal software from an active user.",
+    "key_points": [
+      "User finds MyTreasure highly useful for options trading, especially for strategy implementation and trade tracking",
+      "Multi-account feature and net profit calculations are top priorities for improvement",
+      "User suggests adding quick strategy checklists and improving visibility of certain features"
+    ],
+    "share_url": "https://fathom.video/share/BszNJyFrFaybsc2xWs_SqxsoySSn_4JN"
+  },
+  {
+    "date": "2025-08-06",
+    "recording_id": 78733589,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Discuss and review the current state of the ByteClub meal planning application, identify issues, and plan next steps for development and testing.",
+    "key_points": [
+      "The basic functionality of the ByteClub app is in place, including menu planning, dish management, and employee meal selection",
+      "Several bugs and missing features were identified, including issues with the kitchen dashboard and PDF report generation",
+      "Next steps include fixing bugs, implementing additional features (e.g., auto-assignment, more granular dish categories), and beginning small-scale testing"
+    ],
+    "share_url": "https://fathom.video/share/BDbMSVZ5WZUePkczg1rerQgLsxRVzSTd"
+  },
+  {
+    "date": "2025-07-28",
+    "recording_id": 76741482,
+    "title": "Markus x MindTrajour Biweekly ",
+    "participants": [
+      "Markus Herfert <hello@markusherfert.com>",
+      "foldesieva25@gmail.com",
+      "Larissa <larissa.j.lange@gmail.com>",
+      "enes.zrl@gmail.com",
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Biweekly check-in between Markus and MindTrajour team to discuss product feedback, feature requests, and pricing for the trading journal tool.",
+    "key_points": [
+      "Several UI/UX improvements identified, including clarifying net/gross premium labeling and adding thousand separators to numbers",
+      "New Discord channel created for direct user feedback and support",
+      "Pricing discussion: B2B pricing for Markus's community to be adjusted, while B2C pricing remains at €12/month with 20% discount"
+    ],
+    "share_url": "https://fathom.video/share/oc9THyYWfFBFFz9mfL8GDtwrC5cUSyyK"
+  },
+  {
+    "date": "2025-07-18",
+    "recording_id": 74991878,
+    "title": "Marc - Adrian Daily",
+    "participants": [
+      "Marc (Dan Koe Writing Bootcamp) <mjblumenhagen@gmail.com>",
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Daily check-in and coaching session between Marc-Jannis and Adrian, focusing on Marc's personal and professional development.",
+    "key_points": [
+      "Marc is exploring game development and seeking ways to test ideas with basic materials",
+      "Marc struggles with finding meaning in traditional employment and desires financial freedom",
+      "Adrian challenged Marc's beliefs about wealth, business, and self-enrichment"
+    ],
+    "share_url": "https://fathom.video/share/9NULnhQ5endkaB2EZtP_bVzsHzLAaFb4"
+  },
+  {
+    "date": "2025-07-17",
+    "recording_id": 74709668,
+    "title": "Marc - Adrian Daily",
+    "participants": [
+      "Marc (Dan Koe Writing Bootcamp) <mjblumenhagen@gmail.com>",
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Daily check-in between Marc and Adrian to discuss ongoing projects and personal interests.",
+    "key_points": [
+      "Adrian is working on an MVP for a meal ordering system, aiming to complete it by July 31st",
+      "Marc is exploring board game design as a potential content creation niche",
+      "Both discussed the parallels between board game design, video game design, and real-life applications"
+    ],
+    "share_url": "https://fathom.video/share/bztyzgfwwCwUyzzFxSz3bNWfNxHCNTNP"
+  },
+  {
+    "date": "2025-07-16",
+    "recording_id": 74431744,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "(kein Summary/Transcript verfügbar)",
+    "key_points": [],
+    "share_url": "https://fathom.video/share/qSCChm25yWfmyWcssd6WnEntqYGo4S6k"
+  },
+  {
+    "date": "2025-07-16",
+    "recording_id": 74416269,
+    "title": "Marc - Adrian Daily",
+    "participants": [
+      "Marc (Dan Koe Writing Bootcamp) <mjblumenhagen@gmail.com>",
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Daily check-in between Marc and Adrian to discuss personal health, work, and projects.",
+    "key_points": [
+      "Marc is experiencing lower back and left leg pain, possibly related to ISG joint issues",
+      "Adrian emphasized the mind-body connection and the importance of addressing both physical and mental aspects of health",
+      "Both discussed the challenges of maintaining consistent exercise routines and the benefits of regular physical activity"
+    ],
+    "share_url": "https://fathom.video/share/8LSoV_LjR88MgYWcEv5pd3qiZyL6hAdu"
+  },
+  {
+    "date": "2025-07-15",
+    "recording_id": 74115642,
+    "title": "Marc - Adrian Daily",
+    "participants": [
+      "Marc (Dan Koe Writing Bootcamp) <mjblumenhagen@gmail.com>",
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Daily check-in between Marc and Adrian to discuss recent experiences and insights.",
+    "key_points": [
+      "Adrian secured a potential deal for €5 per active user monthly, potentially yielding €30,000/month for 6,000 users",
+      "Both discussed the concept of moral hypocrisy and how it's prevalent in everyone's lives",
+      "Marc shared insights from a board game design podcast, drawing parallels to content creation and software development"
+    ],
+    "share_url": "https://fathom.video/share/6buySjCBAfh3oBHXzXee_NzauBwsNfC6"
+  },
+  {
+    "date": "2025-07-14",
+    "recording_id": 73864939,
+    "title": "Markus x MindTrajour Biweekly ",
+    "participants": [
+      "Markus Herfert <hello@markusherfert.com>",
+      "foldesieva25@gmail.com",
+      "Larissa <larissa.j.lange@gmail.com>",
+      "enes.zrl@gmail.com",
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Review and refine survey questions for MindTrajour's options trading journal tool",
+    "key_points": [
+      "Survey needs significant restructuring to be more focused, concise, and user-friendly",
+      "Questions should be reordered to start with basic usage and satisfaction, then dive into specific features/strategies",
+      "Multiple choice questions need refinement to avoid ambiguity and capture more meaningful data"
+    ],
+    "share_url": "https://fathom.video/share/uwxtb9rPoDL_exX7Vqj9F2cqCz9Hhs7x"
+  },
+  {
+    "date": "2025-07-11",
+    "recording_id": 73623002,
+    "title": "Sprint Planning MindTrajour",
+    "participants": [
+      "foldesieva25@gmail.com",
+      "Larissa <larissa.j.lange@gmail.com>",
+      "enes.zrl@gmail.com",
+      "adrian@mindtrajour.com",
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Sprint planning and product launch preparation for MindTrajour trading journal application",
+    "key_points": [
+      "Paywall activation and Product Hunt launch planned for next week",
+      "Pricing strategy for Marcus's users: €12/month with 10% affiliate commission",
+      "Backend analytics to be implemented for better user tracking and funnel analysis"
+    ],
+    "share_url": "https://fathom.video/share/eM9buq-j_XgzCRj7jg7vyt5WcSRb3AcV"
+  },
+  {
+    "date": "2025-07-10",
+    "recording_id": 73281127,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Discuss and plan the development of a canteen management app for Gabriel's company, focusing on prototype features and implementation timeline.",
+    "key_points": [
+      "Agreed on a monthly price of €5 per user, with a one-year contract",
+      "Prototype due by July 31st, focusing on menu creation, worker selection, and reporting",
+      "Key features: user-friendly interface for workers, efficient kitchen reporting, cost calculation"
+    ],
+    "share_url": "https://fathom.video/share/tZhMDdiP_1xyL8hdyMd2D7DRDKtxE877"
+  },
+  {
+    "date": "2025-07-07",
+    "recording_id": 72476893,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Gather user feedback on the options trading journal app from a beginner user perspective.",
+    "key_points": [
+      "User found the app intuitive and easy to navigate overall, with helpful features like the checklist and dashboard",
+      "Some UX improvements suggested: paper vs. live trade distinction, auto-calculation of fees, clearer validation messaging",
+      "User expressed interest in community/social features and gamification elements to increase engagement"
+    ],
+    "share_url": "https://fathom.video/share/3iBGkoUGdL6Zk9RzyE9Mw1gQ1wmCqSto"
+  },
+  {
+    "date": "2025-07-07",
+    "recording_id": 72401357,
+    "title": "Marc - Adrian Daily",
+    "participants": [
+      "Marc (Dan Koe Writing Bootcamp) <mjblumenhagen@gmail.com>",
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Daily check-in and casual conversation between Marc and Adrian",
+    "key_points": [
+      "Marc is considering starting a YouTube channel about board games, potentially in German",
+      "Adrian encouraged Marc to experiment with content creation without fear of ruining his hobby",
+      "They discussed the potential for niche audiences and monetization in board game content"
+    ],
+    "share_url": "https://fathom.video/share/XGgk9N15vcrys4FPdaQKkuWzAAXMxvZa"
+  },
+  {
+    "date": "2025-07-04",
+    "recording_id": 72240355,
+    "title": "Marc - Adrian Daily",
+    "participants": [
+      "Marc (Dan Koe Writing Bootcamp) <mjblumenhagen@gmail.com>",
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Daily check-in between Marc and Adrian to discuss personal and professional updates.",
+    "key_points": [
+      "Adrian is negotiating a deal with a Portuguese company for his food waste reduction software, proposing €7.50 per user monthly",
+      "Adrian's side project \"Mind Treasure\" (trading journal software) is progressing with help from a highly skilled volunteer developer named Enes",
+      "Marc is planning a trip to Rome with his wife in September for their wedding anniversary"
+    ],
+    "share_url": "https://fathom.video/share/XSxDWoMvG-y5XrxNWvdx6SgFwCs_7g6j"
+  },
+  {
+    "date": "2025-07-03",
+    "recording_id": 72042440,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Discuss pricing and features of a meal management application for Plony's canteen operations.",
+    "key_points": [
+      "Initial pricing proposal: $7.50/user/month, totaling $1,500/month for 200 users",
+      "Plony needs internal discussion to determine budget and value proposition",
+      "Follow-up meeting scheduled for April 10th at 11:00 AM to continue negotiations"
+    ],
+    "share_url": "https://fathom.video/share/9xPLLZpsxkYq-WefEtTX7K7eQSNocW_y"
+  },
+  {
+    "date": "2025-07-03",
+    "recording_id": 71997492,
+    "title": "Marc - Adrian Daily",
+    "participants": [
+      "Marc (Dan Koe Writing Bootcamp) <mjblumenhagen@gmail.com>",
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Daily check-in between Marc and Adrian to discuss progress, challenges, and next steps in their entrepreneurial journeys.",
+    "key_points": [
+      "Marc is struggling with creating video content due to fear of judgment and perfectionism",
+      "Adrian suggested reframing the task and starting with easier formats like podcasts or interviews",
+      "They explored ways for Marc to practice speaking freely on camera without the pressure of publishing"
+    ],
+    "share_url": "https://fathom.video/share/uxSysQLzXPth3ZZRbugkSZPju4xEBkxj"
+  },
+  {
+    "date": "2025-07-01",
+    "recording_id": 71562337,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Discuss and prioritize feature development for an options trading journal application.",
+    "key_points": [
+      "Prioritized features: expiration handling, dollar value display, historical price auto-population, and basic calendar filtering",
+      "Decided to implement a month-based filter for the dashboard due to limited historical data",
+      "Agreed to simplify user stories and focus on essential features based on user needs"
+    ],
+    "share_url": "https://fathom.video/share/9xbzFjcS5bXz-Eswx2ByFEismR49MHCP"
+  },
+  {
+    "date": "2025-06-30",
+    "recording_id": 71212855,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Discuss MyTreasure app updates, user feedback, and next steps for community engagement and feature development.",
+    "key_points": [
+      "Community survey to be finalized and distributed to \\~140 users for feedback",
+      "Margin tracking and risk management features to be considered for development",
+      "Payment integration with Stripe and affiliate system for Markus in progress"
+    ],
+    "share_url": "https://fathom.video/share/NjiYGqMeVim3_2DHmWxoZxCoh2yMPU8V"
+  },
+  {
+    "date": "2025-06-27",
+    "recording_id": 70907255,
+    "title": "Marc - Adrian Daily",
+    "participants": [
+      "Marc (Dan Koe Writing Bootcamp) <mjblumenhagen@gmail.com>",
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Daily check-in and discussion between Marc and Adrian on personal projects and productivity strategies.",
+    "key_points": [
+      "Adrian developed a prioritization system using MOSCOW and ICE scoring in Notion",
+      "Marc plans to adapt the system for his video production workflow",
+      "Both are working on improving their task management and weekly planning"
+    ],
+    "share_url": "https://fathom.video/share/N1qyN4LwcSrCJ3VQCJhRyjpDiKroppPq"
+  },
+  {
+    "date": "2025-06-24",
+    "recording_id": 70064877,
+    "title": "Marc - Adrian Daily",
+    "participants": [
+      "Marc (Dan Koe Writing Bootcamp) <mjblumenhagen@gmail.com>",
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Daily check-in and discussion on workflow optimization and prioritization strategies.",
+    "key_points": [
+      "Both Adrian and Marc are working on systematizing their workflows and prioritization methods",
+      "Adrian is developing a strategy for prioritizing bug fixes and feature requests using frameworks like MoSCoW",
+      "Marc is refining his content creation process and exploring AI tools for thumbnail generation"
+    ],
+    "share_url": "https://fathom.video/share/gs1F7z-xzDmsn2-WAR79efxxpzydPRSr"
+  },
+  {
+    "date": "2025-06-23",
+    "recording_id": 69850652,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "(kein Summary/Transcript verfügbar)",
+    "key_points": [],
+    "share_url": "https://fathom.video/share/TpdQKGstwE-QpsYK7NAZjzFDsacQRWos"
+  },
+  {
+    "date": "2025-06-19",
+    "recording_id": 69333925,
+    "title": "SheInvest x Options Trading Journal MindTrajour",
+    "participants": [
+      "foldesieva25@gmail.com",
+      "Larissa <larissa.j.lange@gmail.com>",
+      "sebastian.kuhnert@traderfox.onmicrosoft.com",
+      "enes.zrl@gmail.com",
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Discuss potential collaboration between SheInvest and MindTrajour for integrating options trading journal software.",
+    "key_points": [
+      "SheInvest initially sought white-label solution; concerns about customer retention/data protection",
+      "Step-wise integration proposed: promo code → web view → SSO, prioritizing value demonstration",
+      "Custom features (e.g., 22 strategies, community sharing) to be developed for SheInvest users"
+    ],
+    "share_url": "https://fathom.video/share/NTfBxytpL2BZ5_E_i_pKdsTfySGvGUd_"
+  },
+  {
+    "date": "2025-06-17",
+    "recording_id": 68744717,
+    "title": "MindTrajour Weekly Sync",
+    "participants": [
+      "foldesieva25@gmail.com",
+      "Larissa <larissa.j.lange@gmail.com>",
+      "enes.zrl@gmail.com",
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Align on partnership strategy and discuss potential white labeling collaboration with TraderFox/SheInvest.",
+    "key_points": [
+      "Team is open to white labeling but needs to clarify technical requirements and business terms",
+      "Potential collaboration with TraderFox/SheInvest seen as significant opportunity for revenue and growth",
+      "Meeting scheduled with Sebastian (TraderFox) on Thursday at 11am to discuss requirements in detail"
+    ],
+    "share_url": "https://fathom.video/share/YGB_yh--hvSUzNuJsBcfENGhyXvCmET6"
+  },
+  {
+    "date": "2025-06-12",
+    "recording_id": 67945856,
+    "title": "Marc - Adrian Daily",
+    "participants": [
+      "Marc (Dan Koe Writing Bootcamp) <mjblumenhagen@gmail.com>",
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Daily check-in and project updates between Marc-Jannis and Adrian",
+    "key_points": [
+      "Adrian is focusing on a B2B canteen tool project with more immediate revenue potential",
+      "Marc-Jannis is planning to create a video by next Friday as a personal challenge",
+      "Adrian received approval to post in a large options trading subreddit (1.3M members)"
+    ],
+    "share_url": "https://fathom.video/share/f6nXp6nwot2X3iSCHDcuMsrFehRZLbfs"
+  },
+  {
+    "date": "2025-06-06",
+    "recording_id": 66879041,
+    "title": "Marc - Adrian Daily",
+    "participants": [
+      "Marc (Dan Koe Writing Bootcamp) <mjblumenhagen@gmail.com>",
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Informal check-in and discussion of recent activities and upcoming plans.",
+    "key_points": [
+      "Adrian successfully used AI tools to prepare for a business negotiation, demonstrating innovative use of technology for professional tasks",
+      "Marc made progress setting up his video recording equipment and workflow for YouTube content creation",
+      "Both discussed personal projects and weekend plans, highlighting work-life balance"
+    ],
+    "share_url": "https://fathom.video/share/7TvBkmj7o2sxuXn1AcjZRUZSte_BXJK4"
+  },
+  {
+    "date": "2025-06-05",
+    "recording_id": 66621582,
+    "title": "App Prototype Demo",
+    "participants": [
+      "luisbraga05@gmail.com",
+      "filipe.fernandes@casais.pt",
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Demo the app prototype for Grupo Casais' canteen management system and discuss next steps",
+    "key_points": [
+      "Prototype demonstrates core functionality for workers, chefs, and admins including meal selection, check-ins, menu creation, and reporting",
+      "Key areas for refinement: menu creation workflow, multi-canteen support, reporting/analytics, and UI/UX improvements",
+      "Development proposal: free initial build with revenue share model based on food waste savings (e.g. 25-30%)"
+    ],
+    "share_url": "https://fathom.video/share/p5bWE2P-jSUMPoa8N3SSZTUCJQtAy3Ms"
+  },
+  {
+    "date": "2025-06-04",
+    "recording_id": 66333400,
+    "title": "Marc - Adrian Daily",
+    "participants": [
+      "Marc (Dan Koe Writing Bootcamp) <mjblumenhagen@gmail.com>",
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Daily check-in between Marc and Adrian to discuss progress on their respective projects and share technical insights.",
+    "key_points": [
+      "Adrian made progress on his canteen menu management system, overcoming challenges with KI-generated code",
+      "Marc set up OBS for video recording, including scene configurations for various content types",
+      "Both discussed database structures, API access, and performance optimization for web applications"
+    ],
+    "share_url": "https://fathom.video/share/NDsug4jzHCQDEFXJVSDYxNknHnytxcje"
+  },
+  {
+    "date": "2025-06-03",
+    "recording_id": 66064981,
+    "title": "Marc - Adrian Daily",
+    "participants": [
+      "Marc (Dan Koe Writing Bootcamp) <mjblumenhagen@gmail.com>",
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Daily check-in and casual conversation between Adrian and Marc-Jannis",
+    "key_points": [
+      "Marc-Jannis is setting up new video equipment (Cam Link) and noise-cancelling headphones for improved work setup",
+      "Both discussed challenges with feeling overwhelmed by tasks and the importance of breaking them down into smaller, manageable steps",
+      "Adrian may be visiting Köln next week, but timing didn't align for an in-person meetup with Marc-Jannis"
+    ],
+    "share_url": "https://fathom.video/share/rszyubDNLEHsh-c3H2xySx3RR8KRHKUs"
+  },
+  {
+    "date": "2025-06-03",
+    "recording_id": 66051009,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Discuss product updates, marketing strategy, and launch plans for Mind Treasure trading platform.",
+    "key_points": [
+      "Marcus (partner) is satisfied with the platform; minor fixes needed for take profit/stop loss calculations and translations",
+      "Product Hunt launch planned; Enes to lead submission process with support from team",
+      "Presentation for Marcus's community call on June 19th; Larissa to prepare"
+    ],
+    "share_url": "https://fathom.video/share/PSx5chc-43G6wHz9yokc7VgXX5e1uKKq"
+  },
+  {
+    "date": "2025-06-02",
+    "recording_id": 65832668,
+    "title": "Markus x MindTrajour Biweekly",
+    "participants": [
+      "Markus Herfert <hello@markusherfert.com>",
+      "foldesieva25@gmail.com",
+      "Larissa <larissa.j.lange@gmail.com>",
+      "enes.zrl@gmail.com",
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Biweekly check-in on MindTrajour product development and upcoming launch with Markus Herfert's trading community.",
+    "key_points": [
+      "Next cohort launch: MindTrajour integration starts next week (June 11th) with credit spreads; full community launch on June 19th",
+      "User identification: Will use UTM parameters or custom signup link to assign Markus' checklist to his users",
+      "Feedback collection: Implementing in-app surveys at key points in the journaling process"
+    ],
+    "share_url": "https://fathom.video/share/dqgRa92XyKctny6CW1sqiBHYSDsH8gkb"
+  },
+  {
+    "date": "2025-05-30",
+    "recording_id": 65556255,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Impromptu call between Adrian Rinnus and Marc-Jannis Blumenhagen to catch up and discuss personal/professional challenges.",
+    "key_points": [
+      "Adrian is facing challenges with his daughter's behavior and co-parenting situation",
+      "Marc reflected on his experiences as a child of divorced parents",
+      "Both discussed struggles with perfectionism and content creation"
+    ],
+    "share_url": "https://fathom.video/share/NwK2t5pLS-mUztxvKLnmtF4WLBFPeW9m"
+  },
+  {
+    "date": "2025-05-28",
+    "recording_id": 65023708,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Discuss and plan the development of an MVP for a canteen management system.",
+    "key_points": [
+      "Defined core MVP features: worker management, canteen/company management, menu creation, meal selection, and basic reporting",
+      "Agreed to focus on functionality first, then improve UX and design later",
+      "Identified issues with theming and color schemes in the current implementation"
+    ],
+    "share_url": "https://fathom.video/share/DQXgdxeST5r-8gKs-hJWweCjexML6JXM"
+  },
+  {
+    "date": "2025-05-27",
+    "recording_id": 64843044,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Impromptu update on Mind Treasure progress and discuss next steps for the trading journal tool.",
+    "key_points": [
+      "Markus plans to actively use Mind Treasure from June; new cohort starting soon",
+      "Landing page nearly complete; final review and launch imminent",
+      "Key fixes needed: take-profit/stop-loss calculation, expired options handling"
+    ],
+    "share_url": "https://fathom.video/share/Td43GjV5AKki3R6Tr5Xzdc96a2Tz9rbE"
+  },
+  {
+    "date": "2025-05-27",
+    "recording_id": 64746765,
+    "title": "Trading Platforms Discussion",
+    "participants": [
+      "valentinkit14@gmail.com",
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Discuss trading platforms and share insights on respective projects",
+    "key_points": [
+      "Adrian is developing a trading journal for options traders, focusing on emotional tracking and planning/execution mirroring",
+      "Valentyn is building an AI-powered chat assistant for crypto traders, aiming to reduce emotional trading through data-driven insights",
+      "Both are in MVP stages, with Adrian partnering with an options trading educator and Valentyn preparing for initial B2C and B2B outreach"
+    ],
+    "share_url": "https://fathom.video/share/i5W7tG63zqqN2CCMVE_dPKt1hBd5dsT7"
+  },
+  {
+    "date": "2025-05-26",
+    "recording_id": 64592042,
+    "title": "Marc - Adrian Daily",
+    "participants": [
+      "Marc (Dan Koe Writing Bootcamp) <mjblumenhagen@gmail.com>",
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Daily check-in and discussion on content strategy for X (Twitter) between Marc-Jannis and Adrian.",
+    "key_points": [
+      "Both are exploring ways to create more authentic, engaging content on X",
+      "Adrian is finding success using Fathom for meeting transcripts and AI-assisted analysis",
+      "They discussed refining their content pillars to better align with their interests and audience needs"
+    ],
+    "share_url": "https://fathom.video/share/7w6KwhW4zenjjRrAJK5nq1nZkGnCJ7G4"
+  },
+  {
+    "date": "2025-05-25",
+    "recording_id": 64566909,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Discuss and prioritize tasks for building an MVP UI feedback system for a company with multiple canteens and rotating meal menus.",
+    "key_points": [
+      "Prioritized tasks: menu creation/validation, dish/table/meal search, worker assignment, email confirmation",
+      "UI focus: avoid pop-ups and complex flows, emphasize mobile readiness and simplicity",
+      "Database structure needed for meals and assignments; AI consultation planned for optimal UI design"
+    ],
+    "share_url": "https://fathom.video/share/kCdvzJgyVzdJw5WaX7Sxmid6pvhZo9i2"
+  },
+  {
+    "date": "2025-05-25",
+    "recording_id": 64566156,
+    "title": "Impromptu Google Meet Meeting",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Discuss and plan improvements for a canteen management system, focusing on menu creation and worker assignments.",
+    "key_points": [
+      "Implement a more robust menu creation process, including unique week/canteen combinations and a potential 3-week cycle",
+      "Rework worker assignments to simplify the process and include company/canteen affiliations directly in worker profiles",
+      "Create a dishes database to streamline meal selection and include dietary information and pricing"
+    ],
+    "share_url": "https://fathom.video/share/sPG2wT2PyCcB2iJGLpXmyQsMm8S8EpMR"
+  },
+  {
+    "date": "2025-05-21",
+    "recording_id": 63832203,
+    "title": "Canteen Project Kickoff",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Discuss requirements and pain points for a new canteen meal ordering system for construction workers.",
+    "key_points": [
+      "Main goal: Pre-ordering system to reduce food waste and improve meal planning",
+      "Multiple canteens serving diverse workforce (Muslim, Indian, Portuguese workers)",
+      "Need simple, intuitive interface for workers with varying tech literacy"
+    ],
+    "share_url": "https://fathom.video/share/TbSiUm42sYKuNTE-sVeynPk8nUvs9yHy"
+  },
+  {
+    "date": "2025-05-21",
+    "recording_id": 63804243,
+    "title": "Marc - Adrian Daily",
+    "participants": [
+      "Marc (Dan Koe Writing Bootcamp) <mjblumenhagen@gmail.com>",
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Daily check-in and discussion between Marc and Adrian on content creation, personal projects, and life updates.",
+    "key_points": [
+      "Marc is focusing on creating weekly video updates and long-form content for his 30-day challenge",
+      "Adrian is seeing gradual growth in followers and engagement on his content",
+      "Both discussed the challenges and mindset shifts needed when transitioning to full-time content creation"
+    ],
+    "share_url": "https://fathom.video/share/-pkAmJwVE4sdu7yJfa2-_Vs4FfxE1Tzu"
+  },
+  {
+    "date": "2025-05-20",
+    "recording_id": 63524766,
+    "title": "Marc - Adrian Daily",
+    "participants": [
+      "Marc (Dan Koe Writing Bootcamp) <mjblumenhagen@gmail.com>",
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Daily check-in and progress update between Marc-Jannis and Adrian, discussing personal projects and challenges.",
+    "key_points": [
+      "Marc-Jannis is starting a new challenge, focusing on content creation and sustainable growth strategies",
+      "Adrian found a useful Chrome extension (X-ALLY) for analyzing Twitter engagement potential",
+      "Both are working on improving their social media presence and content strategies"
+    ],
+    "share_url": "https://fathom.video/share/BztxXgFJY4Rp4znUbdFfEkdFJehzTwhz"
+  },
+  {
+    "date": "2025-05-20",
+    "recording_id": 63519304,
+    "title": "Weekly MindTrajour",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Impromptu team sync to discuss ongoing development, prioritize tasks, and address recent issues in the trading journal application.",
+    "key_points": [
+      "Landing page development is the highest priority task",
+      "CSV import feature is deprioritized due to complexity and current lack of user demand",
+      "New UI changes (e.g., asset selector, filter improvements) are being implemented and reviewed"
+    ],
+    "share_url": "https://fathom.video/share/qz2xpdGoc24fJYzNiG7QPUksrPsJcLsw"
+  },
+  {
+    "date": "2025-05-19",
+    "recording_id": 63306815,
+    "title": "Markus x MindTrajour Biweekly ",
+    "participants": [
+      "Markus Herfert <hello@markusherfert.com>",
+      "foldesieva25@gmail.com",
+      "Larissa <larissa.j.lange@gmail.com>",
+      "enes.zrl@gmail.com",
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Quick check-in and discussion on using a new meeting tool for efficiency.",
+    "key_points": [
+      "New meeting tool (likely AI-powered) proves highly effective, saving time with useful summaries",
+      "Both participants are exploring different aspects: E F studying others' work, Adrian in back-to-back calls",
+      "Team is getting back on track, addressing ongoing issues"
+    ],
+    "share_url": "https://fathom.video/share/cnyV7V2iq53dnU7bfYDyeqMhWp56-m2J"
+  },
+  {
+    "date": "2025-05-19",
+    "recording_id": 63277269,
+    "title": "Canteen App Initial Call",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Discuss a potential project to develop a meal ordering app for a company's canteens in Belgium.",
+    "key_points": [
+      "The app aims to solve issues with meal ordering, food waste, and dietary restrictions for \\~200 employees across multiple canteens",
+      "Key features: weekly meal selection, notifications, reports for kitchen staff, and simple UI for low-literacy users",
+      "Next steps: Schedule a call with the client to gather more details on current processes and infrastructure"
+    ],
+    "share_url": "https://fathom.video/share/8nu9_bmNhEzsXbH4XVntwvattrTsYXTf"
+  },
+  {
+    "date": "2025-05-19",
+    "recording_id": 63269147,
+    "title": "2025-05-19 Daily",
+    "participants": [
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "Impromptu check-in on project progress and discussion of UI/UX issues for a web application.",
+    "key_points": [
+      "E F is working on structuring and presenting a project portfolio, seeking balance between detail and conciseness",
+      "Adrian is focusing on fixing UI issues and preparing for user testing, with plans to engage a large Reddit community",
+      "Several mobile UI issues were identified and discussed, including search bar functionality and element sizing"
+    ],
+    "share_url": "https://fathom.video/share/3ZQyyDEPpZYGZstXZNDXuEbk_YZYCNyG"
+  },
+  {
+    "date": "2021-09-16",
+    "recording_id": 63267157,
+    "title": "Fathom Demo",
+    "participants": [
+      "Susannah DuRant <susannah.durant@fathom.video>",
+      "Adrian Rinnus <adrian.rinnus@gmail.com>"
+    ],
+    "main_topic": "(kein Summary/Transcript verfügbar)",
+    "key_points": [],
+    "share_url": "https://fathom.video/share/xN1WF2EsRNysxaizEWmc1EcXRhpVkjGt"
+  }
+]

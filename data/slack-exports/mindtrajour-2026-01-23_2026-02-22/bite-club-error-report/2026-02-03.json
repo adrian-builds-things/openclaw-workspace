@@ -1,0 +1,84 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "New issue created: ChunkLoadError",
+        "username": "ErrorMaster",
+        "icons": {
+            "emoji": ":shit:"
+        },
+        "type": "message",
+        "ts": "1770141839.038239",
+        "bot_id": "B09QXE2LGDP",
+        "app_id": "A03M3FN0RSQ",
+        "blocks": [
+            {
+                "type": "header",
+                "block_id": "ew148",
+                "text": {
+                    "type": "plain_text",
+                    "text": ":red_circle: ChunkLoadError",
+                    "emoji": true
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "rFWet",
+                "text": {
+                    "type": "plain_text",
+                    "text": "New issue created",
+                    "emoji": true
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "a3+xx",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "```Loading chunk 8315 failed.\n(error: <https:\/\/bite-club.app\/_next\/static\/chunks\/8315-a308293ea7164a15.js?dpl=dpl_5NpVbYLbUhiUjFq6kHL6hE9rZ9AY>)```",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "skDbf",
+                "elements": [
+                    {
+                        "type": "plain_text",
+                        "text": "Status: Active",
+                        "emoji": true
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Project: <https:\/\/eu.posthog.com\/project\/80969|Bite Club>",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Alert: <https:\/\/eu.posthog.com\/project\/80969\/pipeline\/destinations\/hog-019a4be4-654d-0000-b06f-aea202442d37\/configuration\/|Post to Slack on issue created>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "kYQ4C"
+            },
+            {
+                "type": "actions",
+                "block_id": "SXIji",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "hZFCQ",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "View Issue",
+                            "emoji": true
+                        },
+                        "url": "https:\/\/eu.posthog.com\/project\/80969\/error_tracking\/019c24ac-e9c2-7440-97cb-458d26b42be0?fingerprint=301ee3d12e48ce193e4bd6ea1d6a1075884b2cafe3114cc18eb73fd24b2af2bf7633266240e8f9b32003c492f5b2b5a11a7e3c0afb5f3daf4bd1b6e78ae1c504&timestamp=2026-02-03T18:03:37.527Z"
+                    }
+                ]
+            }
+        ]
+    }
+]

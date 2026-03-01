@@ -1,0 +1,158 @@
+[
+{
+    "id": "C06B1AUMXMJ",
+    "name": "brainfood",
+    "created": 1703062834,
+    "creator": "U018T4T64FR",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U018T4T64FR",
+        "U03N1MJB8K0",
+        "U03N884MSGK",
+        "U05BP6JEKRD",
+        "U05JJ8QHBHB",
+        "U0630UVM7CP",
+        "U06830FLCG4",
+        "U06QAS7FPUH",
+        "U09USBQ0744"
+    ],
+    "topic": {
+        "value": "You can dump interesting things here :slightly_smiling_face:",
+        "creator": "U018T4T64FR",
+        "last_set": 1703062872
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C09PKV5167J",
+    "name": "bite-club-release-notes",
+    "created": 1761501517,
+    "creator": "U018T4T64FR",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U018T4T64FR",
+        "U03N1MJB8K0",
+        "U06QAS7FPUH"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "This channel is used by n8n to send the user readable release note automatically.",
+        "creator": "U018T4T64FR",
+        "last_set": 1761501674
+    }
+},
+{
+    "id": "C09RFKC8H1N",
+    "name": "bite-club-error-report",
+    "created": 1762243186,
+    "creator": "U018T4T64FR",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U018T4T64FR",
+        "U03N1MJB8K0",
+        "U06QAS7FPUH",
+        "U09QJH8DZDY"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C019LFMR84R",
+    "name": "general",
+    "created": 1597955998,
+    "creator": "U018T4T64FR",
+    "is_archived": false,
+    "is_general": true,
+    "members": [
+        "U018T4T64FR",
+        "U03N1MJB8K0",
+        "U03N884MSGK",
+        "U05BP6JEKRD",
+        "U05JJ8QHBHB",
+        "U0630UVM7CP",
+        "U06830FLCG4",
+        "U06QAS7FPUH",
+        "U09USBQ0744"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "Dies ist der eine Channel, der immer alle einbezieht. Es ist ein toller Ort für Mitteilungen und Team-weite Unterhaltungen.",
+        "creator": "U018T4T64FR",
+        "last_set": 1597955998
+    }
+},
+{
+    "id": "C05VBGWGHQF",
+    "name": "ci-cd",
+    "created": 1696868745,
+    "creator": "U018T4T64FR",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U018T4T64FR",
+        "U03SDCEUKH6",
+        "U05U9710C1J",
+        "U06QAS7FPUH",
+        "U07DX49MCVB"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C06820J31AT",
+    "name": "review-requests",
+    "created": 1701688061,
+    "creator": "U018T4T64FR",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U018T4T64FR",
+        "U05BP6JEKRD",
+        "U05HQTK7K6J",
+        "U05JJ8QHBHB",
+        "U06QAS7FPUH",
+        "U07SXDC1FCZ"
+    ],
+    "topic": {
+        "value": ":thumbsup: - seen\n:eyes: - reviewing\n:white_check_mark:  - passed\n:female-construction-worker:  - rework needed",
+        "creator": "U018T4T64FR",
+        "last_set": 1701700013
+    },
+    "purpose": {
+        "value": ":thumbsup: - seen\n:eyes: - reviewing\n:white_check_mark:  - passed\n:female-construction-worker:  - rework needed\n\n_\nReview:\nBugs \/ Issues:\n---------\nWould be better ifs (no-blocker):\n----------\n\nFeature Ideas (tickets to be raised):",
+        "creator": "U05BP6JEKRD",
+        "last_set": 1756916627
+    }
+}
+]

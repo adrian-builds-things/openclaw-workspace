@@ -1,0 +1,3180 @@
+{
+  "transcript": [
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "The The The The Það er er Það er það það það er þa",
+      "timestamp": "00:00:06"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Thank you.",
+      "timestamp": "00:03:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "We have to change that, this is not a sustainable way for all of us.",
+      "timestamp": "00:03:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Thank you.",
+      "timestamp": "00:04:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "you.",
+      "timestamp": "00:04:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay, so yesterday's call with Marcus was pretty good.",
+      "timestamp": "00:04:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "He's satisfied with the thing.",
+      "timestamp": "00:04:07"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "There are some minor things that we have to fix.",
+      "timestamp": "00:04:10"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "For example, the take profit and stop loss calculation thing, because this is just working for credit spreads, but not for debit spreads, and some translation issues.",
+      "timestamp": "00:04:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, that was it, probably most of it.",
+      "timestamp": "00:04:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And we need one route to identify users from Marcus, so some hardcoded mindtreasure.com slash Marcus Helford, whatever, that we get the people from his course.",
+      "timestamp": "00:04:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "We could also do it differently, but that's the easiest way to sign up for them.",
+      "timestamp": "00:04:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "They didn't say, they didn't say, we are just going to get the email, and that's what it does.",
+      "timestamp": "00:04:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, that was the proposal.",
+      "timestamp": "00:04:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "But I felt like he was not comfortable with it, in my opinion, so I think signing up with the link and setting some parameter of the organization based on the link, when signing up, that's, yeah.",
+      "timestamp": "00:05:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Then he was pretty open, because he said, like, yeah, everyone through his Markus link could then see his private checklist.",
+      "timestamp": "00:05:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "But then he said, yeah, but anyone can get the access data from someone who bought the course.",
+      "timestamp": "00:05:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So I think this is also low maintenance, because otherwise, if a user changes email or something like that, we always need to maintain it.",
+      "timestamp": "00:05:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, but yeah, if you give a link, the link they can share with their friends.",
+      "timestamp": "00:05:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "We said the same thing.",
+      "timestamp": "00:05:49"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "But he was okay with it.",
+      "timestamp": "00:05:50"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "We also talked about, like...",
+      "timestamp": "00:05:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "then just, rather than a link, just give them a special...",
+      "timestamp": "00:05:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Call them, they can use that code via sign-up or...",
+      "timestamp": "00:06:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Also possible, yeah.",
+      "timestamp": "00:06:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Also possible, yeah.",
+      "timestamp": "00:06:08"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Exactly.",
+      "timestamp": "00:06:10"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So that was the thing.",
+      "timestamp": "00:06:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Then some translation issues, trade management, and the expiration date.",
+      "timestamp": "00:06:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I think these are the most important things.",
+      "timestamp": "00:06:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Preparation for the presentation, Larissa, can you take that one and prepare it?",
+      "timestamp": "00:06:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Definitely.",
+      "timestamp": "00:06:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, I will...",
+      "timestamp": "00:06:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Markus has his community call on the 19th.",
+      "timestamp": "00:06:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And there we will present it to his full community.",
+      "timestamp": "00:06:34"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And right now, or next week, 11th, he set the deadline for his new started course.",
+      "timestamp": "00:06:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "These are around 15 people, he said.",
+      "timestamp": "00:06:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And he proposed a meeting for it.",
+      "timestamp": "00:06:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And you can, of course, join if you like.",
+      "timestamp": "00:06:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "for Or if want can these of questions.",
+      "timestamp": "00:06:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And like, it to...",
+      "timestamp": "00:06:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I how we would plan to present it, but of course, you're involved in it, if you'd like.",
+      "timestamp": "00:07:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And I read your document, Enes, for marketing strategy.",
+      "timestamp": "00:07:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And there I also saw this with a partner up with business partners, which we did with Marcos.",
+      "timestamp": "00:07:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And there it was written to also name the dashboard, like Marcos Academy dashboard or something like that.",
+      "timestamp": "00:07:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "What do you think about this idea to also like give it an extra hint that this is special for them, not only the checklist?",
+      "timestamp": "00:07:34"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, we can make something like that at one point, something like that, but it's just not urgent.",
+      "timestamp": "00:07:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah.",
+      "timestamp": "00:07:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:07:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah.",
+      "timestamp": "00:07:57"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "We also talked about Natalia.",
+      "timestamp": "00:07:58"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Lifetime usage for the app, but he said himself that he has like a six months extra.",
+      "timestamp": "00:08:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Wait, I think this is something we have to clarify.",
+      "timestamp": "00:08:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Beginning from September, he is offering the six months to his people, and he is paying us for six months based on his fee.",
+      "timestamp": "00:08:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "The people now get the lifetime, that's just...",
+      "timestamp": "00:08:25"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Either way.",
+      "timestamp": "00:08:27"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Or just the first round?",
+      "timestamp": "00:08:30"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Just the first round.",
+      "timestamp": "00:08:32"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "to clarify.",
+      "timestamp": "00:08:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, also the people from the community, because the value that we get from people testing the application is so much higher than the actual costs, so we will run it that way.",
+      "timestamp": "00:08:34"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "We will do the post hoc feedback loop, that's what we also talked about.",
+      "timestamp": "00:08:47"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "exactly.",
+      "timestamp": "00:08:53"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "In different places we are going to have different kinds of small questionnaires.",
+      "timestamp": "00:08:53"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:09:00"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:09:00"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Then they can give us feedback on how they are using it, and why they are using it in action right away.",
+      "timestamp": "00:09:00"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, sounds good.",
+      "timestamp": "00:09:11"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Can we talk a little bit about the product hunt?",
+      "timestamp": "00:09:14"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "How we are going to handle this?",
+      "timestamp": "00:09:22"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Because we need to create an account.",
+      "timestamp": "00:09:25"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "We don't need to create a new account.",
+      "timestamp": "00:09:34"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Everyone can create their own accounts.",
+      "timestamp": "00:09:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Because on those sites, you can invite others as a team.",
+      "timestamp": "00:09:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So we don't need a money-treasure account or something like that.",
+      "timestamp": "00:09:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So we can just put our names and show ourselves as a team working on the project.",
+      "timestamp": "00:09:49"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay, but if I sign in, I have to sign in.",
+      "timestamp": "00:09:56"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "My google account.",
+      "timestamp": "00:10:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah.",
+      "timestamp": "00:10:01"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "But then you can create a theme and add the other ones as well.",
+      "timestamp": "00:10:02"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay, I didn't get that far because I didn't want to do anything without talking about it.",
+      "timestamp": "00:10:06"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay, I'm already in.",
+      "timestamp": "00:10:13"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And I can then submit something.",
+      "timestamp": "00:10:17"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay, let me see something.",
+      "timestamp": "00:10:19"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Submit a product.",
+      "timestamp": "00:10:21"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:10:22"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Then I'm just gonna need the text that you want to Add.",
+      "timestamp": "00:10:24"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And then I will upload the images.",
+      "timestamp": "00:10:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, I can also prepare the text.",
+      "timestamp": "00:10:36"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I do think that it would be wise to add the video link as I mean the video as well.",
+      "timestamp": "00:10:39"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "one that If you just send me the images, I'll source that.",
+      "timestamp": "00:10:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Just don't worry.",
+      "timestamp": "00:10:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I'll put the video and everything as well.",
+      "timestamp": "00:10:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "If you want, I can submit the project.",
+      "timestamp": "00:10:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Otherwise, if you want to do it, video is in the drive.",
+      "timestamp": "00:11:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Enes, if you can take that one and do it, because you also did it for Next.js and it was pretty successful, so you know what to write, that it works, so that would be really cool.",
+      "timestamp": "00:11:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, I can sort that.",
+      "timestamp": "00:11:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:11:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I just need the images, because, yeah, I can put some things, but generally putting something more professional, I'm sure you'll create a lot better images than me.",
+      "timestamp": "00:11:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yes.",
+      "timestamp": "00:11:33"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Tell me if you want to have text on the image or if you just need the images.",
+      "timestamp": "00:11:35"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I'm not going to use the ones that are actually from the side, so I'm not going to do print screens.",
+      "timestamp": "00:11:40"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I'm going to use the ones that are in the Figma file, because they just simply look better.",
+      "timestamp": "00:11:48"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "The readability, the button contrast.",
+      "timestamp": "00:11:56"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Stuff like that.",
+      "timestamp": "00:12:00"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It's just better.",
+      "timestamp": "00:12:01"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "However you want.",
+      "timestamp": "00:12:03"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Just let me know which images do you need, if you want to have any text on it on top.",
+      "timestamp": "00:12:06"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Just make sure if you are putting, for example, dashboard images, make sure it looks sensible.",
+      "timestamp": "00:12:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, for sure.",
+      "timestamp": "00:12:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Just one question.",
+      "timestamp": "00:12:25"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Do we want to wait until we get the first feedback from Marcos users, or do we want to push it?",
+      "timestamp": "00:12:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Push, push.",
+      "timestamp": "00:12:33"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "There is also a possibility here on Product Hunt that they can leave feedback.",
+      "timestamp": "00:12:35"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So that's also a way to receive feedback from others.",
+      "timestamp": "00:12:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Also, our product is very niche.",
+      "timestamp": "00:12:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I'm sure in Product Hunt and those places there will be not much interest, I'm sure about it.",
+      "timestamp": "00:12:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I've checked?",
+      "timestamp": "00:12:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I've checked.",
+      "timestamp": "00:12:59"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "it.",
+      "timestamp": "00:13:00"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And they have stock trading platforms, but I have not seen any options trading.",
+      "timestamp": "00:13:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So it's very niche, so interest should be low, but at least at the end we get the backlink and we get more visibility in Google.",
+      "timestamp": "00:13:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Even though five people sees it, a hundred people sees it, whatever, it's just still feedback.",
+      "timestamp": "00:13:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I just would like to...",
+      "timestamp": "00:13:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I'm just thinking about the trade management thing because this is buggy.",
+      "timestamp": "00:13:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "It's not working for half of the strategies and I would like to hide it for now and rework it and then add it back to have it in a profit management.",
+      "timestamp": "00:13:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, the take profit stop loss sliders.",
+      "timestamp": "00:13:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Oh, okay.",
+      "timestamp": "00:13:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Guys, I want to work this week at the canteen tour because we would like to present it.",
+      "timestamp": "00:13:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "on Saturday, and then I would start on the weekend to do the leftovers for our mind-free treasure that we can start next week, so that's the plan.",
+      "timestamp": "00:14:00"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Does that mean that you also don't want to have that on the images?",
+      "timestamp": "00:14:08"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "You know what, let's keep it there, it doesn't matter.",
+      "timestamp": "00:14:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I think it would just over-complicate things.",
+      "timestamp": "00:14:17"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "You're gonna work on it, it's gonna be there, and it's going to work in a week.",
+      "timestamp": "00:14:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, but if we want to launch Product Hunt now, then people would run in the same issue, know?",
+      "timestamp": "00:14:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, but it doesn't happen like this.",
+      "timestamp": "00:14:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Most of the places we launch, it will happen in one month.",
+      "timestamp": "00:14:34"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay, okay.",
+      "timestamp": "00:14:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Otherwise, you need to pay money.",
+      "timestamp": "00:14:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ah, okay, okay, okay, then it's fine.",
+      "timestamp": "00:14:44"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Then it's fine, okay.",
+      "timestamp": "00:14:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I think Product Hunt is the quickest generally, but even that is at least one week.",
+      "timestamp": "00:14:48"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay, then it's fine.",
+      "timestamp": "00:14:53"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Then we don't have a issue here.",
+      "timestamp": "00:14:55"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:14:57"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Good.",
+      "timestamp": "00:14:58"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Good.",
+      "timestamp": "00:14:59"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Good.",
+      "timestamp": "00:15:00"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Good,",
+      "timestamp": "00:15:00"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And Markus said he will also start using it beginning from now for his personal trade, so we will also have more feedback there.",
+      "timestamp": "00:15:06"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yes.",
+      "timestamp": "00:15:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:15:19"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Enes, have some more sleep.",
+      "timestamp": "00:15:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Enes, I can support you with creating the text.",
+      "timestamp": "00:15:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "don't know how long it takes you to create the text for Product Hunt, or I can make a draft and you can rewrite it.",
+      "timestamp": "00:15:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, if you want, I can send you whatever we input.",
+      "timestamp": "00:15:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So, let me show you something.",
+      "timestamp": "00:15:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "It's raining again, I get crazy here.",
+      "timestamp": "00:16:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, here as well.",
+      "timestamp": "00:16:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Oh no!",
+      "timestamp": "00:16:06"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yes, Anu!",
+      "timestamp": "00:16:08"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "For example, this is the...",
+      "timestamp": "00:16:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "you put the description of the app, you put a very short summary of what it does.",
+      "timestamp": "00:16:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And then you can add the theme, and first comment is where you describe your app in detail.",
+      "timestamp": "00:16:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So I'll send this to you if you want to drop something.",
+      "timestamp": "00:16:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, that's perfect.",
+      "timestamp": "00:16:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And if you...",
+      "timestamp": "00:16:44"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "and you can also add like all the company info, you know, you can add what kind of social links we have, all this kind of stuff.",
+      "timestamp": "00:16:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah.",
+      "timestamp": "00:16:59"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And you can also add some, how do you call them, badges, for example, like crypto exchange changes, options trading platform, investing, things like that.",
+      "timestamp": "00:17:03"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So you can have some key.",
+      "timestamp": "00:17:16"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "are not custom.",
+      "timestamp": "00:17:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Those are costing money?",
+      "timestamp": "00:17:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "No, they are not custom.",
+      "timestamp": "00:17:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So there are some specific ones defined.",
+      "timestamp": "00:17:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Select from them, you can add options trading or something like that.",
+      "timestamp": "00:17:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It's not available.",
+      "timestamp": "00:17:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Oh, I didn't know that.",
+      "timestamp": "00:17:34"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:17:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "If you have time, let me show you how, what it asks you.",
+      "timestamp": "00:17:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So that's it.",
+      "timestamp": "00:17:44"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Many of these are similar in this sense.",
+      "timestamp": "00:17:44"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "When you submit, You put the link of the product.",
+      "timestamp": "00:17:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:17:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "You put the name, tagline, small description, maximum 60 letters, and then links to the product, including Instagram, Facebook, for example, it got automatically from the website to Facebook.",
+      "timestamp": "00:18:05"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And then, your exec count, the description, 260 letters, this is the short one on top, and text, for example, for finances, Fintech investing, but there's no trading, for example, there's no options.",
+      "timestamp": "00:18:37"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "But I've seen it.",
+      "timestamp": "00:18:58"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It's right here.",
+      "timestamp": "00:19:01"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Stock trading platforms, investing, crypto exchanges, like I see it on another...",
+      "timestamp": "00:19:03"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Not as a tech.",
+      "timestamp": "00:19:09"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I think this could be the product category, but it's not a tech in that sense.",
+      "timestamp": "00:19:10"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, it's not a tech.",
+      "timestamp": "00:19:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Where do you see it?",
+      "timestamp": "00:19:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Let me show you.",
+      "timestamp": "00:19:19"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Let me just share the screen.",
+      "timestamp": "00:19:20"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It takes you somewhere.",
+      "timestamp": "00:19:22"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It's like...",
+      "timestamp": "00:19:25"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I'm talking about products section.",
+      "timestamp": "00:19:27"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay, it's the finance.",
+      "timestamp": "00:19:34"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "This is subcategories.",
+      "timestamp": "00:19:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "But I don't know how...",
+      "timestamp": "00:19:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Maybe it's on the next step.",
+      "timestamp": "00:19:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Oh, 123.",
+      "timestamp": "00:19:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Hopefully...",
+      "timestamp": "00:20:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Did get that much?",
+      "timestamp": "00:20:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Probably your mindful trading journal will be replaced with something, it's the old style.",
+      "timestamp": "00:20:06"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And all the images we had here, select the logo, logo is easy, video.",
+      "timestamp": "00:20:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "We can also use a GIF as a logo because a friend said this takes more attention.",
+      "timestamp": "00:20:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "he suggested that they also launch something on product and then they use the GIF.",
+      "timestamp": "00:20:34"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "What will be the content of the GIF?",
+      "timestamp": "00:20:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I don't know, like the flower moving.",
+      "timestamp": "00:20:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "We have something like that.",
+      "timestamp": "00:20:46"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Let me just quickly check if I, because I should have it.",
+      "timestamp": "00:20:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It should have more attention drawn, yeah.",
+      "timestamp": "00:20:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "would be nice.",
+      "timestamp": "00:20:57"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "There's a video.",
+      "timestamp": "00:20:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "One video you can put, a single video, and then another interactive video, but this needs to be one of these websites, so it's not that easy, I never did that, and then you add whoever worked on it, Eve, do you remember your...",
+      "timestamp": "00:21:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Levels I.O.",
+      "timestamp": "00:21:25"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "That's good, we take that guy.",
+      "timestamp": "00:21:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Fold-Eva.",
+      "timestamp": "00:21:32"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "O with O.",
+      "timestamp": "00:21:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Fold-Eva.",
+      "timestamp": "00:21:41"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Two together.",
+      "timestamp": "00:21:43"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Fold-Eva.",
+      "timestamp": "00:21:44"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "25.",
+      "timestamp": "00:21:46"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "There's nothing there.",
+      "timestamp": "00:21:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Just look for E F, because she signed up with a blank in between.",
+      "timestamp": "00:21:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Because she signed up with Google.",
+      "timestamp": "00:21:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I'm there, no, I've signed up, should be in, yeah, here we go.",
+      "timestamp": "00:22:10"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ah, nice.",
+      "timestamp": "00:22:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I think I've signed that up too.",
+      "timestamp": "00:22:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Larissa, you remember if you want me to your surname?",
+      "timestamp": "00:22:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yes.",
+      "timestamp": "00:22:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I remember.",
+      "timestamp": "00:22:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Eve, I can't find it.",
+      "timestamp": "00:22:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "No, Eva, I think it's, Eva.",
+      "timestamp": "00:22:32"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I'm going to change it, Eva Földashi, okay?",
+      "timestamp": "00:22:34"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Now I changed it.",
+      "timestamp": "00:22:39"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Eva, okay.",
+      "timestamp": "00:22:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Did you save?",
+      "timestamp": "00:22:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I think OE maybe?",
+      "timestamp": "00:22:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Not only Földashi?",
+      "timestamp": "00:22:49"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "No.",
+      "timestamp": "00:22:51"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:22:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, but we can play fair of it.",
+      "timestamp": "00:22:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Do you have the...",
+      "timestamp": "00:22:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Tag like this, because we all have short ones as well in profile, like the tagline.",
+      "timestamp": "00:23:00"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay, you have to also fill out like this headline, UX UI designer.",
+      "timestamp": "00:23:08"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay, let's save it and then done.",
+      "timestamp": "00:23:18"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Skip for now.",
+      "timestamp": "00:23:25"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So Eva Földer, she?",
+      "timestamp": "00:23:27"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Nope, doesn't find me.",
+      "timestamp": "00:23:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yeah, anyways, let's try it later, that's fine.",
+      "timestamp": "00:23:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, and then if it's free, paid, whatever, there's a promo code.",
+      "timestamp": "00:23:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "We can also do this, because it just shows the promo code.",
+      "timestamp": "00:23:44"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And actually we might draw more attention, so we can make one month free for the launch or something like that.",
+      "timestamp": "00:23:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It would be cool.",
+      "timestamp": "00:23:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "But do we need the paywall for it?",
+      "timestamp": "00:24:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Like the Stripe integration?",
+      "timestamp": "00:24:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, of course, otherwise it's free anyway.",
+      "timestamp": "00:24:05"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, that's why I was thinking, if you want to launch it already this week, then it might be a bit too tough for the Stripe?",
+      "timestamp": "00:24:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "No, not tough.",
+      "timestamp": "00:24:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, promo code is always a good idea.",
+      "timestamp": "00:24:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, all these, and then I couldn't find those subcategories, I don't know.",
+      "timestamp": "00:24:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It's just finance there, but there's no subcategory under finance.",
+      "timestamp": "00:24:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Maybe they are automatically doing it, I don't know.",
+      "timestamp": "00:24:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Maybe are also in this board.",
+      "timestamp": "00:24:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:24:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:24:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:24:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:25:00"
+    },
+    {
+      "speaker": {
+        "display_name": "E F",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "all right okay yeah good thank you guys if you know where is that gif that would be good as well yeah you've created it on her laptop just uh you're gonna have to wait because i have to leave yeah no no it's not original i'm not telling you yeah i was asking now it's just um yeah in general i have it i'm gonna have to look at it and see if it actually is good or not you can take also look and see if it's good okay that's good okay then guys i really have to go so you take care and we talk soon okay yes thank you so much for this productive start in the day with you ciao ciao all right guys",
+      "timestamp": "00:25:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Adrian, if can spend a couple minutes to just, if there is anything you need to change on your profile, just spend a couple minutes to update it.",
+      "timestamp": "00:26:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yep.",
+      "timestamp": "00:26:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay, thank you.",
+      "timestamp": "00:26:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Profile.",
+      "timestamp": "00:26:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Recently supported, next step, Poop ID.",
+      "timestamp": "00:26:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay.",
+      "timestamp": "00:26:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:26:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Thank you.",
+      "timestamp": "00:26:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "See you later, then.",
+      "timestamp": "00:26:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "All right.",
+      "timestamp": "00:26:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So adding to the profile, you mean, I have, yeah.",
+      "timestamp": "00:26:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I don't see your profile.",
+      "timestamp": "00:26:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I couldn't find you somehow.",
+      "timestamp": "00:26:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It's just .",
+      "timestamp": "00:26:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It's funny.",
+      "timestamp": "00:26:44"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "You can add me, but you don't find me.",
+      "timestamp": "00:26:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:26:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Interesting.",
+      "timestamp": "00:26:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "You don't find my profile either?",
+      "timestamp": "00:26:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I found yours.",
+      "timestamp": "00:26:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "part being completed here.",
+      "timestamp": "00:26:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "When I required you...",
+      "timestamp": "00:26:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It just brings all the adrians, not Drinus.",
+      "timestamp": "00:27:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "That's a shame.",
+      "timestamp": "00:27:07"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "All the adrians, but not the three ones.",
+      "timestamp": "00:27:08"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "What is your name?",
+      "timestamp": "00:27:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "The common one, Enes?",
+      "timestamp": "00:27:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I found you, okay, with the tag.",
+      "timestamp": "00:27:16"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah.",
+      "timestamp": "00:27:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ah, I have a...",
+      "timestamp": "00:27:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay.",
+      "timestamp": "00:27:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ah, follow back.",
+      "timestamp": "00:27:25"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay.",
+      "timestamp": "00:27:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "What does the triangle mean?",
+      "timestamp": "00:27:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "The button with...",
+      "timestamp": "00:27:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "there is a comment, and then the triangle symbol.",
+      "timestamp": "00:27:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Where?",
+      "timestamp": "00:27:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Also the...",
+      "timestamp": "00:27:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "oh, sorry.",
+      "timestamp": "00:27:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "There.",
+      "timestamp": "00:27:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Do you see it?",
+      "timestamp": "00:27:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "There.",
+      "timestamp": "00:27:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "There.",
+      "timestamp": "00:27:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It's the, how much upvote it got.",
+      "timestamp": "00:28:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ah, this is the upvote symbol.",
+      "timestamp": "00:28:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ah, okay, okay.",
+      "timestamp": "00:28:06"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "It was not clear for me.",
+      "timestamp": "00:28:08"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, it's the upvote symbol.",
+      "timestamp": "00:28:10"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "If you click on it, it will show you, not the upvote, but if you click the product, it will show you bigger version.",
+      "timestamp": "00:28:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ah, and here you can also see, I don't know if you see, these are my friends from the accelerator back in the days.",
+      "timestamp": "00:28:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And they launched it two times.",
+      "timestamp": "00:28:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "First time they had 159 comments and 512 upvote.",
+      "timestamp": "00:28:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And here they have changed the logo to a GIF.",
+      "timestamp": "00:28:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Do you see it?",
+      "timestamp": "00:28:44"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, glazed.",
+      "timestamp": "00:28:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And then they got 798.",
+      "timestamp": "00:28:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So they launched it already two times and this was not for their disadvantage.",
+      "timestamp": "00:28:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "The first one was also GIF, seems like, but there may be the...",
+      "timestamp": "00:28:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I think they also got things of the day, they got the badge with like number one of the day, of the week or something like that.",
+      "timestamp": "00:29:08"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "That's cool.",
+      "timestamp": "00:29:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "What happens unfortunately in product count, if you end up on the featured ones, which is almost impossible if you don't pay, if you end up in featured ones which are top ten, you get a lot of visibility.",
+      "timestamp": "00:29:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "How much does it cost to...?",
+      "timestamp": "00:29:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I don't know, a couple hundred pounds.",
+      "timestamp": "00:29:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:29:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And if you don't get featured...",
+      "timestamp": "00:29:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "People need to go and click the Weave All button to see you.",
+      "timestamp": "00:30:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Does it make sense?",
+      "timestamp": "00:30:08"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And then if you pick the really busy day, there will be 100 products launched.",
+      "timestamp": "00:30:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "He also recommended a day, I think Tuesday or Thursday or something like that.",
+      "timestamp": "00:30:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah, I think so.",
+      "timestamp": "00:30:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I think later on the week is a bit better because less people are launching and you might get lucky and getting the features if there's just a couple products launching.",
+      "timestamp": "00:30:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Strange, for example, today is just launching seven products.",
+      "timestamp": "00:30:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I'm so surprised, only seven products are there today.",
+      "timestamp": "00:30:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I don't I",
+      "timestamp": "00:31:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "When I launched Next Step, there was like 60 products launched the same day.",
+      "timestamp": "00:31:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:31:06"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Crazy.",
+      "timestamp": "00:31:07"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Yep.",
+      "timestamp": "00:31:10"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:31:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "But the product hand page is pretty .",
+      "timestamp": "00:31:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Not a good UI, in my opinion.",
+      "timestamp": "00:31:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Anyways.",
+      "timestamp": "00:31:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "How do you build a stack with the things that you use?",
+      "timestamp": "00:31:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "It's really...",
+      "timestamp": "00:31:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "You just upload them?",
+      "timestamp": "00:31:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ah, because if I have Slack now...",
+      "timestamp": "00:31:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Wait.",
+      "timestamp": "00:31:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Or just add to the stack if you go to the product.",
+      "timestamp": "00:31:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay, now I have Slack.",
+      "timestamp": "00:31:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "But how do I get, for example, you have also VS Code included and stuff like that, but I'm not able to find it.",
+      "timestamp": "00:31:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I have to remember when I was first signing up, probably, it's my profile, full of products.",
+      "timestamp": "00:32:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Here products, okay.",
+      "timestamp": "00:32:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "If I search for IntelliJ IDEA, I have to do it like that, I guess.",
+      "timestamp": "00:32:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I can put it to my stack.",
+      "timestamp": "00:32:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay.",
+      "timestamp": "00:32:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "All right.",
+      "timestamp": "00:32:34"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Good.",
+      "timestamp": "00:32:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I will put a thing here.",
+      "timestamp": "00:32:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I will prepare then the text, Enes, and then I will send it to you probably tonight.",
+      "timestamp": "00:32:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And then we can speak about it tomorrow.",
+      "timestamp": "00:32:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "You can give me feedback on it.",
+      "timestamp": "00:32:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "We can adapt it.",
+      "timestamp": "00:32:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "And then we're good to go.",
+      "timestamp": "00:32:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "you.",
+      "timestamp": "00:32:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Thank you.",
+      "timestamp": "00:33:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Thank you again for getting up that early and joining us.",
+      "timestamp": "00:33:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "you.",
+      "timestamp": "00:33:09"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah.",
+      "timestamp": "00:33:10"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Thank you so much.",
+      "timestamp": "00:33:10"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "You can also propose like maybe different day on this week or like that we have like another routine.",
+      "timestamp": "00:33:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I'm open.",
+      "timestamp": "00:33:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah.",
+      "timestamp": "00:33:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "When do you start working at around like around nine.",
+      "timestamp": "00:33:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So I'm already a little bit late on 9.30.",
+      "timestamp": "00:33:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "We can also move it, for example, to the if you go to lunch break at 11, for example, then we could also do it at 11 our time and try to do it like that, but Enes is not in that kind of rush.",
+      "timestamp": "00:33:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah.",
+      "timestamp": "00:33:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Let's see.",
+      "timestamp": "00:33:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:33:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Next week we have the late time anyways.",
+      "timestamp": "00:33:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Yeah.",
+      "timestamp": "00:33:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Alrighty.",
+      "timestamp": "00:33:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "All right.",
+      "timestamp": "00:33:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Guys.",
+      "timestamp": "00:33:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Thank you so much.",
+      "timestamp": "00:33:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Larissa Lange",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Thank you.",
+      "timestamp": "00:33:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Have a great day, bye bye.",
+      "timestamp": "00:34:00"
+    }
+  ]
+}

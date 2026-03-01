@@ -46,3 +46,9 @@ Wesentliche Chance: Automatisierung von langweiligen/komplexen Prozessen, besond
 ## Kernthese
 
 OpenClaw als **"Universal-API für Computerarbeit"** einsetzen: Alles, was ein Mensch am Rechner erledigen kann, lässt sich in vielen Fällen automatisieren — besonders wertvoll in Nischen mit hoher manueller Last und geringer Software-Integration.
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

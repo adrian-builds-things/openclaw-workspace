@@ -75,3 +75,9 @@ Ziel: Relevante LinkedIn-Leads (Office/People/Ops/Küchenverantwortliche) statt 
 2. SOP-Landingpage strukturieren
 3. DM-Sequenz finalisieren
 4. KPI-Tracking starten
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

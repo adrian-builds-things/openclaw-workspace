@@ -466,3 +466,8 @@ Gesamt Meetings: **74**
   - Hauptinhalt: Impromptu check-in on project progress and discussion of UI/UX issues for a web application.
 - 2021-09-16 · **Fathom / Demo** · Fathom Demo · [Transcript](https://fathom.video/share/xN1WF2EsRNysxaizEWmc1EcXRhpVkjGt)
   - Hauptinhalt: (kein Summary/Transcript verfügbar)
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

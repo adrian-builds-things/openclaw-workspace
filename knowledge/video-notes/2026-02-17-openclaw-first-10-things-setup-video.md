@@ -24,3 +24,9 @@ Das Material ist ein Setup-Playbook für OpenClaw mit Fokus auf:
 
 ## Nächster Schritt (optional)
 Wenn du willst, erstelle ich dir daraus eine **kompakte, sichere 80/20-Umsetzungsreihenfolge** (Top 5 Punkte für die nächsten 7 Tage), angepasst auf Umsatzfokus (Bite Club / MindTrajour).
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

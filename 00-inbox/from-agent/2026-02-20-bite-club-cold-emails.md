@@ -46,3 +46,9 @@ Lassen Sie uns kurz sprechen.
 
 Beste Grüße,
 Adrian
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

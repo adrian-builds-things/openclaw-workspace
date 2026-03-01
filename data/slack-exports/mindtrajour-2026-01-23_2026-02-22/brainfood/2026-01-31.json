@@ -1,0 +1,58 @@
+[
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F0ACAA0UP5J",
+                "created": 1769881666,
+                "timestamp": 1769881666,
+                "name": "1769881630188.pdf",
+                "title": "1769881630188.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U018T4T64FR",
+                "user_team": "T0197SMV2MQ",
+                "editable": false,
+                "size": 3729310,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0197SMV2MQ-F0ACAA0UP5J\/1769881630188.pdf?token=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0197SMV2MQ-F0ACAA0UP5J\/download\/1769881630188.pdf?token=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0ACAA0UP5J-1ead4d9696\/1769881630188_thumb_pdf.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/trdngjrnl.slack.com\/files\/U018T4T64FR\/F0ACAA0UP5J\/1769881630188.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T0197SMV2MQ-F0ACAA0UP5J-a2050d74bb",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U018T4T64FR",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hCn+5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1769881699.870319",
+        "client_msg_id": "811c0b8b-423d-4ba3-8b2a-3c5f3b2af548"
+    }
+]

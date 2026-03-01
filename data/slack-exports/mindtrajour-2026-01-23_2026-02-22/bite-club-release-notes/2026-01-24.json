@@ -1,0 +1,89 @@
+[
+    {
+        "user": "U09JU38R1QA",
+        "type": "message",
+        "ts": "1769281887.023829",
+        "bot_id": "B09JXJRNDAQ",
+        "app_id": "A09JML388D9",
+        "text": ":bar_chart: Update v1.18.1 is live!\n\n:ladybug: Fixes\n• We've improved our SEO setup by ensuring sitemaps and robots.txt files are properly accessible to search engines :mag:\n\n:rocket: A small but important update that helps search engines find and index our content better!\n_Automated with this <https:\/\/n8n.internal.mindtrajour.com\/workflow\/qcfDRj7w0MEDoQc5?utm_source=n8n-internal&amp;utm_medium=powered_by&amp;utm_campaign=n8n-nodes-base.slack_31a079d7ac3257c80c0f928e3bd1e65494e1faaed7d1335db30a475d39d7b551|n8n workflow>_",
+        "team": "T0197SMV2MQ",
+        "bot_profile": {
+            "id": "B09JXJRNDAQ",
+            "app_id": "A09JML388D9",
+            "user_id": "U09JU38R1QA",
+            "name": "N8N Integration",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_36.png",
+                "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/service_72.png"
+            },
+            "deleted": false,
+            "updated": 1759671050,
+            "team_id": "T0197SMV2MQ"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UBrV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "bar_chart",
+                                "unicode": "1f4ca"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Update v1.18.1 is live!\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ladybug",
+                                "unicode": "1f41e"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Fixes\n• We've improved our SEO setup by ensuring sitemaps and robots.txt files are properly accessible to search engines "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mag",
+                                "unicode": "1f50d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rocket",
+                                "unicode": "1f680"
+                            },
+                            {
+                                "type": "text",
+                                "text": " A small but important update that helps search engines find and index our content better!\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Automated with this ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/n8n.internal.mindtrajour.com\/workflow\/qcfDRj7w0MEDoQc5?utm_source=n8n-internal&amp;utm_medium=powered_by&amp;utm_campaign=n8n-nodes-base.slack_31a079d7ac3257c80c0f928e3bd1e65494e1faaed7d1335db30a475d39d7b551",
+                                "text": "n8n workflow",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

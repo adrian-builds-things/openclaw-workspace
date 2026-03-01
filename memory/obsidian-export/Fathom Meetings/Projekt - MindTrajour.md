@@ -70,3 +70,8 @@ Meetings: **11**
   - • New meeting tool (likely AI-powered) proves highly effective, saving time with useful summaries
   - • Both participants are exploring different aspects: E F studying others' work, Adrian in back-to-back calls
   - • Team is getting back on track, addressing ongoing issues
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

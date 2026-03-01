@@ -227,3 +227,8 @@ Meetings: **48**
   - • E F is working on structuring and presenting a project portfolio, seeking balance between detail and conciseness
   - • Adrian is focusing on fixing UI issues and preparing for user testing, with plans to engage a large Reddit community
   - • Several mobile UI issues were identified and discussed, including search bar functionality and element sizing
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

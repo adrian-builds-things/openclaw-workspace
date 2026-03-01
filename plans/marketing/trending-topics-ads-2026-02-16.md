@@ -65,3 +65,9 @@ Ziel: kurzfristig mehr Kunden für
 2. 2 Landingpage-Message-Mocks (Bite Club / MindTrajour)
 3. Test-Matrix für 14 Tage bauen (Kanal, Budget, KPI, Stop/Scale-Regeln)
 4. Reporting-Sheet für tägliche Entscheidungen vorbereiten
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

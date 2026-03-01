@@ -34,3 +34,9 @@ verlässlich nachvollziehen kann.
 
 ## Nächster Schritt
 Bei Startsignal von Adrian: direkt V1-Tracking-Setup als konkrete Dateien + Routine anlegen.
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

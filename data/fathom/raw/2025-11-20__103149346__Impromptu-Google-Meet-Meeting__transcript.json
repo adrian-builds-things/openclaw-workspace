@@ -1,0 +1,3972 @@
+{
+  "transcript": [
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, ebenso, ebenso.",
+      "timestamp": "00:00:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Schön, dich zu sehen.",
+      "timestamp": "00:00:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, ebenso.",
+      "timestamp": "00:00:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ich bin gerade noch hier ein bisschen abgelenkt.",
+      "timestamp": "00:00:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So, jetzt will nur ganz kurz eine kleine, ich bin sofort bei dir.",
+      "timestamp": "00:00:07"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Alles gut.",
+      "timestamp": "00:00:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ich bin heute schon, mein Donnerstag ist immer so den ganzen Tag auf den Füßen quasi.",
+      "timestamp": "00:00:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So, das will ich nur kurz machen.",
+      "timestamp": "00:00:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Dann kann ich das nicht, leider...",
+      "timestamp": "00:00:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Jetzt hingehen.",
+      "timestamp": "00:00:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Kradusch.",
+      "timestamp": "00:00:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So, jetzt aber.",
+      "timestamp": "00:00:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Äh, ja!",
+      "timestamp": "00:00:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Schön, dich zu sehen, genau.",
+      "timestamp": "00:00:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Jo, ebenso.",
+      "timestamp": "00:00:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Was...",
+      "timestamp": "00:00:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Wie geht's dir?",
+      "timestamp": "00:00:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Was macht das Leben?",
+      "timestamp": "00:00:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ähm, ja.",
+      "timestamp": "00:00:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, ja.",
+      "timestamp": "00:00:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Wie geht's mir?",
+      "timestamp": "00:01:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Heute war mal wieder ein Tag, da hatte ich mal wieder ein bisschen Spaß, ich brauche gerade Landingpage wieder ein bisschen, das ist mal eine coole Sache, macht wieder ein bisschen Spaß, so grundsätzlich doch, bin zufrieden, also es wird so langsam mit unserem Kantinentool, wird auch so langsam, wie gesagt, Geldmangel ist gerade so ein bisschen ein Thema, und auch da, ich arbeite jetzt halt gerade so ein bisschen als Elektriker mit und sowas, das läuft auch, macht auch immer Spaß, ein bisschen was Handfestes zu machen.",
+      "timestamp": "00:01:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und ja, soweit, man lebt irgendwie.",
+      "timestamp": "00:01:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Klingt doch gut, also mit dem Kantinenprojekt, mach mal ein bisschen größeres, umfangreicheres Update, also beim letzten Mal, wir vor unseren beiden Urlauben, das ist ja jetzt auch schon wieder zwei Monate her gefühlt, da war es irgendwie noch so, dass du gesagt hast, dass das irgendwie, also dass du da noch in den letzten Zügen standst und Verhandlungen,",
+      "timestamp": "00:01:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "und sowas noch irgendwie, glaube ich, mit dran war, was hat sich da ergeben?",
+      "timestamp": "00:02:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, also wie gesagt, der Vertrag ist ja unterschrieben letzten Endes, da haben wir jetzt auch die erste Rechnung und sowas geschrieben, die brauchen jetzt halt nur ein bisschen, bis sie mit der Benutzerzahl hochfahren, das nennen sie, glaube ich, so 80 User oder sowas drin, also schon ganz ordentlich, da sind wir jetzt gerade am Nachverhandel, weil halt der Aufwand doch massiv ist und sowas, wo man dann ein bisschen mehr Träger drauf und ja, das Coole ist, die sind super happy, glaube ich damit, die nutzen es auch richtig heavy letzten Endes, das ist ganz cool, das siehst du dann, doch 70, ja 70 Leute haben heute die erste Kult letzten Endes, das ist schon mal, das ist echt gut, super, und am 23.12.",
+      "timestamp": "00:02:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "ist dann bei Kasach, also beim Konzern letzten Endes ein Konzern-Meeting, wo alle Leute aus dem Konzern sich treffen und dadurch unser Ansprechpartner dann die Kooperation und das Projekt letzten Endes vorstellt, das heißt, wenn man Glück hat, Dank.",
+      "timestamp": "00:02:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "hab das Ding nur auf den Konzern ausgerollt.",
+      "timestamp": "00:02:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Oder auf mehrere vom Konzern und das wäre der Killer, weißt wie mein?",
+      "timestamp": "00:03:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Wir sind jetzt gerade mit 200 Leuten unterwegs und die haben insgesamt, glaub ich, 7000.",
+      "timestamp": "00:03:06"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und wenn nur noch mal 500.000 dazukommen, das wäre brutal geil, ja?",
+      "timestamp": "00:03:10"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja.",
+      "timestamp": "00:03:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Würde mir meinen Pain ganz schön nehmen, aber jetzt schauen wir mal.",
+      "timestamp": "00:03:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Aber es ist ja gut, dass du da trotzdem mit so einem Level-Head, sag ich mal, Level-Headed ein bisschen rangehst und ein bisschen, und halt nebenbei, sag ich mal, jetzt dann auch noch irgendwie was ein bisschen finanziell für sich.",
+      "timestamp": "00:03:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Du, ich hab keine andere Möglichkeit.",
+      "timestamp": "00:03:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Mein Konterstand ist inzwischen bei, Moment, ich muss was trinken, bei minus 5000 angelangt, weil AOK auf einmal gesagt hat, Junge, wir hätten gerne von dir, weil du ja deine Steuererklärung gemacht hast, hätten gerne von dir, du hast ja mal Geld verdient, noch 5000 Euro.",
+      "timestamp": "00:03:34"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und dann wir gesagt, ihr Ficker, Alter.",
+      "timestamp": "00:03:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ihr seid solche Bastarde, das gibt's gar nicht.",
+      "timestamp": "00:03:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Aber...",
+      "timestamp": "00:03:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Aber für was?",
+      "timestamp": "00:03:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, weil ich bin freiwillig versichert.",
+      "timestamp": "00:04:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja.",
+      "timestamp": "00:04:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und damals hieß es dann halt, ich habe keine Ahnung, was ich verdiene, weil ich halt am Trader bin und so, ja, okay, dann stufen wir dich halt mit dem Mindestsatz ein.",
+      "timestamp": "00:04:05"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay, schön.",
+      "timestamp": "00:04:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Da ist aber nie gesagt worden, dass es nachträglich dann nochmal nachverrechnet wird, sobald eine Steuer kommt, weil sonst hätte ich ja was auf der Seite gelassen.",
+      "timestamp": "00:04:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja.",
+      "timestamp": "00:04:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und dann habe ich halt mal, da haben sie mir nach Einkommensbogen gefragt, habe ich das hingeschickt und dann kam da, ja, und sie haben dann so und so viel verdient, das heißt, da kommt dann eine Nachzahlung mit so viel und für das ganze Jahr 25 nehmen wir das jetzt als Grundlage und sie zahlen jetzt dann nicht 260 Euro, sondern 600 Euro.",
+      "timestamp": "00:04:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ah, okay.",
+      "timestamp": "00:04:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Alles klar, ihr Wichser.",
+      "timestamp": "00:04:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay, das ist, also die haben das jetzt sogar angesetzt als Grundlage, obwohl du quasi gerade nichts verdienst.",
+      "timestamp": "00:04:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, genau.",
+      "timestamp": "00:04:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Das ist ja wild.",
+      "timestamp": "00:04:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Aber kann man da nicht irgendwie was...",
+      "timestamp": "00:04:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Dann habe ich da angerufen und haben sie mir auch gesagt, ja, soll jetzt halt nochmal sagen, dass ich den Einkommensbogen",
+      "timestamp": "00:04:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und jetzt ist es wieder runtergestuft für 260, aber für 25 bis November muss ich trotzdem die quasi 600 zahlen und da kommen jetzt die 5000 zustande und sobald ich dann die Steuererklärung mache für 25, kriege ich das Geld wieder zurück, aber ich habe halt das Problem, wenn ich für 24 die Steuer mache, dann muss ich erstmal Steuern nachzahlen, weil ich da Gewinn gemacht habe und dann darf ich wieder AOK zahlen, das heißt, ich schiebe jetzt die 24er Steuer ganz, ganz, weit weg.",
+      "timestamp": "00:05:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ich habe jetzt Steuerberater beauftragt, auch wenn es sich eigentlich nicht lohnt, dass ich hauptsache die Deadline so weit wie möglich schieben kann und ja, alles halt Katze und Maus spielt, aber nein, ist ja Katze.",
+      "timestamp": "00:05:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Verstehe, verstehe.",
+      "timestamp": "00:05:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Also ich hatte das auch mal im Studium, Ende irgendwie, ich weiß gar nicht mehr, wie das war, ich glaube, da habe ich sogar einfach vergessen, auf diesen Einkommensbogen darauf zu reagieren und dann haben die mir einfach rückwirkend für zwei Monate zum Glück Mua.",
+      "timestamp": "00:05:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Da haben die mir halt den Maximalsatz abgebucht, Alter.",
+      "timestamp": "00:06:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Weißt du, viel dieser  Maximalsatz ist?",
+      "timestamp": "00:06:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Da habe ich dann irgendwann auf mein Konto geguckt und dachte so, Junge, was ist denn plötzlich hier passiert?",
+      "timestamp": "00:06:08"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Als armer Student war ich froh, dass ich überhaupt ein bisschen Kohle drauf hatte.",
+      "timestamp": "00:06:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Mit einmal war ich irgendwie bei minus 3000 Euro und ich dachte so, was ist denn jetzt los, Alter?",
+      "timestamp": "00:06:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Die sind manchmal schon falsch gewickelt, ja.",
+      "timestamp": "00:06:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja gut, ich meine, ich hätte schon was gegen machen können in dem Moment, also dafür war es tatsächlich, also ich hätte einfach auf diesen Brief reagieren müssen, was ich halt irgendwie über drei Briefe nicht gemacht habe, aber ja, daraus dann am Ende natürlich auch meine Lektion gelernt, aber ja, das ist schon kacke.",
+      "timestamp": "00:06:25"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Das fühlt sich dann auch nicht gut an, wenn dann plötzlich das Konto aussieht wie, ja.",
+      "timestamp": "00:06:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, und das allerbeste war ja, dann kam dann halt ein netter Brief und hieß es, ja, wir haben ja bei Ihnen einen SEPA-Bankeinzug, wir werden dann in den nächsten Tagen einfach das Geld ziehen.",
+      "timestamp": "00:06:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja.",
+      "timestamp": "00:06:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Und dann nicht wie sonst immer zum 15.",
+      "timestamp": "00:07:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "des Monats, sondern sie dann einfach zwischendrin.",
+      "timestamp": "00:07:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "ja.",
+      "timestamp": "00:07:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Alter, dann denke ich mir, ich weiß dann nicht, wie es euch geht, aber dass ihr dann immer so spontan mal 5.000 Euro auf Konto legt, aber Respekt vor euch, also ja, geile Typen, ne.",
+      "timestamp": "00:07:05"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und dann ist für das Geilste, jetzt sitze ich da, dann haben sie mir meinen Beitrag runtergeschuft, normalerweise muss ich am 15.",
+      "timestamp": "00:07:16"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "die Versicherung zahlen.",
+      "timestamp": "00:07:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und extra alle Hebel in Bewegung sitzen, dass ich von meinem Elektriker dann schon das Geld früher kriege, dass ich die scheiße zahlen kann.",
+      "timestamp": "00:07:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Buchen sie nicht ab.",
+      "timestamp": "00:07:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ruf dir halt an, ja, sie haben ja 5.000 Euro Guthaben.",
+      "timestamp": "00:07:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "dann denkst du, nein, ihr Ficker, habe ich nicht.",
+      "timestamp": "00:07:34"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Nein.",
+      "timestamp": "00:07:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, aber, ja, ich weiß, deine Frau schafft ja bei der AUK, aber da habe ich echt in allem Zweifel.",
+      "timestamp": "00:07:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, aber die sind ja auch alle getrennt voneinander.",
+      "timestamp": "00:07:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Also ich meine, die sind halt alle, also ich meine, die wollen am Ende alle ihr Geld haben.",
+      "timestamp": "00:07:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ich meine, das hat ja nichts mit den Mitarbeitern zu tun.",
+      "timestamp": "00:07:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Nein.",
+      "timestamp": "00:07:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Nein.",
+      "timestamp": "00:07:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Das hat ja was unternehmenstechnisch zu tun.",
+      "timestamp": "00:07:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Aber Julia hat halt doch vorher.",
+      "timestamp": "00:07:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja.",
+      "timestamp": "00:07:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "das war ihr auch voll, also da hat sie dann halt auch die Stelle gewechselt, weil ihr das Feuer auf die Nerven gegangen ist.",
+      "timestamp": "00:08:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Sie wurde nach der Ausbildung im Bereich Vollstreckung eingegliedert, wo sie quasi solche Fälle hatte und das war für sie, also sie musste ständig mit Leuten telefonieren, die halt irgendwelche Schicksalsschläge erlitten haben oder irgendwas war und die dann am Ende, wo die AOK dann am Ende denen halt irgendwie, für die quasi dann die Insolvenz anstand.",
+      "timestamp": "00:08:07"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Oder sowas und Insolvenzanträge und solche Sachen.",
+      "timestamp": "00:08:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Sie meinte, das ging einfach gar nicht.",
+      "timestamp": "00:08:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Entweder wurde sie durchbeleidigt von den Leuten oder sie hatte irgendeinen Fall am Telefon, die halt einfach irgendwie nur am Heulen waren oder sowas.",
+      "timestamp": "00:08:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Also sie meinte, das war eine Katastrophe.",
+      "timestamp": "00:08:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Mittlerweile hat sie echt einen ganz coolen Job und ein Projekt, wobei sie auch da jetzt irgendwann raus will, weil sie jetzt das Studium nebenbei macht und so, aber ja.",
+      "timestamp": "00:08:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, aber.",
+      "timestamp": "00:08:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, aber.",
+      "timestamp": "00:08:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "aber.",
+      "timestamp": "00:08:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, so spielt das Leben manchmal.",
+      "timestamp": "00:09:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Bei mir ist es jetzt auch langsam knapp.",
+      "timestamp": "00:09:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ich unterstütze ja meine liebe Frau Julia mit ihrem schönen AOK-Gehalt, von daher will ich mal gar nicht meckern.",
+      "timestamp": "00:09:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Dein Geld kommt quasi bei mir an.",
+      "timestamp": "00:09:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, kommt von Herzen, Ja, danke dir dafür.",
+      "timestamp": "00:09:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Aber bei mir ist es gerade auch so, dass letztendlich Sophia uns mehr oder weniger so über die Runde bringt.",
+      "timestamp": "00:09:25"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Das fühlt sich jetzt auch nicht so geil an, ne?",
+      "timestamp": "00:09:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "I feel it, ja.",
+      "timestamp": "00:09:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Und ich habe auf jeden Fall mit Julia abgesprochen, dass ich ab dem Neujahr bis zum Neujahr mir jetzt irgendwas suche, dass ich ja entweder mehr Nachhilfe mache, ich will jetzt irgendwie Aushänge machen hier an Schulen, um ein bisschen einfach so nebenbei was reinzukriegen.",
+      "timestamp": "00:09:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Und vielleicht noch irgendwie einen Many-Job dazu anzufangen, damit ich ein bisschen, ja, musst du jetzt nicht deinem Steuerberater erzählen, ein bisschen schwarz.",
+      "timestamp": "00:09:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja.",
+      "timestamp": "00:09:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja.",
+      "timestamp": "00:09:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Wobei, den interessiert das auch nicht.",
+      "timestamp": "00:10:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Also, ich habe jetzt einen 500-Euro-Job beim Elektriker letzten Endes, ja.",
+      "timestamp": "00:10:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Das sind halt zweieinhalb Tage, ich arbeite, dann ist der voll.",
+      "timestamp": "00:10:09"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, ja.",
+      "timestamp": "00:10:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So, ich arbeite jetzt seit zwei Wochen da, das heißt, ich habe schon zwei Monate drin.",
+      "timestamp": "00:10:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Hat auch gesagt, du, ja, man streckt das einfach mehrere Monate und sonst gibt es halt auch mal so einen Umschlag.",
+      "timestamp": "00:10:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ist genau so.",
+      "timestamp": "00:10:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja.",
+      "timestamp": "00:10:25"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und wir zeichnen es gerade auf.",
+      "timestamp": "00:10:25"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Sehr gut.",
+      "timestamp": "00:10:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, sowas ist halt praktisch, wenn man so ein Handwerk irgendwie kann oder dadurch, dass ich ja ein Mechatronik-Student bin, kann ich nämlich gar nichts.",
+      "timestamp": "00:10:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Dass ich die Scheiße nur studiert habe und an der Uni studiert habe, kann ich nämlich sowas gar nicht.",
+      "timestamp": "00:10:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Also gut, dafür kann ich halt jetzt nachhilfemäßig, weil ich ja in der Berufsschule war und so, das ist schon okay.",
+      "timestamp": "00:10:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Aber da habe ich halt in der Regel nicht jemanden mehr, der so sagt, im Handwerk läuft das immer ein bisschen anders.",
+      "timestamp": "00:10:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ah ja, hier komme ich, habe noch ein bisschen Bargeld, hier kriegst du mal in einem Umschlag.",
+      "timestamp": "00:10:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ich habe es ein bisschen länger gemacht, wir brauchen den, wir brauchen den jetzt, dann ist es da.",
+      "timestamp": "00:10:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Da ist es.",
+      "timestamp": "00:10:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, aber wie gesagt, es ist auch nicht mein Ziel, ich bin ganz froh, dass ich so mehrere Monate Strecke kann, weil dann habe ich das halt so Monate dann mal, zumindest mal meine kranke Versicherung, decke dann ein paar Euro drauf und dann hat sich das, das ist ja, ja, ja, voll, ja, genau, bei mir hat sich sonst auch nicht so groß was getan, es ist wie gesagt Jobsuche, zwischendurch habe ich echt so nach dem Urlaub habe ich mich irgendwie ein bisschen dran gesetzt, ein bisschen nach Minijobs zu gucken, also wirklich, ich bin fast, also, das war gar nichts, ey, ich bin fast durchgedreht dabei, Alter, mal deprimiert einen so, wenn man nur so eine Scheiße findet oder sowas, oder gerade, weil ich halt ein bisschen auch nach was geguckt habe, was vielleicht im Content-Bereich, wo ich irgendwas mitmachen kann, wo ich halt irgendwie auch noch was lernen kann, irgendwie von, Alter, diese Stellenangebote, ist es einfach, ist es so traurig, Alter, was die, ja,",
+      "timestamp": "00:11:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Wir wollen gerne einen Content-Creator, der in Teilzeit arbeitet, der unseren gesamten Content übernimmt, der unser Gesicht ist und am Ende, ja, wie viel wir dafür bezahlen, das wissen wir noch nicht so ganz genau so.",
+      "timestamp": "00:12:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, schön.",
+      "timestamp": "00:12:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Also einen, der alles macht und am besten nichts dafür bezahlen.",
+      "timestamp": "00:12:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, klar.",
+      "timestamp": "00:12:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, von daher bin ich, glaube ich, mit Nachhilfe erstmal, was ein sichereres Einkommen angeht, leichter bedient.",
+      "timestamp": "00:12:25"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Da ist immer Nachfrage nach.",
+      "timestamp": "00:12:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Aber du bist ja, hier, guck mal, ich bräuchte so ein Content-Creator.",
+      "timestamp": "00:12:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ich bezahle nichts.",
+      "timestamp": "00:12:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Jetzt schnallt es hier.",
+      "timestamp": "00:12:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Aber du kommst schon aus der Finanz-Ecke.",
+      "timestamp": "00:12:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ich schlage jetzt einen Deal vor.",
+      "timestamp": "00:12:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Jetzt kommt es.",
+      "timestamp": "00:12:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Jetzt kommt es.",
+      "timestamp": "00:12:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ich halte dich fest.",
+      "timestamp": "00:12:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Schade, da gibt es ja so Fremdkapitalgeber letzten Endes.",
+      "timestamp": "00:14:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Zum Optionshandel?",
+      "timestamp": "00:14:09"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, für Optionen weniger, aber für Futures und Aktien und sowas gibt es das.",
+      "timestamp": "00:14:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und da kriegst du dann quasi virtuell dann Geld zur Verfügung gestellt, musst halt irgendwelche Challenges machen und du kannst damit dann handeln und kriegst dann halt Anteile, ich glaube 70% vom Gewinnauszahl, die behalten 30%.",
+      "timestamp": "00:14:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Aber was machen die zur Risikominimierung von deren Seite, wenn du keine Ahnung hast?",
+      "timestamp": "00:14:25"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, deswegen habt ihr die Challenges, musst erstmal in 60 Tagen quasi 25.000 Euro, musst in 60 Tagen 1.252 erwirtschaften und dann gibt es so Staffelungen letzten Endes und am Anfang handelst du nur virtuell und die sagen dir zwar, du wirst ein Echtgeld handeln, du handelst aber nur virtuell.",
+      "timestamp": "00:14:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und wenn du Gewinne machst, zeigst du dich lieber aus, wie dass du das Geld riskierst, weißt ich meine?",
+      "timestamp": "00:14:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und die, die nachher richtig gut laufen und performen, die kriegt echtes Geld und mit denen verdienen die das Geld.",
+      "timestamp": "00:14:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Das ist eine Littsten...",
+      "timestamp": "00:14:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Die verdient ihr Geld über die ganze Challenge-Gebühre.",
+      "timestamp": "00:15:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "klar.",
+      "timestamp": "00:15:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Weil da halt die meisten Pappneisen kommen dann einfach zucken, das muss man tatsächlich sagen.",
+      "timestamp": "00:15:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Verstehe, verstehe.",
+      "timestamp": "00:15:10"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, ich glaube, wie gesagt, für mich ist Nachhilfe einfach im Moment das Bread and Butter, wie man das so sagt, damit, wo ich, Julia hat heute auch wirklich original fünf Minuten vor unserem Meeting noch drüber geredet, weil ich ja, sie meinte so, dass es so krass war, sie war jetzt irgendwie am Dienstag, Mittwoch, ja, vorgestern, glaube ich, war sie auf so einem Betriebsausflug, beziehungsweise, ja, so über Verdi, so ein Event, was sie mitgemacht haben quasi.",
+      "timestamp": "00:15:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Und sie meinte, sie muss mal die Tante, die das organisiert hat, die fragen, was sie dafür bezahlt hat, weil die waren irgendwie, haben so ein Graphic.",
+      "timestamp": "00:15:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Das ging irgendwie zwei Stunden lang und die waren für zehn angemeldet, waren aber nur fünf Leute da oder so und die hat halt quasi nicht groß was gemacht, waren irgendwie, die hat ein paar Dinger, wo die dann da drauf sprayen konnten, mitgebracht, die hat irgendwie so ein paar Zettel ausgedruckt und hat denen irgendwie drei Tipps, wie man die Dose richtig hält, gegeben und das war's eigentlich und was die dafür bekommen, man am Ende so und sie meinen, Julia meinte halt auch so, ja, die Leute gucken halt bei den Events halt, gut, da brauchst du halt schon irgendwie SEO-Website irgendwie, die ein bisschen gerankt ist, damit du gefunden wirst oder so, aber dass die halt nach Betriebsausflug Hannover suchen oder sowas und dann suchen sie sich halt was aus und da halt sowas mit Disc Golf in die Richtung zu machen, ist halt für solche Events und da bist du halt zwei Stunden beschäftigt und hast halt irgendwie, keine Ahnung, drei, vierhundert Euro in der Tasche, und war's,",
+      "timestamp": "00:16:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Es ist halt schon krass, was man da machen kann.",
+      "timestamp": "00:17:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Und wenn man halt noch nicht die Reichweite hat, dass man da gerankt wird mit einer Webseite oder dass man noch nicht das alles hat, kannst du halt im Zweifel einfach nach außen die Unternehmen einfach anrufen, abtickern und sagen hier, mit den Leuten telefonieren, sagen hier, irgendwie fürs Gesundheitsmanagement hier, Gesundheitsförderung der Mitarbeiter, Betriebsausflug, Disc Golf oder sowas.",
+      "timestamp": "00:17:05"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Genau.",
+      "timestamp": "00:17:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Und solche Sachen anbieten.",
+      "timestamp": "00:17:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Also das ist schon nicht so verkehrt.",
+      "timestamp": "00:17:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Im Prinzip, ja, eben.",
+      "timestamp": "00:17:34"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Das ist halt eine Kaltakquise letztendlich.",
+      "timestamp": "00:17:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Das das, was ich jetzt bei meinem Kantinen-Tool auch machen sollte.",
+      "timestamp": "00:17:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Einfach mal ganz, ganz stumpf Kaltakquise machen.",
+      "timestamp": "00:17:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und ja.",
+      "timestamp": "00:17:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Aber sollst, von, von, ähm, warum sollst du die Kaltakquise, wer hat das gesagt, äh, mit der Kumpel aus Portugal von dir sozusagen?",
+      "timestamp": "00:17:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Nee, exactus, exactus.",
+      "timestamp": "00:17:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Die möchte ja Geld verdienen, ne?",
+      "timestamp": "00:18:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, ja, du willst das jetzt an andere Unternehmen sozusagen auch anfragen, aber da telefonierst du jetzt regelmäßig mit Unternehmen, oder wie machst du das?",
+      "timestamp": "00:18:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Nee, noch gar nicht.",
+      "timestamp": "00:18:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Was ich jetzt gerade mache, weil es mir nur fehlt, ist, ich baue eine Landingpage und die mache ich gerade aktuell.",
+      "timestamp": "00:18:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und sobald ich die habe, ich habe noch einen Bekannten jetzt, der mich da unterstützt quasi und der dann nur die ganze Cold-Calling-Geschichte macht und so.",
+      "timestamp": "00:18:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Genau, nochmal einen Freund, der mich dabei auch noch unterstützt.",
+      "timestamp": "00:18:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und ja, das gucken wir einfach mal, wie es letzten Endes dann läuft.",
+      "timestamp": "00:18:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Aber dazu brauche ich jetzt halt noch eine, ich will auch mit Cold-E-Mail und sowas anfangen und mal E-Mails rausschreiben und sowas.",
+      "timestamp": "00:18:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, aber dazu sollte ich halt die Landingpage fertig haben und da bin ich jetzt gerade dran und hoffe, dass ich die jetzt dann bis zum Wochenende fertig habe.",
+      "timestamp": "00:18:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und dann geht es halt da mal Werbetrommelröhre weiter und dann schauen wir mal.",
+      "timestamp": "00:18:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja.",
+      "timestamp": "00:18:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja.",
+      "timestamp": "00:18:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ich meine, wenn man Leute anruft, meine, darüber kann man halt im Zweifelsfall am schnellsten, sag ich mal, Geld machen, weil die Leute, also gerade wenn du halt solche Events oder sowas anbietest, wo du halt wirklich physisch irgendwie vor Ort bist, weil die Leute halt nicht so viel, also gegen irgendwelche Tools haben die Leute halt im Zweifelsfall immer erstmal irgendwelche Bedenken, müssen sich das angucken, geht alles, man muss halt nur richtig verkaufen und so und halt Proof haben, dass es irgendwie bei anderen schon umgesetzt wird und funktioniert und so.",
+      "timestamp": "00:19:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ähm, aber, ähm, ja, eigentlich, also es ist zumindest der schnellste Marketingweg, den du haben kannst, musst halt einfach nur mehr Leute anrufen im Zweifelsfall, wenn du mehr Geld verdienen willst, ne.",
+      "timestamp": "00:19:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Genau.",
+      "timestamp": "00:19:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Oder halt nur cooler, wenn du das halt dann, weil du das kannst automatisieren einigermaßen mit Cold-E-Mail, musst dann halt Push-Fächer haben, die du aufwärmst, bla bla bla.",
+      "timestamp": "00:19:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja.",
+      "timestamp": "00:19:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Du brauchst halt in jedem Fall erstmal eine Landingpage, die einigermaßen ordentlich ist und nicht so eine Grütze, wie ich sie halt bisher hab.",
+      "timestamp": "00:19:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Warte mal ganz kurz, ich bin gar nebenher, die läuft noch, Push.",
+      "timestamp": "00:19:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Was ist das?",
+      "timestamp": "00:20:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "In die Versionsverwaltung einchecken.",
+      "timestamp": "00:20:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Genau, und da ist halt Code-Email nochmal angenehmer, weil das kann ich komplett durchautomatisieren und kann jeden Tag 100 E-Mails rausschicken.",
+      "timestamp": "00:20:06"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Wenn ich nur eine Response kriege oder zwei, habe ich jede Woche zwei.",
+      "timestamp": "00:20:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, voll.",
+      "timestamp": "00:20:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Und gerade weil es ja bei dir am Ende auch, guck mal, was hat hier, Hansefit hat doch ein gleiches Prinzip.",
+      "timestamp": "00:20:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Nur halt in, ich weiß nicht, ob Hansefit was bei euch im Süden ist, oder ob das nur so.",
+      "timestamp": "00:20:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, So, die gehen auf alle, also auf die Unternehmen, machen Kooperationsverträge mit den Unternehmen, gehen von Unternehmen zu Unternehmen hier, machen mit denen irgendwelche Verträge und bieten denen ein Programm an für Mitarbeitergesundheit, sage ich mal, mehr oder weniger.",
+      "timestamp": "00:20:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Genau, und die schließen den Deal mit den Unternehmen ab, die viel entspannter mitzuarbeiten sind als die Einzelkunden, weil die immer, ne, hast du viel mehr Retouren, hast du viel mehr irgendwelche Sachen.",
+      "timestamp": "00:20:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja.",
+      "timestamp": "00:20:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja.",
+      "timestamp": "00:20:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja.",
+      "timestamp": "00:20:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja.",
+      "timestamp": "00:20:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Schließen da irgendwie Jahresdeals ab oder mehr Jahresdeals ab oder sowas und easy, das ist halt die.",
+      "timestamp": "00:21:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Und ja, du musst halt nur irgendwie erstmal reinkommen, du musst am Ende Leute haben, die davon begeistert sind natürlich, das ist halt auch wichtig, dass du halt am Ende auch was hast, wo die Leute sagen, boah, geil, das rumerzählen, habt ihr auch Hansefit oder sowas, dass das halt irgendwie sich in Mund-zu-Mund-Propaganda kommt.",
+      "timestamp": "00:21:08"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Genau.",
+      "timestamp": "00:21:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, und in unserem Fall ist natürlich schon so, dass die Unternehmen hauptsächlich einen Benefit davon haben, weil die halt Geld spart einfach durch Food Waste Reduction und sowas.",
+      "timestamp": "00:21:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Was mir erst im Nachhinein klar wurde, raten wo mein Bruder arbeitet.",
+      "timestamp": "00:21:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ich habe keine Ahnung.",
+      "timestamp": "00:21:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Bei Edeka oder was?",
+      "timestamp": "00:21:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Nee, besser.",
+      "timestamp": "00:21:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Im Umweltministerium beziehungsweise im Landesministerium für Umwelt.",
+      "timestamp": "00:21:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Blaák.",
+      "timestamp": "00:21:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Blaak.",
+      "timestamp": "00:21:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Blaru",
+      "timestamp": "00:21:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und zwar im Bereich Abfallentsorgung.",
+      "timestamp": "00:22:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und zwar Fachexpertise Bioabfall.",
+      "timestamp": "00:22:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay.",
+      "timestamp": "00:22:05"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So, was sind Lebensmittelrechte?",
+      "timestamp": "00:22:07"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, Bioabfall.",
+      "timestamp": "00:22:09"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und mein Bruder wird im Januar ins Bundesministerium wechseln.",
+      "timestamp": "00:22:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:22:16"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und ich habe jetzt eine Einladung nach Kassel zu den Kasseler Abfalltagen und darf da dann einen Podiumsvortrag vor 500-800 Leuten halten.",
+      "timestamp": "00:22:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ei!",
+      "timestamp": "00:22:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Scheiß mir die Hosen an.",
+      "timestamp": "00:22:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, kann ich mir vorstellen, Alter.",
+      "timestamp": "00:22:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Das ist auch gerade, wenn man ohne Spaß...",
+      "timestamp": "00:22:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ich meine, du sitzt ja jetzt auch schon ein Weilchen in deinem Kämmerlein mit deinem Projekt.",
+      "timestamp": "00:22:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Bei mir ist das ja auch so.",
+      "timestamp": "00:22:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "bin zwar ein Typ, der...",
+      "timestamp": "00:22:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Eigentlich kann ich ganz gut mit anderen Leuten und ich bin jetzt nicht so, dass das...",
+      "timestamp": "00:22:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Also, ich meine, gehe davon aus, dass das dir auch so geht.",
+      "timestamp": "00:22:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Aber dann aus diesem heimischen, diesem Heimvorteil sozusagen in so eine Situation zu begeben, das ist schon...",
+      "timestamp": "00:22:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, das ist schon eine Nummer, ja.",
+      "timestamp": "00:23:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Das ist schon eine Herausforderung, aber was nicht größer als es ist, ja, aber voll nice, also bietet sich ja ganz an.",
+      "timestamp": "00:23:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Witzig, meine, von Julia, die Mama, die ist auch im Umweltministerium in Hannover, aber ich kann dir nicht sagen, woran sie arbeitet, meistens an Candy Crush, aber und die andere Zeit am Kindlesen oder sowas, die geht nächstes Jahr in Rente und die macht seit dem, also seit drei Jahren macht die, die macht, glaube ich, gar nichts mehr.",
+      "timestamp": "00:23:16"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Die fährt zur Arbeit, weil der zuhause langweilig ist und damit sie was lesen kann auf der Arbeit.",
+      "timestamp": "00:23:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So einen Job bräuchte man halt, also nicht.",
+      "timestamp": "00:23:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, wobei ich glaube, also bei der war das auch schon alles nicht so geil, die ist da schon 40 Jahre.",
+      "timestamp": "00:23:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja.",
+      "timestamp": "00:23:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja.",
+      "timestamp": "00:23:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja.",
+      "timestamp": "00:23:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja.",
+      "timestamp": "00:23:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Und die wird ab einem gewissen Punkt halt einfach irgendwie von den ganzen jüngeren Kollegen irgendwann rausgeekelt, sag ich mal, ne, und dem hat sie halt dann auch nichts mehr zu tun und sie denkt sich halt so, ja gut, dann setze ich da halt einfach meinen Arsch ab, so, ne, und wenn, wenn die mich nicht, meine Arbeitskraft irgendwie nicht haben wollen, so ist halt auch scheiße, ne, und wenn du dann halt irgendwie so.",
+      "timestamp": "00:24:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Das ist unbefriedigend, aber, also du, dann würde, ganz im Ernst, bevor ich da Candy Crush und Kindle, würde ich mich da hinsetzen und einfach irgendwas hochziehe, was, woran ich Bock hätte, wo ich drauf Bock hätte, dann würde das einfach.",
+      "timestamp": "00:24:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, ich sehe das ganz genau so, aber gut, die, äh, ja, das ist ein anderes Thema, ne, ich glaube, da gibt's halt auch viele Leute, ich hab auch einen Kumpel gehabt, einer, also, beziehungsweise, ich hab einen Kumpel gehabt, das ist ein guter Kumpel von mir, ähm, den ich bei manchen Sachen aber leider seine Einstellung so absolut nicht teilen kann, in bestimmter Hinsicht, der war, ähm, der war jetzt, ähm,",
+      "timestamp": "00:24:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Erst hat er im Ausland gearbeitet, ist nach Mauretanien gegangen, hat über eine deutsche, über BGR, ich weiß nicht genau, was ist, irgendwie Bodenschatz, keine Ahnung, ich kann dir nicht genau sagen, wofür steht, auf jeden Fall so Geologie, war der zwei Jahre oder zweieinhalb Jahre in Mauretanien, hat einen Arsch voll Geld verdient, sich in den zwei Jahren irgendwie 100.000 Euro verdient, weil er, keine Ahnung, oder noch mehr, weil er Zuschläge bekommen hat und Auslandszuschläge, Risiko und was weiß ich nicht wie.",
+      "timestamp": "00:25:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Er hat dort halt nur rumgepimmelt, weil quasi nichts ging, er musste da mit so einem Gerät arbeiten und das Gerät war irgendwie anderthalb Jahre lang kaputt und er hat quasi eigentlich nichts gemacht so und ich denke mir so, wie kann ich zwei Jahre lang so, also, also auch so nicht mal auf die Idee kommen, was zu machen, weißt du, der hat dann da gesessen, ich meine, der hat dann angefangen irgendwie Französisch zu lernen, weil er das da halt brauchte",
+      "timestamp": "00:25:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "und also und hat das dann da halt relativ viel gemacht mit irgendwie Duolingo und sowas, aber da saß da teilweise irgendwie, hat er im Büro geschlafen und solche Sachen, wo ich denke so, Alter.",
+      "timestamp": "00:26:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Kannst du ja auch anders machen, ne?",
+      "timestamp": "00:26:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, das ist so, naja, aber ich finde das immer gut irgendwie, ich habe immer irgendwas in meinem Mind, irgendein Projekt oder irgendwas, was ich verfolge, auch wenn das am Ende noch nicht mit Erfolg gekrönt ist oder weiß ich nicht wie, aber das, was ich am Ende lerne und wie ich mich weiterentwickele, wenn man das mal gegen das gegenstellt, was jemand wie er, er quasi sich an Gehirnzellen am Ende auch wieder irgendwie verfallert, oder weiß ich nicht wie, weil dieses, was das auch mit einem macht so, ne?",
+      "timestamp": "00:26:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Dieses so, ja okay, er war danach dann ja arbeitslos und hat halt seinen Arsch halt gar nicht aus dem Bett gekriegt und so, ne?",
+      "timestamp": "00:26:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Also, wobei, wobei, wobei.",
+      "timestamp": "00:26:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ich habe Phase aktuell auch manchmal, gerade mit der Aussicht, nach einem Job zu suchen, also diese Jobsuchen-Struggle, den kann ich voll verstehen, gerade wenn man sich anguckt, was im Moment in der Wirtschaft so, viele Leute, also die meisten Unternehmen wollen Leute weiterhin entlassen, wollen Leute loswerden und ja, ist so, und auf der anderen Seite, verlasse ich auf anderen, du bist verlassen, das ist halt auch das, du darfst dich halt selber drum kümmern und Ich glaube, das ist ein ganz großes Thema, bei mir zumindest, und ich vermute auch bei dir, das ist halt unser mangelnder Selbstwert, und dann der Perfektionismus dabei, dass man halt meint, ja das, was ich ja kann, das bringt ja niemandem was, und bla bla bla, weißt du, und das ist ja , das ist einfach nur totale , aber das ist halt die Geschichte, die wir uns immer schön erzählen.",
+      "timestamp": "00:27:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Na ja, das ist so.",
+      "timestamp": "00:27:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Habe ich jetzt gerade ein Video gehört, nicht gesehen, weil ich für ein New York abgeholt habe.",
+      "timestamp": "00:27:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Habe ich aber irgendwann schon mal gesehen, wo es darum ging, dass um Beyoncé oder sowas ging und wie sie sozusagen für solche Situationen einen anderen zweiten Charakter sozusagen, sich so eine zweite Persönlichkeit überlegt hat, die halt irgendwie selbstbewusst ist oder sowas und dann halt quasi sich überlegt hat, okay, was hat so eine Person, hat der einen Namen gegeben, hat der eine Persönlichkeit gegeben am Ende und hat halt gesagt, okay, die geht aufrecht, die ist selbstbewusst.",
+      "timestamp": "00:28:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Die redet selbstbewusst und sowas und hat so, also das war irgendwie wohl ein Teil ihres Erfolgs, sag ich mal, am Ende, dass sie halt genau so über sich gedacht hat und am Ende ist es halt wirklich sowas, man muss halt einfach am Ende an sich glauben und man muss halt auf diese ganze, man muss halt ehrlich sagen, in der heutigen digitalen Welt gibt es halt auch einfach super viel Neues, sag ich mal, super viel , den man sich reinziehen kann, wo man daran festhängt,",
+      "timestamp": "00:28:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Und man muss halt, ja, ich muss, ich will das nicht auch verallgemeinern, nicht dieser Mann, sondern ich muss einfach mehr machen mit dem, was ich hier drin habe, anstatt mich auf irgendwelche Sachen, die einem immer wieder reingespielt werden, wo man irgendwie meint, man bräuchte sie.",
+      "timestamp": "00:29:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Die, nein, braucht man nicht, braucht man nicht.",
+      "timestamp": "00:29:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Das einzige, was ich brauche, ist ein produziertes YouTube-Video, was auch mit dem Upload-Button bedient wird, so, das ist so.",
+      "timestamp": "00:29:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Genau.",
+      "timestamp": "00:29:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Und es sieht sowieso niemand.",
+      "timestamp": "00:29:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, und das ist ja, ich habe da ein cooles, cooles Dings gesehen, also tatsächlich so ein YouTuber, der, der wirklich so gefühlt meinen Struggle so komplett, 100 Prozent, so greift und der meinte so, ja, stell dir mal vor, du, du, das ist wie, wie so ein Hausbau.",
+      "timestamp": "00:29:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So, du, das geht, du baust zwei Jahre an diesem scheiß Haus.",
+      "timestamp": "00:29:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Und von den ersten anderthalb Jahren siehst du erst mal oder im ersten Jahr siehst du einfach gar nichts.",
+      "timestamp": "00:30:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "baust das Fundament, du siehst gar nichts.",
+      "timestamp": "00:30:07"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Und am Ende steht halt irgendwann dieses Haus und dann kommt halt alles zusammen.",
+      "timestamp": "00:30:10"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Wenn du dann eine kleine Veränderung machst am Ende und irgendwas anpasst, dann wechselst du halt die Steckdosen aus oder dann wechselst du die Glühbirnen oder sowas.",
+      "timestamp": "00:30:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Aber an dem Haus, an dem Grundkonstrukt, an der Marke in dem Fall im übertragenen Sinne oder an deinem Kanalfokus, sag ich mal so, da wird sich nicht viel dran ändern mit einem einzelnen Video sozusagen.",
+      "timestamp": "00:30:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Aber am Anfang hast du das halt alles unter Kontrolle.",
+      "timestamp": "00:30:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Du musst halt gucken, wo fange ich an, wo baue ich, wo setze ich den ersten Stein, wo mache ich was.",
+      "timestamp": "00:30:44"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Und ich glaube, das ist halt so dieser Struggle, den viele Leute so haben, dass sie erwarten.",
+      "timestamp": "00:30:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Also ich selber auch erwarte, dass man halt irgendwie innerhalb.",
+      "timestamp": "00:30:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Kokonforsitz, der Und",
+      "timestamp": "00:30:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Weil es den halt bei ganz vielen Leuten gibt, diesen schnellen Erfolg.",
+      "timestamp": "00:31:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Aber meistens ist es nicht deren erster Kanal, es ist deren zweiter, vielleicht deren dritter Kanal.",
+      "timestamp": "00:31:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "siehst Leute links und rechts irgendwo irgendwie viral gehen oder was weiß ich nicht wie.",
+      "timestamp": "00:31:08"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Aber das ist halt erstens nicht die Norm und zweitens, nur weil die Videos das nicht tun vielleicht, heißt das ja noch lange nicht, dass du nicht an deinem Fundament von deinem Haus weiterbaust.",
+      "timestamp": "00:31:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Weißt du, nur weil ich dann sage, oh ja, der Stein saß jetzt nicht richtig.",
+      "timestamp": "00:31:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ich habe jetzt hier niemanden geguckt, der sich meinen schönen Stein, den ich da gesetzt habe, angeguckt hat.",
+      "timestamp": "00:31:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Deswegen höre ich jetzt auf.",
+      "timestamp": "00:31:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja genau.",
+      "timestamp": "00:31:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, das ist der Punkt, genau.",
+      "timestamp": "00:31:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und halt an der Stelle auch die ganzen Erfahrungen, die du machst, alle Geschichten, die du dir halt dabei bringst und, und, und.",
+      "timestamp": "00:31:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Das ist halt der Hockey-Stick-Effekt, ganz klar und nichts anderes, gell.",
+      "timestamp": "00:31:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und, ja, Hockey-Stick-Effekt, du, jede, ah, jede, jede, jede Steinchen, das du halt Bewegschlitschen, und.",
+      "timestamp": "00:31:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Adrian hat nachher irgendeine Funktion später und ohne den Aufwand wirst du halt nie dahin kommen und das muss jetzt einfach sein, das gehört mit dazu und das ist halt die Frage, ziehst du es durch oder lässt du es bleiben und ja, mei.",
+      "timestamp": "00:32:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So ist es, so ist es und ich habe jetzt was saugeiles angefangen, jetzt am Wochenende und zwar habe ich angefangen mich selber zu filmen, wie ich Videos mache.",
+      "timestamp": "00:32:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ich habe das erst einmal kurz ausprobiert, nur für Ideenfindung, so einen ganz kurzen Part.",
+      "timestamp": "00:32:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Alter, ich kann dir genau sagen, woher Prokrastination, Perfektionismus, was auch immer an der Stelle tatsächlich eher die Prokrastination kommt, weil ich kann manchmal in manchen Phasen, mir sind diese ausprobiert.",
+      "timestamp": "00:32:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ich dann teilweise nicht bewusst, die sind irgendwo innerlich verankert, sodass ich irgendwie überfordert bin, weil ich kein System habe, was für mich wiederholbar ist oder was ich wieder anwenden kann.",
+      "timestamp": "00:33:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Kein Wunder, dass ich das nicht hinkriege oder nicht mehr hinkriege, weißt du?",
+      "timestamp": "00:33:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Das führt dann zu gefühlter Überforderung und dann weißt du nicht mehr, wie es weitergeht.",
+      "timestamp": "00:33:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Genau.",
+      "timestamp": "00:33:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Das sind dann deine Arbeitsplatzen zu groß letzten Endes und dann weißt du nicht mehr, wo hinkriegst.",
+      "timestamp": "00:33:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ich kenne das genauso.",
+      "timestamp": "00:33:25"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Die sitzen Auto vor oder mir fehlt dann so die...",
+      "timestamp": "00:33:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Alter, halt eigentlich auf, oder?",
+      "timestamp": "00:33:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Warte, ich zeige dir, was ich heute bastelt habe, dass du siehst.",
+      "timestamp": "00:33:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ähm...",
+      "timestamp": "00:33:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Darf ich die jetzt endlich mal pushen?",
+      "timestamp": "00:33:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Alter, läuft die pushen.",
+      "timestamp": "00:33:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ich habe heute...",
+      "timestamp": "00:33:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Endlich.",
+      "timestamp": "00:33:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So.",
+      "timestamp": "00:33:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ich habe heute nicht Landingpage vor.",
+      "timestamp": "00:33:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und saß ich auch davor.",
+      "timestamp": "00:33:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Hey, ich habe keine Ahnung, wie es jetzt aussehen soll.",
+      "timestamp": "00:33:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Schlag mich tot, tot und Teufel, ja?",
+      "timestamp": "00:33:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ich bin teilweise echte Volkssätze wie der Oxenberg, aber das gibt es doch nicht.",
+      "timestamp": "00:33:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und...",
+      "timestamp": "00:33:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Irgendwann ging es dann aber und dann...",
+      "timestamp": "00:33:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ich bin gerade leicht überfordert.",
+      "timestamp": "00:34:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ich vermute, das hier könnte klappen.",
+      "timestamp": "00:34:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Moment.",
+      "timestamp": "00:34:08"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, jetzt sehe ich was, ja.",
+      "timestamp": "00:34:10"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Siehst du jetzt auch noch was?",
+      "timestamp": "00:34:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Jawohl.",
+      "timestamp": "00:34:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Genau, und ich habe halt das Thema gehabt, also so sieht es halt dann, die Dinge oben stimmen noch nicht, aber so soll es dann halt sein und ich will es so ein bisschen in eine humoreske Ebene reinpacken.",
+      "timestamp": "00:34:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Also Great Starving Dumpsters so als Joke letzten Endes und das mit ohne Wahrsagerin bla bla und halt immer so ein bisschen no crystal ball required.",
+      "timestamp": "00:34:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Mhm.",
+      "timestamp": "00:34:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und dann saß ich halt auch da, also ich habe mich erstmal damit auseinandergesetzt, wie bei euch denn eine Landingpage, was muss ich machen?",
+      "timestamp": "00:34:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay, meine Hero-Section ist das Wichtigste, weil 100% der Besucher sehen deine Hero-Section.",
+      "timestamp": "00:34:44"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja.",
+      "timestamp": "00:34:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und wenn die halt nicht läuft, dann hast du ein Problem.",
+      "timestamp": "00:34:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und ich glaube, die ist inzwischen ganz gut.",
+      "timestamp": "00:34:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Da kommt noch ein schönes Video rein oder was weiß ich, und dann denke ich es aber weiter, okay, im nächsten...",
+      "timestamp": "00:34:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Soll ich das Problem verstärken?",
+      "timestamp": "00:35:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Wie mache ich denn das?",
+      "timestamp": "00:35:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay, dann habe dann einfach mal so eine Kopie schreiben lassen und habe da seitelange Texte gehabt und er leckt mich am Arsch.",
+      "timestamp": "00:35:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Nicht geil, weil ich will sie auch visualisieren, habe eine Homepage, habe ich ja die Möglichkeit.",
+      "timestamp": "00:35:08"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay, cool, eigentlich wäre so eine Timeline, ich komme morgens in die Kantine, was läuft denn alles schief?",
+      "timestamp": "00:35:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Dann habe ich mir jetzt halt hier so The Hidden Cost of Unplanned Operations, das ist auch noch nicht die richtige Copy, ist halt mal irgendwie eine Copy, aber die Idee ist schon mal ganz gut und dann letzten Endes hier halt so, morgens 6 Uhr, der chaotische Start, blablabla, halt irgendwie so, was das jetzt aufbaut, dann kommt hier halt dann irgendein Bild dazu rein, dann hier und so weiter, also die ganzen Probleme werden erst mal verstärkt letzten Endes.",
+      "timestamp": "00:35:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Im nächsten Schritt gehe ich dann hin und sage, hey, die Lösung sieht dann so und so aus, das heißt, jetzt kommt das Gleiche nochmal, dann in grün, hey, guck mal, organisierte Planung, du hast die Einkaufsliste, babababababa, oder wie auch immer das dann nachher aussieht, ja, und so habe ich es jetzt dann aufbaut, aber bis ich da davor saß und mal da draufgekommen bin, wenn ich das so darstelle,",
+      "timestamp": "00:35:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Aber ich finde es richtig geil, also Effekt 1+, finde ich richtig gut.",
+      "timestamp": "00:36:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Und manchmal, also das Ding ist, das ist ja Kreativität.",
+      "timestamp": "00:36:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Das Ding ist, sowas kannst du manchmal nicht erzwingen, weißt du, und was ich halt so irgendwie in der letzten Zeit halt irgendwie auch immer wieder lerne über mich selber, ist, dass es einen Scheißdreck bringt, wenn ich Kreativität will, aber mich vor den Rechner setze und denke so, mach jetzt.",
+      "timestamp": "00:36:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Was für mich Kreativität, wie das bei mir funktioniert, ist, entweder gehe ich einen Spaziergang machen oder ich setze mich aufs Sofa mit meinem schönen Büchlein hier und setze mich mal hin und habe einfach mal eine Stunde im Zweifelsfall, Langeweile.",
+      "timestamp": "00:36:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So, dann weißt du, kannst du mir glauben, wie viel Kreativität da rauskommt, ey.",
+      "timestamp": "00:36:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:36:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay.",
+      "timestamp": "00:36:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Mit was hast du denn durch Aufzeichnen?",
+      "timestamp": "00:37:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Welches Programm hast du dazu genommen?",
+      "timestamp": "00:37:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Einfach irgendeinen Rekorder halt?",
+      "timestamp": "00:37:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, ich habe halt OBS, weil ich das hier für Dings habe, auch für diese Videoaufnahmen und sowas.",
+      "timestamp": "00:37:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Muss man sich kurz ein bisschen reinfuchsen, aber OBS ist halt eigentlich immer super easy.",
+      "timestamp": "00:37:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Also kannst dann halt einfach Aufnahmen starten, zack, kannst du dann unten eine Szene erstellen.",
+      "timestamp": "00:37:16"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Also es ist halt so eine Streaming-Plattform eigentlich.",
+      "timestamp": "00:37:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Aber du kannst damit halt alles machen.",
+      "timestamp": "00:37:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ganz normale Aufnahmen machen die meisten Leute auch so tatsächlich.",
+      "timestamp": "00:37:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Das ist kostenlos.",
+      "timestamp": "00:37:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Weißt du, wie es eine Verstärkung kannst, was du getan hast?",
+      "timestamp": "00:37:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Glaube ich.",
+      "timestamp": "00:37:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Speak it out loud.",
+      "timestamp": "00:37:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, genau.",
+      "timestamp": "00:37:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Deswegen meine ich auch.",
+      "timestamp": "00:37:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay,-Aussprecher.",
+      "timestamp": "00:37:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Bisschen wie so ein Streamer halt auch wirklich.",
+      "timestamp": "00:37:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Keine Ahnung, der halt irgendwie erzählt, was er gerade macht.",
+      "timestamp": "00:37:44"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ich brauchte mir keine fünf Minuten angucken.",
+      "timestamp": "00:37:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ich habe zehn Sachen gesehen, gefühlt, wo ich Errors habe.",
+      "timestamp": "00:37:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Und das Ding ist, ich finde das krass, weil mir ist die Idee zum Beispiel auch gekommen.",
+      "timestamp": "00:37:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Genau.",
+      "timestamp": "00:37:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, genau.",
+      "timestamp": "00:37:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Genau so, auf dem Sofa.",
+      "timestamp": "00:38:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ich habe mich aufs Sofa gesetzt mit meinem Notizbuch und habe irgendwie darüber nachgedacht, was kann ich denn auch für Tipps für bestimmte Situationen geben und mir selber geben?",
+      "timestamp": "00:38:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Und dann habe ich darüber nachgedacht, okay, was mache ich denn bei einem Sport?",
+      "timestamp": "00:38:09"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Wie lerne ich denn einen Sport, wenn ich Discoholfen gehe?",
+      "timestamp": "00:38:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Wenn ich nicht weiter weiß, dann nehme ich mich auf.",
+      "timestamp": "00:38:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Dann nehme ich mich auf und gucke mir an, was mache ich denn für Fehler?",
+      "timestamp": "00:38:16"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Und dann habe ich mir gedacht, ja, genau so ist es.",
+      "timestamp": "00:38:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ich muss dir nur was schicken.",
+      "timestamp": "00:38:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Wo kann ich dir das schicken, dass du das angucken kannst, es langsam im Draft-Mode ist?",
+      "timestamp": "00:38:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ich habe nochmal einen Artikel geschrieben und zwar quasi eine nicht-technische Anleitung, wie man Landingpages baut.",
+      "timestamp": "00:38:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Also auf was kommt es denn an, eine Landingpage zu bauen?",
+      "timestamp": "00:38:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Wie komme ich da jetzt dran?",
+      "timestamp": "00:38:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Müssen wir mal gucken, ob ich den so schicke kann.",
+      "timestamp": "00:38:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Da könntest mal drüber lesen, was du davon hältst.",
+      "timestamp": "00:38:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und das habe ich auch spannend gemacht.",
+      "timestamp": "00:38:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ich bin hingegangen und habe mir ein YouTube-Video anguckt zum Thema Landingpages.",
+      "timestamp": "00:38:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und habe mir einfach ein Notizen reingeschrieben, nur so ein paar Sätze letzten Endes und bin danach dann hingegangen und habe gesagt, hey, ich mache nur so Storytelling drüber, also als Einleitung letzten Endes und sage dann, hey Claude, hier ist mein Input, hier ist meine Story, pack die drüber und jetzt baue wir daraus einen Artikel.",
+      "timestamp": "00:39:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und ich finde, der ist ziemlich geil geworden.",
+      "timestamp": "00:39:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Das ist eine Frage, wie kriege ich denn zu dir?",
+      "timestamp": "00:39:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Da hätte ich gerne ein Feedback dazu.",
+      "timestamp": "00:39:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ah, okay, ich kann dir den schicken.",
+      "timestamp": "00:39:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, kannst du mir den bei WhatsApp schicken oder bei Dings?",
+      "timestamp": "00:39:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ich schicke es dir gerade bei WhatsApp.",
+      "timestamp": "00:39:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Probieren ob du draufkommst.",
+      "timestamp": "00:39:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, unpublished Posts steht hier.",
+      "timestamp": "00:39:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay, sign in to dev to enjoy its full potential.",
+      "timestamp": "00:39:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay, egal, habe ich weggeklickt?",
+      "timestamp": "00:39:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja.",
+      "timestamp": "00:39:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Okay, gedrückt, dann nochmal zurückgedrückt und jetzt bin ich hier.",
+      "timestamp": "00:40:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "the 80-20% learning page rules, wenn 80% hier geht.",
+      "timestamp": "00:40:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Willst du, soll ich mir das in Ruhe durchlesen?",
+      "timestamp": "00:40:10"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Lese es immer in Ruhe durch und sag mal, ob es dir was bringt zum einen und zum anderen, ob sie es gut lesen lässt.",
+      "timestamp": "00:40:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Mach ich, mach ich.",
+      "timestamp": "00:40:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Gerne, vor allen Dingen, weil ich finde das auch spannend, weil es für mich auch irgendwann zumindest Thema ist, aktuell noch nicht.",
+      "timestamp": "00:40:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Aber ich finde auch immer noch geil, dein Profilbild, da habe ich dir, das ist immer noch das Bild, was du mit Dings gemacht hast, ne?",
+      "timestamp": "00:40:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, naja.",
+      "timestamp": "00:40:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Aber es ist geil, ich finde das richtig gut.",
+      "timestamp": "00:40:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja.",
+      "timestamp": "00:40:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, top.",
+      "timestamp": "00:40:44"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Gucke ich mir gerne an.",
+      "timestamp": "00:40:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Habe ich da, also ich habe da nicht irgendwie begrenzend.",
+      "timestamp": "00:40:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Nein, das ist einfach, es ist in Draftisch halt nicht veröffentlicht, aber zugänglich für alle quasi.",
+      "timestamp": "00:40:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja.",
+      "timestamp": "00:40:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja.",
+      "timestamp": "00:40:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, voll gut.",
+      "timestamp": "00:40:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Und ich hoffe, es bringt was, weil das fand ich...",
+      "timestamp": "00:40:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ein echt gutes.",
+      "timestamp": "00:41:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "War halt auch wieder geil.",
+      "timestamp": "00:41:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Einen Tipp gefunden.",
+      "timestamp": "00:41:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ich habe dann so ein bisschen rumgeguckt bezüglich dem ganzen Zeug.",
+      "timestamp": "00:41:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und was ich auch mega gut fand, dieses .com Secrets von dem Russell Branson.",
+      "timestamp": "00:41:07"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Hast du das schon mal gehört?",
+      "timestamp": "00:41:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, habe ich ja noch nicht gelesen, aber ja.",
+      "timestamp": "00:41:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ich habe den immer so ein bisschen mit seinem Funnel und immer Azumülle und sowas.",
+      "timestamp": "00:41:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Das fand ich irgendwie seltsam.",
+      "timestamp": "00:41:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ich habe mir jetzt mal reingelesen, das Buch ist richtig cool, wie er halt sagt, diese Funnels, wie die funktioniert.",
+      "timestamp": "00:41:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und das ist mir dann auch mal klar geworden, weil ich habe es dann wieder gelesen, weil ich gucke, hey, wie funktioniert ein SEO?",
+      "timestamp": "00:41:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und letzten Endes hast du da auch einen Trichter.",
+      "timestamp": "00:41:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Du hast erst mal letzten Endes Artikel, die relativ viele ansprechen.",
+      "timestamp": "00:41:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und dann tunnelst du immer weiter runter mit deinen Artikeln.",
+      "timestamp": "00:41:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Also fängst du halt an mit Optionsstrategien.",
+      "timestamp": "00:41:44"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Dann gehst du nach hinten, machst einen Vergleich zwischen Trading-Journalen, bist halt schon wieder weiter im Trichter drin.",
+      "timestamp": "00:41:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und nachher gehst du dann halt hin und gehst dann ganz ins Detail rein, wie du dann das verwendest, zum Beispiel.",
+      "timestamp": "00:41:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Aber an der Stelle und dann halt auch allein dieses, ah, okay.",
+      "timestamp": "00:41:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Dank.",
+      "timestamp": "00:41:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ich habe sehr genossen, dich mal wiederzusehen.",
+      "timestamp": "00:43:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, ich auch.",
+      "timestamp": "00:43:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Das machen wir auf jeden Fall.",
+      "timestamp": "00:43:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Aber wer ist das?",
+      "timestamp": "00:43:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Der ist in Hannover.",
+      "timestamp": "00:43:05"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Der wohnt in Hannover.",
+      "timestamp": "00:43:08"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Wie lange der fahren muss von uns aus?",
+      "timestamp": "00:43:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Boah, bestimmt 6,5 Stunden bestimmt.",
+      "timestamp": "00:43:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, wenn es reicht, ne?",
+      "timestamp": "00:43:16"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "7.",
+      "timestamp": "00:43:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "War das hier noch?",
+      "timestamp": "00:43:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Das ist vorbei.",
+      "timestamp": "00:43:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Das ist, Rottweiler Tuttling macht, der Bock nicht.",
+      "timestamp": "00:43:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Da ist schon eine halbe Stunde hin oder her.",
+      "timestamp": "00:43:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Warte mal, ich gucke mal bei Maps.",
+      "timestamp": "00:43:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Warte mal.",
+      "timestamp": "00:43:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ah, wenn mein PC.",
+      "timestamp": "00:43:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Warte mal.",
+      "timestamp": "00:43:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Mein guter PC, Alter.",
+      "timestamp": "00:43:33"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "So.",
+      "timestamp": "00:43:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Wohin?",
+      "timestamp": "00:43:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Wie heißt es?",
+      "timestamp": "00:43:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Rottweiler oder Tuttlingen?",
+      "timestamp": "00:43:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "egal.",
+      "timestamp": "00:43:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Tuttlingen.",
+      "timestamp": "00:43:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Moin.",
+      "timestamp": "00:43:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Mein Standort?",
+      "timestamp": "00:43:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "7 Stunden, schätze ich.",
+      "timestamp": "00:43:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Jo.",
+      "timestamp": "00:43:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ähm.",
+      "timestamp": "00:43:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, warte mal ein Dings.",
+      "timestamp": "00:43:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ja, 6,5.",
+      "timestamp": "00:43:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "6,5.",
+      "timestamp": "00:43:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Okay, 6,5.",
+      "timestamp": "00:43:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Wollen wir verschwimmen?",
+      "timestamp": "00:43:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Du?",
+      "timestamp": "00:43:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "nicht.",
+      "timestamp": "00:43:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Du Ja.",
+      "timestamp": "00:43:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Du",
+      "timestamp": "00:43:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Klipp gerade an der Kamera, glaube ich.",
+      "timestamp": "00:44:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Guck mal, Sola.",
+      "timestamp": "00:44:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Warte, worum geht's?",
+      "timestamp": "00:44:05"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Das muss doch gehen.",
+      "timestamp": "00:44:07"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ah, mal.",
+      "timestamp": "00:44:08"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Bei mir geht's leider nicht.",
+      "timestamp": "00:44:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Du musst das Herz auch sehen, mein Schatz.",
+      "timestamp": "00:44:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Nee, das erkennt's irgendwie nicht.",
+      "timestamp": "00:44:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Warte, guck mal, mach mal so.",
+      "timestamp": "00:44:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "So, guck mich doch mal an.",
+      "timestamp": "00:44:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Guck mal so, mach mal so.",
+      "timestamp": "00:44:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Nein, du hast die Hände, du musst dir alle Finger zusammen.",
+      "timestamp": "00:44:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Alle Finger zum Herz hin machen, alle.",
+      "timestamp": "00:44:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Und dann wird es vielleicht auch gehen.",
+      "timestamp": "00:44:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Guck mal.",
+      "timestamp": "00:44:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Nee, irgendwie wird es nicht erkennen.",
+      "timestamp": "00:44:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Mhm.",
+      "timestamp": "00:44:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Mhm.",
+      "timestamp": "00:44:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Marc, ich wünsch dir was.",
+      "timestamp": "00:45:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Jo, ebenso.",
+      "timestamp": "00:45:05"
+    },
+    {
+      "speaker": {
+        "display_name": "Marc-Jannis Blumenhagen",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ciao.",
+      "timestamp": "00:45:06"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Nächste Woche oder sowas vielleicht.",
+      "timestamp": "00:45:06"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ja, gerne.",
+      "timestamp": "00:45:08"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Alles klar.",
+      "timestamp": "00:45:09"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ciao.",
+      "timestamp": "00:45:10"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Liebe Grüße.",
+      "timestamp": "00:45:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ciao, Sola.",
+      "timestamp": "00:45:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "Ciao.",
+      "timestamp": "00:45:13"
+    }
+  ]
+}

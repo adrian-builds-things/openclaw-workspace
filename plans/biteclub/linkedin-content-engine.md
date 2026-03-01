@@ -85,3 +85,9 @@ Wir testen bei Bite Club gerade einen simplen 4-Schritte-Flow:
 - 1 Longform-Blogoutline + 1 fertigen Artikelentwurf
 - Kommentar-Ideen + DM-Follow-up-Textbausteine vorbereiten
 - Alles in reviewbaren Dateien, kein externer Versand ohne Freigabe
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

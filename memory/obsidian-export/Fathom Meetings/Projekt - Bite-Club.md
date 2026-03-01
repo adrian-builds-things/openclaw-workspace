@@ -63,3 +63,8 @@ Meetings: **11**
   - • The app aims to solve issues with meal ordering, food waste, and dietary restrictions for \~200 employees across multiple canteens
   - • Key features: weekly meal selection, notifications, reports for kitchen staff, and simple UI for low-literacy users
   - • Next steps: Schedule a call with the client to gather more details on current processes and infrastructure
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

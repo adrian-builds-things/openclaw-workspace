@@ -50,3 +50,9 @@ If **5 business days with 0 calls booked** OR **10 business days with 0 proposal
 - Open latest 7 rows.
 - Check trend in: positive replies, calls booked, proposals sent, revenue closed.
 - Read notes column for blockers requiring decision.
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

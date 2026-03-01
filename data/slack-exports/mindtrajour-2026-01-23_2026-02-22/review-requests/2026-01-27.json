@@ -1,0 +1,1011 @@
+[
+    {
+        "user": "U06QAS7FPUH",
+        "type": "message",
+        "ts": "1769520970.481159",
+        "client_msg_id": "88d02884-c926-4dfe-83c2-8a1ed9938dba",
+        "text": "*1. Title of the Review Request:*  Trade Share Functionality is extended\n*2. Define who should review the Document <@U018T4T64FR>* <@U05BP6JEKRD>, <@U05JJ8QHBHB>\n*3. Use this link:*<https:\/\/pr-391.d1z9ttkrxv363d.amplifyapp.com\/en\/options>\n*4. Focus on:*\n• Extended default expiration from 30 to 90 days\n• Trade sharing modal now views previously generated links.  \n• Expiration date can be changed \n• Deleting trade share links is possible now. \n• User can create new links. \n• Social buttons shares latest link. \n*5. Notes:* -\n*6. Review Timeline:*\n Deadline:  28th Jan 2026\n*7. Feedback Mechanism:* Comment here.",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "e6c03bfa2940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6814162374787_e6c03bfa29409aabbabf_72.jpg",
+            "first_name": "Enes",
+            "real_name": "Enes Zorlu",
+            "display_name": "Enes Zorlu",
+            "team": "T0197SMV2MQ",
+            "name": "enes.zrl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769520970.481159",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1769624993.338199",
+        "reply_users": [
+            "U018T4T64FR",
+            "U05BP6JEKRD",
+            "U06QAS7FPUH"
+        ],
+        "replies": [
+            {
+                "user": "U018T4T64FR",
+                "ts": "1769543654.684729"
+            },
+            {
+                "user": "U018T4T64FR",
+                "ts": "1769543662.325319"
+            },
+            {
+                "user": "U05BP6JEKRD",
+                "ts": "1769622808.866709"
+            },
+            {
+                "user": "U06QAS7FPUH",
+                "ts": "1769624049.274499"
+            },
+            {
+                "user": "U05BP6JEKRD",
+                "ts": "1769624993.338199"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1769624993.338199",
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.mindtrajour.com\/images\/ogThumbnail.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 274863,
+                "from_url": "https:\/\/pr-391.d1z9ttkrxv363d.amplifyapp.com\/en\/options",
+                "service_icon": "https:\/\/pr-391.d1z9ttkrxv363d.amplifyapp.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/pr-391.d1z9ttkrxv363d.amplifyapp.com\/en\/options",
+                "fallback": "MindTrajour - The Only Options Specific Trading Journal",
+                "text": "MindTrajour is the only options-specific trading journal that reveals your hidden patterns and improve your trading performance in just 60 seconds per trade. Start now and elevate your trading experience.",
+                "title": "MindTrajour - The Only Options Specific Trading Journal",
+                "title_link": "https:\/\/pr-391.d1z9ttkrxv363d.amplifyapp.com\/en\/options",
+                "service_name": "MindTrajour"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1+dfV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1. Title of the Review Request:  ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Trade Share Functionality is extended\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "2. Define who should review the Document ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U018T4T64FR",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05BP6JEKRD"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05JJ8QHBHB"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "3. Use this link:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pr-391.d1z9ttkrxv363d.amplifyapp.com\/en\/options"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "4. Focus on:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Extended default expiration from 30 to 90 days"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Trade sharing modal now views previously generated links.  "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Expiration date can be changed "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Deleting trade share links is possible now. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "User can create new links. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Social buttons shares latest link. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "5. Notes:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " -\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "6. Review Timeline:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n Deadline:  28th Jan 2026\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "7. Feedback Mechanism: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Comment here."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U018T4T64FR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06QAS7FPUH",
+        "type": "message",
+        "ts": "1769533069.769039",
+        "client_msg_id": "80fb7c4a-a0f3-4a70-9c10-1bc8d5d35cb6",
+        "text": "*1. Title of the Review Request:*  Trade Data Export in All Trades Table.\n*2. Define who should review the Document <@U018T4T64FR>* <@U05BP6JEKRD>, <@U05JJ8QHBHB>\n*3. Use this link:*<https:\/\/pr-392.d1z9ttkrxv363d.amplifyapp.com\/en\/options\/trades>\n*4. Focus on:* It was not clear if request is to export data from the table or row data that includes legs etc. From ticket I assumed it should be data from the table and thought it would be useful anyway so implemented it.\n• Export filtered trades with visible columns\n• Export all trades with all columns\n• Verify button disabled when no filtered data\n• Check dropdown remains accessible when main button disabled\n• Open CSV in Excel\/Sheets and verify clean number formatting\n• Verify Currency column shows \"USD\"\n• Test with German language translations\n*5. Notes:* -\n*6. Review Timeline:*\n Deadline:  29th Jan 2026\n*7. Feedback Mechanism:* Comment here.",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "e6c03bfa2940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6814162374787_e6c03bfa29409aabbabf_72.jpg",
+            "first_name": "Enes",
+            "real_name": "Enes Zorlu",
+            "display_name": "Enes Zorlu",
+            "team": "T0197SMV2MQ",
+            "name": "enes.zrl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769533069.769039",
+        "reply_count": 21,
+        "reply_users_count": 4,
+        "latest_reply": "1769687344.898489",
+        "reply_users": [
+            "U018T4T64FR",
+            "U06QAS7FPUH",
+            "U05BP6JEKRD",
+            "U05JJ8QHBHB"
+        ],
+        "replies": [
+            {
+                "user": "U018T4T64FR",
+                "ts": "1769543804.536509"
+            },
+            {
+                "user": "U018T4T64FR",
+                "ts": "1769543893.918309"
+            },
+            {
+                "user": "U018T4T64FR",
+                "ts": "1769543919.846159"
+            },
+            {
+                "user": "U06QAS7FPUH",
+                "ts": "1769545076.805309"
+            },
+            {
+                "user": "U06QAS7FPUH",
+                "ts": "1769545277.322949"
+            },
+            {
+                "user": "U018T4T64FR",
+                "ts": "1769546927.486159"
+            },
+            {
+                "user": "U06QAS7FPUH",
+                "ts": "1769548733.408659"
+            },
+            {
+                "user": "U05BP6JEKRD",
+                "ts": "1769623346.618699"
+            },
+            {
+                "user": "U06QAS7FPUH",
+                "ts": "1769623984.553289"
+            },
+            {
+                "user": "U05BP6JEKRD",
+                "ts": "1769624259.943769"
+            },
+            {
+                "user": "U06QAS7FPUH",
+                "ts": "1769624278.703949"
+            },
+            {
+                "user": "U06QAS7FPUH",
+                "ts": "1769624299.389519"
+            },
+            {
+                "user": "U06QAS7FPUH",
+                "ts": "1769624348.564769"
+            },
+            {
+                "user": "U06QAS7FPUH",
+                "ts": "1769624394.356889"
+            },
+            {
+                "user": "U05BP6JEKRD",
+                "ts": "1769624854.081439"
+            },
+            {
+                "user": "U05BP6JEKRD",
+                "ts": "1769624865.704129"
+            },
+            {
+                "user": "U06QAS7FPUH",
+                "ts": "1769630885.046619"
+            },
+            {
+                "user": "U05JJ8QHBHB",
+                "ts": "1769680798.437409"
+            },
+            {
+                "user": "U06QAS7FPUH",
+                "ts": "1769681437.677989"
+            },
+            {
+                "user": "U05JJ8QHBHB",
+                "ts": "1769681544.526079"
+            },
+            {
+                "user": "U018T4T64FR",
+                "ts": "1769687344.898489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1769687344.898489",
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.mindtrajour.com\/images\/ogThumbnail.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 274863,
+                "from_url": "https:\/\/pr-392.d1z9ttkrxv363d.amplifyapp.com\/en\/options\/trades",
+                "service_icon": "https:\/\/pr-392.d1z9ttkrxv363d.amplifyapp.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/pr-392.d1z9ttkrxv363d.amplifyapp.com\/en\/options\/trades",
+                "fallback": "MindTrajour - The Only Options Specific Trading Journal",
+                "text": "MindTrajour is the only options-specific trading journal that reveals your hidden patterns and improve your trading performance in just 60 seconds per trade. Start now and elevate your trading experience.",
+                "title": "MindTrajour - The Only Options Specific Trading Journal",
+                "title_link": "https:\/\/pr-392.d1z9ttkrxv363d.amplifyapp.com\/en\/options\/trades",
+                "service_name": "MindTrajour"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CyCS3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1. Title of the Review Request:  ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Trade Data Export in All Trades Table.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "2. Define who should review the Document ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U018T4T64FR",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05BP6JEKRD"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05JJ8QHBHB"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "3. Use this link:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pr-392.d1z9ttkrxv363d.amplifyapp.com\/en\/options\/trades"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "4. Focus on: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "It was not clear if request is to export data from the table or row data that includes legs etc. From ticket I assumed it should be data from the table and thought it would be useful anyway so implemented it.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Export filtered trades with visible columns"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Export all trades with all columns"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Verify button disabled when no filtered data"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Check dropdown remains accessible when main button disabled"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Open CSV in Excel\/Sheets and verify clean number formatting"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Verify Currency column shows \"USD\""
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Test with German language translations"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "5. Notes:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " -\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "6. Review Timeline:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n Deadline:  29th Jan 2026\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "7. Feedback Mechanism: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Comment here."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U018T4T64FR",
+        "type": "message",
+        "ts": "1769543654.684729",
+        "client_msg_id": "5c08feba-5486-423e-a1d7-8ef99b78606a",
+        "text": "looks good to me and seems to work well :slightly_smiling_face:",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "d73f62394d70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-20\/1314120389299_d73f62394d70e7c52de4_72.jpg",
+            "first_name": "Adrian",
+            "real_name": "Adrian",
+            "display_name": "Aaaaaaadriaaaaaaan",
+            "team": "T0197SMV2MQ",
+            "name": "adrian.rinnus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769520970.481159",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TuuEE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "looks good to me and seems to work well "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U018T4T64FR",
+        "type": "message",
+        "ts": "1769543662.325319",
+        "client_msg_id": "6b202429-3bf9-4536-8183-2612a1a16cec",
+        "text": "thank you Enes!",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "d73f62394d70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-20\/1314120389299_d73f62394d70e7c52de4_72.jpg",
+            "first_name": "Adrian",
+            "real_name": "Adrian",
+            "display_name": "Aaaaaaadriaaaaaaan",
+            "team": "T0197SMV2MQ",
+            "name": "adrian.rinnus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769520970.481159",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nt0qQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you Enes!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U018T4T64FR",
+        "type": "message",
+        "ts": "1769543804.536509",
+        "client_msg_id": "95bab691-7c2b-4131-a060-83680aa58dcc",
+        "text": "I was very confused by the drop down menu. The menu it self does not explain that only the filtered trades are exported. I have just seen it now in the PR description. we should improve the ui here. also the button is now a main CTA at least optically. not sure if this is the best way to display it.",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "d73f62394d70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-20\/1314120389299_d73f62394d70e7c52de4_72.jpg",
+            "first_name": "Adrian",
+            "real_name": "Adrian",
+            "display_name": "Aaaaaaadriaaaaaaan",
+            "team": "T0197SMV2MQ",
+            "name": "adrian.rinnus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769533069.769039",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/feH7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was very confused by the drop down menu. The menu it self does not explain that only the filtered trades are exported. I have just seen it now in the PR description. we should improve the ui here. also the button is now a main CTA at least optically. not sure if this is the best way to display it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "the disabled button looks weird in dark mode, but it works:",
+        "files": [
+            {
+                "id": "F0ABPR9E26M",
+                "created": 1769543891,
+                "timestamp": 1769543891,
+                "name": "CleanShot 2026-01-27 at 20.57.49@2x.png",
+                "title": "CleanShot 2026-01-27 at 20.57.49@2x.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U018T4T64FR",
+                "user_team": "T0197SMV2MQ",
+                "editable": false,
+                "size": 46137,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0197SMV2MQ-F0ABPR9E26M\/cleanshot_2026-01-27_at_20.57.49_2x.png?token=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0197SMV2MQ-F0ABPR9E26M\/download\/cleanshot_2026-01-27_at_20.57.49_2x.png?token=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0ABPR9E26M-4188baaf96\/cleanshot_2026-01-27_at_20.57.49_2x_64.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0ABPR9E26M-4188baaf96\/cleanshot_2026-01-27_at_20.57.49_2x_80.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0ABPR9E26M-4188baaf96\/cleanshot_2026-01-27_at_20.57.49_2x_360.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_360_w": 360,
+                "thumb_360_h": 68,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0ABPR9E26M-4188baaf96\/cleanshot_2026-01-27_at_20.57.49_2x_480.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_480_w": 480,
+                "thumb_480_h": 90,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0ABPR9E26M-4188baaf96\/cleanshot_2026-01-27_at_20.57.49_2x_160.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0ABPR9E26M-4188baaf96\/cleanshot_2026-01-27_at_20.57.49_2x_720.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_720_w": 720,
+                "thumb_720_h": 135,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0ABPR9E26M-4188baaf96\/cleanshot_2026-01-27_at_20.57.49_2x_800.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_800_w": 800,
+                "thumb_800_h": 150,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0ABPR9E26M-4188baaf96\/cleanshot_2026-01-27_at_20.57.49_2x_960.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_960_w": 960,
+                "thumb_960_h": 180,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0197SMV2MQ-F0ABPR9E26M-4188baaf96\/cleanshot_2026-01-27_at_20.57.49_2x_1024.png?t=xoxe-1313905988738-10552149263379-10558537042514-35eb6ea2ac0418e35011f89a2fcf6830",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 192,
+                "original_w": 1364,
+                "original_h": 256,
+                "thumb_tiny": "AwAKADCiFJBIBIHWhUZvuqTj0FJSqzL91iPoaYE26NFUPanOOpYjNIzxMh225HvuJxUTMWOWJJ9zSUAKFY9AT9BQVYdQR9aSikB\/\/9k=",
+                "permalink": "https:\/\/trdngjrnl.slack.com\/files\/U018T4T64FR\/F0ABPR9E26M\/cleanshot_2026-01-27_at_20.57.49_2x.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0197SMV2MQ-F0ABPR9E26M-f4e3de4875",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U018T4T64FR",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2nubl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the disabled button looks weird in dark mode, but it works:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1769543893.918309",
+        "client_msg_id": "2f3c6ef4-0a5f-4b03-bc62-9b0b30e7c902",
+        "thread_ts": "1769533069.769039",
+        "parent_user_id": "U06QAS7FPUH"
+    },
+    {
+        "user": "U018T4T64FR",
+        "type": "message",
+        "ts": "1769543919.846159",
+        "client_msg_id": "3590b833-5a64-4285-9225-35518b4af48c",
+        "text": "technically it looks good. thank you enes :slightly_smiling_face:",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "d73f62394d70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-20\/1314120389299_d73f62394d70e7c52de4_72.jpg",
+            "first_name": "Adrian",
+            "real_name": "Adrian",
+            "display_name": "Aaaaaaadriaaaaaaan",
+            "team": "T0197SMV2MQ",
+            "name": "adrian.rinnus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769533069.769039",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3CLGb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "technically it looks good. thank you enes "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06QAS7FPUH",
+        "type": "message",
+        "ts": "1769545076.805309",
+        "client_msg_id": "14b03614-7ee5-4319-a080-d51f1f1fb7e7",
+        "text": "Drop down is actually very common one available in apps like shortcut as well.\nopen to suggestions. I agree dark mode is not nice. it is part of theme we need to review maybe",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "e6c03bfa2940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6814162374787_e6c03bfa29409aabbabf_72.jpg",
+            "first_name": "Enes",
+            "real_name": "Enes Zorlu",
+            "display_name": "Enes Zorlu",
+            "team": "T0197SMV2MQ",
+            "name": "enes.zrl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769533069.769039",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t50MK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Drop down is actually very common one available in apps like shortcut as well.\nopen to suggestions. I agree dark mode is not nice. it is part of theme we need to review maybe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06QAS7FPUH",
+        "type": "message",
+        "ts": "1769545277.322949",
+        "client_msg_id": "9cea1b25-5f26-409c-9761-2bf930c493f5",
+        "text": "Just saw posthog has it as well. if we want default to export everything, we can do that as well.\n\nIn my opinion, when you have a table in front of you and something says Export CSV, it should export what you see.",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "e6c03bfa2940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6814162374787_e6c03bfa29409aabbabf_72.jpg",
+            "first_name": "Enes",
+            "real_name": "Enes Zorlu",
+            "display_name": "Enes Zorlu",
+            "team": "T0197SMV2MQ",
+            "name": "enes.zrl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769533069.769039",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dm10v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just saw posthog has it as well. if we want default to export everything, we can do that as well.\n\nIn my opinion, when you have a table in front of you and something says Export CSV, it should export what you see."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U018T4T64FR",
+        "type": "message",
+        "ts": "1769546927.486159",
+        "client_msg_id": "c22cd6c0-c882-43a4-840a-894ebca43a7f",
+        "text": "Okay I am not saying drop down is bad, just the text in the drop down is not easy to understand. At least it was confusing me. That's the only thing I want to mention",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "d73f62394d70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-20\/1314120389299_d73f62394d70e7c52de4_72.jpg",
+            "first_name": "Adrian",
+            "real_name": "Adrian",
+            "display_name": "Aaaaaaadriaaaaaaan",
+            "team": "T0197SMV2MQ",
+            "name": "adrian.rinnus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769533069.769039",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+oo8l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay I am not saying drop down is bad, just the text in the drop down is not easy to understand. At least it was confusing me. That's the only thing I want to mention"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06QAS7FPUH",
+        "type": "message",
+        "ts": "1769548733.408659",
+        "client_msg_id": "22a76ba5-ae1c-4f1a-944a-24b30c61d856",
+        "text": "What do you propose? Ofc we can improve if it is not clear",
+        "team": "T0197SMV2MQ",
+        "user_team": "T0197SMV2MQ",
+        "source_team": "T0197SMV2MQ",
+        "user_profile": {
+            "avatar_hash": "e6c03bfa2940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-17\/6814162374787_e6c03bfa29409aabbabf_72.jpg",
+            "first_name": "Enes",
+            "real_name": "Enes Zorlu",
+            "display_name": "Enes Zorlu",
+            "team": "T0197SMV2MQ",
+            "name": "enes.zrl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769533069.769039",
+        "parent_user_id": "U06QAS7FPUH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AWWeq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What do you propose? Ofc we can improve if it is not clear"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

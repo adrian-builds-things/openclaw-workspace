@@ -29,7 +29,7 @@ Ich habe diese Anleitung auch als Notiz für dich gespeichert.
   - Ressource: https://github.com/levineam/qmd-skill
 
 - **Session-Management & Context-Cleaning:**
-  - Anweisung: „Wende strikte Session Initialization Rules an. Lade beim Start jeder Sitzung ausschließlich die Dateien SOUL.md, USER.md und IDENTITY.md. Lade keine alte Historie oder vorherige Tool-Outputs automatisch. Nutze memory_search() nur bei expliziter Nachfrage.“
+  - Anweisung: „Wende strikte Session Initialization Rules an. Lade beim Start jeder Sitzung ausschließlich die Dateien [[SOUL]], [[USER]] und [[IDENTITY]]. Lade keine alte Historie oder vorherige Tool-Outputs automatisch. Nutze memory_search() nur bei expliziter Nachfrage.“
 
 - **Kostenlose Websuche (Exa.ai):**
   - Anweisung: „Nutze für Web-Recherchen das Exa.ai MCP. Binde es als Skill ein, um aktuelle Informationen ohne zusätzliche API-Kosten für teure Drittanbieter zu erhalten.“
@@ -56,9 +56,9 @@ Anstatt ganze Dokumente in den Prompt zu laden, was extrem viele Token verbrauch
 
 ### 2. Session-Initialisierungs-Regeln (Kosten senken von $0,40 auf $0,05)
 Standardmäßig laden Agenten oft die gesamte Historie (ca. 50 KB pro Nachricht), was pro Sitzung Millionen von Token verschwenden kann.
-- Schritt: Füge eine Regel zum System-Prompt deines Agenten hinzu, die festlegt, dass nur essenzielle Dateien (z. B. USER.md, SOUL.md) geladen werden.
+- Schritt: Füge eine Regel zum System-Prompt deines Agenten hinzu, die festlegt, dass nur essenzielle Dateien (z. B. [[USER]], [[SOUL]]) geladen werden.
 - Prompt-Beispiel aus dem Video:
-  > "SESSION INITIALIZATION RULE: On every session start: Load ONLY these files: SOUL.md, USER.md... DO NOT auto-load: Session history...".
+  > "SESSION INITIALIZATION RULE: On every session start: Load ONLY these files: [[SOUL]], [[USER]]... DO NOT auto-load: Session history...".
 - Beleg: Die Kontext-Größe sinkt von 50 KB auf 8 KB pro Start.
 
 ### 3. Kostenlose Websuche mit Exa.ai
@@ -85,3 +85,8 @@ Link: https://youtu.be/ZrBvPoFBVUo?si=
 ## Notiz
 
 Ablage als eigenständige Obsidian-kompatible Knowledge-Base-Datei gemäß Adrians Regel (voller Inhalt statt nur Zusammenfassung).
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]

@@ -1,0 +1,403 @@
+[
+    {
+        "user": "U03SDCEUKH6",
+        "type": "message",
+        "ts": "1769877840.745639",
+        "bot_id": "B03RPJA4R5Z",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T0197SMV2MQ",
+        "bot_profile": {
+            "id": "B03RPJA4R5Z",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U03SDCEUKH6",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1659210816,
+            "team_id": "T0197SMV2MQ"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[MindTrajour\/mindtrajour-app] 6 new commits pushed to _main_ by enszrlu",
+                "text": "`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/8ca6423ad3df66153b5bd99022318b8b8c4848a7|8ca6423a>` - feat(csv-export): Add CSV export functionality to all-trades table\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/87dfe949fce443f5b131c4460805cc7999b32a38|87dfe949>` - style(dropdown-focus-bg): change focus bg of dropdown to primary\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/f0fd376fc3fe9a7bf1425f27a78744bd72761c4d|f0fd376f>` - style(style-updates): Critical styling updates!!!\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/8275e674a4601358da676f457afa00fcb658fca5|8275e674>` - fix(export-button): Update export button description to have clear direction\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/3768d229d654ad78629c27799e4e992bd85dfad5|3768d229>` - feat(all-trades): add expiration date column\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/a31f36b145f5cc0092a91fa8df7a13df4ddbaac3|a31f36b1>` - Merge pull request #392 from MindTrajour\/eneszorlu\/sc-3449\/trade-data-export",
+                "pretext": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/compare\/086cb6ca855c...a31f36b145f5|6 new commits> pushed to `<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/tree\/main|main>` by <https:\/\/github.com\/enszrlu|enszrlu>",
+                "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B03RPJA4R5Z",
+        "thread_ts": "1769531109.815489",
+        "root": {
+            "user": "U03SDCEUKH6",
+            "type": "message",
+            "ts": "1769531109.815489",
+            "edited": {
+                "user": "B03RPJA4R5Z",
+                "ts": "1769878173.000000"
+            },
+            "bot_id": "B03RPJA4R5Z",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T0197SMV2MQ",
+            "bot_profile": {
+                "id": "B03RPJA4R5Z",
+                "app_id": "A01BP7R4KNY",
+                "user_id": "U03SDCEUKH6",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1659210816,
+                "team_id": "T0197SMV2MQ"
+            },
+            "thread_ts": "1769531109.815489",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1769877841.093399",
+            "reply_users": [
+                "U03SDCEUKH6"
+            ],
+            "replies": [
+                {
+                    "user": "U03SDCEUKH6",
+                    "ts": "1769877841.093399"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1769877841.093399",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1769531106,
+                    "color": "6f42c1",
+                    "fallback": "[MindTrajour\/mindtrajour-app] Pull request opened by enszrlu",
+                    "text": "## Summary\n\nImplements CSV export functionality for the all-trades table with a split-button dropdown interface, allowing users to export their trade data for external analysis in Excel or other tools.\n\n*Key Features:*\n\n• Export filtered trades with visible columns (default)\n• Export all trades with all columns option\n• Smart button states: main button disabled when no filtered data, dropdown remains accessible\n• Clean data formatting optimized for spreadsheet applications\n\n## Changes\n\n### New Components &amp; Utilities\n\n• *ExportCSVButton.tsx*: Split-button component with dropdown for export options\n• *csvUtils.ts*: Generic CSV utilities (supports both export and future import)\n• *tradeExportConfig.ts*: Trade-specific export column configuration\n\n### Data Format Improvements\n\n• Currency values exported as plain numbers (e.g., `150.50` instead of `+$150.50`)\n• Added Currency column showing \"USD\" (future-proof for multi-currency)\n• Days columns export numbers with \"(days)\" unit in header\n• All monetary fields use consistent 2-decimal formatting\n\n### Translations\n\n• English and German translations with dynamic trade counts\n• Dropdown descriptions: \"Export X filtered trade(s) with visible columns\"\n\n### Technical Details\n\n• Uses papaparse library for robust CSV generation with proper escaping\n• Generic utilities architecture supports future CSV import feature\n• Respects table filters and column visibility settings\n• Filename includes timestamp: `trades_export_2026-01-27.csv`\n\n## Acceptance Criteria Met\n\n:white_check_mark: Given I have trade data, when I click export, then I can download a properly formatted CSV file  \n:white_check_mark: Given I export data, when I open the file, then all relevant trade fields are included  \n:white_check_mark: Given I filter my trades, when I export, then only the filtered trades are included\n\n## Testing\n\n• Export filtered trades with visible columns\n• Export all trades with all columns\n• Verify button disabled when no filtered data\n• Check dropdown remains accessible when main button disabled\n• Open CSV in Excel\/Sheets and verify clean number formatting\n• Verify Currency column shows \"USD\"\n• Test with German language translations",
+                    "pretext": "Pull request opened by <https:\/\/github.com\/enszrlu|enszrlu>",
+                    "title": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/392|#392 feat: Add CSV export functionality to all-trades table>",
+                    "callback_id": "pr-opened-interaction",
+                    "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>",
+                    "fields": [
+                        {
+                            "value": "<@U018T4T64FR>",
+                            "title": "Reviewers",
+                            "short": true
+                        },
+                        {
+                            "value": "released",
+                            "title": "Labels",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;MindTrajour&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:170454763,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;mindtrajour-app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:683163664,&amp;amp;quot;number&amp;amp;quot;:392,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/392&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;feat: Add CSV export functionality to all-trades table&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "user": "U03SDCEUKH6",
+        "type": "message",
+        "ts": "1769877841.093399",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1769531106,
+                "color": "6f42c1",
+                "fallback": "[MindTrajour\/mindtrajour-app] Pull request merged by enszrlu",
+                "pretext": "Pull request merged by <https:\/\/github.com\/enszrlu|enszrlu>",
+                "title": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/392|#392 feat: Add CSV export functionality to all-trades table>",
+                "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>"
+            }
+        ]
+    },
+    {
+        "user": "U03SDCEUKH6",
+        "type": "message",
+        "ts": "1769877920.070949",
+        "bot_id": "B03RPJA4R5Z",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T0197SMV2MQ",
+        "bot_profile": {
+            "id": "B03RPJA4R5Z",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U03SDCEUKH6",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1659210816,
+            "team_id": "T0197SMV2MQ"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[MindTrajour\/mindtrajour-app] 7 new commits pushed to _main_ by enszrlu",
+                "text": "`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/2266ec130e9ee04eba12216b753f930c7728d849|2266ec13>` - (chore) ignore cursor mcp\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/57a04c0f8742a9cc27df233ed3dcaaa9faf2978c|57a04c0f>` - feat(trade-sharing): extend share link expiration to 90 days\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/986a14467047d50957c8c6504b010d68ea948f21|986a1446>` - feat(trade-sharing): add share link management with multiple links and custom expirations\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/da07b94f43bf92c3fd33c8dcbd0645279d7c50f6|da07b94f>` - fix(trade-sharing): use buildUrl utility for share links instead of hardcoded localhost\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/283359f5022c361e2825db699db2e40926c15b4d|283359f5>` - style(share-modal): Improve share modal visibility with long links\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/2c94e0b76c28251143d907c423169a877c21b93a|2c94e0b7>` - Merge branch 'main' into eneszorlu\/sc-3496\/extend-trade-share-link-expiration-to-90\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/1945b597aa973be3ced673bc99dee6ddedbe02c6|1945b597>` - Merge pull request #391 from MindTrajour\/eneszorlu\/sc-3496\/extend-trade-share-link-expiration-to-90",
+                "pretext": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/compare\/a31f36b145f5...1945b597aa97|7 new commits> pushed to `<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/tree\/main|main>` by <https:\/\/github.com\/enszrlu|enszrlu>",
+                "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "bot_id": "B03RPJA4R5Z",
+        "thread_ts": "1769515754.016059",
+        "root": {
+            "user": "U03SDCEUKH6",
+            "type": "message",
+            "ts": "1769515754.016059",
+            "edited": {
+                "user": "B03RPJA4R5Z",
+                "ts": "1769878172.000000"
+            },
+            "bot_id": "B03RPJA4R5Z",
+            "app_id": "A01BP7R4KNY",
+            "text": "",
+            "team": "T0197SMV2MQ",
+            "bot_profile": {
+                "id": "B03RPJA4R5Z",
+                "app_id": "A01BP7R4KNY",
+                "user_id": "U03SDCEUKH6",
+                "name": "GitHub",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+                },
+                "deleted": false,
+                "updated": 1659210816,
+                "team_id": "T0197SMV2MQ"
+            },
+            "thread_ts": "1769515754.016059",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1769877920.442729",
+            "reply_users": [
+                "U03SDCEUKH6"
+            ],
+            "replies": [
+                {
+                    "user": "U03SDCEUKH6",
+                    "ts": "1769515754.245329"
+                },
+                {
+                    "user": "U03SDCEUKH6",
+                    "ts": "1769877920.442729"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1769877920.442729",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                    "ts": 1769508335,
+                    "color": "6f42c1",
+                    "fallback": "[MindTrajour\/mindtrajour-app] Pull request opened by enszrlu",
+                    "text": "# Enhanced Trade Share Link Management\n\n## Summary\n\nExtends the trade sharing feature to support multiple share links per trade with customizable expiration dates and comprehensive link management capabilities.\n\n## Changes\n\n### :dart: Core Features\n\n• *Multiple Share Links*: Users can now create multiple share links for the same trade\n• *Custom Expirations*: Set expiration dates via presets (30 days, 90 days, 1 year, never)\n• *Link Management*: Create, update expiration, and delete share links with confirmation\n• *Auto-generation*: First link automatically generated on initial modal open (not after deletions)\n\n### :art: UI\/UX Improvements\n\n• *Mobile Responsive*: Modal and link items adapt to mobile screens (320px+)\n• *Scrollable List*: Fixed height scroll area activates when &gt;3 links exist\n• *Clickable Links*: Click anywhere on link item (except action buttons) to copy\n• *Visual Feedback*: Check icon appears when link is copied\n• *Exposed Actions*: Change expiration and delete buttons directly visible\n• *Keyboard Support*: Enter\/Space keys work on clickable link areas\n• *Hover States*: Dropdown menu items now highlight on hover\n\n### :wrench: Technical Implementation\n\n#### New Components\n\n• `ShareLinkItem.tsx`: Individual link display with actions\n• `expirationPresets.ts`: Utility for calculating expiration dates\n\n#### API Endpoints\n\n• `GET \/api\/trade-shares?tradeId={id}`: Fetch all active share links\n• `PATCH \/api\/trade-shares\/[shareCode]`: Update link expiration\n• `DELETE \/api\/trade-shares\/[shareCode]`: Deactivate share link\n\n#### Database\n\n• Extended default expiration from 30 to 90 days\n• Added client-side API wrapper functions\n• Server-side functions for link management\n\n### :earth_africa: Internationalization\n\n• Added operation-specific error messages (en\/de):  \n   • `failedToUpdateExpiration`  \n   • `failedToDeleteLink`  \n   • `failedToCreateLink`  \n   • `linkCreated`\n• Updated modal title: \"Your Share Links for This Trade\"\n• Generic warning message (no fixed expiration mention)\n\n### :wheelchair: Accessibility\n\n• ARIA labels for interactive elements\n• Keyboard navigation support (Enter\/Space)\n• Screen reader friendly\n• No ESLint accessibility errors\n\n## Testing\n\n### Manual Testing Checklist\n\n• Create multiple share links\n• Update expiration dates (all presets)\n• Delete links with confirmation\n• Copy link by clicking anywhere on item\n• Copy button shows check icon feedback\n• Scroll works with 5+ links\n• Mobile responsive (320px - 768px)\n• Keyboard navigation (Enter\/Space to copy)\n• Dropdown hover highlights work\n• Auto-generation only on initial open when there is no link available\n• Toast notifications for all operations\n• Error messages are operation-specific\n\n### Browser Compatibility\n\n• Chrome :white_check_mark:\n• Safari :white_check_mark:\n• Firefox :white_check_mark:\n• Mobile browsers :white_check_mark:\n\n## Screenshots\n\n_Please add screenshots showing:_\n\n1. Multiple share links with different expirations\n2. Delete confirmation dialog\n3. Mobile responsive view\n4. Hover state on dropdown items\n\n## Breaking Changes\n\nNone - backwards compatible with existing share links\n\n## Related\n\n• Shortcut Ticket: [SC-3496]\n• Original 90-day extension commit: `57a04c0f`\n\n## Deployment Notes\n\n• No database migrations required\n• Existing share links will continue to work\n• New features available immediately after deployment",
+                    "pretext": "Pull request opened by <https:\/\/github.com\/enszrlu|enszrlu>",
+                    "title": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/391|#391 Eneszorlu\/sc 3496\/extend trade share link expiration to 90>",
+                    "callback_id": "pr-opened-interaction",
+                    "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>",
+                    "fields": [
+                        {
+                            "value": "<@U018T4T64FR>",
+                            "title": "Reviewers",
+                            "short": true
+                        },
+                        {
+                            "value": "released",
+                            "title": "Labels",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "comment",
+                            "text": "Comment",
+                            "type": "button",
+                            "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;MindTrajour&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:170454763,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;mindtrajour-app&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:683163664,&amp;amp;quot;number&amp;amp;quot;:391,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/391&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;Eneszorlu\/sc 3496\/extend trade share link expiration to 90&amp;amp;quot;}",
+                            "style": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "user": "U03SDCEUKH6",
+        "type": "message",
+        "ts": "1769877920.442729",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1769508335,
+                "color": "6f42c1",
+                "fallback": "[MindTrajour\/mindtrajour-app] Pull request merged by enszrlu",
+                "pretext": "Pull request merged by <https:\/\/github.com\/enszrlu|enszrlu>",
+                "title": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/pull\/391|#391 Eneszorlu\/sc 3496\/extend trade share link expiration to 90>",
+                "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>"
+            }
+        ]
+    },
+    {
+        "user": "U03SDCEUKH6",
+        "type": "message",
+        "ts": "1769878166.821149",
+        "bot_id": "B03RPJA4R5Z",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T0197SMV2MQ",
+        "bot_profile": {
+            "id": "B03RPJA4R5Z",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U03SDCEUKH6",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1659210816,
+            "team_id": "T0197SMV2MQ"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1769878165,
+                "color": "24292f",
+                "fallback": "[MindTrajour\/mindtrajour-app] New release <https:\/\/github.com\/MindTrajour\/mindtrajour-app\/releases\/tag\/v1.15.0|Release - v1.15.0> published by github-actions[bot]",
+                "text": "# <https:\/\/github.com\/MindTrajour\/mindtrajour-app\/compare\/v1.14.0...v1.15.0|1.15.0> (2026-01-31)\n\n### Bug Fixes\n\n• *export-button:* Update export button description to have clear direction (<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/8275e674a4601358da676f457afa00fcb658fca5|8275e67>)\n• *trade-sharing:* use buildUrl utility for share links instead of hardcoded localhost (<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/da07b94f43bf92c3fd33c8dcbd0645279d7c50f6|da07b94>)\n\n### Features\n\n• *all-trades:* add expiration date column (<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/3768d229d654ad78629c27799e4e992bd85dfad5|3768d22>)\n• *csv-export:* Add CSV export functionality to all-trades table (<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/8ca6423ad3df66153b5bd99022318b8b8c4848a7|8ca6423>)\n• *trade-sharing:* add share link management with multiple links and custom expirations (<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/986a14467047d50957c8c6504b010d68ea948f21|986a144>)\n• *trade-sharing:* extend share link expiration to 90 days (<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/57a04c0f8742a9cc27df233ed3dcaaa9faf2978c|57a04c0>)",
+                "pretext": "New release published by <https:\/\/github.com\/apps\/github-actions|github-actions[bot]>",
+                "title": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/releases\/tag\/v1.15.0|Release - v1.15.0>",
+                "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03SDCEUKH6",
+        "type": "message",
+        "ts": "1769881146.705319",
+        "bot_id": "B03RPJA4R5Z",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T0197SMV2MQ",
+        "bot_profile": {
+            "id": "B03RPJA4R5Z",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U03SDCEUKH6",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1659210816,
+            "team_id": "T0197SMV2MQ"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[MindTrajour\/mindtrajour-app] 2 new commits pushed to _main_ by enszrlu",
+                "text": "`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/8b34bc341078ba7c853e74825e763fcdcd8fdf22|8b34bc34>` - fix(geturl): trim env variable before checking\n`<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/cb0ae6477298bf8322a61aa16a69a5a67f0ffc34|cb0ae647>` - Merge branch 'main' of <https:\/\/github.com\/MindTrajour\/mindtrajour-app>",
+                "pretext": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/compare\/1945b597aa97...cb0ae6477298|2 new commits> pushed to `<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/tree\/main|main>` by <https:\/\/github.com\/enszrlu|enszrlu>",
+                "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03SDCEUKH6",
+        "type": "message",
+        "ts": "1769881414.455989",
+        "bot_id": "B03RPJA4R5Z",
+        "app_id": "A01BP7R4KNY",
+        "text": "",
+        "team": "T0197SMV2MQ",
+        "bot_profile": {
+            "id": "B03RPJA4R5Z",
+            "app_id": "A01BP7R4KNY",
+            "user_id": "U03SDCEUKH6",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1659210816,
+            "team_id": "T0197SMV2MQ"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1769881413,
+                "color": "24292f",
+                "fallback": "[MindTrajour\/mindtrajour-app] New release <https:\/\/github.com\/MindTrajour\/mindtrajour-app\/releases\/tag\/v1.15.1|Release - v1.15.1> published by github-actions[bot]",
+                "text": "## <https:\/\/github.com\/MindTrajour\/mindtrajour-app\/compare\/v1.15.0...v1.15.1|1.15.1> (2026-01-31)\n\n### Bug Fixes\n\n• *geturl:* trim env variable before checking (<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/commit\/8b34bc341078ba7c853e74825e763fcdcd8fdf22|8b34bc3>)",
+                "pretext": "New release published by <https:\/\/github.com\/apps\/github-actions|github-actions[bot]>",
+                "title": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app\/releases\/tag\/v1.15.1|Release - v1.15.1>",
+                "footer": "<https:\/\/github.com\/MindTrajour\/mindtrajour-app|MindTrajour\/mindtrajour-app>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

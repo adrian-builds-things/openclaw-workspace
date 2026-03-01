@@ -1,0 +1,28 @@
+{
+  "transcript": [
+    {
+      "speaker": {
+        "display_name": "Adrian Rinnus",
+        "matched_calendar_invitee_email": "adrian.rinnus@gmail.com"
+      },
+      "text": "And then, you are not sure, I thought it was related to Bite Club, but is it something related to your health insurance?",
+      "timestamp": "00:00:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "I am.",
+      "timestamp": "00:00:08"
+    },
+    {
+      "speaker": {
+        "display_name": "Enes Zorlu",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "What did you...",
+      "timestamp": "00:00:10"
+    }
+  ]
+}

@@ -47,3 +47,9 @@ Der Hook entscheidet über alles [00:55]. Wenn dein Aufhänger nicht sofort klar
 ## Link zum Video
 
 - https://youtube.com/shorts/6XAfOAhUx1E?si=CWCpJ_5pujpttkLd
+
+
+## Kontext & Navigation
+- [[DASHBOARD]]
+- [[MEMORY]]
+- [[OBSIDIAN_ROUTING]]
