@@ -1,4 +1,4 @@
-# OBSIDIAN.md
+# [[OBSIDIAN]]
 
 ## Canonical Vault (no-copy setup)
 
@@ -26,17 +26,17 @@ Diese Symlinks zeigen auf die echten Quellordner.
 
 ## Single Source of Truth
 
-- Erinnerungen: `MEMORY.md`, `memory/*.md`
-- Agent-Identität/Regeln: `AGENTS.md`, `SOUL.md`, `IDENTITY.md`, `USER.md`, `TOOLS.md`
+- Erinnerungen: `[[MEMORY]]`, `memory/*.md`
+- Agent-Identität/Regeln: `AGENTS.md`, `[[SOUL]]`, `[[IDENTITY]]`, `[[USER]]`, `[[TOOLS]]`
 - Planungs- und Projektwissen: `plans/`, `content/`, `knowledge/`
 - Betriebs-/Toolwissen: `tools/`, `scripts/`
 
 ## Regeln gegen Chaos
 
 1. **Keine zweite Wissenskopie anlegen** (kein zusätzliches Spiegeln in Parallel-Vaults).
-2. Neue Wissens-Markdowns immer in einen der Source-Ordner einordnen (siehe `OBSIDIAN_ROUTING.md`).
+2. Neue Wissens-Markdowns immer in einen der Source-Ordner einordnen (siehe `[[OBSIDIAN_ROUTING]]`).
 3. `knowledge-vault/` gilt als Altbestand/Legacy und ist **nicht** die primäre Quelle.
-4. Strukturänderungen immer zuerst in `OBSIDIAN_ROUTING.md` dokumentieren.
+4. Strukturänderungen immer zuerst in `[[OBSIDIAN_ROUTING]]` dokumentieren.
 
 ## Obsidian auf dem Mac
 

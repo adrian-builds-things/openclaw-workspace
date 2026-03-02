@@ -1,49 +1,42 @@
-# OBSIDIAN_ROUTING.md
+# [[OBSIDIAN_ROUTING]]
 
-Diese Datei ist die verbindliche Ablage-Regel für OpenClaw im Workspace.
+Verbindliche Ablage-Regel für einen **klaren PARA-Workflow**.
 
-## Routing-Matrix
+## Prinzip
+- Vorne nur **[[DASHBOARD]]** als Cockpit.
+- Danach klare Ordner (PARA) + feste Ablageorte.
+- Keine neuen Root-Dateien ohne guten Grund.
 
-- `MEMORY.md` -> Langzeitgedächtnis (Root)
-- `memory/YYYY-MM-DD.md` -> Tageslog / Kurzzeitkontext
-- `00-inbox/` -> ungeordnete Eingänge
-- `00-inbox/from-mac/` -> Eingang für Dateien/Notizen vom MacBook (Sync-Inbox)
-- `00-inbox/from-agent/` -> Eingang für agentseitig erzeugte Captures
-- `00-inbox/processed/` -> nach Einsortierung/Verarbeitung
-- `plans/` -> aktive Projekt- und Umsetzungspläne
-- `content/` -> Content-Entwürfe, SEO, Copy
-- `knowledge/` -> Referenzwissen, Research, extrahierte Quellen
-- `tools/` -> operative Tool-Dokumentation, Integrationen, Runbooks
-- `scripts/` -> Automationsskripte + technische Helfer
-- `archive/` -> abgeschlossene oder alte Stände
-- `.learnings/` (je Projekt) -> Lessons Learned / Fehler / Feature-Wünsche
+## PARA-Struktur
+- `00-cockpit/` → tägliche Steuerung, Prioritäten, Master-Tasks
+- `10-projects/` → aktive Projekte mit konkreten Deliverables
+- `20-areas/` → laufende Verantwortungsbereiche (Ops, Guides, Routinen)
+- `30-resources/` → Wissen, Referenzen, Literatur, Video-Notizen
+- `40-archive/` → abgeschlossene/alte Inhalte
 
-## Entscheidungslogik (für neue Dateien)
+## Technische Source-Ordner (bleiben bestehen)
+Diese Ordner bleiben aus Systemgründen erhalten und werden weiter genutzt:
+- `memory/` + [[MEMORY]]
+- `plans/`
+- `content/`
+- `knowledge/`
+- `tools/`
+- `scripts/`
+- `archive/`
 
-1. Ist es eine tägliche Notiz/Status? -> `memory/`
-2. Ist es dauerhaft wichtig für Kontext über Wochen/Monate? -> `MEMORY.md` (destilliert)
-3. Ist es ein konkreter Umsetzungsplan? -> `plans/`
-4. Ist es Marketing-/SEO-/Sales-Content? -> `content/`
-5. Ist es Recherche oder Nachschlagewissen? -> `knowledge/`
-6. Ist es Tooling, Setup, Betrieb oder SOP? -> `tools/`
-7. Ist es ausführbarer Code/Automation? -> `scripts/`
-8. Ist es erledigt/veraltet? -> `archive/`
+## Routing-Matrix (praktisch)
+1. Tagesnotiz / Status → `memory/YYYY-MM-DD.md`
+2. Langzeitwissen über Adrian / Entscheidungen → [[MEMORY]]
+3. Konkreter Projekt-Task → `10-projects/<projekt>/...`
+4. Wiederkehrende Betriebs-/Prozessnotiz → `20-areas/...`
+5. Recherche, Literatur, externe Quellen → `30-resources/...` (bzw. `knowledge/...`)
+6. Erledigt / veraltet → `40-archive/...` (bzw. `archive/...`)
 
-## Naming-Standard
-
+## Naming
 - Dateinamen: `kebab-case.md`
 - Datumsdateien: `YYYY-MM-DD.md`
-- Keine neuen Root-Dateien ohne klaren Grund
 
-## Obsidian-Navigation (Alias)
-
-Die folgenden Symlinks sind reine Navigationshilfen im Vault:
-
-- `01-memory`
-- `02-projects`
-- `03-content`
-- `04-reference`
-- `05-systems`
-- `99-archive`
-
-Sie enthalten keine eigenen Daten, sondern zeigen auf bestehende Source-Ordner.
+## Einstieg
+- [[DASHBOARD]]
+- [[NAVIGATION]]
+- [[00-cockpit/tasks-master|Tasks Master]]

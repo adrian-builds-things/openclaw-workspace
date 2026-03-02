@@ -57,6 +57,7 @@
   - Adrian (Dev + Produkt/Vision, zentral)
 
 ## Environment notes
+- **Docker-Zugriff auf VPS:** ✅ Fixed (2026-03-02). Adrian-User ist jetzt in Docker-Gruppe. Manne kann direkt `docker ps`, `docker logs`, etc. auf dem VPS ausführen ohne SSH-Bridge.
 - Dashboard-Tunnel wird auf Adrians **Mac** gestartet (nicht auf dem VPS):
   - `ssh -N -L 18789:127.0.0.1:18789 adrian@100.78.193.125`
 - Nutzung danach auf dem Mac über:

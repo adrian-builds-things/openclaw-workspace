@@ -1,0 +1,10 @@
+{
+  "routing": {
+    "enabled": true,
+    "fallback_channels": {
+      "webchat": "slack:assistant"
+    },
+    "rule": "When inbound source is 'openclaw-control-ui' or 'webchat', auto-route non-urgent replies to slack #assistant"
+  },
+  "note": "This ensures replies always reach Slack, regardless of input source. Updated 2026-02-19 21:48 UTC"
+}

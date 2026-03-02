@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "skills": {
+    "freeride": {
+      "version": "0.1.0",
+      "installedAt": 1771253741822
+    },
+    "youtube-transcript": {
+      "version": "1.0.1",
+      "installedAt": 1772004390746
+    },
+    "youtube-summarizer": {
+      "version": "1.0.0",
+      "installedAt": 1772004501179
+    },
+    "landing-page": {
+      "version": "1.0.0",
+      "installedAt": 1772012414264
+    }
+  }
+}
