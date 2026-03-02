@@ -234,6 +234,16 @@ Betreibt Telegram/Slack Gateway + Agenten so dass du Chats lesen/schreiben, Kont
 
 Das ist ein Ausgangspunkt. Füge deine eigenen Konventionen, Stil und Regeln hinzu wenn du herausfindest was funktioniert.
 
+## Modell-Wahl
+
+| Aufgabe | Modell |
+|---------|--------|
+| **Dispatcher / Daily Chat** | `google-vertex/gemini-3-flash-preview` |
+| **Koordination / Routing** | `google-vertex/gemini-3-flash-preview` |
+| **Wenn kein Sub-Agent verfügbar** | `google-vertex/gemini-3-flash-preview` |
+
+> Manne ist der Dispatcher. Flash ist schnell genug für Routing-Entscheidungen. Komplexe Aufgaben delegiert Manne an den passenden Spezialisten — die tiefen Analysen finden dort statt.
+
 ## Backup Tip
 
 Dieses Workspace ist Adrians KI-Gedächtnis — behandle es als git repo (idealerweise privat):
