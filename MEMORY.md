@@ -8,9 +8,9 @@
 - Location: Tuttlingen, Baden-Württemberg, Germany
 - Role: Startup Founder + Entwickler
 - Interests: KI-News/Trends, Trading
-- Family schedule: Tochter bei Adrian von Mi Abend bis Sa Nachmittag/Abend; Do 15:00 Abholung Schule (Rottweil) + 16:15–17:00 Ergotherapie; Fr 08:00–12:00 meist in Rottweil.
+- Family schedule: Tochter bei Adrian von Mi Abend bis Sa Nachmittag/Abend; Do 15:00 Abholung Schule (Rottweil) + 16:15-17:00 Ergotherapie; Fr 08:00-12:00 meist in Rottweil.
 - Goals:
-  - Short-term: so schnell wie möglich Umsatz (nach 3 Jahren „rumeiern“)
+  - Short-term: so schnell wie möglich Umsatz (nach 3 Jahren "rumeiern")
   - Long-term: im Ausland leben, reisen, von SaaS-Tools leben
 
 ## Assistant identity
@@ -26,18 +26,18 @@
   - Trading-Journal: MindTrajour (https://www.mindtrajour.com). SEO optimieren, Low-Touch-Funnel aufbauen.
   - Spaß-/Nebenprojekt: KI-Stromlaufplan-Tool (ähnlich stromlaufplan.de mit KI-Interface).
 - Gewünschter Standard-Output: kurz, wichtiges drin; tägliche Zusammenfassung + Entscheidungsvorlagen.
-- Arbeitszeiten: meist tagsüber, oft bis 22–23 Uhr.
+- Arbeitszeiten: meist tagsüber, oft bis 22-23 Uhr.
 - Wunsch: tägliche Zusammenfassung morgens um 9 Uhr (kurzer Überflug: Termine, Top-Aufgaben, Nacht-Output, relevante News).
-- Daily-Format-Präferenz (neu): Wetter ganz nach oben; News nur zu Adrians Interessen (v. a. KI, shadcn, Next.js/Dev-Stack); montags zusätzlich „wer kommt diese Woche im Modern Wisdom Podcast"; klarer Abschnitt „was Manne nachts/seit gestern erledigt hat".
+- Daily-Format-Präferenz (neu): Wetter ganz nach oben; News nur zu Adrians Interessen (v. a. KI, shadcn, Next.js/Dev-Stack); montags zusätzlich "wer kommt diese Woche im Modern Wisdom Podcast"; klarer Abschnitt "was Manne nachts/seit gestern erledigt hat".
 - Externe Kommunikation: **nur nach expliziter Freigabe**.
 - Präferenz für späteres Setup: Wenn Anthropic verfügbar ist, soll Manne Aufgaben **mit Opus** durchdenken/planen und dann mit **OpenAI Codex (5.3)** umsetzen.
 - **Modell-Regel (NEU - 2026-02-23):** Auf keinen Fall Opus 4.6 verwenden, außer nach ausdrücklicher Ansage. Immer Modelle von OpenAI oder OpenRouter Gemini nutzen.
 - **Kostenregel (obsolet):** (Die alte Regel bzgl. Opus für Planung ist hiermit durch die neue Modell-Regel ersetzt).
-- UI/Design-Standard (neu): Adrian erwartet UIs nach etablierten Best Practices (Design Systems, klare Tokens, konsistente Patterns, geringe kognitive Last). Keine improvisierten „quick CSS“-Layouts mehr.
+- UI/Design-Standard (neu): Adrian erwartet UIs nach etablierten Best Practices (Design Systems, klare Tokens, konsistente Patterns, geringe kognitive Last). Keine improvisierten "quick CSS"-Layouts mehr.
 - **Fathom-Archiv-Regel (NEU - 2026-02-26):** Alle Meeting-Transkripte und Summaries werden ausschließlich in der bestehenden Struktur unter `~/.openclaw/workspace/data/fathom/raw/` gespeichert. Das Format für Dateinamen ist `YYYY-MM-DD__<RECORDING_ID>__<TITLE>__transcript/summary.json`. Keine temporären Ordner für Meetings anlegen.
 - YouTube-Präferenz (NEU 2026-02-25): Bei jedem YouTube-Link soll automatisch der `youtube-summarizer` Skill genutzt werden (Einsichten statt nur Rohdaten).
 - Workflow-Regel bei UI-Bau: vor Implementierung Referenzen/Best-Practices prüfen (z. B. Context7 + etablierte Patterns), dann erst umsetzen.
-- Wissens-/Doku-Regel (neu, verbindlich): Bei angewendetem Wissen immer Obsidian-like Quellenreferenzen mitführen (klare Source-Referenz am Inhalt; keine source-losen Aussagen) — **aber nur in Markdown-Dateien (MD), nicht in Chat-Antworten**.
+- Wissens-/Doku-Regel (neu, verbindlich): Bei angewendetem Wissen immer Obsidian-like Quellenreferenzen mitführen (klare Source-Referenz am Inhalt; keine source-losen Aussagen) - **aber nur in Markdown-Dateien (MD), nicht in Chat-Antworten**.
 - Adrian hat explizit erlaubt, externe Skills lokal im Workspace zu installieren, damit Manne sie selbstständig nutzen kann.
 - Skill-Nutzungsregel (neu, verbindlich): Bei Aufgaben immer den passendsten verfügbaren Skill auswählen und anwenden (insb. frontend-design, next-best-practices, vercel-react-best-practices, web-design-guidelines, tailwind-design-system, shadcn-ui, mcp-builder/mcp-integration, skill-creator/agent-development je nach Aufgabe).
 - Umsetzungsregel für komplexe Build-Tasks: `subagent-driven-development` als bevorzugtes Orchestrierungs-Pattern nutzen.
@@ -49,12 +49,30 @@
 - MindTrajour:
   - Enes (Dev)
   - Adrian (Dev / zentral)
-  - Larissa (Sales / Ops „Tante für alles“)
+  - Larissa (Sales / Ops „Tante für alles")
   - Eve (Design + SEO)
 - Bite Club:
-  - Enes (Dev „Monster“, Nottingham/UK)
+  - Enes (Dev „Monster", Nottingham/UK)
   - Luís (Frontend, Porto/PT)
   - Adrian (Dev + Produkt/Vision, zentral)
+
+## Agent-Workspaces & Infrastructure (2026-03-02)
+**Lokation:** `~/.agents/`
+- **workspace-max** (CTO, Tech/Code/Architektur)
+- **workspace-neo** (Analyst, MRR/KPIs/Zahlen)
+- **workspace-sherlock** (Recherche, Markt, Wettbewerber)
+- **workspace-luna** (CMO, Marketing/SEO/Content)
+- **workspace-rico** (CRO, Sales/Calls/Pitches/Deals)
+- **workspace-hunter** (Outreach, Kaltakquise/Leads)
+- **workspace-zen** (COO, Ops/Prozesse/Struktur)
+- **workspace-pixel** (CPO, Features/UX/Roadmap)
+- **workspace-ghost** (DevOps, Deploy/Server/Alerts)
+- **workspace-trading-analyst** (MindTrajour spezifisch)
+- **workspace-facility-ops-analyst** (Bite Club spezifisch)
+
+**Main-Workspace:** `~/.openclaw/workspace/` (Manne — du selbst)
+
+**Lernpunkt:** Agenten sind persistent in `~/.agents/` und sollten bei Updates via Archiv aktualisiert (nicht neu kopiert) werden. Immer `ls ~/.agents/` checken BEVOR Änderungen vorgenommen werden.
 
 ## Environment notes
 - **Docker-Zugriff auf VPS:** ✅ Fixed (2026-03-02). Adrian-User ist jetzt in Docker-Gruppe. Manne kann direkt `docker ps`, `docker logs`, etc. auf dem VPS ausführen ohne SSH-Bridge.

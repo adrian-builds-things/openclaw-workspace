@@ -1,0 +1,1 @@
+- Landing Page Generator Idee: Nutze den Cinematic Prompt (~/.openclaw/workspace/prompts/cinematic_landing_page.md) als Engine. Fokus auf Bun & Gemini 3.1 Pro.

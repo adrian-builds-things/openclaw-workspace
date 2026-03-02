@@ -1,0 +1,1 @@
+Max, nimm ab jetzt für alle Landing-Page-Projekte diesen Prompt: ~/.openclaw/workspace/prompts/cinematic_landing_page.md. Er ist auf Adrians Geschmack optimiert (cinematic, hochwertig, Bun-basiert) und nutzt Gemini 3.1 Pro.
