@@ -47,6 +47,11 @@ temp/
 outputs/
 archive/
 scripts/
+.venvs/
+.venv-whisper/
+.env-whisper/
+venv/
+.env
 
 # Media inbound
 .openclaw/media/inbound/
